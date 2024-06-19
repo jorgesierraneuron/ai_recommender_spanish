@@ -1,0 +1,1580 @@
+INTELIGENCIA ARTIFICIAL
+COMPENDIO DE CASOS DE USO
+Ministerio de Vivienda y Asuntos Urbanos
+Gobierno de la IndiaTABLA DE CONTENIDO DE MOVILIDAD
+
+Introducción a la IA
+
+1. Agartala: Facilitando la gestión del tráfico a través de la IA y el ML
+2. Ahmedabad: La IA ayuda en una mejor gestión del tráfico
+3. Bengaluru: Adoptando la IA para el Reconocimiento Automático de Placas de Matrícula
+4. Jabalpur: Adoptando la IA para gestionar el tráfico y hacer cumplir las normas de tráfico
+5. Nagpur: Gestionando el tráfico y haciendo cumplir las normas de tráfico utilizando la IA
+6. Pimpri Chinchwad: Haciendo cumplir las normas de tráfico adoptando la IA
+7. Prayagraj: Asegurando una mejor gestión del tráfico, gestión de residuos y seguridad utilizando la IA
+8. Ranchi: Adoptando la IA para gestionar el tráfico y hacer cumplir las normas de tráfico
+9. Satna: Gestionando el tráfico y haciendo cumplir las normas de tráfico adoptando la IA
+10. Surat: Adoptando la IA para BRTS y Servicio de Autobús Urbano
+11. Tumakuru: La IA domina el Centro de Mando y Control Integrado de la Ciudad
+12. Varanasi: Utilizando la IA para una gestión del tráfico efectiva
+13. Visakhapatnam: Gestionando efectivamente el tráfico utilizando la IA
+14. Visakhapatnam: Facilitando el movimiento del tráfico utilizando la IA
+15. Corporación Municipal de Kalyan Dombivali: Adoptando la IA para mejorar los servicios de aplicación de la ley
+
+SEGURIDAD Y SALUD
+
+16. Nueva Ciudad de Kolkata: Mitigando el impacto de COVID-19 adoptando la IA
+17. Pimpri Chinchwad: Asegurando la seguridad del tráfico utilizando la IA
+18. Pimpri Chinchwad: Monitoreando la seguridad de la ciudad utilizando la IA
+19. Varanasi: Asegurando la seguridad de la ciudad adoptando la IA
+20. Varanasi: La IA en el monitoreo de la seguridad pública durante la pandemia
+21. Visakhapatnam: Haciendo que la ciudad sea un lugar más seguro para vivir utilizando la IA
+
+GESTIÓN DE RESIDUOS
+
+22. Varanasi: Esfuerzos para hacer que la ciudad sea más limpia utilizando la IA
+23. Visakhapatnam: Creando una metrópoli saludable utilizando la IA
+
+EDUCACIÓN
+
+24. Belagavi: Adoptando la IA para habilitar la educación digital
+25. Pimpri Chinchwad: Adoptando la IA para medir la efectividad de la educación en aulas electrónicas municipalesGOBIERNO ELECTRÓNICO
+
+26. Bengaluru: Adoptar IA para mejorar los servicios de aplicación de la ley
+27. Bengaluru: Adoptar IA para el análisis de sentimiento de los ciudadanos
+28. Jaipur: El IA juega un papel fundamental en el sistema de gobernanza efectivo
+29. Pune: El IA impulsa la eficiencia en la evaluación del impuesto sobre la propiedad
+ENERGÍA
+30. Bhopal: Instala postes inteligentes con IA en toda la ciudadGLOSARIO
+
+IA    Inteligencia Artificial
+ANPR  Reconocimiento Automático de Matrículas
+RA    Realidad Aumentada
+CCTV  Televisión por Circuito Cerrado
+GPS   Sistema de Posicionamiento Global
+ICCC  Centro de Comando y Control Integrado
+TIC   Tecnología de la Información y la Comunicación
+IoT   Internet de las Cosas
+ITMS  Sistema de Gestión de Transporte Inteligente
+ML   Aprendizaje Automático
+PAS   Pantalla de Dirección Pública
+RLVD  Detección de Violación de Luz Roja
+RV    Realidad VirtualINTRODUCCIÓN A LA IA
+
+El creciente uso de la Inteligencia Artificial (IA) y el aprendizaje automático (ML) en diversos sectores ha generado interés y numerosas oportunidades para los gobiernos de todo el mundo. Al implementar la IA en el sector público, los métodos tradicionales de trabajo pueden cambiar significativamente para lograr mayor eficiencia y efectividad en la prestación de servicios. La IA tiene el potencial de analizar los vastos datos recopilados y generar insights accionables. Esto puede ayudar a mejorar el desempeño de las ciudades, optimizar costos y recursos operativos, y habilitar la participación ciudadana proactiva, lo que mejora la calidad de vida de los ciudadanos.
+
+El Ministerio de Vivienda y Asuntos Urbanos ha liderado la creación de bloques de construcción significativos para los datos, junto con estructuras de gobernanza robustas y herramientas para garantizar su éxito. Por lo tanto, está bien posicionado para aprovechar el trabajo de estas intervenciones a través de asociaciones ecosistémicas prósperas para explorar el uso de soluciones de tecnología emergente para abordar las necesidades en constante expansión de la India urbana.
+
+Reconociendo el valor de la IA, la Misión de Ciudades Inteligentes del Ministerio de Vivienda y Asuntos Urbanos está desarrollando un Libro de Jugadas de IA para Ciudades para permitir que las ciudades utilicen el poder de la IA para la gobernanza urbana, lo que las hace más eficientes, habitables y sostenibles. Se enfoca en cómo las ciudades pueden operativizar esta tecnología para mejorar el funcionamiento general de la ciudad y la prestación de servicios a los ciudadanos.
+
+Es alentador ver que algunas de las ciudades inteligentes ya han comenzado a implementar soluciones de IA en sus ciudades con buenos resultados. Por lo tanto, además del Libro de Jugadas de IA, este Compendio de Casos de Uso de IA ayudará a las ciudades a aprender unas de otras y a seguir las mejores prácticas implementadas hasta ahora. Este documento destaca el papel de la IA como solución para abordar los desafíos persistentes en las ciudades indias. Los casos de uso se distribuyen en various dominios urbanos como Movilidad, Seguridad y Seguridad, Gestión de Residuos, Educación, E-Gobierno y Energía.MOVILIDAD1.2 Papel de la IA en la Solución1.1 Identificación del Problema
+La gestión del tráfico surgió como un tema prioritario en la ciudad de Agartala, considerando las calles estrechas y las implicaciones climáticas. Los funcionarios de la ciudad decidieron poner fin a este problema desarrollando una solución robusta para una mejor gestión del tráfico, mejora de la eficiencia del tráfico y provisión de servicios ciudadanos sin interrupciones.
+La ciudad de Agartala implementó un Sistema de Control de Tráfico Adaptativo (ATCS) considerando el rápido y continuo aumento del número de vehículos correspondiente a la infraestructura de tráfico disponible. El ATCS es una solución integrada del Sistema de Gestión de Tráfico Inteligente (ITMS). Los funcionarios de la ciudad contrataron a proveedores de soluciones tecnológicas para la implementación de la solución utilizando IA y ML.
+La solución se compone del módulo de Control de Tráfico de "Onnyx", que se conecta a la cámara de densidad de vehículos de "Flir", que captura la densidad de vehículos en los cruces y envía un pulso eléctrico a Onnyx. Luego, el Control de Tráfico toma una decisión sobre si mantener el estado de los LED de tráfico en "Verde" o cambiarlo a "Rojo" para un carril de tráfico en particular. Se realizó un análisis predictivo a través de la minería de datos históricos acumulados durante meses, lo que ayudó en el Aprendizaje Automático (ML) para facilitar el movimiento del tráfico.
+AGARTALA
+Facilitando su gestión del tráfico a través de
+IA y ML 1
+02Destacados clave de la implementación
+
+El algoritmo de densidad de tráfico AI se finalizó y se desarrolló a través de un estudio de comportamiento de la densidad de vehículos en 22 intersecciones en diferentes momentos del día.
+El algoritmo de IA se optimizó a través de un proceso de aprendizaje automático predictivo (Machine Learning) utilizando datos históricos de densidad de tráfico, lo que resultó en un movimiento de tráfico ineficiente en estas intersecciones.
+La implementación del ITMS fue una de las intervenciones inteligentes que formaban parte del alcance de la ciudad inteligente de Agartala, desplegada a través de la RFP de MSI junto con otras iniciativas.
+Ecosistema de apoyo: MSI - Honeywell Automation India Ltd, Consultor - Price water house Coopers Pvt Ltd, Departamento de Tráfico, Gobierno de Tripura
+Proveedores de tecnología: Onnyx, Flir y CDAC1.3 Proceso de implementación
+Escala de despliegue
+Esta intervención del ITMS se ha realizado en 22 intersecciones en toda la ciudad de Agartala.
+El Departamento de Tráfico tiene planes para ampliar aún más el alcance de la implementación, incluyendo el número de intersecciones, área, unidades, etc.Tiempo de espera promedio en segundos en la intersección de Durga Chowmuhani antes de la intervención del ITMS
+
+56.959.862.3
+56.359.862.3
+60.562.3
+56.359.362.3
+59.3
+50.0 50.072.0
+59.860.5
+53.856.359.862.3 62.3
+60.5 60.562.3 62.3
+56.3 56.359.859.8 59.859.8
+
+• Uno de los desafíos enfrentados durante la implementación fue la estrechez de las carreteras con un ancho de calzada mínimo.
+• En segundo lugar, la decisión sobre la posición de los bucles rectangulares virtuales, que fue monitoreada por la cámara "Flir".
+• El factor humano fue el mayor desafío durante la implementación de la solución adaptativa y predictiva del ITMS, ya que los propietarios de vehículos no estaban acostumbrados a detenerse en las líneas de parada designadas en los cruces de tráfico de la ciudad de Agartala. Esta acción humana resultó en una densidad de vehículos incorrecta capturada por la cámara "Flir" con una entrada de pulso incorrecta correspondiente que se alimentó al controlador "Onnyx", lo que inicialmente resultó en tiempos de espera largos para los vehículos en estos cruces. Esto se mitigó a través de acciones estrictas tomadas por el Departamento de Tráfico; Gobierno de Tripura, donde se penalizaron a los outliers de la línea de parada y se impusieron multas.
+
+1.4 Desafíos enfrentados durante la implementación
+
+La ciudad experimentó un cambio paradigmático significativo en cuanto a beneficios tangibles e intangibles logrados después de la implementación de esta solución del ITMS.
+
+Se realizó un análisis para una intersección, Durga Chowmuhani, para determinar el tiempo de espera promedio tanto antes como después de la intervención del ITMS. Se observó que en el mes de septiembre de 2020, antes de la implementación de la solución del ITMS, el tiempo de espera promedio durante las horas pico fue de al menos 50 segundos y un máximo de 72 segundos, como se ve en el Gráfico I.
+
+1.5 Impacto en la ciudad
+
+Tiempo de espera promedio en segundos en la intersección de Durga Chowmuhani después de la intervención del ITMS
+
+8.08.09.0 9.09.89.5 9.5 9.59.8
+8.311.010.5 10.510.311.8
+11.0 11.013.3
+12.3 12.312.3 12.312.8 12.8 12.815.315.3
+11.5 11.512.514.8
+
+Después de la implementación de esta solución en la intersección en octubre de 2020, se observó una mejora significativa en el tiempo de espera promedio, con un mínimo de 8 segundos y un máximo de 15.3 segundos de tiempo de espera, como se ve en el Gráfico II.{...}
+JS
+XML
+{.CODE};
+C++
+PHP
+Líderes Municipales
+
+Gran aprendizaje para el principal interesado – el Departamento de Tránsito, Gobierno de Tripura en cuanto a una forma eficiente de gestión del tráfico, reduciendo el esfuerzo humano/intervención al mínimo.
+
+Proveedores de Tecnología
+Ambas Onnyx y Flir se beneficiaron de esta intervención en cuanto a aprendizaje experiencial a partir de los desafíos de implementación heterogéneos en el terreno en Agartala, lo que les ayudará en ciudades con paisajes y topografías similares.
+
+• Uno de los desafíos enfrentados durante la implementación fue la estrechez de las carreteras con un carril mínimo.
+• En segundo lugar, la decisión sobre la posición de los bucles rectangulares virtuales, que fue monitoreada por la cámara de "Flir".
+• El factor humano fue el desafío mayor durante la implementación de la solución de ITMS adaptativa y predictiva, ya que los propietarios de vehículos no estaban acostumbrados a detenerse en las líneas de parada designadas en los cruces de tráfico de la ciudad de Agartala. Esta acción humana resultó en una captura incorrecta de la densidad de vehículos por la cámara de "Flir", lo que a su vez generó una entrada de pulso incorrecta en el controlador "Onnyx", lo que inicialmente resultó en tiempos de espera prolongados para los vehículos en estos cruces. Esto se mitigó mediante acciones estrictas tomadas por el Departamento de Tránsito; Gobierno de Tripura, en las que se penalizaron a los outliers de la línea de parada y se impusieron multas.
+
+1.6 Aprendizajes clave de la implementación2.2 Papel de la IA en la Solución2.1 Identificación del Problema
+
+Ahmedabad, siendo una ciudad metropolitana con carreteras congestionadas, enfrenta un gran desafío en la gestión del tráfico, con un aumento en la cantidad de infractores de señales de tráfico. La ciudad decidió poner fin al problema asegurando el cumplimiento estricto de las reglas de tráfico, evitando así problemas de congestión del tráfico, accidentes, seguridad, tiempo de viaje de los commuters y contaminación creciente.
+
+Las cámaras de vigilancia han sido entrenadas para capturar la placa de matrícula de cada vehículo y el color de la señal de tráfico utilizando inteligencia artificial. Esto ayuda a reconocer a los infractores de señales cuando la luz del tráfico está en rojo.
+
+Los eventos de infracción de saltarse la luz roja se capturan automáticamente mediante el sistema RLVD y se genera una multa contra el infractor.AHMEDABAD
+La IA ayuda en una Mejora de la Gestión del Tráfico 2
+Puntos clave de la implementación
+
+• 92 intersecciones se están convirtiendo en zonas de tolerancia cero para la infracción de la luz roja.
+• Detección de infracciones de luz roja y reconocimiento automático de placas de matrícula.
+• Integración con el portal VAHAN de RTO.
+• Datos recopilados de 6000 cámaras de vigilancia, incluyendo ANPR y RLVD.
+El proyecto se llevó a cabo bajo la Misión Ciudad Inteligente con despliegue completo a través de RFP.
+Ecosistema de apoyo: Departamento de Policía de Tráfico de la Ciudad como departamento de usuario clave, SCADL, PMC
+Proveedores de tecnología: M/s. Trimax Smart Infraprojects Pvt. Ltd.2.3 Proceso de Implementación
+Escala de despliegue
+
+Actualmente, el sistema se ha instalado en 92 intersecciones con datos de 6000 cámaras de vigilancia.
+06•Concienciar a los ciudadanos sobre el sistema y su aceptación de los recibos generados a través del sistema.
+
+2.4 Desafíos enfrentados durante la implementación
+
+• Más de 50 lakh de recibos emitidos hasta la fecha y aproximadamente 38Cr recuperados en multas en unos 2 años.
+• Mejora en la planificación del tráfico, sistema de gestión del tráfico mejorado con disciplina hacia las normas de tráfico.
+• Con 6000 cámaras, la ciudad se ha vuelto más segura, y la vigilancia ha contribuido a resolver muchos casos criminales y a monitorear eventos importantes a gran escala como Rathyatra, Tajiya, Ganesh Visarjan.
+
+2.5 Impacto creado en la ciudad
+
+{...}
+JS
+XML
+{.CODE};
+C++
+PHP
+Líderes de la ciudad
+El monitoreo continuo y eficiente ha mejorado el comportamiento del tráfico en la ciudad, mientras que la penalización de los infractores a través de la multa electrónica ha desempeñado un papel importante.
+
+Proveedores de tecnología
+Identificación y priorización de áreas de vigilancia.
+
+2.6 Lecciones clave aprendidas durante la implementación
+073.2 Rol de la IA en la Solución3.1 Identificación del Problema
+Las autopistas de la ciudad de Bengaluru son propensas a accidentes debido a la velocidad excesiva y la conducción negligente. Los funcionarios de la ciudad decidieron poner fin al problema identificando una solución que garantice una mejor gestión del tráfico, reduzca los accidentes y minimice los impactos negativos que degradan la eficiencia del tráfico. El sistema ANPR se está integrando con ICCC para recibir alarmas/alertas para los vehículos señalados (con número etiquetado como "Sospechoso", "Robado", "Exceso de velocidad") en todo el mapa de la ciudad con alerta relevante.
+Al utilizar la tecnología de IA, los siguientes parámetros clave se mostrarán en un tablero que será monitoreado por los stakeholders y se tomarán medidas necesarias, si es necesario.
+• Número de vehículos señalados (con número etiquetado como "Sospechoso", "Robado") alarma generada.
+• Número de vehículos señalados por Zona y Distrito. BENGALURU
+Adoptando IA para
+Reconocimiento Automático de Matrículas 3
+Puntos clave de la implementación
+• El sistema ICCC debe integrarse para recibir alarmas/alertas del proveedor para los vehículos señalados (con número etiquetado como "Sospechoso", "Robado") en todo el mapa de la ciudad con alerta relevante.
+• Se ha planificado crear un tablero.
+El proyecto se implementó a través del proceso de RFP y fue para la implementación completa sin POC.
+Ecosistema de soporte: Pentaho Enterprise Edition, Bengaluru Smart City Ltd. (BenSCL).
+Consultor: iDeck, Departamento de BTP.
+Proveedores de tecnología: Fluent Grid3.3 Proceso de Implementación
+Escala de Despliegue
+Actualmente, el sistema se ha instalado como un tablero de análisis en ICCC de Bengaluru.•Recopilar datos de otros departamentos de partes interesadas
+•Administrar el espacio del servidor para almacenar los eventos capturados por el sistema
+
+3.4 Desafíos enfrentados durante la implementación
+
+•Todas las alarmas generadas por el sistema del proveedor se reciben con éxito en ICCC y se muestran como eventos para acción inmediata.
+•El sistema también es útil para capturar eventos como vehículos estacionados incorrectamente y conducción en dirección equivocada, lo que ayuda a controlar los atascos de tráfico en la ciudad.
+
+3.5 Impacto creado en la Ciudad
+
+{...}
+JS
+XML
+{.CODE};
+C++
+PHP
+Líderes de la Ciudad
+Identificación en tiempo real de vehículos señalados o infracciones de tráfico por área ayuda a una mejor gestión del tráfico.
+
+Proveedores de Tecnología
+Instalación de sistemas individuales y establecimiento de conectividad. Documento de especificación de interfaz acordado entre los sistemas.
+
+3.6 Lecciones clave aprendidas durante la implementación4.2 Papel de la IA en la Solución4.1 Identificación del Problema
+La ciudad de Jabalpur, debido a la rápida expansión de las áreas urbanas, ha enfrentado problemas de alta densidad de tráfico en las carreteras, lo que conduce a atascos, violaciones de las normas de tráfico, conducción errática, etc. Los funcionarios de la ciudad tomaron medidas para cambiar este patrón entre los commuters, accediendo a información en tiempo real de los vehículos para la gestión del tráfico a través de una solución de IA en una interfaz de usuario única.
+
+La IA y el aprendizaje automático, incluyendo la tecnología de visión por computadora, agregan una capa inteligente a las cámaras IP estándar. Esto permite la detección de múltiples tipos de violaciones y ayuda a generar alertas para las mismas. A través de una cámara de detección automática de placas de matrícula, cámaras de detección de violaciones de velocidad y cámaras de detección de violaciones de semáforos en rojo, se capturan las placas de matrícula de los vehículos, junto con su velocidad (cámara SVD) mientras pasan por la señal/señal de tráfico. Esto ayuda a los departamentos de tráfico a identificar y rastrear las violaciones cometidas por los conductores/vehículos para la emisión necesaria de multas.
+
+Por ejemplo, utilizando el sistema de control de tráfico inteligente en la intersección, el tiempo de señalización del tráfico se ajusta automáticamente según la densidad de tráfico/vehículos en la carretera/carril capturada a través de una cámara CP plus basada en el marco de interés (ROI). Se generan varios marcos ROI para habilitar el software para estimar el tiempo de señalización en la intersección, lo que permite más tiempo para que las vías congestionadas y carreteras se despejen.
+
+Adoptar IA para Administrar el Tráfico y
+Hacer Cumplir las Reglas de Tráfico 4
+Puntos clave de la implementación
+
+a. El tiempo de señalización del tráfico se ajusta automáticamente a través del sistema de control de tráfico inteligente en la intersección (un conjunto de hardware y software).
+
+b. Mejora de la gestión del tráfico/congestión en la ciudad durante las horas pico y reducción del tiempo de viaje de los commuters.
+
+c. La policía de tráfico de la ciudad identifica y rastrea las violaciones para la emisión necesaria de multas a través de una cámara de detección automática de placas de matrícula, cámaras de detección de violaciones de velocidad y cámaras de detección de violaciones de semáforos en rojo.
+
+d. Se hace cumplir las reglas de tráfico de forma remota desde el centro de comando mientras se recibe la alimentación de cámara en tiempo real de la intersección.El proyecto se implementó a través del proceso de RFP y fue para una implementación completa sin POC alguno.
+Ecosistema de apoyo: JP Softek, Policía de Tráfico, M/s PwC (PMC), Jabalpur Ciudad Inteligente Ltd, Nagar Nigam y Departamento de Correos.
+
+Proveedores de tecnología: M/s Technosys Pvt. Ltd.
+
+4.3 Proceso de implementación
+Escala de implementación
+• Se instalaron 132 cámaras de placas de matrícula automáticas en 21 intersecciones.
+• 49 detectores de violaciones de semáforos en 12 intersecciones.
+• 36 cámaras de detección de violaciones de velocidad en 05 intersecciones.
+• Las placas de matrícula no estandarizadas utilizadas por algunos propietarios de vehículos obstaculizaron la identificación clara y precisa.
+• Se realizaron campañas especiales para fomentar la adopción de placas de matrícula estandarizadas.
+
+4.4 Desafíos enfrentados durante la implementación
+• Aplicación efectiva de las normas de tráfico y emisión de multas por cada infracción según las normas de tráfico.
+• Inculcar un mejor sentido de tráfico entre los conductores, lo que conlleva seguridad y seguridad en la carretera.
+• A través de la gestión del tráfico congestionado, el tiempo de viaje de los conductores en la ciudad se redujo en gran medida. Se aseguró la penalización para los infractores a través de la multa electrónica. Se han recuperado aproximadamente 3,0 crore como monto de multa hasta la fecha durante 2018-2021. El período también cubre los tiempos de pandemia de Covid, donde la actividad de multa fue mínima.
+
+4.5 Impacto en la ciudad
+11{...}
+JS
+XML
+{.CODE};
+C++
+PHP
+Líderes de la Ciudad
+La intervención de tecnologías basadas en sensores habilitadas por IA para lograr la automatización en la gestión del tráfico urbano es un requisito esencial.
+Impulsar un mayor impulso en la adopción de tecnologías basadas en TIC para la mejora de los servicios urbanos y asegurar una mayor satisfacción ciudadana hacia las autoridades cívicas.Proveedores de Tecnología
+Provisión de una mayor y confiable ancho de banda de internet para el funcionamiento eficiente de los dispositivos de campo.
+Asegurar una coordinación adecuada entre los diversos stakeholders, es decir, la policía y los cuerpos cívicos, incluyendo a los ciudadanos.Aprendizajes clave 4.6 desde la implementación
+125.2 Papel de la IA en la Solución5.1 Identificación del Problema
+
+En las ciudades metropolitanas, gestionar el tráfico es un desafío gigantesco y los infractores de señales de tráfico lo llevan al siguiente nivel. Para controlar la infracción de tráfico en la ciudad, la ciudad inteligente de Nagpur implementó el sistema de "Detección de Violaciones de Luz Roja" (RLVD) para detectar violaciones de luz roja cometidas por cualquier vehículo que pasa por la región de interés.
+
+Utilizando análisis de IA y ML en cámaras de vigilancia, los eventos de infracción de luz roja se capturan automáticamente mediante el sistema RLVD y se genera una multa contra el infractor.
+
+El sistema se construyó utilizando tecnología de visión por computadora. Se utilizaron diferentes imágenes de señales de tráfico como rojo, naranja/ámbar y verde para entrenar al algoritmo de procesamiento de imágenes para entender el estado de la señal de tráfico a través de la alimentación de la cámara en tiempo real.
+
+La vista del área se marca en frente de la línea de parada. Cuando la cámara detecta la señal de tráfico roja, el algoritmo captura imágenes del vehículo y la placa de matrícula que salta la línea de parada.
+
+NAGPUR
+Gestión del Tráfico y 
+Aplicación de las Reglas de Tráfico utilizando IA 5
+
+Puntos clave de la implementación
+
+• Mejora en la gestión del tráfico/congestión en la ciudad durante las horas pico y reducción en el tiempo de viaje de los commuters.
+• La policía de tráfico de la ciudad identifica y rastrea las violaciones para la emisión necesaria de multas a través de una cámara de detección automática de placas de matrícula, cámaras de detección de violaciones de velocidad y cámaras de detección de violaciones de luz roja.
+• Aplicación de las reglas de tráfico de forma remota desde el centro de comando mientras se recibe la alimentación de la cámara en tiempo real de la intersección.
+
+El sistema RLVD es uno de los componentes de la ciudad inteligente de Nagpur bajo los proyectos ICCC. La implementación del proyecto se realizó a través del integrador de sistemas (S.I.) del proyecto de ciudad segura y inteligente de Nagpur y es utilizado por el Departamento de Policía de Tráfico de Nagpur.
+
+El sistema se implementó utilizando una biblioteca de visión por computadora abierta y el algoritmo YoloV3. Se utilizaron imágenes anotadas para crear un conjunto de datos y este conjunto de datos se utilizó para entrenar al algoritmo para detectar señales de tráfico rojas y vehículos en el área de visión cuando la señal está roja.
+
+5.3 Proceso de Implementación
+13Los sistemas RLVD funcionan basados en cuatro cámaras que trabajan como una unidad. De las cuatro cámaras, una cámara se utiliza para capturar el estado de la señal (es decir, Rojo/Verde/Naranja) y captura el evento como prueba de violación. Las otras tres cámaras se utilizan para capturar la placa de matrícula de los vehículos que saltan la señal roja.
+
+El proyecto se implementó a través del proceso de RFP y fue para una implementación completa sin POC.
+
+Ecosistema de apoyo: Departamento de Policía de Tránsito de Nagpur, Corporación de Desarrollo de la Ciudad Inteligente y Sostenible de Nagpur (NSSCDCL), Corporación Municipal de Nagpur (NMC), SI M/s Larsen y Toubro Limited.
+
+Proveedores de tecnología: M/s L&T es el Integrador de Sistemas Maestro y Proveedor de Servicios.
+
+5.3 Proceso de implementación
+
+Escala de implementación
+
+• Actualmente, el sistema se ha instalado en 60 señales de tráfico importantes en la ciudad.
+• Hacer que los ciudadanos sean conscientes del sistema y su aceptación de la multa generada a través del sistema.
+• Administrar el espacio del servidor para almacenar los eventos capturados por el sistema.
+• Mejorar la precisión del sistema RLVD.
+• Disponibilidad de recursos necesarios, como marcas viales adecuadas, señales de tráfico funcionando correctamente, etc.
+
+5.4 Desafíos durante la implementación
+
+• Aplicación efectiva de las reglas de tránsito y emisión de multas por cada violación según las reglas de tránsito.
+Inculcar un mejor sentido del tránsito entre los conductores, lo que conlleva seguridad y seguridad en la carretera.
+
+5.5 Impacto en la ciudad{...}
+JS
+XML
+{.CODE};
+C++
+PHP
+Líderes de la Ciudad
+La intervención de tecnologías basadas en IA para 
+realizar la automatización en la gestión del tráfico urbano.
+Es posible aumentar la movilidad adecuada en las 
+carreteras, así como el cumplimiento de las normas de tráfico por parte de los ciudadanos.Proveedores de Tecnología
+El uso de ML es un requisito clave para identificar placas de matrícula no estándar.
+Asegurarse de mejorar la infraestructura necesaria, como cruces y otros, antes de implementar la solución, ya que no hacerlo causó un retraso en la implementación.5.6 Lecciones clave aprendidas durante la implementación.6.2 Papel de la IA en la Solución6.1 Identificación del Problema
+La aplicación de las normas de tráfico es fundamental para abordar los crecientes desafíos del tráfico. PCMC decidió monitorear las infracciones de tráfico mediante el sistema de "Detección de Violaciones de Luz Roja" (RLVD) para detectar violaciones de luz roja cometidas por cualquier vehículo que circule por la región de interés.
+Se instalaron cámaras de vigilancia y cámaras ANPR con función de IA habilitada para la detección de violaciones de luz roja en intersecciones de tráfico. Cuando un vehículo se mueve durante una luz roja, la cámara ANPR captura la placa del vehículo y la cámara de vigilancia captura el vehículo con la señal de luz roja, lo que crea una alerta y la envía al centro de comando y control como detección de violación de luz roja.
+
+PIMPRI CHINCHWAD
+Aplicación de las Normas de Tráfico mediante la Adopción de la IA 6
+Puntos clave de la implementación
+El movimiento de vehículos se monitorea con respecto a la señalización en las intersecciones. El estado de las señales se captura como prueba de violaciones, junto con la captura del número de vehículo.
+
+16Un concepto de prueba (POC) se está llevando a cabo en 10-12 ubicaciones seleccionadas. Basándose en alarmas en tiempo real generadas y análisis de las alarmas, se están mejorando los resultados en los sitios de POC seleccionados. La implementación de análisis basados en inteligencia artificial en las ubicaciones de cámaras restantes se realizará posteriormente.
+
+Ecosistema de soporte:
+MSI: Consorcio liderado por Tech Mahindra
+Consultor: Ernst & Young LLP
+Cliente: PCSCL y PCMC IT y Telecom
+Proveedores de tecnología: OEM: Videonetics Pvt Ltd
+
+6.3 Proceso de implementación
+
+Escala de despliegue
+
+Vigilancia urbana y cámaras de tráfico en áreas identificadas de la ciudad:
+• Número de ubicaciones: 606
+• Número de cámaras de caja fija: 1520
+• Número de cámaras ANPR: 850
+• Número de licencias de IA: 1000 (dinámicas)
+• Identificación del sitio correcto para la implementación del caso de uso.
+• Configuración del caso de uso a nivel de cámara.
+• Capacitación del operador para la clasificación de alarmas y su experiencia práctica en el sistema.
+• Desafíos prácticos en el campo.
+• Rendimiento del operador con respecto al trabajo monótono.
+• Atención continua de los operadores.
+
+6.4 Desafíos enfrentados durante la implementación
+Mejora en la generación de alarmas correctas y reducción de alarmas falsas. Dirección efectiva de alarmas correctas en un corto plazo.
+
+6.5 Impacto creado en la ciudad
+17{...}
+JS
+XML
+{.CODE};
+C++
+PHP
+Líderes Urbanos
+La conanza aumentó para el uso de IA en otros dominios urbanos.
+Proveedores de Tecnología
+Mejora en la comprensión de los requisitos del cliente,
+ Obstáculos tecnológicos y formas de abordarlos.
+6.6 Aprendizajes clave desde la implementación
+187.2 Papel de la IA en la Solución7.1 Identificación de Problemas
+Prayagraj ha identificado los persistentes problemas de gestión del tráfico, gestión de residuos sólidos, seguridad y seguridad, y ha priorizado abordar los desafíos mediante la intervención tecnológica.
+El análisis de video proporciona datos según las análisis definidas para la planificación futura y la acción procesional para la gestión de residuos sólidos, mejora del tráfico y seguridad ciudadana.
+PRAYAGRAJ
+Garantizando una Mejor Gestión del Tráfico, Gestión de Residuos y Seguridad utilizando IA 7
+Puntos clave de la implementación
+Gestión de Residuos Sólidos/Vandalismo -
+• Identificar los lugares/áreas con grafiti para una limpieza adicional y un plan de acción preventivo para minimizar tal actividad y ayudar a mantener el área limpia.
+• Detección en tiempo real de vandalismo mediante la supervisión de actividades de objetos y tomar medidas rápidas contra tal actividad.
+Detección de Escombros y Basura -
+• Detección de actividades de limpieza de escombros y basura iniciadas por el equipo municipal según el SOP definido.
+Gestión del Tráfico -
+• Detección de infracciones de estacionamiento, vehículos que exceden la velocidad, giros ilegales o vueltas en sentido contrario.
+• Identificar las áreas donde tales infracciones son tendencia.
+• Con base en el informe, la policía de tráfico planifica la aplicación de la ley para tomar medidas.
+Seguridad Ciudadana -
+• Detección de personas sospechosas/actividades en ubicaciones sensibles (detección de merodeo).
+• Controlar el flujo de personas en caso de grandes reuniones.Solución de Análisis de Video Inteligente Basada en IA está diseñada para crear alertas sobre eventos decisivos según el alcance del requisito de análisis. Una vez identificada el área, se colocan cámaras de CCTV en las posiciones adecuadas para capturar los eventos.
+
+Ecosistema de Soporte: Ciudad Inteligente de Prayagraj, Corporación Municipal, Departamento de Policía Equipo de Gestión de Proyectos.
+
+Proveedores de Tecnología: Larsen & Toubro Ltd, Construcción - Mundo Inteligente y Comunicaciones.
+
+7.3 Proceso de Implementación
+
+Escala de Despliegue
+
+• Actualmente, el sistema está instalado en 60 señales de tráfico principales en la ciudad.
+• Recopilación de eventos para el aprendizaje automático de casos de uso definidos.
+• Capacitación del departamento de policía y municipalidad para el uso suave y comprensión del SOP y enfoque digital.
+• Desafío para la implementación del sistema de reconocimiento facial (FRS) ya que la posición de la cámara se utiliza para el sistema de vigilancia general.
+
+7.4 Desafíos enfrentados durante la Implementación{...}
+JS
+XML
+{.CÓDIGO};
+C++
+PHP
+Líderes de la Ciudad
+Requisito de recursos como internet y 
+mejora de la infraestructura existente previa 
+a la implementación de soluciones como estas.Proveedores de Tecnología
+•Integración con la plataforma de comando y 
+control integrados.
+•Despliegue del manual de procedimientos 
+estándar (SOP) manual y automático para 
+policía y municipal.
+•Implementación de IA en infraestructura de campo.
+•Precisión y precisión en la detección de eventos.7.6 Lecciones Aprendidas de la Implementación•Mejora del monitoreo del tráfico para un flujo suave y un viaje seguro. 
+•Servicio de Análisis de Video Inteligente basado en IA mejorado a través de despliegue de personal eficiente. 
+•Reducción de accidentes y atascos de tráfico mediante monitoreo continuo del flujo. 
+•Mejora de la seguridad ciudadana mediante la reducción de la tasa de delincuencia. 
+•Monitoreo eficiente de la limpieza en la ciudad mediante el despliegue de análisis de gestión de residuos.7.5 Impacto creado en la Ciudad
+218.2 Papel de la IA en la Solución
+
+8.1 Identificación del Problema
+
+En las ciudades metropolitanas, gestionar el tráfico es un desafío gigante y los infractores de señales de tráfico lo llevan al siguiente nivel. Para controlar la infracción de tráfico en la ciudad, la ciudad inteligente de Nagpur implementó el sistema de detección de violaciones de luz roja (RLVD) para detectar violaciones de luz roja cometidas por cualquier vehículo que pasa por la región de interés.
+
+La ciudad inteligente de Ranchi ha establecido un centro de comando, control y comunicación (C4) para resolver y monitorear problemas de gestión de tráfico. Se han desplegado cámaras de reconocimiento automático de placas de matrícula (ANPR) basadas en IA, sistema de detección de violaciones de luz roja (RLVD), sistema de detección de violaciones de velocidad (SVD), e-Challan integrado y sistema de control de tráfico adaptativo (ATCS) para gestionar todos los componentes de la gestión de tráfico en la ciudad. A través del despliegue de estos sistemas, la ciudad puede ahora capturar datos como el conteo de vehículos que sobrepasan la velocidad, vehículos con matrícula de otros estados, imágenes y segmentos de video en tiempo real, seguimiento de actividad y comportamiento para detectar cualquier desviación del patrón normal, volúmenes de vehículos, clasificaciones de vehículos y ocupación de carriles.
+
+Se ha instalado un algoritmo de coordinación de señales personalizado que permite a la ciudad utilizar tecnología de actualización en tiempo real para un flujo de tráfico eficiente en 81 ubicaciones en Ranchi. Los sistemas de control de tráfico están diseñados para reducir los retrasos experimentados por los vehículos que viajan a través de intersecciones manipulando esquemas de señales.
+
+En C4, Metadata (software de gestión de informes) proporciona mayor flexibilidad con arquitectura de plug-in y visualización basada en widgets. Su panel de control de una sola ventana permite a los administradores de TI y los informes de TI según las necesidades comerciales de la ciudad. Los informes de Metadata tienen todo lo necesario para resolver los desafíos de tráfico complejos de la ciudad hoy en día.
+
+RANCHI
+Adoptar IA para gestionar el tráfico y hacer cumplir las reglas de tráfico 8
+
+Puntos destacados de la implementación
+
+• Cámaras y software de reconocimiento automático de placas de matrícula (ANPR) basados en IA se utilizan para proporcionar identificación de vehículos o detectar crímenes y violaciones en tiempo real.
+• El sistema de detección de violaciones de luz roja (RLVD) basado en IA es un sistema de vigilancia masiva completamente automatizado que identifica vehículos que saltan la luz roja, se detienen después de la marca de luz roja y cruzan la zona de cruce de peatones.
+• La implementación del sistema de detección de violaciones de velocidad (SVD) y e-Challan integrado para identificar vehículos que no cumplen con los límites de velocidad permitidos en las carreteras es muy robusta.
+• El sistema de control de tráfico adaptativo (ATCS) basado en IA ajusta automáticamente los tiempos de las luces de tráfico según las condiciones de tráfico en tiempo real para optimizar el flujo de tráfico.El proyecto se implementó a través del proceso de RFP y fue para una implementación completa sin POC.
+
+Ecosistema de apoyo: Gobierno estatal, Departamentos de Transporte, RMC y policía de tránsito de Ranchi.
+
+Proveedores de tecnología: Honeywell Automation India Limited.
+
+8.3 Proceso de implementación
+
+Escala de implementación
+La ciudad planea desarrollar más intersecciones mediante la instalación de equipos del sistema. Se prevé la actualización de seis ubicaciones de un total de 81, el desarrollo de iluminación inteligente, procesos de gestión de residuos sólidos y un modelo de negocio para C4 que utiliza VMSB y PA.
+
+•La incapacidad de utilizar la capacidad de los vehículos, la gestión ineficiente de rutas y la capacidad de rastrear envíos fueron los desafíos que se superaron.
+•El retraso en recibir aprobaciones de la RMC, el Departamento de Electricidad, el Departamento de Transporte y el Departamento de Policía de la Ciudad fueron los desafíos que se enfrentaron.
+
+8.4 Desafíos durante la implementación
+•Los sistemas de gestión de tránsito de Ranchi son soluciones que los municipios integran en gabinetes y intersecciones de tránsito para lograr mejoras rápidas y rentables en el tránsito.
+•NPR, ATCS, PA, ECB y VMSB se utilizan todos en la implementación de Smart Trafic Engineering en Ranchi para asegurar un tránsito rápido, libre y eficiente con menos accidentes.
+•El sistema de vigilancia masiva identifica a los vehículos que saltan la luz roja, se detienen después de la marca de luz roja y cruzan la zona de cruce de peatones.
+•El sistema de control de tránsito adaptativo basado en inteligencia artificial (ATCS) es una solución que ajusta automáticamente los tiempos de los semáforos según las condiciones de tránsito en tiempo real para optimizar el flujo de tránsito.
+
+8.5 Impacto en la ciudad
+•La intervención de tecnologías basadas en inteligencia artificial para lograr la automatización en la gestión del tránsito urbano.
+•El sistema de control de tránsito basado en inteligencia artificial y aprendizaje automático (ATCS) se vuelve útil para resolver problemas que son esenciales pero difíciles de solucionar con sistemas manuales.
+
+Proveedores de tecnología
+•El uso de aprendizaje automático es un requisito clave para identificar placas de matrícula no estándar. Se necesita verificar y actualizar los datos de entrenamiento para probar los algoritmos.
+•Los algoritmos necesitan modificarse para la detección de números de matrícula a larga distancia y eventos.
+
+8.6 Lecciones clave de la implementación9.2 Papel de la IA en la Solución9.1 Identificación del Problema
+La gestión del tráfico con la aplicación de las normas de tráfico es fundamental para abordar los crecientes desafíos del tráfico. Satna ha decidido monitorear las infracciones de tráfico mediante el sistema de "Detección de Violaciones de Luz Roja" (RLVD) para detectar violaciones de luz roja por cualquier vehículo, junto con ANPR para leer las licencias de los vehículos que pasan por la región de interés.
+Cámaras de vigilancia y ANPR con función de detección de violaciones de luz roja habilitada por IA se instalan en intersecciones de tráfico.
+El reconocimiento automático de placas de matrícula (ANPR) es una práctica de visión por computadora que permite a los dispositivos leer rápidamente y automáticamente los números de placas de matrícula de los vehículos, sin interacción humana. Por lo tanto, se utiliza ANPR para capturar e identificar cualquier número de placa con precisión a través del uso de footage de video o foto de cámaras.
+El sistema de detección de violaciones de luz roja (RLVD) es un sistema de vigilancia masiva completamente automatizado que identifica a los vehículos que saltan la luz roja, se detienen después de la marca de luz roja y cruzan la zona de cruce de peatones.
+Cuando un vehículo viola la luz roja, la cámara ANPR captura la placa del vehículo y la cámara de vigilancia captura el vehículo con una señal de luz roja para crear una alerta.
+
+SATNA
+Gestión del Tráfico y Aplicación de las Normas de Tráfico
+mediante la adopción de la IA 9
+
+Puntos clave de la implementación
+
+• Las cámaras instaladas se utilizaron para la vigilancia y el monitoreo del comportamiento del tráfico en various ubicaciones y se generó un e-tiquete para las infracciones validadas.
+• Las cámaras ITMS resultan útiles para la policía para investigar delitos. La cámara captura video de alta resolución, lo que facilita la identificación de personas y la vigilancia en vivo.Proyecto ITMS fue realizado por Satna Smart City a través de un proceso de RFP. Después de la finalización del oferente, el proyecto se implementó en la ciudad de Satna.
+
+El proceso de ejecución se describe a continuación:
+
+Etapa 1: Finalización de la encuesta del sitio.
+Etapa 2: Inicio del proyecto.
+Etapa 3: Entrega y recepción de hardware y software en el sitio (almacén) y después de la verificación de dichos elementos por parte de SSCDL.
+Etapa 4: Puesta en marcha (para hardware), instalación, configuración y despliegue de aplicaciones, integración y lanzamiento.
+Etapa 5: Finalización de los requisitos de integración.
+Etapa 6: Prueba en seco y lanzamiento.
+
+Ecosistema de soporte:
+MSI: Satna Smart City
+Consultor: Price water house Coopers Pvt. Ltd., Corporación Municipal de Satna
+Proveedores de tecnología: Technosys Security Systems Pvt. Ltd.
+
+9.3 Proceso de implementación
+Escala de despliegue
+Vigilancia urbana y cámaras de tráfico en toda la ciudad:
+• Número de intersecciones: 14
+• Área total: 71 km²
+• Número de cámaras ANPR: 112
+• Número de cámaras RLVD: 60
+• Número de cámaras PTZ: 54
+• Número de cámaras ECB: 34
+• Número de cámaras de vigilancia: 200
+• Mejora del orden en las carreteras mediante la persecución eficiente de infractores del tráfico y aplicación de la ley de tráfico.
+• Capacidad de asimilar y analizar información de tráfico en tiempo real y tendencias históricas para apoyar la toma de decisiones en estrategias de gestión del tráfico.
+
+9.4 Desafíos enfrentados durante la implementación•Los sistemas de gestión de tráfico de Ranchi son soluciones que los municipios integran en gabinetes de tráfico y intersecciones para realizar mejoras rápidas y rentables en el tráfico.
+•NPR, ATCS, PA, ECB y VMSB se utilizan todos en la implementación de Ranchi de Ingeniería de Tráfico Inteligente para asegurar un tráfico rápido, libre y eficiente con menos accidentes.
+•El sistema de vigilancia masiva identifica a los vehículos que saltan la luz roja, se detienen después de la marca de luz roja y sobrepasan la zona de cruce de peatones.
+•El sistema de control de tráfico adaptativo (ATCS) es una solución que ajusta automáticamente los tiempos de los semáforos según las condiciones de tráfico en tiempo real para optimizar el flujo de tráfico. 9.5 Impacto creado en la ciudad
+
+{...}
+JS
+XML
+{.CODE};
+C++
+PHP
+Líderes de la ciudad
+•Conciencia situacional mejorada de las condiciones de tráfico existentes en tiempo real.
+•Creación de enlaces para apoyar la compartición de información a través de controladores de tráfico, señales de mensaje variable, sistemas de dirección pública (PA), etc.
+Proveedores de tecnología
+Asegurando la coordinación adecuada entre los diversos stakeholders, es decir, la policía y los cuerpos cívicos, incluyendo a los ciudadanos. 9.6 Lecciones clave de la implementación
+2610.2 Papel de la IA en la Solución10.1 Identificación del Problema
+
+La visión de movilidad se define como 'SARAL', que significa 'Segura, Accesible, Confiable, Avanzada y de Bajo Carbono' para la movilidad en la ciudad de Surat. Saral también significa 'SIMPLE' en lenguajes indios y se traduce como 'Saral Parivahan –Sumrudh Janjeevan', lo que significa 'Transporte Simple hacia una Vida Próspera y Enriquecedora para la gente de Surat'. Se ha planificado y ya se está implementando un sistema de transporte público integrado que incluye el corredor de BRTS más largo de la India, el Servicio de Autobús de la Ciudad (CBS) y el Corredor de Alta Movilidad (HMC) como parte de las iniciativas del sistema de transporte público integrado.
+
+El sistema de planificación y programación de vehículos de Surat se preparó extrayendo datos del Sistema de Gestión de Tránsito Inteligente y del Sistema de Recaudación de Tarifas Automatizado. El tablero actúa como una IA que se utiliza para estudiar la demanda real en tiempo real de varias rutas y para estudiar el patrón de subida y bajada.
+
+La red de autobuses urbanos se planificó y se hizo operativa de manera que las estaciones de BRT actúen como un intercambiador para ambos sistemas. Esto proporciona una transferencia fácil y conveniente para los pasajeros. Se desarrolló un sistema de boleto único con integración de tarifas para hacer que el viaje sea conveniente para la gente de la ciudad.
+
+Con la integración del sistema de transporte, se han incrementado las superposiciones entre las rutas, lo que ha resultado en un aumento en el porcentaje de intercambio, lo que requiere apoyo de datos en tiempo real y análisis de datos utilizando algoritmos de IA. Los horarios se prepararon tomando datos en tiempo real de todas las rutas en la producción de horarios. Las rutas se optimizaron considerando la demanda real en tiempo real.
+
+SURAT
+Adoptando IA para BRTS y Servicio de Autobús Urbano 10
+Puntos clave de la implementación
+
+• Digitalizar la red de transporte público utilizando tecnología de mapeo.
+• Tomar datos en tiempo real de todas las rutas e integrarlos en la producción de horarios.
+• Seleccionar las rutas para programación efectiva mediante la evaluación del rendimiento del tránsito.
+• Re-programar optimizando la frecuencia y el km muerto según la demanda para las rutas seleccionadas.
+• Crear diferentes escenarios y compararlos entre sí y con el sistema existente.
+• Realizar consultas con partes interesadas con la Policía de Tránsito, Instituciones Educativas, Organizaciones No Gubernamentales, etc.El proyecto se implementó a través del proceso de RFP y fue para una implementación completa sin POC alguno.
+Ecosistema de soporte: NEC India Pvt. Ltd y ARS T&TT Pvt. Ltd
+Proveedores de tecnología: Lumiplan India ITS Pvt. Ltd
+10.3 Proceso de implementación
+Escala de implementación
+El software se utilizó para un total de 779 flotas de autobuses para toda la ciudad.
+Surat implementó el Sistema de Gestión de Tránsito Inteligente y el Sistema de Recaudación de Tarifas Automatizado para mejorar la eficiencia del Sistema de Transporte Público de Surat. Este sistema ha permitido un intercambio de datos eficiente para implementar el Sistema de Planificación y Programación de Vehículos. Como el sistema ha sido bien soportado con datos en tiempo real, no hubo desafíos para lo mismo.
+
+10.4 Desafíos enfrentados durante la implementación
+•El sistema basado en IA proporcionó información útil en tiempo real a los usuarios de transporte público (pronósticos de densidad de tráfico) y sobre la implementación de sistemas inteligentes para reducir impactos negativos (accidentes de tráfico y congestión de tráfico).
+•El sistema utilizó datos sobre el tiempo, el número de estudiantes esperados para utilizar el servicio de transporte y el costo del combustible para optimizar la ruta y reducir la presión del usuario y minimizar el impacto de carbono de la red de transporte.
+•Con la implementación del Sistema de Planificación y Programación de Vehículos, la Corporación Municipal de Surat ahorró Rs. 2,72 crore anuales al optimizar la red de autobuses.
+•La adherencia al viaje y la adherencia al horario aumentaron al 98% y 97%, respectivamente.
+
+10.5 Impacto creado en la ciudad
+Líderes de la ciudad
+Planificación y programación de vehículos con la intervención de tecnologías basadas en IA para lograr la automatización en la gestión del transporte urbano.
+Identificación de nuevas áreas de demanda para ser servidas por el transporte público también se puede hacer utilizando algoritmos de IA.
+
+Proveedores de tecnología
+Uso de ML con actualizaciones y datos de entrenamiento regulares es un requisito clave para identificar placas de matrícula no estándar.
+Asegurarse de que la infraestructura necesaria, como la mejora de los cruces, esté lista antes de la implementación de la solución, ya que no hacerlo causó un retraso en la implementación.
+
+10.6 Lecciones aprendidas de la implementación11.2 Papel de la IA en la Solución11.1 Identificación del Problema
+La ciudad de Tumakuru carece de transporte seguro, lo que se agrava por las preocupaciones de seguridad vial y la frecuente congestión de las carreteras. Para poner fin a los problemas de tráfico, los funcionarios de la ciudad decidieron identificar una solución que garantice una mejor gestión del tráfico y minimice los impactos negativos que degradan la eficiencia del tráfico.
+
+El Sistema de Gestión de Tráfico Inteligente (ITMS) permite a los usuarios estar mejor informados y hacer un uso más seguro, eficiente, coordinado y inteligente de las redes de transporte. El ITMS crea una plataforma perfecta para abordar los problemas relacionados con el tráfico que enfrentan las autoridades de gestión del tráfico, en términos de predecir la ruta óptima, reducir el tiempo de espera promedio, la congestión del tráfico, el costo del viaje y la extensión de la contaminación del aire. El sistema tiene como objetivo utilizar algoritmos de inteligencia artificial para predecir rutas óptimas basadas en patrones de movilidad del tráfico, categorización de vehículos, ocurrencias de accidentes y niveles de precipitación.
+
+La detección de condiciones de tráfico en tiempo real es una entrada crítica para operaciones eficientes. El valor de la productividad económica reducida debido al tiempo perdido en congestiones de tráfico, el desperdicio de combustible y el efecto de la contaminación es abrumador. Como resultado, la demanda de soluciones de gestión del tráfico es más significativa que nunca antes. El Sistema de Control de Tráfico Adaptativo (ATCS) es una solución que se adapta automáticamente a los tiempos de los semáforos según las condiciones de tráfico en tiempo real para optimizar el flujo de tráfico. El ATCS utiliza cámaras y sensores para monitorear el tráfico. Estos sensores recopilan datos que se evalúan para mejorar los tiempos de señalización en una intersección particular. La red de sensores puede adaptarse a los patrones de densidad de tráfico cambiantes y proporcionar señales necesarias al controlador de tráfico o al Centro de Comando en tiempo real. Permite que las señales interactúen entre sí y realicen ajustes a los tiempos de señalización para mantener el flujo de tráfico libre de congestiones.
+
+TUMAKURU
+La IA domina la Gestión Integrada de la Ciudad
+Centro de Comando y Control 11Destacados clave de la implementación
+
+• Identificación de vehículos utilizando Reconocimiento Automático de Matrículas.
+• Identificación del tipo de vehículo utilizando Análisis de Video para encontrar fácilmente el vehículo requerido.
+• Detección de infracciones de tráfico como violación de semáforo, detección de no uso de casco, triple montura, etc.
+• Detección de escombros en la carretera, detección de intrusión.
+• Conteo de vehículos, análisis de tráfico, predicción de tráfico.
+• Control de tráfico adaptativo para ahorrar tiempo de espera en el tráfico.
+
+Se proporcionó un POC a los stakeholders y TSCL inicialmente en una sola ubicación. Después de la implementación exitosa, se extendió a otras ubicaciones proporcionadas por los stakeholders.
+
+Ecosistema de apoyo: Departamento de Policía y Corporación de la Ciudad Inteligente de Tumakuru Ltd
+Proveedores de tecnología: Efkon India Pvt Ltd, M/s Amnex Infotechnologies, M/s Videonetics
+
+11.3 Proceso de implementación
+Escala de despliegue
+1. Actualmente, la solución se ha implementado en 13 intersecciones en toda la ciudad.
+2. La aplicación está diseñada para acomodar más intersecciones. El Análisis de Video (VA) fortalece los sistemas de gestión de tráfico para mejorar la seguridad utilizando metadatos. El propósito de un sistema de video basado en vigilancia diseñado para análisis de tráfico es detectar, rastrear y analizar patrones y comportamientos vehiculares anómalos y eventos predichos y detectados en las carreteras, así como delitos. El rápido crecimiento en el área de Internet de las cosas (IoT), big data y análisis ha cambiado drásticamente el Sistema de Transporte Inteligente (ITS) en los últimos años. Ha habido un aumento en las crecientes preocupaciones por una gestión de tráfico adecuada debido a la congestión del tráfico, accidentes de tráfico, amenazas potenciales, niveles excesivos de contaminación, etc. Soluciones inteligentes como VA ayudan a abordar estos problemas y asisten a las ciudades, peatones y funcionarios en la dirección de estas crecientes preocupaciones. A través de cámaras de vigilancia, la policía puede prevenir delitos y resolver casos criminales con evidencia material. Además, las cámaras de vigilancia protegen contra el robo de propiedad y vandalismo. Es muy difícil escapar con algo si hay cámaras filmando. A través de esta vigilancia podemos monitorear la actividad de la ciudad en tiempo real en un lugar remoto. A través del Análisis de Video podemos detectar, rastrear y analizar objetos en movimiento o estacionarios.
+
+11.4 Desafíos enfrentados durante la implementación
+La adaptabilidad al sistema automatizado por parte del personal policial fue lenta en las fases iniciales del proyecto.• Se han emitido 15,00 lakh de Challans a los infractores utilizando un sistema automatizado.
+• Se han identificado anatómicamente 20 incidentes de basura arrojada en la carretera y lugares importantes. 11.5 Impacto creado en la Ciudad
+
+{...}
+JS
+XML
+{.CÓDIGO};
+C++
+PHP
+Líderes de la Ciudad
+Vigilancia efectiva para una mayor seguridad y seguridad. 
+La detección de incidentes ayuda a tomar medidas precautivas:
+•Análisis posterior al incidente en la señal de video.
+• Aumentar la eficacia de los tiempos de señalización del tráfico.
+• Reducir la congestión mediante un flujo de tráfico suave.
+• Mejorar la confiabilidad del tiempo de viaje.
+
+Proveedores de Tecnología
+1. El IA puede disminuir la carga de trabajo real de los policías en las señales, así como la detección de incidentes es más fácil.
+2. Los ciudadanos siguen el tráfico correctamente y ha sido evidente en las intersecciones donde no hay vehículos que crucen la línea de stop en luz roja.11.6 Lecciones clave aprendidas de la implementación12.2 Papel de la IA en la Solución12.1 Identificación de Problemas
+
+Como primer paso, la ciudad de Varanasi ha identificado problemas para determinar las áreas clave de intervención. La congestión del tráfico es uno de los principales problemas dentro de la ciudad que debe abordarse con prioridad.
+
+Para abordar los problemas de tráfico, los funcionarios de la ciudad optaron por soluciones tecnológicas inteligentes que puedan tener un mayor impacto para minimizar y poner fin a las áreas problemáticas. La aplicación de análisis de video toma los datos de flujo como entrada - desde una cámara USB/CSI, video desde un archivo o transmisiones sobre RTSP, y utiliza IA y visión por computadora para generar información a partir de píxeles para una comprensión más profunda del entorno. Este diseño puede ser la capa de fundación para una variedad de soluciones de análisis de video como la comprensión del flujo de tráfico y el comportamiento peatonal en ciudades inteligentes.
+
+El marco comprende capacidades de procesamiento de flujo y batch. Cada componente de la capa de Análisis, Broker de Mensajes, Flujo, NoSQL y Índice de Búsqueda puede ser escalado horizontalmente. La tubería de análisis de flujo puede ser utilizada para procesos como la detección de anomalías, alertas y cálculo de estadísticas como la tasa de flujo de tráfico. El procesamiento por lotes puede ser utilizado para extraer patrones en los datos, buscar anomalías en un período de tiempo y construir modelos de aprendizaje automático. Los datos se almacenan en una base de datos NoSQL para la gestión de estado, por ejemplo, la ocupación de un edificio, la actividad en una tienda o el movimiento público en una estación de tren. Esto también proporciona la capacidad para análisis forenses, si es necesario. Los datos pueden ser indexados para búsqueda y análisis de series temporales. La información generada por el procesamiento de flujo y batch se expone a través de una API estándar para visualización. La API puede ser accedida a través de REST, WebSocket o mensajería, según el caso de uso. La interfaz de usuario permite al usuario consumir toda la información relevante.
+
+VARANASI
+Uso de IA para
+Gestión de Tráfico Efectiva 12
+Puntos clave de la implementación
+
+• Detección de congestión en la carretera y generación de alertas en tiempo real, para que las autoridades correspondientes puedan actuar en consecuencia.
+• Monitoreo de la congestión se realiza según los datos históricos basados en el volumen de tráfico en diferentes períodos del día.
+• Anuncios en tiempo real a través del sistema de altavoz.Se lanzó una solicitud de propuesta (RFP) y se completó la implementación total de la solución.
+
+Ecosistema de apoyo: Ciudad Inteligente de Varanasi / Policía de Varanasi / Equipo de Tránsito
+
+Proveedores de tecnología: Efkon India Pvt Ltd
+
+12.3 Proceso de implementación
+
+Escala de despliegue
+
+• En Aligarh, la tecnología se desplegó en todas las intersecciones existentes.
+• En Varanasi, el análisis se desplegó en los puntos de entrada y salida de la autopista.
+• No se enfrentaron desafíos importantes durante la implementación.
+
+12.4 Desafíos enfrentados durante la implementación
+
+• Un plan de ruta alternativa para vehículos en o cerca de la ruta congestionada para facilitar el movimiento de tráfico a través de VaMS.
+• Un usuario puede entender el volumen de tráfico en diferentes períodos de tiempo según los datos históricos, lo que ayuda en el funcionamiento del modo de actuación ATCS.
+
+12.5 Impacto creado en la ciudad
+
+{...}
+JS
+XML
+{.CODE};
+C++
+PHP
+Líderes de la ciudad
+
+1. Ampliación de las carreteras según el conteo de tráfico.
+2. Necesidad de divisor/mediana donde el flujo de tráfico es caótico/anormal.
+3. Mejora idea sobre el tiempo pico de tráfico.
+
+Proveedores de tecnología
+Utilizando datos de congestión y volumen de tráfico para un mejor funcionamiento de ATCS.
+
+12.6 Aprendizajes clave del despliegue
+3313.2 Papel de la IA en la Solución13.1 Identificación del Problema
+
+Se ha observado que las violaciones de tráfico son muy altas en Visakhapatnam. Más de 4000 violaciones de semáforo en rojo y 100 violaciones de velocidad se observan diariamente en la ciudad de Visakhapatnam. Con la NH16 que pasa por la ciudad, los incidentes de casos de sobrepasar el límite de velocidad son interminables. La policía observa que muchos accidentes de tráfico se reportaron en la autopista, cuando los vehículos de dos ruedas fueron golpeados por vehículos pesados mientras sobrepasaban o excedían el límite de velocidad.
+
+La IA se utiliza para monitorear las violaciones, como violaciones de semáforo en rojo, violaciones de línea de parada y violaciones de velocidad. Como parte del proyecto, se desplegaron cámaras de detección de violaciones de semáforo en rojo (RLVD) y reconocimiento automático de placas de matrícula (ANPR) en 10 intersecciones.
+
+Las cámaras RLVD monitorean el flujo de vehículos en una intersección particular para violaciones de semáforo en rojo, línea de parada y velocidad. El sistema captura automáticamente la placa de matrícula y un video de 30 segundos como evidencia. Todas las violaciones son autenticadas por los operadores del departamento de tráfico y se genera un recibo para el mismo, y el propietario del vehículo será notificado automáticamente a través de SMS.
+
+El sistema se integra con el Centro de Comando y Control Integrado (ICCC) para monitorear y analizar las violaciones. Se generará una alerta automáticamente si las violaciones de semáforo en rojo desde una intersección particular son muy altas. El Procedimiento Operativo Estándar (SOP) seguido por el ICCC para una alerta de violación de semáforo en rojo se muestra en la figura a continuación.
+
+VISAKHAPATNAM
+Gestión Efectiva del Tráfico utilizando IA
+13
+Puntos clave de la implementación
+
+• Actualmente se monitorean 65 carriles en toda la ciudad.
+• Se genera una alerta automáticamente si las violaciones de semáforo en rojo desde una intersección particular son altas.
+• El sistema se puede configurar aún más para otros tipos de violaciones, como montar en triple, violación de no usar casco, etc.Proyecto de Ciudad Inteligente de Visakhapatnam tiene previsto el despliegue de los siguientes componentes para lograr los objetivos:
+
+•Despliegue de various sensores (cámaras, sensores de infracciones de tráfico, sensores de medio ambiente y clima) en toda la ciudad para mejorar la conciencia situacional.
+•Desarrollo de un centro de comando y comunicación para mejorar la visualización de la situación ambiental en la ciudad y facilitar la toma de decisiones basadas en datos. El objetivo de esta solicitud de propuesta (RFP) es invitar ofertas de los licitadores para la implementación de una solución integrada.
+
+La solicitud de propuesta (RFP) consta de tres volúmenes, detallados a continuación:
+RFP Volumen 1: Instrucciones para los licitadores.
+RFP Volumen 2: Alcance del trabajo, incluyendo especificaciones funcionales y técnicas.
+RFP Volumen 3: Acuerdo de servicio maestro.
+
+El contrato se otorgó a L&T en consorcio con Fluentgrid Limited después de la licitación exitosa.
+
+Ecosistema de apoyo: Operador IMT, División de Tráfico y Departamento de Policía
+Proveedores de tecnología: L&T Pvt. Ltd. y Consorcio Fluentgrid
+
+13.3 Proceso de implementación
+Escala de despliegue
+•El sistema RLVD se implementó en 10 intersecciones principales en toda la ciudad y 65 carriles estaban bajo vigilancia continua.
+•Más de 100 cámaras RLVD y ANPR se instalaron y se monitorean diariamente en busca de violaciones.
+La opción de generación automática de multas se implementó, lo que permite que el sistema envíe una notificación al propietario del vehículo junto con el tipo de violación y los detalles capturados mientras se violaba la señal.
+•No se enfrentaron desafíos importantes durante la implementación, excepto por la identificación de ubicaciones, ya que es una ciudad grande.
+
+13.4 Desafíos enfrentados durante la implementación
+•Después de la implementación del sistema RLVD y ANPR, las violaciones se redujeron drásticamente.
+•Además de monitorear las violaciones, se utilizaron análisis para analizar las violaciones en áreas y los vehículos que violan con frecuencia, lo que garantiza que los oficiales tomen medidas.
+•Los mensajes de conciencia a través de PAS y VMD tuvieron un impacto positivo en el cambio de comportamiento de los conductores de vehículos, y ahora siguen estrictamente las reglas de tráfico.
+
+13.5 Impacto en la ciudad
+35{...}
+JS
+XML
+{.CODE};
+C++
+PHP
+Líderes de la Ciudad
+•El uso de IA ha reducido las violaciones y ha facilitado el proceso de una mejor gestión del tráfico.
+•Los mensajes de conciencia ciudadana han ayudado a lograr cambios de comportamiento positivos.Proveedores de Tecnología
+Junto con el Sistema de Gestión de Tráfico Adaptativo, RLVD será efectivo para implementar la disciplina del tráfico entre los conductores de vehículos en la ciudad.13.6 Lecciones clave aprendidas durante la implementación14.2 Papel de la IA en la Solución14.1 Identificación del Problema
+
+Visakhapatnam, siendo la ciudad más poblada de Andhra Pradesh, enfrenta un grave problema de congestión del tráfico. Se ha observado que el tiempo de espera en los semáforos ha aumentado significativamente en tiempos recientes. Los postes de tráfico están automatizados. Debido a la duración fija de los cambios de señal, los vehículos se estancan en los cruces importantes y los vehículos deben quedarse atascados en el tráfico, independientemente del flujo de tráfico.
+
+El Sistema de Control de Tráfico Adaptativo (ATCS) se estableció como parte del proyecto de Integrador de Sistemas de GVSCCL para lograr su objetivo de ciudad segura y segura. El ATCS utiliza la IA para reducir la congestión del tráfico en la ciudad.
+
+El ATCS cambia la señal según el destino de los vehículos en el carril particular, es decir, cada carril en el cruce particular tiene un tiempo de turnaround de señal diferente, independientemente del período de tiempo fijo, lo que facilita el movimiento de los vehículos. Esto asegura que el tiempo de espera en la señal se reduzca drásticamente. Por lo tanto, hay menos congestión del tráfico en la ciudad.
+
+VISAKHAPATNAM
+Facilitando el Movimiento del Tráfico con IA
+14
+Puntos clave de la implementación
+
+Además de la señalización basada en la densidad de vehículos, el ATCS también puede funcionar en el siguiente modo:
+
+• Manual: el software se integró con la aplicación COC y las señales de tráfico se pueden controlar manualmente.
+• Modo VIP: esto asegura el flujo suave de vehículos de emergencia como ambulancias para saltarse las señales y llegar al destino más rápido, lo que mejora el tiempo de respuesta para el paciente.
+
+El Proyecto de Ciudad Inteligente de Gran Visakhapatnam prevé la implementación de los siguientes componentes para lograr los objetivos:
+• Implementación de various sensores (cámaras, sensores de infracciones de tráfico, sensores ambientales y meteorológicos) en toda la ciudad para mejorar la conciencia situacional. 14.3 Proceso de Implementación
+37•Desarrollo de un centro de comando y comunicación para mejorar la visualización de la situación ambiental en la ciudad y facilitar la toma de decisiones basadas en datos. El objetivo de esta solicitud de propuesta (RFP) es invitar a los oferentes a presentar ofertas para la implementación de una solución integrada para la implementación de una solución integrada.
+
+La solicitud de propuesta (RFP) consta de tres volúmenes, detallados a continuación:
+RFP Volumen 1: Instrucciones para los oferentes.
+RFP Volumen 2: Alcance del trabajo, incluyendo especificaciones funcionales y técnicas.
+RFP Volumen 3: Acuerdo de servicio maestro.
+
+El contrato fue otorgado a L&T en consorcio con Fluentgrid Limited después de la oferta exitosa.
+
+Ecosistema de apoyo: División de tráfico y Departamento de Policía
+Proveedores de tecnología: L&T Pvt. Ltd. y Consorcio Fluentgrid
+Escala de despliegue
+Se identificaron 50 intersecciones principales en la ciudad y se desplegó el sistema de control de tráfico (ATCS) en estas intersecciones.
+•Las intersecciones principales se encuentran a lo largo de la NH16 y el flujo continuo de vehículos en la NH16 hizo que las obras de instalación y restauración fueran más difíciles. La integración con las cámaras ANPR para la detección de vehículos de emergencia fue un tarea un poco tediosa.
+
+14.4 Desafíos enfrentados durante la implementación
+•Hasta ahora, el ATCS se ha implementado en varias intersecciones para asegurar el flujo suave del tráfico en la ciudad. La congestión del tráfico en la ciudad se redujo después de la implementación.
+
+14.5 Impacto en la ciudad
+•El uso de inteligencia artificial ha reducido las violaciones y ha facilitado el proceso de gestión del tráfico.
+•Los mensajes de conciencia ciudadana ayudaron a cambiar el comportamiento positivo.
+
+Proveedores de tecnología
+Junto con el sistema de gestión de tráfico adaptativo, RLVD será efectivo en la implementación de la disciplina del tráfico entre los conductores de vehículos en la ciudad.
+
+14.6 Lecciones clave aprendidas durante el despliegueSEGURIDAD
+Y
+SEGURIDAD15.2 Papel de la IA en la Solución
+
+15.1 Identificación del Problema
+
+La Corporación Municipal de Kalyan Dombivili entiende las limitaciones del Análisis de Delitos Convencional con el uso de Análisis de Cámaras. El análisis de delitos convencional no logra proporcionar insights rápidos y acciones debido a mecanismos de análisis rudimentarios como datos históricos, modelos de regresión básicos y revisión manual de inteligencia criminal.
+
+El sistema carece de inteligencia para identificar áreas calientes de delincuencia basadas en características geográficas que predicen a los delincuentes. La falta de una estrategia y sistema efectivos para asignar vehículos de patrulla de manera inteligente según las predicciones de delincuencia.
+
+Con la intención de abordar el problema identificado en un corto período de tiempo, los funcionarios de la ciudad consideraron que la intervención tecnológica es la mejor solución posible que puede maximizar los resultados. Se seleccionaron proveedores de soluciones tecnológicas para la implementación de tecnología de IA utilizando Análisis de Video y Reconocimiento de Imágenes.
+
+El uso adecuado de la Inteligencia Artificial para resolver delitos ayuda a los oficiales de la ley en la prevención y detección eficiente de delitos. Los algoritmos de IA se implementan para analizar grandes conjuntos de datos para encontrar soluciones y hacer predicciones.
+
+Predicción de Delitos y Optimización de la Presencia Policial
+
+a) Predicción de Ubicación de Delitos
+b) Predicción de Tipo de Evento de Delito
+c) Predicción de Conteo de Eventos
+d) Recomendación de Patrulla para Policía
+
+CORPORACIÓN MUNICIPAL DE KALYAN DOMBIVALI
+Adoptando IA para mejorar los Servicios de Aplicación de la Ley
+
+15
+Destacados de la Implementación
+
+Los destacados de la implementación de la predicción de delitos y optimización de la presencia policial como servicio habilitado por IA son los siguientes:
+
+• La solución de IA utiliza modelos de identificación de áreas calientes avanzados, análisis de terreno de riesgo, regresión, clasificación y modelos de clustering para identificar y analizar patrones y tendencias en la delincuencia, lo que permite la optimización de la presencia policial.•Herramientas de mapeo de delitos avanzadas que se integran con bases de datos de agencias de seguridad pública, sensores IoT y sistemas de vigilancia para generar ubicaciones de delitos y recomendar la mejor estrategia para proporcionar servicios de seguridad efectivos y optimizar ahorros en recursos y tiempo.
+
+El MSI dio una demostración de Concepto de Prueba (PoC) como parte del proceso de licitación.
+
+Ecosistema de Apoyo
+Integrador de Sistemas Maestro (MSI): Consorcio de NEC Corporation India (Líder de la oferta), Allied Digital Services y CMS Computers
+Consultor: PricewaterhouseCoopers Pvt. Ltd. (PwC India)
+Usuarios clave/Partes interesadas: Corporación Municipal de Kalyan Dombivli (KDMC) y sus departamentos, Departamento de Policía y Tránsito de Maharashtra
+Organización Nodal para la Implementación: Corporación de Desarrollo Inteligente Kalyan Dombivali (SKDCL)
+Proveedores de Tecnología:
+OEM: Trinity15.3 Proceso de Implementación
+Escala de Despliegue
+El alcance total es el siguiente:
+•Ubicaciones de CCTV – 301 Ubicaciones
+•Cámaras de CCTV (incluyendo cámaras de caja fija, cámaras PTZ y cámaras de ANPR de salida) – 877 Unidades.
+•Cámaras de dashboard: 36 Unidades.
+•Junctions ITMS (junto con RLVD y ANPR): 13 Unidades.
+•Sensores de Medio Ambiente: 13 Unidades•A medida que esto aún está en implementación, los desafíos están en proceso de consolidación.
+•Los desafíos enfrentados durante la implementación se compartirán una vez que se complete la implementación15.4  Desafíos enfrentados durante la implementación
+Los beneficios no son medibles actualmente, ya que la implementación está en curso.15.5  Impacto creado en la Ciudad
+</>
+{...}
+JS
+XML
+{.CODE};
+C++
+PHP
+Líderes de la Ciudad
+Crear conciencia sobre la salud y la covid entre la gente de manera autónoma sin intervención humana es una propuesta viable.
+Los Recursos Humanos pueden ser liberados de trabajos rutinarios y repetitivos a través del uso de tecnología para brindar asistencia de alta calidad a los ciudadanos.Proveedores de Tecnología
+La demostración de la tecnología a través de un POC ayudó a justificar la solución, entrenar el algoritmo de IA y la implementación rápida del proyecto en el terreno15.6  Aprendizajes clave de la implementación
+4216.2 Papel de la IA en la Solución
+16.1 Identificación del Problema
+
+La pandemia de Covid-19 demostró la importancia de las medidas mitigantes como lavarse las manos y llevar mascarillas, especialmente en lugares concurridos. Nueva Ciudad de Kolkata ha priorizado la seguridad de sus ciudadanos, especialmente en lugares concurridos para controlar la propagación del COVID-19.
+
+El mercado comunitario de CB de NKDA es un lugar concurrido, ya que es una instalación multifuncional con tiendas y salones de banquetes. Los guardias del mercado de CB instruyen a todos los visitantes para que lleven mascarillas, sin embargo, debido a los múltiples puntos de entrada y salida y al gran volumen de visitantes que visitan el mercado diariamente, algunas personas pueden evadir la seguridad. Se requería un sistema de detección que pudiera detectar a todas las personas que no llevaban mascarillas y alertarlas instantáneamente para que se las pusieran. Se necesitaba un sistema de detección que pudiera monitorear todos los puntos de entrada y salida y señalar a las personas que no llevaban mascarillas en un entorno concurrido sin retraso alguno.
+
+Por lo tanto, se instaló un sistema de detección de mascarillas habilitado por IA en el mercado de CB. Se instalaron cámaras en todos los puntos de entrada y salida, donde el procesamiento de imágenes habilitado por IA detecta automáticamente a las personas que no llevan mascarilla o la llevan de manera incorrecta. Se recopila datos de la señal de video de las cámaras de CCTV fijadas en los puntos de entrada y salida del mercado. Se genera una alerta de audio a través de altavoces que solicita a la persona que se ponga una mascarilla y cumpla con las normas de covid en inglés y bengalí.
+
+NUEVA CIUDAD DE KOLKATA
+Mitigando el impacto del COVID-19
+adoptando IA 16
+43Destacados clave de la implementación
+
+•Se adoptaron tecnologías de IA con técnicas de ML, aprendizaje profundo y visión por computadora.
+•La alerta de audio habilita el cumplimiento de las normas de covid relacionadas con el uso de mascarillas.
+
+Se realizó un POC 3 meses antes de la implementación del proyecto. El proyecto fue implementado por NKDA y NKGSCCL bajo la Misión de Ciudades Inteligentes. Durante la etapa de preparación de la RFP, se buscaron insumos de múltiples proveedores de soluciones de análisis de video. La tecnología utilizada fue procesamiento de imágenes impulsado por IA y DL. El algoritmo de IA se entrenó y finalizó durante un período de 3 meses analizando el video de las cámaras instaladas en el mercado de CB.
+
+Ecosistema de apoyo
+MSI - NIS Facility Management Services Pvt Ltd; Órgano local urbano - Autoridad de Desarrollo de Nueva Ciudad de Kolkata; Ciudad Inteligente - Corporación de Ciudad Verde Inteligente de Nueva Ciudad de Kolkata
+
+Proveedores de tecnología:
+Videonetics Pvt Ltd
+
+16.3 Proceso de implementación
+
+Escala de despliegue
+La solución solo se ha desplegado en un mercado comunitario, es decir, el mercado de CB.• Debido a la segunda ola de la pandemia de Covid-19, se hizo obligatorio el uso de mascarillas en el área de NKDA. El desafío fue detectar casos específicos con precisión en un entorno con un gran flujo de personas y encontrar el lugar exacto donde se podrían instalar las cámaras.
+• Crear una conciencia entre la gente de que están siendo monitoreados y ayudar a reducir el nivel de infección diaria es un desafío. El mensaje de audio tenía que ser claro, breve, educado pero persuasivo y capaz de crear una conciencia entre la gente de que están siendo monitoreados y ayudar a reducir el nivel de infección diaria.
+
+16.4 Desafíos enfrentados durante la implementación
+
+Hubo una reducción mensual en el número de personas que visitan el Mercado CB sin llevar mascarillas. Los visitantes del Mercado CB han proporcionado retroalimentación de que la conciencia creada por el Sistema de Detección de Mascarillas les ha recordado llevar mascarillas en entornos congestionados para mitigar el Covid.
+
+En un período de dos meses, desde noviembre de 2021 hasta enero de 2022, el número diario promedio de personas que visitan el Mercado CB sin llevar mascarillas disminuyó.
+
+No hubo reclamos de sesgo por parte de los visitantes, ya que el sistema es autónomo sin intervención humana y uniforme para todos. Los guardias de seguridad pueden concentrarse en asistencia de alta calidad a los visitantes, como dirigirlos a la tienda o piso correcto, asistir a visitantes ancianos, etc., en lugar de monitorear continuamente a las personas por mascarillas.
+
+16.5 Impacto creado en la Ciudad
+
+Líderes de la Ciudad
+Crear conciencia sobre la salud y la covid entre la gente de manera autónoma sin intervención humana es una proposición viable.
+Los recursos humanos pueden ser liberados de trabajos rutinarios y repetitivos a través del uso de tecnología para brindar asistencia de alta calidad a los ciudadanos.
+
+Proveedores de Tecnología
+La demostración de la tecnología a través de un POC ayudó a justificar la solución, entrenar al algoritmo de IA y la implementación rápida del proyecto en el terreno.
+
+16.6 Lecciones clave aprendidas durante la implementación17.2 Papel de la IA en la SoluciónPCMC ha identificado los crecientes desafíos del tráfico y ha decidido abordarlos para garantizar la seguridad y seguridad del tráfico. Como primer paso, los funcionarios de la ciudad decidieron monitorear los vehículos capturando la placa de matrícula de los vehículos utilizando IA.
+
+Las cámaras ANPR se instalan en intersecciones de tráfico y autopistas. Cada vehículo que pasa bajo la cámara ANPR se captura automáticamente con la placa de matrícula y se almacena en la base de datos.
+
+Puntos clave de la implementación
+•Cada placa de matrícula de vehículo se capturará bajo Reconocimiento Automático de Placas de Matrícula, función de IA.
+
+17.1 Identificación del ProblemaPIMPRI CHINCHWAD
+Garantizando la Seguridad del Tráfico utilizando IA17
+46Una Prueba de Concepto (POC) se está llevando a cabo en 10-12 ubicaciones seleccionadas. Basándose en alarmas en tiempo real generadas y análisis de las alarmas, se están mejorando los resultados en los sitios de POC seleccionados. La implementación de análisis basados en inteligencia artificial en las ubicaciones de cámaras restantes se realizará posteriormente.
+
+Ecosistema de Soporte
+MSI: Consorcio liderado por Tech Mahindra
+Consultor: Ernst & Young LLP
+Cliente: PCSCL y PCMC IT y Telecom
+Proveedores de Tecnología:
+Videonetics Pvt Ltd
+
+17.3 Proceso de Implementación
+
+Escala de Despliegue
+Vigilancia Urbana y Cámaras de Tráfico en áreas identificadas de la ciudad:
+• Número de Ubicaciones: 606
+• Número de Cámaras Fijas de Caja: 1520
+• Número de Cámaras ANPR: 850
+• Número de Licencias de IA: 1000 (Dinámicas)
+• Identificación del sitio correcto para la implementación del caso de uso.
+• Configuración del caso de uso a nivel de cámara.
+• Capacitación del operador para la clasificación de alarmas y su experiencia práctica con el sistema.
+• Desafíos prácticos en el campo.
+• Rendimiento del operador con respecto al trabajo monótono.
+• Atención continua de los operadores.
+
+17.4 Desafíos enfrentados durante la implementaciónMejora en la generación de alarmas correctas y reducción de alarmas falsas. Dirección efectiva de alarmas correctas en un corto período de tiempo. 17.5 Impacto creado en la Ciudad
+
+{...}
+JS
+XML
+{.CODE};
+C++
+PHP
+Líderes de la Ciudad
+La confianza aumentó para el uso de IA en otras áreas urbanas.
+Proveedores de Tecnología
+Mejor comprensión de los requisitos del cliente, 
+obstáculos tecnológicos y formas de abordarlos.
+17.6 Aprendizajes clave desde la Implementación
+4818.2 Papel de la IA en la Solución
+
+18.1 Identificación del Problema
+
+La Corporación Municipal de Pimpri Chinchwad (PCMC) ha decidido mejorar la seguridad y la vigilancia de la ciudad, monitorear el movimiento de vehículos y detectar objetos abandonados en lugares públicos o restringidos para crear un lugar más seguro para sus ciudadanos.
+
+Se han instalado cámaras de vigilancia en diferentes ubicaciones y se han habilitado con la función de detección de intrusiones de IA. Cualquier tipo de intrusión o acceso no autorizado se detecta, y se crean alertas automáticas que se muestran inmediatamente en el Centro de Control.
+
+Las cámaras de vigilancia también se han habilitado con la función de detección de objetos abandonados de IA. Esto ayuda a identificar objetos sospechosos abandonados en lugares públicos o restringidos. Una vez detectados, se crean alertas automáticas que se muestran inmediatamente en el Centro de Control.
+
+PIMPRI CHINCHWAD
+Monitoreo de la seguridad de la ciudad utilizando IA18
+
+Puntos clave de la implementación
+
+• Se genera una alerta cuando se produce una intrusión de vehículos y se identifican objetos sospechosos dentro del área de vigilancia.
+• Se garantiza la seguridad y la seguridad en lugares públicos restringidos.
+
+Se está llevando a cabo un concepto de prueba (POC) en 10-12 ubicaciones seleccionadas. Basándose en las alarmas generadas en tiempo real y el análisis de las alarmas, se están mejorando los resultados en los sitios de POC seleccionados. La implementación de análisis basados en IA en las ubicaciones de cámaras restantes se realizará posteriormente.
+
+Ecosistema de apoyo
+MSI: Consorcio liderado por Tech Mahindra
+Consultor: Ernst & Young LLP
+Cliente: PCSCL y PCMC IT & Telecom
+Proveedores de tecnología:
+Videonetics Pvt Ltd
+
+18.3 Proceso de implementación
+49Escala de Despliegue
+Vigilancia Urbana en áreas identificadas de la ciudad:
+• Número de Ubicaciones: 606
+• Número de Cámaras Fijas de Caja: 1520
+• Número de Cámaras Fijas de Caja con FRS: 30
+• Número de Cámaras Domo: 383
+• Número de Cámaras PTZ: 160
+• Número de Licencias de IA: 4816 (Dinámicas)
+• Identificación del sitio correcto para la implementación del caso de uso.
+• Configuración del caso de uso a nivel de cámara.
+• Capacitación del operador para la clasificación de alarmas y su experiencia práctica en el sistema.
+• Desafíos prácticos en el campo.
+• Rendimiento del operador con respecto al trabajo monótono.
+• Atención continua de los operadores.
+
+18.4 Desafíos enfrentados durante la implementación
+50Mejora en la generación de alarmas correctas y reducción de alarmas falsas. Dirección efectiva de alarmas correctas en un corto período de tiempo. 18.5 Impacto creado en la Ciudad
+
+{...}
+JS
+XML
+{.CODE};
+C++
+PHP
+Líderes de la Ciudad
+La confianza aumentó para el uso de IA en otras áreas urbanas.
+Proveedores de Tecnología
+Mejor comprensión de los requisitos del cliente, 
+obstáculos tecnológicos y formas de abordarlos.
+18.6 Lecciones clave aprendidas de la Implementación
+5119.2 Papel de la IA en la Solución
+
+19.1 Identificación del Problema
+
+La ciudad de Varanasi, como parte de la identificación de las áreas de intervención clave, priorizó la seguridad de la ciudad mediante la supervisión de la intrusión de vehículos/público, etc., en ubicaciones del área de Cantonment, tierras de defensa y entrada y salida de la sede de la policía.
+
+La aplicación de análisis de video toma los datos de flujo como entrada - desde cámaras USB/CSI, video desde archivo, o transmisiones sobre RTSP, y utiliza IA y visión por computadora para generar conocimientos a partir de píxeles para una comprensión más profunda del entorno. Este diseño puede ser la capa de fundación para una variedad de soluciones de análisis de video, como comprender los patrones de tráfico de vehículos y movimientos públicos en ciudades. Se genera una alerta en tiempo real si el área es invadida. Útil para monitorear áreas aisladas/propiedades gubernamentales/ubicaciones del ejército.
+
+El marco comprende capacidades de procesamiento de flujo y por lotes. Cada componente de la capa de Análisis, Broker de Mensajes, Flujo, NoSQL y Índice de Búsqueda puede ser escalado horizontalmente. La tubería de análisis de flujo puede ser utilizada para procesos como detección de anomalías, alertas y cálculo de estadísticas como la tasa de flujo de tráfico. El procesamiento por lotes puede ser utilizado para extraer patrones en los datos, buscar anomalías en un período de tiempo y construir modelos de aprendizaje automático. Los datos se almacenan en una base de datos NoSQL para la gestión de estado, por ejemplo, la ocupación de un edificio, la actividad en una tienda o el movimiento público en una estación de tren. Esto también proporciona la capacidad para análisis forenses, si es necesario. Los datos pueden ser indexados para búsqueda y análisis de series temporales. La información generada por el procesamiento de flujo y por lotes se expone a través de una API estándar para visualización. La API puede ser accedida a través de REST, WebSocket o mensajería, según el caso de uso. La interfaz de usuario permite al usuario consumir toda la información relevante.
+
+VARANASI
+Asegurando la seguridad de la ciudad mediante la adopción de IA 19
+
+Puntos destacados clave de la implementación
+
+• Se genera una alerta a las autoridades correspondientes si alguna persona/vehículo/animal invade el área bajo supervisión.Se lanzó una solicitud de propuesta (RFP) y se completó la implementación total de la solución.
+
+Ecosistema de Soporte
+Equipo de Policía de Varanasi
+Proveedores de Tecnología:
+Efkon India Pvt Ltd
+
+19.3 Proceso de Implementación
+
+Escala de Despliegue
+Actualmente se ha desplegado en el área de tierra de defensa, sector de cantón, ubicaciones de entrada/salida de la sede de la policía.
+
+• La creación de una zona virtual en un entorno en vivo/trafico fue el mayor desafío enfrentado durante la implementación.
+
+19.4 Desafíos enfrentados durante la implementación
+
+Basándose en las alertas generadas, el equipo de respuesta puede actuar de inmediato. Las autoridades correspondientes son notificadas instantáneamente a través de SMS/correo electrónico.
+
+19.5 Impacto creado en la Ciudad
+53{...}
+JS
+XML
+{.CÓDIGO};
+C++
+PHP
+Líderes Municipales
+Monitoreo de Entradas/Salidas de 
+personas/vehículos/animales y seguimiento 
+fuera de horarios de oficina programados
+Seguimiento de áreas sensibles donde no se 
+permite el acceso no autorizado.Proveedores de Tecnología
+En la fase de implementación, el objeto real 
+que se requiere para entrenar el modelo de IA 
+se monitorea cuidadosamente para obtener 
+precisión adecuada.19.6  Lecciones clave desde la Implementación
+5420.2 Papel de la IA en la Solución
+20.1 Identificación del Problema
+
+La pandemia de COVID-19 ha sido un llamado de atención para las ciudades indias, lo que les ha hecho darse cuenta de la importancia real de monitorear la seguridad pública. La ciudad de Varanasi ha identificado áreas con grandes concentraciones de personas y ha decidido monitorear dichos lugares para tener un mejor control sobre ellos.
+
+La aplicación de análisis de video toma los datos de flujo como entrada - desde cámaras USB/CSI, video desde archivo o transmisiones sobre RTSP - y utiliza IA y visión por computadora para generar información a partir de píxeles para una mejor comprensión del entorno. Este diseño puede ser la capa de fundación para una variedad de soluciones de análisis de video y también se utiliza para monitorear los movimientos públicos en las ciudades. Se genera una alerta en tiempo real si el número de personas supera el recuento definido en un área específica.
+
+El marco comprende capacidades de procesamiento de flujo y por lotes. Cada componente de la capa de Análisis, Broker de Mensajes, Flujo, NoSQL y Índice de Búsqueda puede ser escalado horizontalmente. La tubería de análisis de flujo puede utilizarse para procesos como detección de anomalías, alertas y cálculo de estadísticas como la tasa de flujo de tráfico. El procesamiento por lotes se puede utilizar para extraer patrones en los datos, buscar anomalías a lo largo del tiempo y construir modelos de aprendizaje automático. Los datos se almacenan en una base de datos NoSQL para la gestión de estado, por ejemplo, la ocupación de un edificio, la actividad en una tienda o el movimiento público en una estación de tren. Esto también proporciona la capacidad para análisis forenses, si es necesario. Los datos se pueden indexar para análisis de búsqueda y serie temporal. La información generada por el procesamiento de flujo y por lotes se expone a través de una API estándar para visualización. La API se puede acceder a través de REST, WebSocket o mensajería, según el caso de uso. La interfaz de usuario permite al usuario consumir toda la información relevante.
+
+VARANASI
+IA en el Monitoreo de la Seguridad Pública
+durante la Pandemia20
+
+Puntos clave de la implementación
+
+• Se genera una alerta a las autoridades correspondientes si el número de personas supera el recuento normal y se hace un anuncio utilizando PA/VaMS para dispersar a la multitud en tales áreas.Se lanzó una solicitud de propuesta (RFP) y se completó la implementación total de la solución.
+
+Ecosistema de apoyo
+Equipo de la Policía de Varanasi
+Proveedores de tecnología:
+Efkon India Pvt Ltd
+
+20.3 Proceso de implementación
+
+Escala de despliegue
+Se desplegó durante momentos críticos, cuando el gobierno impone restricciones a las reuniones públicas durante el confinamiento por Covid, disturbios, etc.
+
+• La identificación de zonas virtuales requeridas en la ciudad fue un poco desafiante, ya que Varanasi y Aligarh están congestionadas con presencia de multitudes.
+
+20.4 Desafíos enfrentados durante la implementación
+
+Mejora de la supervisión del área, donde no se permite la reunión de multitudes, y ayuda al equipo de respuesta a actuar de inmediato.
+
+20.5 Impacto creado en la ciudad
+56{...}
+JS
+XML
+{.CODE};
+C++
+PHP
+Líderes Municipales
+Monitoreo de reuniones públicas durante el 
+período de confinamiento con anuncios inmediatos para dispersar la reunión.Proveedores de Tecnología
+Monitoreo del objeto real que se requiere 
+para entrenar el modelo de IA para obtener precisión adecuada durante la implementación.20.6  Lecciones clave aprendidas durante la Implementación
+5721.2 Papel de la IA en la Solución
+21.1 Identificación del Problema
+
+El GVMC tiene un área de 682 km² y una población de más de 20 lakh, lo que hace que monitorear toda la ciudad sea una tarea agotadora para el departamento de policía. La ciudad inteligente ha vislumbrado brindar una vida segura y segura para sus ciudadanos. Para lograr este objetivo y monitorear los delitos en toda la ciudad, se propuso una vigilancia robusta.
+
+Para hacer de Visakhapatnam una ciudad segura y segura, se instalaron 525 cámaras en toda la ciudad. De las 525 cámaras, 100 son cámaras PTZ (Pan Tilt Zoom). Las cámaras PTZ pueden girar hacia la izquierda y hacia la derecha, inclinarse hacia arriba y hacia abajo, y zoom in y out de una escena. Se utilizan comúnmente para monitorear áreas abiertas con una vista de 360 grados y pueden operarse a través de un controlador de cámara remoto.
+
+Se utilizó la IA para monitorear cualquier incidente inesperado, como multitudes o equipajes abandonados. La señal de video en vivo de las cámaras se procesa a través del Sistema de Gestión de Video (VMS), que detecta la multitud o el equipaje abandonado. Después de la detección, se activará una alerta en la aplicación COC.
+
+Un mecanismo de alerta junto con un Procedimiento Operativo Estándar se configura en la aplicación COC. Todos los funcionarios concernidos serán notificados a través de SMS y correo electrónico desde la aplicación COC.
+
+VISAKHAPATNAM
+Haciendo de la ciudad un lugar más seguro para vivir utilizando la IA 21
+58Puntos clave de la implementación
+
+•Alerta de sobrecarga: El operador del departamento de policía verificará el motivo de la reunión y asegurará que el lugar sea evacuado. El operador del COC supervisará continuamente la vigilancia hasta que se haya resuelto la sobrecarga. El Procedimiento Operativo Estándar (SOP) seguido por ICCC para una alerta de sobrecarga se muestra en la figura a continuación.
+
+•Alerta de equipaje no acompañado: El operador del departamento de policía verificará el motivo de la reunión y asegurará que el lugar sea evacuado. El operador del COC supervisará continuamente la vigilancia hasta que se haya resuelto la sobrecarga. El Procedimiento Operativo Estándar (SOP) seguido por ICCC para una alerta de sobrecarga se muestra en la figura a continuación.
+
+•Alerta de identificación de bomba: En caso de alerta de identificación de bomba, el operador del COC alertará a los ciudadanos a través del sistema de dirección pública (PAS) y pantallas de mensaje variable (VMD). El operador notificará al departamento de bomberos y servicio de ambulancia, junto con la supervisión de la situación a través de la vigilancia. Una vez que la situación esté bajo control, se cerrará la alerta. El Procedimiento Operativo Estándar (SOP) seguido por ICCC para una alerta de sobrecarga se muestra en la figura a continuación.
+
+El Proyecto de Ciudad Inteligente de Visakhapatnam tiene como objetivo la implementación de los siguientes componentes para lograr los objetivos:
+
+•Despliegue de various sensores (cámaras, sensores de infracción de tráfico, sensores de medio ambiente y clima) en toda la ciudad para mejorar la conciencia situacional.
+
+•Desarrollo de un centro de comando y comunicación para mejorar la visualización de la situación ambiental en la ciudad y facilitar la toma de decisiones basadas en datos. El objetivo de esta RFP es invitar ofertas de los licitadores para la implementación de una solución integrada.
+
+La solicitud de propuesta (RFP) consta de tres volúmenes, detallados a continuación:
+
+•RFP Volumen 1: Instrucciones para los licitadores.
+
+•RFP Volumen 2: Alcance del trabajo, incluyendo especificaciones funcionales y técnicas.
+
+•RFP Volumen 3: Acuerdo de servicio maestro.
+
+El contrato se otorgó a L&T en consorcio con Fluentgrid Limited después de la oferta exitosa.
+
+Ecosistema de apoyo
+
+Operador IMT
+Departamento de policía y
+División de tráfico, Departamento de bomberos, Servicio de EMRI
+Proveedores de tecnología:
+L & T Pvt. Ltd. y Consorcio Fluentgrid21.3 Proceso de implementación
+59•La conectividad de las cámaras de vigilancia se realizó a través de cables subterráneos. Visakhapatnam cuenta con importantes tuberías subterráneas y la ausencia de dibujos precisos de estas tuberías es el principal desafío enfrentado durante el trabajo de cableado subterráneo.
+•Visakhapatnam tiene un área de 682 km² y, debido a la gran extensión de los límites de GVMC, la viabilidad de la potencia y la viabilidad de la red para las ubicaciones remotas fue un trabajo desafiante. Para superar este problema, también se optó por otra red que tiene conectividad en lugares remotos.
+•La supervisión de los niveles de lux según la ubicación, la identificación de áreas con niveles de lux bajos y la instalación de iluminadores infrarrojos para 70 cámaras para capturar datos de manera más efectiva fue una tarea difícil.
+21.4 Desafíos enfrentados durante la implementación
+•El tiempo de respuesta para las emergencias se ha reducido drásticamente con la llegada de la función de vigilancia y la aplicación COC.
+•La vigilancia y el VMS están ayudando al departamento de policía a monitorear de manera efectiva lo que sucede en y alrededor de la ciudad.
+•Las cámaras de vigilancia ayudan a resolver delitos en períodos de tiempo más cortos. El reciente caso de secuestro de un niño de 4 días fue rastreado en menos de 24 horas utilizando la vigilancia CCTV.
+21.5 Impacto en la ciudad
+{...}
+JS
+XML
+{.CODE};
+C++
+PHP
+Líderes de la ciudad
+Los funcionarios, al darse cuenta del éxito, planificaron más actividades como estas para hacer que la ciudad sea un lugar mejor.
+Proveedores de tecnología
+Comprensión de los niveles de lux para las ubicaciones donde se debían instalar iluminadores infrarrojos.
+21.6 Lecciones clave aprendidas de la implementación
+Escala de la implementación
+Se instalaron 525 cámaras en 83 intersecciones importantes de la ciudad. De ellas, 100 son cámaras PTZ (cámaras de zoom panorámico). Se desplegaron 70 cámaras adicionales después de la implementación del proyecto. Se planea aumentar la escalabilidad según los requisitos futuros.GESTIÓN DE RESIDUOS22.2 Papel de la IA en la Solución
+22.1 Identificación del Problema
+Para hacer que cualquier ciudad sea más limpia, en primer lugar, es necesario abordar el problema urgente de los Residuos Sólidos. Varanasi, con el objetivo de hacer que su ciudad sea más limpia, ha planeado una mejor supervisión y gestión de los Residuos Sólidos y la basura, y tener un mejor control sobre los espacios.
+La aplicación de análisis de video toma los datos de flujo como entrada - desde cámaras USB/CSI, video desde archivo, o transmisiones sobre RTSP, y utiliza IA y visión por computadora para generar información a partir de píxeles para una mejor comprensión del entorno. Este diseño puede ser la capa de fundación para una variedad de soluciones de análisis de video y también se utiliza para monitorear los residuos sólidos en las ciudades. Ayuda a detectar la basura en las carreteras y a identificar el estado de los contenedores de basura (lleno/vacío).
+El marco comprende capacidades de procesamiento de flujo y por lotes. Cada componente de la capa de Análisis, Broker de Mensajes, Flujo, NoSQL y Índice de Búsqueda puede ser escalado horizontalmente. La tubería de análisis de flujo puede ser utilizada para procesos como la detección de anomalías, alertas y cálculo de estadísticas como la tasa de flujo de tráfico. El procesamiento por lotes puede ser utilizado para extraer patrones en los datos, buscar anomalías en un período de tiempo y construir modelos de aprendizaje automático. Los datos se almacenan en una base de datos NoSQL para la gestión de estado, por ejemplo, la ocupación de un edificio, la actividad en una tienda o el movimiento público en una estación de tren. Esto también proporciona la capacidad para análisis forense, si es necesario. Los datos pueden ser indexados para búsqueda y análisis de series temporales. La información generada por el procesamiento de flujo y por lotes se expone a través de una API estándar para visualización. La API puede ser accedida a través de REST, WebSocket o mensajería, según el caso de uso. La interfaz de usuario permite al usuario consumir toda la información relevante.
+
+VARANASI
+Esfuerzos para hacer que la ciudad sea más limpia
+usando IA 22
+Puntos clave de la implementación
+•Genera una alerta en tiempo real a las autoridades correspondientes como la Corporación Municipal, el equipo de Gestión de Residuos Sólidos, Nagar Nigam a través de correo electrónico, SMS, etc.•Se lanzó una solicitud de propuesta (RFP) y se completó la implementación total de la solución.
+Ecosistema de Soporte
+Ciudad Inteligente de Varanasi
+Proveedores de Tecnología:
+Efkon India Pvt Ltd
+22.3 Proceso de Implementación
+Escala de Despliegue
+Se instalaron 525 cámaras en 83 intersecciones principales de la ciudad. De ellas, 100 son cámaras PTZ (Pan Tilt Zoom). Se desplegaron 70 cámaras adicionales después de la implementación del proyecto. La escalabilidad se planifica aumentar según los requisitos futuros.
+•No se enfrentaron desafíos importantes durante la implementación.22.4 Desafíos enfrentados durante la implementación
+•El equipo responsable asegura que se limpie la basura en la calle o vacíe los contenedores de basura una vez que se reciben las alertas, lo que hace que el lugar esté más limpio en un corto tiempo.22.5 Impacto creado en la Ciudad
+{...}
+JS
+XML
+{.CODE};
+C++
+PHP
+Líderes de la Ciudad
+Contribuye a las misiones de Ciudad Limpia y Verde
+Respuesta rápida y mejorada del equipo para eliminar montones de basura, etc.
+Proveedores de Tecnología
+Se observó que durante la fase de implementación se identificó el objeto real que se requiere para entrenar el modelo de IA para obtener precisión adecuada.22.6 Lecciones clave aprendidas durante el Despliegue23.2 Papel de la IA en la Solución
+23.1 Identificación del Problema
+
+El desperdicio sólido ha sido una gran preocupación en la ciudad de Visakhapatnam. Debido al vasto área de la ciudad, monitorear la recolección de basura de cada contenedor fue una tarea hercúlea. Los funcionarios de GVSCCL buscaron crear "Una Metrópolis Resiliente y Saludable para la Gente" abordando el problema.
+
+Para abordar el problema identificado, se instalaron contenedores semisubterráneos con sensores de volumen basados en IOT en el área de ABD. Estos sensores se utilizan para detectar el nivel de desperdicio en el contenedor. Se utiliza monitoreo de recolección de basura con etiquetas RFID para contenedores compactores y GPS para las máquinas de pesaje de basura. Utilización inteligente de contenedores para monitorear el desperdicio generado.
+
+Los contenedores se integran en la aplicación COC. Una vez que el volumen alcanza más del 90%, se notifica al vehículo de recolección de basura. El contenedor se recogerá dentro del Acuerdo de Nivel de Servicio (SLA) para asegurarse de que no haya desbordamiento de basura.
+
+Están diseñados para asegurarse de que no haya derramamiento al tirar la basura o al levantar la basura. Para adherirse a los principios de segregación de fuentes de Swachh Bharat, se desplegaron dos contenedores separados para residuos húmedos y secos.
+
+VISAKHAPATNAM
+Creando una Metrópolis Saludable
+usando IA 23
+64Destacados clave de la implementación
+•Se desplegaron 50 contenedores con una capacidad de volumen de 1 tonelada en toda la ciudad.
+•Servicio automático y bajo demanda utilizando sensores volumétricos.
+•Alertas basadas en reglas.
+•Rastreo proactivo de 525 vehículos y asignación dinámica de rutas de vehículos.
+•Alerta de contenedor perdido.
+•Registro de peso en tiempo real en la estación de transferencia
+
+Proyecto de Ciudad Inteligente de Visakhapatnam tiene como objetivo desplegar los siguientes componentes para lograr los objetivos:
+•Despliegue de various sensores (cámaras, sensores de infracciones de tránsito, sensores ambientales y climáticos) en toda la ciudad para mejorar la conciencia situacional.
+•Desarrollo de un centro de comando y comunicación para mejorar la visualización de la situación ambiental en la ciudad y facilitar la toma de decisiones basadas en datos.
+
+La intención de esta solicitud de propuesta (RFP) fue invitar ofertas de los licitadores para la implementación de una solución integrada.
+
+La solicitud de propuesta (RFP) consta de tres volúmenes detallados:
+•RFP Volumen 1: Instrucciones para los licitadores.
+•RFP Volumen 2: Alcance del trabajo, incluyendo especificaciones funcionales y técnicas.
+•RFP Volumen 3: Acuerdo de servicio maestro.
+
+El contrato se otorgó a L&T en consorcio con Fluentgrid Limited después de la licitación exitosa.
+
+Ecosistema de apoyo
+Operadores de SWM, PHD
+Equipos de recolección de basura
+Proveedores de tecnología:
+L & T Pvt. Ltd. y Consorcio Fluentgrid
+
+23.3 Proceso de implementación
+Escala de despliegue
+•Instalación de GPS para 525 vehículos.
+•50 contenedores semisubterráneos con monitoreo de sensores IoT y etiquetas RFID.
+65•El cambio de comportamiento en los ciudadanos para la segregación de fuentes es el mayor desafío enfrentado durante la implementación.
+•La asignación dinámica de rutas de vehículos para optimizar la eficiencia de la recolección de basura fue un obstáculo al implementar el proceso.23.4  Desafíos enfrentados durante la implementación
+•Con el advenimiento de los contenedores semienterrados, la limpieza visible en torno a los contenedores de basura ha mejorado.
+•Las quejas relacionadas con el desbordamiento de basura se han reducido significativamente en las áreas donde se han desplegado contenedores semienterrados.23.5  Impacto creado en la Ciudad
+{...}
+JS
+XML
+{.CODE};
+C++
+PHP
+Líderes de la Ciudad
+Respuesta rápida y mejorada del equipo para eliminar 
+desechos, basura, etc.
+Reducción de quejas por basura.
+Mejora de la calidad de los barrios donde se han desplegado los contenedores.Tecnólogos
+Optimización de la eficiencia de la recolección de basura de la mejor manera posible.23.6  Lecciones clave aprendidas durante la implementaciónEDUCACIÓN24.2 Papel de la IA en la Solución24.1 Identificación del Problema
+
+La ciudad de Belagavi ha identificado que solo el 4% de los estudiantes leen y el 96% no lo hace dentro de la ciudad. Tras el análisis, se observó que la principal razón detrás de esto es que el libro no es lo suficientemente emocionante o la historia no es de su agrado. Los funcionarios de la ciudad tomaron medidas para cambiar este patrón entre los ciudadanos y los estudiantes.
+
+Con la intención de abordar el problema identificado en un corto período de tiempo, los funcionarios de la ciudad consideraron que la intervención tecnológica es la mejor solución posible que puede maximizar el resultado. Se seleccionaron proveedores de soluciones tecnológicas para la implementación de aprendizaje profundo, análisis y tecnología de IA.
+
+Utilizando aprendizaje profundo y análisis, se capturaron el estado de ánimo, el entusiasmo por la lectura y las áreas de interés. Miles de líneas de código se encuentran dentro de los eBooks (el estándar EPUB admite código activo dentro de los eBooks y es compatible con Windows, Linux, Mac, Android e iOS), que evalúan el comportamiento del lector y lo alimentan al algoritmo de IA. Con base en la sugerencia del algoritmo de IA, los párrafos de la historia cambian dinámicamente según el interés del lector.
+
+También cambia el vocabulario de las páginas futuras, según la búsqueda de palabras del diccionario del estudiante para hacerlo fácilmente legible. Lo mismo se implementa utilizando eBooks activos para exámenes competitivos de manera que el eBook automáticamente proporciona preguntas más sutiles utilizando diferentes técnicas cognitivas basadas en análisis de competencia. El algoritmo de aprendizaje profundo cognitivo enviará los datos a un algoritmo de aprendizaje de IA sentado dentro de los eBooks.
+
+BELAGAVI
+Adoptar IA para Habilitar
+la Educación Digital 24
+Aprendizaje profundo
+& AnálisisAnalizando el comportamiento del usuarioAlgoritmo de IA Cambios de vocabularioGenerando
+Interés
+68Destacados clave de la implementación
+
+•Capacidad de trabajar fuera de línea y en cualquier lector de eBooks.
+•El aprendizaje de idiomas también se implementó utilizando aprendizaje automático y IA. Se implementaron cinco idiomas utilizando tarjetas de flash electrónicas que tienen cientos de líneas de código activo que funcionan en tandem con el algoritmo de aprendizaje. Como un fenómeno común, utilizando la lengua materna para traducir y aprender otros idiomas, la IA asegura que el efecto negativo de la traducción no se cuele.
+•Se utilizaron técnicas cognitivas (como sondeo, laberinto, Feynman, Hipocampo) para alimentar los algoritmos de aprendizaje profundo.
+•Cada tarjeta de flash electrónica viene con el nombre del aprendizaje en la parte superior y detecta las deficiencias de los aprendices.
+
+Se lanzó una solicitud de propuesta (RFP). Se realizó una prueba de concepto (POC) y se llevó a cabo la implementación completa. Los eBooks han estado en uso desde el 26 de septiembre de 2021. Se seleccionó al proveedor que demostró el uso más efectivo y cuya tecnología puede funcionar fuera de línea para la implementación.
+
+Ecosistema de soporte
+PMC-MSI-Ostillio Systems Pvt. Ltd, Ciudad Inteligente de Belagavi.
+
+Proveedores de tecnología:
+Johan Brown Pvt Ltd y Nestor Analytics
+
+23.3 Proceso de implementación
+
+Escala de despliegue
+•En la actualidad, es una biblioteca electrónica con 3 pisos. Ahora se está escalando la implementación para estudiantes de preprimaria y primaria en su aprendizaje cognitivo.•Los datos de aprendizaje son impulsados individualmente en la mayoría de los casos. El 90% de los usuarios visitan la biblioteca para prepararse para los exámenes.
+•La recopilación de datos para exámenes competitivos es un proceso que consume tiempo y se está realizando rápidamente.
+•Inicialmente, los lectores públicos y ávidos estaban escépticos sobre el valor agregado que la IA aporta hasta que lo experimentaron en la biblioteca electrónica 24.4 Desafíos enfrentados durante la implementación
+•Primera Biblioteca Pública en el país en implementar eBooks coautorados por humanos y Inteligencia Artificial. Las ediciones se llaman ediciones hAI (creadas con la ayuda de IA).
+•Una muestra de 20 maestros que fueron entrenados vieron una mejora en su pedagogía, lo que se reflejó en el aprendizaje y la retención de los estudiantes. Alrededor de 70 estudiantes que se preparaban para exámenes competitivos vieron una mejora en el tiempo (rapidez) del 12% en 2 semanas y una mejora en las puntuaciones del 18% en 2 semanas. También ayudó a aumentar la confianza de los jóvenes maestros menores de 30 años.
+•Varios administradores escolares han alcanzado la gestión de la ciudad inteligente y han solicitado proporcionar una réplica en el campus de la biblioteca electrónica inteligente, lo que la hace accesible para los niños de la escuela. Las escuelas están dispuestas a pagar una cuota de suscripción a la ciudad inteligente.
+•Los eBooks cuyas imágenes, portada, etc. fueron creadas por IA y utilizan código AI activo, se crearon en nombre del Secretario Jefe, Estado de Karnataka. Todos los eBooks de IA se personalizan con el nombre del lector en la portada y en el interior como el protagonista y son gratuitos para los ciudadanos.24.5 Impacto creado en la ciudad
+{...}
+JS
+XML
+{.CODE};
+C++
+PHP
+Líderes de la ciudad
+La IA en el aprendizaje de lenguas, la preparación para exámenes competitivos y la lectura es muy útil y está haciendo avances importantes. 
+Belagavi está utilizando los datos de aprendizaje recopilados para hacer que sea mejor para los estudiantes para ganar habilidades cognitivas y obtener mejores resultados en los exámenes. Nuevos algoritmos que se están desplegando incluyen lógica difusa.
+Proveedores de tecnología
+Los algoritmos fuera de línea son clave. Las redes neuronales convolucionales tradicionales no funcionarán en modo fuera de línea.
+Los proveedores deben utilizar la recopilación de datos ligera para asegurarse de que los dispositivos personales no tengan su almacenamiento lleno.24.6 Aprendizajes clave de la implementación
+7025.2 Papel de la IA en la Solución
+25.1 Identificación del Problema
+
+En las clases convencionales, los datos relacionados con la atención de los estudiantes, su perseverancia y asistencia solo eran capturados por los maestros. Resultaba difícil considerando que la relación maestro-estudiante no era adecuada en muchas escuelas. Además, se experimentó que los maestros no estaban siendo eficientes en este sentido. Además, el tiempo que los maestros pasaban en clases, su asistencia, regularidad a las clases y utilización de recursos no estaban siendo registrados.
+
+Al utilizar la tecnología de IA, los siguientes parámetros clave se mostrarían en un tablero que sería monitoreado por los stakeholders. Se tomarían medidas necesarias si fuera requerido.
+
+Comportamiento de los Estudiantes:
+• Estimación de la atención percibida de los estudiantes en el aula.
+• Análisis del comportamiento en el aula: correr, peligro, luchar, caerse.
+• Análisis del estado de ánimo y emociones de los estudiantes.
+• Asistencia con una marca de tiempo de entrada, salida y duración de la presencia dentro del aula para los estudiantes.
+
+Comportamiento del Maestro:
+• Utilización efectiva de la pizarra electrónica y la pizarra blanca/negra.
+• Tiempo pasado interactuando con los estudiantes.
+• Tiempo pasado inactivo, en el teléfono, sentado, charlando con otros miembros del personal, etc.
+• Asistencia de los maestros y regularidad a las clases.
+• Análisis de castigos y acoso.
+
+PIMPRI CHINCHWAD
+Adoptar IA para Medir la Efectividad Educativa en Aulas Municipales 25
+
+Puntos Destacados de la Implementación
+
+• Se instalaron dos cámaras en cada aula. Una de las dos cámaras se instaló encima de la pizarra blanca/pizarra electrónica, mientras que la otra se colocó en la pared opuesta a la primera cámara.
+• La cámara instalada encima de la pizarra blanca/pizarra electrónica capturó datos de los estudiantes, mientras que la otra cámara capturó datos de los estudiantes y los maestros respectivamente. Los datos capturados se transmitieron a un servidor donde se instaló software de análisis de IA. Posteriormente, se realizaron análisis y se generaron informes.
+• Debido a las pautas de covid, los maestros y los estudiantes cubren sus caras con máscaras. Por lo tanto, la función de reconocimiento facial no está habilitada. Esto se implementará en todas las escuelas una vez que se levanten las restricciones.Análisis de educación basado en inteligencia artificial fue un componente del proyecto de aula municipal. Actualmente, esto se ha implementado en una base piloto. El ofertante fue seleccionado a través de un proceso de licitación competitiva abierta para implementar el proyecto.
+
+Ecosistema de apoyo
+Departamento de Educación y Departamento de IT de PCMC
+Consultor: KPMG Advisory Services Pvt Ltd.
+Proveedores de tecnología:
+Bennett Coleman & Co. Ltd. en consorcio con Edique Solutions Pvt Ltd.
+
+25.3 Proceso de implementación
+Escala de despliegue
+•En la actualidad, el análisis de educación se llevó a cabo en 3 escuelas y 18 aulas.
+•Demora en la implementación debido a la pandemia de Covid con muchas restricciones impuestas
+•Demora en la generación de informes en un servidor ubicado en el Centro de Comando y Control
+•Falta de infraestructura de internet adecuada
+
+25.4 Desafíos enfrentados durante la implementación
+•Se recibió datos relacionados con la atención y emociones de los estudiantes como se esperaba.
+•Los maestros siendo monitoreados a través de cámaras, hubo una gran mejora en su compromiso con los estudiantes durante las clases. Esto es un aspecto positivo para las escuelas municipales.
+•Los directores y supervisores pudieron monitorear y proporcionar instrucciones necesarias después de recibir los datos analizados.
+•Se propone desarrollar un sistema de apoyo a la toma de decisiones (DSS).
+
+25.5 Impacto creado en la ciudad
+72{...}
+JS
+XML
+{.CÓDIGO};
+C++
+PHP
+Líderes Municipales
+Requisito de recursos como internet, 
+mejora de la infraestructura se puede identificar 
+antes de la implementación para facilitar el proceso.Proveedores de Tecnología
+La transmisión de imágenes a intervalos determinados puede 
+suficiente para satisfacer el requisito.
+Un servidor local en cada escuela necesita ser 
+desplegado en lugar de transmitir los datos directamente 
+desde las cámaras al servidor central.  
+Los datos deben almacenarse al menos durante 7 días en 
+un servidor diferente y los informes deben almacenarse 
+permanentemente en otro servidor. 
+El análisis en tiempo real es difícil de practicar en 
+operaciones diarias, pero se espera que evolucione/madure 
+con el tiempo.25.6  Lecciones clave aprendidas durante la implementación
+73E-GOBERNANZA26.2 Papel de la IA en la Solución
+26.1 Identificación del Problema
+Para registrar múltiples quejas departamentales, los ciudadanos necesitan visitar varios departamentos o sitios web o marcar varios números. El chatbot facilita la diseminación de datos y la resolución de quejas desde una sola plataforma, sin intervención humana.
+Al utilizar la tecnología de IA, se facilitarán los siguientes servicios:
+• Registro de quejas de múltiples departamentos y envío a los departamentos respectivos para su resolución.
+• El estado de las quejas de varios departamentos que se integran en este sistema se puede obtener desde esta plataforma.
+BENGALURU
+Adoptando IA para mejorar los servicios de aplicación de la ley
+26 Destacados clave de la implementación
+• Se ha integrado la funcionalidad de chatbot precisa en el Portal Web de la Ciudad Inteligente de Bengaluru. La implementación en la aplicación móvil de la Ciudad Inteligente de Bengaluru y en el Portal de Datos Abiertos está en curso.
+• Un ciudadano puede obtener información o registrar una queja y obtener una respuesta sin intervención humana.
+El proyecto se implementó a través del proceso de RFP y fue para una implementación completa sin POC.
+Ecosistema de Soporte
+Azure, Bengaluru Smart City Ltd. (BenSCL).
+Corporación de Desarrollo de Infraestructura (Karnataka). iDeck
+Proveedores de tecnología:
+Fluent Grid
+26.3 Proceso de Implementación
+Escala de Despliegue
+• En la actualidad, se ha desplegado como portal web, aplicación móvil, Portal de Datos Abiertos.
+75•Recolectar datos de múltiples departamentos para difundirlos.26.4  Desafíos enfrentados durante la implementación
+•Sin contacto físico, los ciudadanos pueden presentar quejas para múltiples departamentos desde una sola ventana interactiva.
+•Los datos pueden obtenerse sin intervención humana.26.5  Impacto creado en la Ciudad
+</>
+{...}
+JS
+XML
+{.CODE};
+C++
+PHP
+Líderes de la Ciudad
+Nueva intervención tecnológica para apoyar a los ciudadanos.Proveedores de Tecnología
+Desplegando Chatbot en diferentes entornos 
+como portal y aplicación móvil.26.6  Lecciones clave aprendidas durante la implementación
+7627.2 Papel de la IA en la Solución
+27.1 Identificación de Problemas
+Monitoreo de quejas en redes sociales para comprender la opinión de los ciudadanos hacia la administración urbana.
+Utilizando tecnología de IA, los siguientes parámetros clave se mostrarían en un tablero que sería monitoreado por los stakeholders y se tomarían medidas necesarias, si fuera requerido.
+•Total de tweets capturados
+•Número de tweets positivos
+•Número de tweets negativos
+•Número de tweets neutrales
+•Tendencia de sentimiento
+•Los 5 tweets más gustados
+•Los 5 tweets más retuiteados
+BENGALURU
+Adoptando IA para Análisis de Sentimiento
+de los ciudadanos 27
+Puntos clave de la implementación
+•El sistema ICCC se integrará con la Solución y proporcionará análisis basados en la alimentación de redes sociales recopilada de datos abiertos de Facebook, Twitter, etc.
+•Recolectando y generando elementos de acción mediante la apertura de incidentes en tiempo real.
+El proyecto se implementó a través de un proceso de RFP y fue para una implementación completa sin POC.
+Ecosistema de Soporte
+Bengaluru Smart City Ltd. (BenSCL).
+Consultor: iDeck,
+Manejo de redes sociales de departamentos de línea integrados con ICCC.
+Proveedores de tecnología:
+Fluent Grid27.3 Proceso de Implementación
+77Escala de Implementación
+
+• Actualmente, el sistema está instalado e integrado con el Tablero de ICCC
+• Integrar las cuentas sociales con ICCC fue muy desafiante27.4  Desafíos enfrentados durante la implementación
+• La Solución interactúa con ICCC para generar incidentes de quejas frecuentes.
+• La Solución sugiere y destaca los sentimientos positivos y negativos27.5  Impacto creado en la Ciudad
+{...}
+JS
+XML
+{.CODE};
+C++
+PHP
+Líderes de la Ciudad
+Proporciona varios informes periódicos, análisis de tendencias y visualizaciones.Proveedores de Tecnología
+Manejan publicaciones diarias y categorizan el contenido con niveles de clasificación de riesgo con filtros y opciones de ordenación.27.6  Lecciones clave aprendidas de la Implementación
+7828.2 Papel de la IA en la Solución
+28.1 Identificación del Problema
+La Corporación Municipal de Jaipur identificó un desafío para resolver la disponibilidad del equipo en el lugar para ofrecer servicios. La idea principal es evaluar la productividad del equipo y los resultados de la tarea, ya que actualmente los factores que afectan estos aspectos permanecían desconocidos.
+
+A través del Sistema de Gestión de Tiempo y Asistencia, los funcionarios de Nagar Nigam Jaipur (Heritage) revisaron eficientemente la asistencia de los empleados, el desempeño, las evaluaciones y el cálculo de los salarios mensuales. La práctica del sistema de proxy y la asistencia manual llevó a una gran pérdida de tiempo para los trabajadores, siguiendo un sistema de cola y luego moviéndose a diferentes ubicaciones de trabajo para realizar sus deberes. Este problema se superó con la solución basada en IA. Con este sistema en lugar, todos los trabajadores pueden marcar su asistencia desde cualquier otra zona en tiempo real y estar disponibles para el deber de inmediato. JAIPUR
+La IA juega un papel importante en el sistema de gobernanza efectivo
+28
+Puntos clave de la implementación
+• Registro de tiempo preciso
+• Fácil de integrar con el sistema existente
+• Datos de hora de entrada y salida en tiempo real
+• Compatible con cualquier sistema de nómina
+• Elimina la manipulación de datos
+• Gestión de ausencias y permisos
+• Calcula el tiempo extra
+• Proceso de asistencia ahorrador de tiempo
+• Sistema de gestión de asistencia sin problemas
+• Asignación de recursos efectiva
+
+La solución se llevó a cabo a través de una RFP "Sistema de Reconocimiento Facial Basado en Tiempo y Asistencia", donde se pidió al oferente calificado que presentara una demostración de la máquina en la oficina de la Ciudad Inteligente para monitorear la funcionalidad general.28.3 Proceso de Implementación
+79Ecosistema de Apoyo
+Jaipur Nagar Nigam (Patrimonio) / Jaipur Ciudad Inteligente Limitada
+Consultor: - Egis India Consulting & Engineers Ltd
+Proveedores de Tecnología:  
+Fluent Grid
+Escala de Despliegue
+•En la actualidad, la solución se ha desplegado en todas las oficinas de distrito de Jaipur Nagar Nigam Heritage.
+•No se enfrentaron desafíos importantes durante la implementación, aparte de dirigir la mano de obra hacia la utilización del sistema, lo que fue un poco difícil considerando la adaptabilidad de la tecnología en reemplazo de procesos tradicionales.28.4 Desafíos enfrentados durante la implementación
+•Las agencias pueden ahora cuantificar los datos que se analizan según la base de marca de tiempo.
+•Esto ayuda en la asignación efectiva de recursos y movilización según las necesidades.28.5 Impacto creado en la Ciudad
+</>
+{...}
+JS
+XML
+{.CÓDIGO};
+C++
+PHP
+Líderes de la Ciudad
+La adopción de tecnología de vanguardia en lugar de procesos tradicionales puede aumentar la productividad y tiene un impacto positivo dentro del sistema.Proveedores de Tecnología
+Todas las oficinas de distrito necesitan conectarse a través de Mesh y UI, lo que estará disponible para los oficiales a cargo para una mejor supervisión y para emprender acciones responsables.28.6 Lecciones clave aprendidas del Despliegue
+8029.2 Papel de la IA en la Solución
+
+29.1 Identificación del Problema
+
+La Corporación Municipal de Pune identificó un desafío para resolver las discrepancias en la recopilación del impuesto sobre la propiedad y la identificación de las propiedades no evaluadas dentro del área de la corporación. La idea principal es lograr una mejora continua en la base de datos del impuesto sobre la propiedad y desarrollar un proceso que optimice tareas automáticamente sin intervención humana.
+
+La evaluación del impuesto sobre la propiedad basada en tecnología de IA es una iniciativa innovadora y única para el problema de la Corporación Municipal de Pune. Reduce los errores causados por las limitaciones humanas. La base de datos de propiedades georreferenciadas, que se actualiza cada 6 meses, se alimenta a un motor basado en IA, donde se identifican las discrepancias (filtraciones de propiedades) y, en función de ellas, el equipo inspecciona dichas propiedades en el terreno.
+
+PUNE
+La IA impulsa la eficiencia en la Evaluación del Impuesto sobre la Propiedad 29
+
+Puntos clave de la implementación
+
+• Detecta las filtraciones en la recopilación del impuesto sobre la propiedad.
+
+La implementación de SI se realizó a través de una solicitud de propuesta. El oferente que demostró una mejor funcionalidad de Aprendizaje Automático (ML) y diferentes técnicas de ML, como el Aprendizaje Profundo (DL), fue calificado para implementar la solución.
+
+Ecosistema de Apoyo
+SI - M/s. La Mere Business Private Ltd,
+Consultor - Ernst and Young LLP,
+Equipos municipales - Departamento de TI de PMC, Departamento de Impuesto sobre la Propiedad de PMC.
+Proveedores de Tecnología:
+Fluent Grid
+
+29.3 Proceso de Implementación
+
+Escala de Despliegue
+• En la actualidad, la solución se despliega en la jurisdicción de PMC, inicialmente se inició con 2 distritos de PMC.•Uno de los principales desafíos fue la recopilación de requisitos del departamento, la disponibilidad de datos para aplicar la IA, brechas de conocimientos en el dominio en el momento de la preparación de la RFP, política rígida de varios departamentos para compartir los datos.
+•La integración de datos de la aplicación de encuesta de impuesto a la propiedad y datos de ciudadanos es desafiante.
+
+29.4 Desafíos enfrentados durante la implementación
+
+•Mejora en la recaudación de impuestos a la propiedad.
+•Incremento de la recaudación mediante la detección de construcciones ilegales.
+•El algoritmo de aprendizaje automático (ML) sigue mejorando y mejorando año tras año.
+
+29.5 Impacto creado en la Ciudad
+
+{...}
+JS
+XML
+{.CODE};
+C++
+PHP
+Líderes de la Ciudad
+La tributación de la propiedad es la principal fuente de ingresos para los gobiernos locales. Si se diseña bien, puede contribuir a la equidad social debido a su naturaleza progresiva.
+Procesamiento automatizado en tiempo real de la evaluación de la propiedad.
+Proveedores de tecnología
+La inteligencia artificial, el aprendizaje automático y la imagen satelital pueden proporcionar los datos necesarios para que los gobiernos gestionen efectivamente los impuestos a la propiedad de manera más rápida y eficiente.
+La integración de bases de datos departamentales en un algoritmo basado en IA resultará en una toma de decisiones mejorada no solo para los impuestos a la propiedad, sino también para otros departamentos.
+
+29.6 Lecciones clave aprendidas durante la implementación
+82ENERGÍA30.2 Papel de la IA en la Solución
+30.1 Identificación de Problemas
+Se instalaron Postes Inteligentes Avanzados en toda la ciudad de Bhopal Smart City con la visión de resolver los siguientes problemas de la administración de la ciudad.
+a- Control de luces de calle para optimizar la energía.
+b- Señal en vivo de la cámara para conciencia situacional.
+c- Tablero digital - para la difusión oportuna de información a los ciudadanos.
+d- Monitoreo de sensores ambientales para la recopilación de datos de calidad del aire.
+La ciudad de Bhopal ha instalado una solución de tecnología de ciudad inteligente impulsada por inteligencia artificial (IA). La innovadora solución impulsada por IA proporciona a las agencias del sector público y los proveedores de aplicación de la ley capacidades de análisis de datos de próxima generación. Esto mejorará la planificación urbana, el tráfico y la aplicación de la ley, la seguridad pública, la protección del medio ambiente, el acceso a Wi-Fi y más.
+• Utilizando los sensores ambientales instalados en los Postes Inteligentes, la administración de la ciudad determina la calidad del aire. Los datos recopilados se analizan posteriormente a través de intervenciones tecnológicas para determinar la calidad del aire de un área en particular y se proponen medidas preventivas necesarias.
+• La ciudad está determinando el consumo de energía de las luces de calle LED inteligentes a través de los Postes Inteligentes y analizando qué medidas adicionales se pueden tomar para optimizarlo.
+• Utilizando intervenciones tecnológicas a través del Poste Inteligente, la señal en vivo de la cámara se utiliza por el operador de ICCC para la conciencia situacional en varios dominios, como transporte público, medio ambiente, recolección de residuos sólidos.
+
+BHOPAL
+Instala Postes Inteligentes con IA
+En toda la ciudad 30
+Puntos destacados de la implementación
+• Utilizando tecnologías de vanguardia como IA/ML, IoT, estos postes han demostrado ser beneficiosos para ayudar a la administración de la ciudad a proporcionar conciencia situacional en dominios como transporte público, medio ambiente, recolección de residuos sólidos, etc.
+• La solución de poste inteligente comprende una red de elementos de infraestructura clave con una combinación de sensores y dispositivos periféricos que se pueden administrar a través de Internet para monitorear y controlar las luces de calle.
+• Detección de objetos - Animales, Humanos, Coches, Camiones, Autobuses
+• Panel de control intuitivo para administrar contenido y realizar análisis de activos para la optimización del ROI.Según los términos del RFP, el Polo Inteligente consta de sensores ambientales, Wi-Fi, cámaras, luces de calle inteligentes LED y punto de carga de vehículos eléctricos. Todos estos componentes están conectados e integrados con el Centro de Control de la Ciudad (ICCC), donde los operadores monitorean regularmente situaciones de tráfico, condiciones ambientales, condiciones de las luces de la calle y, utilizando intervenciones tecnológicas adicionales, se procesa y analiza los datos recopilados para proporcionar entradas accionables a la administración de la ciudad para actuar.
+
+Ecosistema de apoyo
+Integrador de sistemas maestro (MSI):
+Implementación Corporación de Desarrollo de la Ciudad Inteligente de Bhopal, Ericsson, BMC
+Proveedores de tecnología:
+OEM: Bharti Infratel30.3 Proceso de implementación
+Escala de despliegue
+•Instalación de polos inteligentes en toda la ciudad: 150 polos inteligentes instalados y 400 polos inteligentes por instalar.
+•Instalación de luces de calle LED: 20,000 luces de calle LED por instalar, reemplazando las lámparas de sodio y mercurio convencionales.
+•87 polos inteligentes desplegados con sensores ambientales.
+•El mayor desafío fue recopilar los datos de las luces LED existentes, el estado del poste y el panel de alimentación. Debido a que el área de la ciudad es grande y se instalaron varios tipos de luces de calle previamente, la encuesta del conjunto existente con requisitos de iluminación fue una tarea difícil.
+•BSCDCL ha designado a una agencia externa, ERDA, para realizar una encuesta completa del proyecto de luces de calle LED para recopilar información sobre los requisitos de iluminación y el conjunto existente. Por otro lado, el concesionario designado para la instalación de luces LED también realizó una encuesta para proporcionar la solución adecuada. El concesionario realizó una encuesta de las luces de calle existentes y componentes relevantes.
+•Se observaron muchas instalaciones existentes con postes antiguos y soportes dañados.
+•El reemplazo de los soportes y postes existentes fue un gran desafío.
+•Hubo un desafío para encender/apagar remotamente las luces de la calle para ahorrar energía, y otro desafío fue identificar las luces de la calle defectuosas y su ubicación.
+•Identificación de puntos para la instalación de polos para que los beneficios del polo inteligente se puedan transmitir a los residentes de la ciudad, y la infraestructura de energía diseñada pueda ser utilizada por operadores de telecomunicaciones.30.4 Desafíos enfrentados durante la implementación
+85•La implementación de luces de calle LED ayudó a mejorar la calidad de vida de los residentes de la ciudad mediante la mejora de la iluminación de la ciudad.
+•El poste inteligente cuenta con baterías de iones de litio para eliminar el generador diésel como fuente de poder secundaria. La batería de iones de litio proporciona respaldo durante las interrupciones de electricidad.
+•Las redes de fibra óptica en toda la ciudad garantizan una conectividad robusta y permiten a la ciudad acomodar tecnologías futuras. También ayudará a establecer la conectividad entre los departamentos gubernamentales, la infraestructura de la ciudad y el Centro de Comando y Control.
+•Ahorro de energía del 46% anual.
+•Un tiempo de actividad del 98% ayudará a reducir la huella de carbono.
+•Conectividad Wi-Fi en 100 ubicaciones de puntos calientes donde el tráfico de peatones de la ciudad está aumentando. Proporciona Wi-Fi gratuito durante períodos de tiempo definidos a los usuarios registrados.
+•La vigilancia por cámara garantiza la seguridad, la seguridad y la gestión de estacionamientos en la ciudad. 30.5 Impacto creado en la ciudad
+
+{...}
+JS
+XML
+{.CODE};
+C++
+PHP
+Líderes de la ciudad
+El proyecto de Poste Inteligente ha ayudado a la administración de la ciudad a acumular datos de calidad desde zonas centrales dentro de la ciudad. La implementación de proyectos de asociación público-privada (PPP) ha asegurado una mejor entrega de servicios a los ciudadanos a través de características como sensores ambientales, luces LED inteligentes, Wi-Fi y cámaras.
+
+Proveedores de tecnología
+Los factores geográficos, políticos y administrativos son varios factores críticos en la implementación y ejecución de proyectos de PPP a gran escala.
+
+La implementación de avances tecnológicos en una era donde se introduce nueva tecnología cada año también demostró ser una lección clave. 30.6 Aprendizajes clave de la implementaciónMinisterio de Vivienda y Asuntos Urbanos
+Gobierno de la India

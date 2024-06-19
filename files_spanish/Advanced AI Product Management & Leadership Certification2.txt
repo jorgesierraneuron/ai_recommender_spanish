@@ -1,0 +1,18 @@
+ Etapas del Pensamiento de Diseño en IA
+LECCIÓN 1
+La IA está transformando nuestras industrias. A medida que la IA se vuelve más ubicua, surge la necesidad de diseñar intencionalmente sistemas de IA que sean centrados en el ser humano, transparentes e inclusivos. Como parte de este módulo, me gustaría explorar cómo el pensamiento de diseño, un enfoque iterativo y centrado en el ser humano para resolver problemas, se puede aplicar al desarrollar aplicaciones de IA, asegurando que se alineen con principios éticos y valores sociales.
+Sigo diciendo que la IA no es un producto. Esto es exactamente por qué los científicos de IA/ML deberían adoptar la ética centrada en el ser humano del pensamiento de diseño desde el principio cuando conceptualizan sistemas. El pensamiento de diseño proporciona un marco para reexaminar continuamente las aplicaciones de IA en cuanto a inclusividad, responsabilidad y respeto por la dignidad humana.
+
+Principios del Pensamiento de Diseño en IA
+El pensamiento de diseño prioriza una comprensión más profunda de los usuarios y sus necesidades al crear soluciones. Involucra cinco fases clave:
+Empatía: Entender las necesidades y emociones de los usuarios para guiar el desarrollo de soluciones de IA.
+Definir el Problema: Articular las necesidades y desafíos de los usuarios para alinear las capacidades de la IA con problemas del mundo real.
+Ideación: Explorar aplicaciones innovadoras de IA mediante el pensamiento creativo.
+Prototipado: Desarrollar modelos de IA mínimamente viables para representar soluciones y recopilar retroalimentación.
+Prueba: Refinar iterativamente las soluciones de IA basadas en la retroalimentación y comportamientos de los usuarios.
+
+0:40 / 4:47
+
+https://maven.com
+Sun May 19 2024 22:30:15 GMT-0400 (Hora Estándar del Atlántico)
+Creado por JUST ONE PAGE PDF

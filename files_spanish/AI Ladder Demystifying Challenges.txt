@@ -1,0 +1,402 @@
+INFORME
+Cortesía de
+La Escalera del IA
+Desmitificando los Desafíos del IA
+Rob ThomasRob Thomas
+Prólogo de Tim O'Reilly
+La Escalera del IA
+Desmitificando los Desafíos del IA
+Boston Farnham Sebastopol Tokio Pekín Boston Farnham Sebastopol Tokio Pekín978-1-492-07310-9
+[LSI]La Escalera de IA
+por Rob Thomas
+Derechos de autor © 2019 O’Reilly Media. Todos los derechos reservados.
+Impreso en los Estados Unidos de América.
+Publicado por O’Reilly Media, Inc., 1005 Autopista Gravenstein Norte, Sebastopol, CA
+95472.
+Los libros de O’Reilly pueden ser comprados para uso educativo, empresarial o promocional de ventas.
+Las ediciones en línea también están disponibles para la mayoría de los títulos (http://oreilly.com). Para obtener más información, por favor póngase en contacto con nuestro departamento de ventas corporativas/institucionales: 800-998-9938
+o corporate@oreilly.com.
+Editor de Adquisiciones: Rachel Roumeliotis
+Editor de Desarrollo: Nicole Tache
+Editor de Producción: Kristen Brown
+Corrector de Pruebas: Octal Publishing, LLC
+Diseñador de Interiores: David Futato
+Diseñador de Portada: Karen Montgomery
+Ilustradora: Rebecca Demarest
+Agosto 2019: Primera Edición
+Historial de Revisiones para la Primera Edición
+2019-08-23: Primera Lanzamiento
+El logotipo de O'Reilly es una marca registrada de O'Reilly Media, Inc. La Escalera de IA, la imagen de la portada y el diseño relacionado son marcas registradas de O'Reilly Media, Inc.
+Las opiniones expresadas en este trabajo son las del autor y no representan las opiniones del editor. Mientras que el editor y el autor han hecho un esfuerzo de buena fe para asegurar que la información y las instrucciones contenidas en este trabajo sean precisas, el editor y el autor renuncian a toda responsabilidad por errores u omisiones, incluyendo sin limitación la responsabilidad por daños resultantes del uso o confianza en este trabajo. El uso de la información y las instrucciones contenidas en este trabajo es bajo su propio riesgo. Si algún código de ejemplo o tecnología contenida en este trabajo está sujeta a licencias de código abierto o derechos de propiedad intelectual de otros, es su responsabilidad asegurarse de que su uso cumpla con tales licencias y/o derechos.
+Este trabajo es parte de una colaboración entre O'Reilly e IBM. Vea nuestra declaración de independencia editorial.Índice de Contenido
+Prólogo . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .Prólogo
+
+A lo largo de los años, he visto cómo el nombre adecuado puede ayudar a las personas a entender un nuevo y importante concepto tecnológico. Cuando Rob Thomas me habló por primera vez sobre su idea del "Escalera de IA" en una fiesta de cóctel concurrida durante el evento Think de IBM, pensé: "Esta es una de esas ideas, como el software de código abierto, Web 2.0, big data y el movimiento Maker, que no es solo una etiqueta, sino un mapa para guiar a las personas hacia lo que anteriormente era Terra Incognita".
+
+Todos hablan de "IA" estos días, pero la mayoría de las empresas no tienen una idea real de cómo implementarla en su propio negocio. Solo saben que quieren un poco de lo que suena como magia. Pero ningún proveedor puede sacar la IA de la empresa como un conejo de una sombrerería. Las empresas que han tenido éxito han ascendido lo que Rob llama la "Escalera de IA". Primero, eso significa entender qué problema empresarial estás tratando de resolver. Luego, debes ordenar tus datos. Y eso no solo significa tus fuentes tradicionales de datos empresariales y de clientes. La IA no solo se trata de tus datos existentes; puede requerir crear o adquirir datos de otras fuentes relevantes para tu problema empresarial, y que se pueden utilizar para entrenar los modelos de IA que luego se utilizarán para entender y responder a esos datos en el mundo real. Piensa en las enormes cantidades de datos que se necesitaron recopilar para construir las capacidades actuales de reconocimiento de voz y imagen. Necesitas una arquitectura de datos que pueda soportar fuentes de datos dispares.
+
+También necesitas que los desarrolladores y los empresarios ganen nuevas habilidades, y necesitas un cambio cultural para adaptarte a una nueva forma de trabajar. Como lo expresó Peter Norvig, coautor del libro de texto líder en IA, en una charla en la primera conferencia de IA de O'Reilly, "El flujo de trabajo de...Un desarrollador de IA es muy diferente del flujo de trabajo del desarrollador de software.
+
+También debes dejar atrás muchas de tus suposiciones sobre cómo funcionan las cosas. Así que, con frecuencia, la primera iteración de una nueva tecnología solo se utiliza para hacer una versión ligeramente mejorada de lo que había antes, la "carroza sin caballos", por así decirlo, y solo más tarde las empresas se dan cuenta de cuánto necesitan cambiar su modelo de negocio para aprovechar realmente las nuevas capacidades. Esto es por qué cada revolución tecnológica nueva genera nuevos líderes empresariales, mientras que los veteranos a menudo se quedan atrás.
+
+Los procesos para recopilar, organizar, analizar y finalmente infundir IA en toda tu organización pueden considerarse como una escalera. Una escalera te ayuda a subir mucho más alto de lo que podrías hacer solo, convirtiendo un salto imposible en una serie de pasos. Saber qué se ve la escalera te ayuda a evaluar la preparación de tu organización para la IA. Al igual que no puedes saltar hasta la parte superior del techo, tampoco puedes llegar allí con una escalera que tenga pasos débiles o faltantes. La analogía no es perfecta, porque, a diferencia de subir una escalera, preparar una organización para la IA no es un viaje lineal. Pero saber los pasos de la escalera te ayuda a identificar dónde tu organización es fuerte y dónde hay brechas.
+
+Esa parece una idea simple. Y, sí, lo es. Es simple como "código abierto" o "primero móvil", y cualquier otra idea que es obvia en retrospectiva pero solo se volvió obvia después de mucha lucha y muchos tropiezos. Las empresas que abogaron por esas ideas simples mientras todos los demás se resistían se adelantaron; aquellos que no lo hicieron, se quedaron atrás.
+
+Este informe presenta una hoja de ruta que ayudará a las empresas sin el beneficio de años de investigación avanzada en IA y cientos de PhD en aprendizaje profundo a aprovechar uno de los próximos grandes pasos adelante en la computación.
+
+Paul Cohen, exgerente de programas de DARPA para IA y ahora decano de la nueva Escuela de Ciencia de la Información de la Universidad de Pittsburgh, ha dicho: "La oportunidad de la IA es ayudar a los humanos a modelar y administrar sistemas complejos que interactúan". No dejes que esa oportunidad te pase por alto.
+
+— Tim O'Reilly, Fundador y CEO,
+O'Reilly Media, Inc.
+vi | PrólogoLa Escalera del IA
+Introducción
+La inteligencia artificial (IA) es una de las oportunidades más grandes de nuestra época. Impulsada por cantidades masivas de datos y avances sin precedentes en el aprendizaje automático, tiene el potencial de agregar casi 16 billones de dólares a la economía global para 2030. La IA está lista para transformar organizaciones en todas las industrias y alterar la forma en que las personas trabajan. Según Gartner, la augmentación de la IA (una combinación de inteligencia humana y artificial) recuperará 6,200 millones de horas de productividad laboral en 2021. A pesar de estas previsiones prometedoras, la adopción de la IA ha sido más lenta de lo anticipado. Se ha informado que el 81% de los líderes empresariales no entienden los datos y la infraestructura necesarios para la IA. Este informe tiene como objetivo presentar a los ejecutivos y profesionales de línea de negocio un enfoque unificado y prescriptivo - la Escalera del IA - para la implementación exitosa de la IA.
+
+La IA es la Nueva Electricidad
+La IA es uno de los desafíos y oportunidades más grandes de nuestra época. Está lista para cambiar la forma en que las personas trabajan, cómo operan las empresas y cómo se transforman las industrias enteras. Las iniciativas de IA ofrecen más que solo ahorros de costos; en realidad, ayudan a las organizaciones a predecir y dar forma a resultados futuros; permiten a las personas realizar trabajo de mayor valor; automatizan decisiones, procesos y experiencias; y reimaginan nuevos modelos de negocio. En última instancia, esto significa un aumento en los ingresos.
+
+Sin embargo, la IA a menudo se presenta como algo misterioso; una caja negra mágica que se pone en funcionamiento, con poca comprensión de cómo funciona. Las personas ven la IA como algo que debe ser relegado a expertos queLo han dominado y nos han deslumbrado con él. En este entorno, la IA ha
+asumido un aire de misticismo con promesas de grandeza y fuera del
+alcance de los mortales comunes. La IA es la nueva electricidad.
+Cuando se descubrió la electricidad por primera vez, se consideró que era
+el dominio de los magos —un poder mágico que dejaba a las audiencias
+perplejas sobre su origen y cómo se generaba. Todas las innovaciones
+nuevas pasan por una evolución similar: descubrimiento, exploración,
+aplicación y eventual ubiquidad.
+Nos encontramos en un estado similar hoy en día. Entendemos el poder
+de la IA, pero no hemos descubierto completamente cómo desbloquear
+su potencial. La realidad es: la IA no es magia. Aplicarla es trabajo
+duro. No hay una varita mágica para eliminar las ineficiencias empresariales,
+y tener la tecnología sola no es suficiente.
+Para establecer el contexto para este informe, definamos brevemente la IA
+y discutamos los desafíos comunes al implementar la IA a nivel empresarial.
+
+Definición breve de IA
+La IA es un término paraguas para una familia de técnicas que permiten
+a las máquinas aprender de los datos y actuar según lo que han aprendido,
+en lugar de simplemente seguir instrucciones predeterminadas creadas por
+un programador. El aprendizaje automático es una rama de la ingeniería
+de software, y casi siempre es parte de un sistema más grande que también
+incorpora software tradicional. Como he señalado en mis charlas, si está
+escrito en Python, lo llamamos "aprendizaje automático". Si está escrito en
+PowerPoint, lo llamamos "IA".
+
+La IA está detrás de los avances en el reconocimiento del habla, el reconocimiento
+de imágenes y los vehículos autónomos. Ha permitido la creación de asistentes
+de voz para su teléfono y su hogar, así como jugar un papel importante en
+el cuidado al cliente, las redes sociales y la ciberseguridad.
+
+Pero para las empresas, la IA se puede definir como una forma de mejorar
+radicalmente tres cosas: predicciones, automatización y optimización.
+En primer lugar, la IA se trata de predicciones —las organizaciones quieren
+poder predecir lo que sucederá en su negocio, tanto a nivel macro como micro.
+En segundo lugar, hay un valor tremendo en automatizar procesos empresariales
+críticos pero que consumen tiempo, liberando a los empleados para enfocarse
+en trabajo de mayor valor y más creativo. Finalmente, la IA se trata de
+optimización, ya sea optimizar rutas y logística, gastos de marketing o la
+configuración de la nube.Instalación. La IA es una herramienta para mejorar la toma de decisiones humanas, a velocidad y escala, y tiene el potencial de aumentar el trabajo de cada empleado.
+
+Es hora de desmitificar los desafíos de la IA para que las organizaciones puedan llevar con éxito el poder de la IA a sus negocios.
+
+Desafíos de la IA
+La realidad es que las empresas de todos los tamaños y en todas las industrias están luchando para adoptar la IA. Los desafíos que enfrentan se pueden categorizar en cinco cubos clave.
+
+El primero es la falta de comprensión. Muchas organizaciones se lanzan y buscan implementar una "solución de IA" debido a su creciente popularidad, y asumen que resolverá cualquier problema empresarial. En su núcleo, la IA representa un conjunto de técnicas de software y ingeniería de datos poderosas y nuevas para dar sentido a grandes cantidades de datos no estructurados. Pero no es una varita mágica que pueda hacer cualquier cosa, y debe aplicarse a problemas que esté bien diseñada para resolver. Eso significa que el primer paso para las organizaciones es entender los problemas empresariales que tratan de resolver, hacer las preguntas adecuadas y identificar si la IA es el enfoque adecuado para alcanzar sus objetivos empresariales.
+
+El segundo problema que enfrentan las organizaciones es dominar sus datos. Los datos son la fundación y el combustible para la IA. Se necesita buenos datos para entrenar modelos de aprendizaje automático, y luego para que los procesos empresariales infundidos de IA realicen su trabajo. Hay tres tipos de problemas de datos:
+
+Falta de datos
+Las empresas necesitan comenzar recopilando sus datos, adquiriendo datos adicionales de terceros y haciendo que los datos sean accesibles en toda la organización.
+
+Demasiados datos
+Aunque la falta de datos puede obstaculizar la adopción de la IA, lo mismo puede decirse de tener demasiados datos. Cuando las empresas tienen demasiados datos dispersos en diferentes entornos y bases de datos, rápidamente se convierte en un problema de ingeniería de datos. En este caso, las empresas necesitan recopilar y organizar sus datos para hacerlos listos para la IA.Datos de mala calidad
+
+La frase "basura entra, basura sale" es tan cierta en los días de la IA como lo era en los primeros días de programación cuando se acuñó por primera vez. El problema es que, aunque los líderes empresariales mencionan mejorar el uso de los datos como una prioridad principal, el 60% se enfrenta a desafíos para administrar la calidad de los datos. Gran parte del trabajo más importante en IA implica la limpieza de datos.
+
+El próximo problema que enfrentan las organizaciones es la falta de habilidades relevantes. La IA requiere que incluso los ingenieros de software más experimentados reaprendan mucho de lo que dan por sentado sobre cómo programar. En las formas actuales de desarrollo de software, el programador especifica lo que la computadora ejecuta. En proyectos basados en IA, el programador alimenta a un algoritmo de aprendizaje automático con datos de entrenamiento, que aprende de los datos y construye un modelo matemático que representa la tarea que se va a realizar. Cuando se presenta con datos del mundo real, el sistema es capaz de reconocer los mismos patrones que vio en los datos de entrenamiento, y su salida se incorpora a programas procedimentales tradicionales que actúan según lo que el modelo reconoce. Este proceso de entrenamiento es tiempo-consumidor, y los flujos de trabajo de desarrollo de software regulares de Integración Continua (CI) y Despliegue Continuo (CD) no se aplican fácilmente.
+
+El desafío es que las habilidades en IA son raras y, por lo tanto, están en alta demanda, por lo que hay una escasez de trabajadores capacitados disponibles para contratar. Esto hace que sea aún más importante que la tecnología que se está construyendo y utilizando sea más accesible para todos dentro de la empresa, independientemente del nivel de habilidad.
+
+A continuación, está el problema de la confianza. Es crítico asegurarse de que las recomendaciones o decisiones de la IA sean completamente trazables, lo que permite a las empresas auditar la procedencia de los modelos y los datos de entrenamiento asociados, junto con las entradas y salidas para cada recomendación de la IA. A medida que más aplicaciones utilizan la IA, las empresas necesitan visibilidad en las recomendaciones hechas por sus aplicaciones de IA. En el caso de ciertas industrias como las finanzas y la atención médica, en las que la adherencia al Reglamento General de Protección de Datos de la Unión Europea (RGPD) y otras regulaciones exhaustivas presentan barreras significativas para la adopción generalizada de la IA, las aplicaciones deben explicar sus resultados para ser utilizadas en situaciones de producción.
+
+Cuando las empresas ponen modelos de IA en producción, es esencial abrir la "caja negra" de la IA y desarrollar una estrategia paraMonitoreo continuo de su salida después de la implementación. Sin
+esto, las organizaciones no tienen visibilidad sobre lo que su IA está
+haciendo, con qué frecuencia se está utilizando, cuáles son los resultados
+y qué sesgos podrían haber sido revelados en los datos utilizados para
+entrenar el modelo.
+La autora Cathy O'Neil se refiere a las formas en que los modelos
+pueden codificar sesgos como "armas de destrucción matemáticas".
+Finalmente, está el problema de cambio cultural y de modelo de negocio,
+que se requiere para aprovechar la oportunidad que brinda la nueva
+tecnología. Al igual que las empresas existentes no lograron abrazar la
+revolución de internet y luego la revolución móvil, a menudo no están
+dispuestas a realizar un replanteamiento profundo de sus modelos de
+negocio y flujos de trabajo para aprovechar al máximo las oportunidades
+que brinda la IA.
+La IA no solo mejora los procesos empresariales existentes. Permite
+replantear el proceso en su totalidad y hacer cosas que eran previamente
+imposibles.
+La IA permite que su organización extraiga inteligencia de cantidades
+inimaginables de datos. Pero eso no significa que tenga analistas de
+negocios de la vieja escuela que revisan equivalentes de hojas de cálculo
+inteligentes para tomar decisiones. Significa que tiene nuevos trabajadores
+automatizados que pueden completar tareas de manera confiable. Los
+antiguos analistas de negocios convertidos en científicos de datos necesitan
+convertirse en los gerentes de estos nuevos trabajadores, evaluando su
+trabajo y interviniendo cuando las cosas salen mal, no necesariamente
+anulando sus decisiones, sino volviendo a mejorar los datos utilizados
+para entrenarlos para que puedan realizar la tarea con éxito la próxima
+vez. También es importante entender que la IA no se trata de ejecutar
+un solo proyecto empresarial, sino de transformar toda la cultura
+empresarial. Se trata de crear una cultura de iteración, experimentación.
+
+La Escalera de la IA
+Como se ha dicho, la IA no es magia. Cuando las empresas buscan
+aprovechar el potencial de la IA, necesitan utilizar datos de fuentes
+diversas, apoyar herramientas y marcos de trabajo de clase mundial y
+ejecutar modelos en una variedad de entornos. Sin embargo, el 81% de
+los líderes empresariales no entienden los datos y la infraestructura
+requeridos para la IA.
+
+La gran mayoría de los fracasos de la IA se deben a fallos en la
+preparación y organización de datos, no a los modelos de IA en sí.
+El éxito con los modelos de IA depende de lograr el éxito primero en
+cómo se recopila y organiza los datos.No cantidad de sofisticación algorítmica de IA puede superar la falta de datos [arquitectura]… los malos datos simplemente son paralizantes.
+—MIT Sloan
+
+Las organizaciones necesitan un enfoque reflexivo y bien diseñado, particularmente en el mundo híbrido multicloud de hoy en día. Necesitan un enfoque que sea moderno y abierto por diseño, otorgando a las organizaciones la flexibilidad para trabajar como una, con código abierto en cualquier nube. Con una arquitectura de información unificada, prescriptiva y abierta, las organizaciones pueden modernizar su arquitectura de datos para preparar sus datos para un mundo de IA y multicloud.
+
+En resumen, no hay IA sin una arquitectura de información. Una arquitectura de información es la base sobre la que se organiza y estructura los datos en toda la empresa. Permite a las organizaciones eliminar silos de datos y evitar el bloqueo y ejecutar con agilidad en cualquier lugar. Además, con una arquitectura de información diseñada para IA, las empresas pueden automatizar y gobernar el ciclo de vida de datos y IA con un enfoque unificado, para que puedan operacionalizar la IA con confianza y transparencia.
+
+La Escalera de IA (Figura 1) ha sido desarrollada por IBM para proporcionar a las organizaciones una comprensión de dónde se encuentran en su viaje de IA, así como un marco para ayudarles a determinar dónde necesitan enfocarse. Es un principio rector para que las organizaciones transformen su negocio, proporcionando cuatro áreas clave para considerar: cómo recopilar datos, organizar datos, analizar datos y, finalmente, infundir IA en su organización.
+
+Figura 1. La Escalera de IA, una estrategia guía para que las organizaciones transformen su negocio conectando datos y IA.Descomponer una estrategia de IA en piezas, o peldaños de una escalera, sirve como principio rector para las organizaciones, independientemente de dónde estén en su camino. Esto les permite simplificar y automatizar cómo convierten los datos en conocimientos al unificar la recopilación, organización y análisis de datos, independientemente de dónde residan. Al utilizar la escalera de IA como marco de referencia, las empresas pueden construir la base para un enfoque gobernado, eficiente, ágil y a prueba de futuro para la IA.
+
+Veamos los cuatro pasos que componen la Escalera de IA con más detalle:
+
+1. Recopilar: Hacer que los datos sean simples y accesibles.
+Recopilar datos de todos los tipos, independientemente de dónde residan, lo que permite flexibilidad ante las fuentes de datos en constante cambio.
+
+2. Organizar: Crear una base analítica empresarial lista para el negocio.
+Organizar todos los datos en una base empresarial confiable con gobernanza, protección y cumplimiento integrados.
+
+3. Analizar: Construir y escalar la IA con confianza y transparencia.
+Analizar los datos de manera más inteligente y beneficiarse de modelos de IA que permiten a las organizaciones obtener nuevos conocimientos y tomar decisiones más inteligentes.
+
+4. Infundir: Operacionalizar la IA en toda la empresa.
+Aplicar la IA en toda la empresa, en múltiples departamentos y procesos, aprovechando predicciones, automatización y optimización.
+
+No importa dónde estés en tu camino, sigue siendo un trabajo difícil. Tener la tecnología sola no es suficiente. Es por eso que la escalera, cada paso, es tan crítico. Cada uno de los pasos en la Escalera de IA se cubren en detalle en las secciones siguientes. Sin embargo, antes de dar tu primer paso y comenzar a recopilar los datos, debes modernizar tu arquitectura de datos.
+
+Modernizar tu Arquitectura: Hacer que tus Datos Estén Listos para un Mundo de IA y Multicloud
+
+"Modernizar", en este contexto, significa construir una arquitectura de información para la IA que proporcione elección y flexibilidad en toda la organización. Para satisfacer las demandas actuales y mantener la competitividad mañana,Las organizaciones necesitan una arquitectura de datos eficiente y ágil que puedan construir con confianza. Entren las plataformas híbridas y multicloud.
+
+Las plataformas híbridas y multicloud son el futuro de la arquitectura de datos. Una plataforma híbrida y multicloud permite a las organizaciones aprovechar sus datos y aplicaciones en cualquier nube (pública, privada, en sitio) a través de contenedores. A medida que las empresas se modernizan para un mundo de IA y multicloud, encontrarán que hay menos "ensamblaje requerido" al expandir el impacto de la IA en toda la organización.
+
+En la mayoría de las organizaciones, los datos se encuentran dispersos en una variedad de entornos: nubes públicas (con muchos proveedores), nubes privadas y despliegues tradicionales en sitio. Las plataformas híbridas y multicloud abordan el desafío de la proliferación de datos que enfrentan muchas organizaciones: información distribuida en múltiples silos, bases de datos y nubes. Si una organización está desplegando y ejecutando proyectos de IA en estos entornos, se ven obligadas a utilizar las herramientas de IA de esos proveedores de nube específicos. Esto representa el "encierro del proveedor" moderno, que puede sofocar la innovación y evitar que los negocios escalen esfuerzos de IA. Las plataformas híbridas proporcionan la fundación necesaria para apoyar todas las capacidades que una empresa necesita para construir, desplegar y administrar modelos de IA a escala.
+
+Finalmente, dada la naturaleza dinámica de la IA, las organizaciones necesitan automatizar ciclos de vida de IA a través de una variedad de colaboradores a través de flujos de trabajo colaborativos. Al adoptar una plataforma ágil y nativa en la nube, las organizaciones pueden preparar con éxito sus datos para la IA, poner en funcionamiento el código abierto y infundir IA en equipos.
+
+Después de modernizar su arquitectura de datos, está listo para determinar dónde se encuentra en su viaje de IA. Como hemos señalado anteriormente, hay cuatro peldaños de la Escalera de IA: recopilar, organizar, analizar e infundir. Cubrimos cada uno de estos en las secciones siguientes.
+
+Recopilar: Hacer que los datos sean simples y accesibles
+
+Después de que una organización ha modernizado su arquitectura, debe hacer que sus datos sean simples y accesibles. Durante demasiado tiempo, los datos han estado atrapados en sistemas de registro y aislados por plataformas rígidas, funciones empresariales segregadas y tipos de datos. Esto resulta en datos siloeados, difíciles de acceder, lo que hace imposible obtener una visión analítica verdadera. Los desafíos empeoran a medida que las empresas evolucionan. Las posibilidades de la IA para transformar una organización se vuelven nulas porque las perspectivas solo son tan buenas como los datos.
+
+8 | La Escalera de IAAquí hay algunos ejemplos de cómo las empresas pueden hacer que sus datos sean simples y accesibles:
+
+Utilice todos los tipos de datos
+Si una empresa minorista actualmente solo tiene acceso a sus datos históricos y transaccionales, eso significa que sus modelos de IA se están entrenando solo con una fuente de datos. Pero, ¿qué pasa si esa empresa minorista pudiera tomar sus datos transaccionales estructurados y combinarlos con datos no estructurados de fuentes como las redes sociales o flujos de clics en tiempo real, o ambos? Ahora, la empresa minorista puede construir modelos de IA que le digan qué compraron sus clientes la semana pasada, cómo se sienten al respecto y qué están buscando en este mismo momento, dándole una visión más tridimensional de su negocio.
+
+Invierta en herramientas de gestión de datos infundidas con IA
+La base de datos solía ser solo un sistema de registro y un repositorio de almacenamiento de datos, pero ese tiempo ha pasado. Ahora, esperamos inteligencia en todos los niveles de la pila tecnológica moderna, desde interfaces de usuario frontend con lenguaje natural y reconocimiento de voz, a lo largo de nuestras selecciones de aplicaciones, y hasta nuestra capa de gestión de datos. Una plataforma de gestión de datos con IA ofrece a las organizaciones una amplia suite de capacidades para traducir consultas a través de proveedores, idiomas, ubicaciones y estructuras. Esto significa que las organizaciones pueden construir la base adecuada para acceder a todos sus datos y asegurarse de que la plataforma crezca con sus datos.
+
+Una estrategia de gestión de datos híbrida no solo puede abordar algunos de los desafíos actuales con la calidad de los datos, sino que también puede proporcionar acceso a más datos para alimentar una IA más inteligente.
+
+Por ejemplo, una empresa manufacturera está llevando a cabo una transformación digital en la que no solo busca reestructurar el costo a sus clientes, sino que también reduce su costo total de propiedad (TCO) y TI. Como empresa que genera petabytes de datos, que varían desde métricas de rendimiento hasta seguimiento de cómo la empresa se desempeña en términos de ingresos y rentabilidad, el costo de su software de gestión de bases de datos heredado no era sostenible. Así que decide migrar sus sistemas de base de datos a una plataforma más flexible y rentable. Al utilizar un sistema de gestión de datos híbrido para recopilar y proporcionar mejor acceso a los datos, la empresa manufacturera ha visto un uso de almacenamiento más bajo, mejoras en el rendimiento y tiempos de respuesta transaccionales más rápidos. Ya sea que se trate de análisis...plataforma o una plataforma transaccional, la empresa no solo tiene una base de datos confiable y disponible, sino que también ha beneficiado de las reducciones del costo total de propiedad (TCO) que esperaba (que incluye el costo de la base de datos, la plataforma y los servicios administrados).
+
+Ahora, con esta sólida base de datos, el departamento de TI de la empresa puede proporcionar informes comerciales que realmente se pueden utilizar, en lugar de que alguien extraiga los datos del sistema y luego intente descubrir cómo manipularlos. Esta base también establece las bases para que la empresa pueda mirar hacia adelante y explorar soluciones de inteligencia artificial y aprendizaje automático para continuar en su camino de transformación digital.
+
+Organizar: Crear una Fundación de Análisis Empresarial Lista
+
+La revolución en la nube y la revolución móvil han acelerado el ritmo de creación de datos, estructurados y no estructurados. Sin embargo, muchas organizaciones no saben qué datos tienen, dónde residen, qué procesos los utilizan y cómo cumplir con las leyes y regulaciones actuales relacionadas con los datos.
+
+En este paso de la Escalera de IA, hay tres cuestiones clave que una organización debe considerar.
+
+La primera es abordar la calidad de los datos y determinar si sus datos están "listos para el negocio", es decir, si han sido limpiados, no están incompletos y son compatibles, por lo que están listos para utilizarlos para construir modelos de IA. Cuando los datos no están listos para el negocio, encontrar, comprender y utilizar los datos de manera productiva es un desafío constante para todos los consumidores de datos, incluyendo a científicos de datos, analistas y usuarios de línea de negocio.
+
+En el informe de Predicciones 2019: Inteligencia Artificial de Forrester, el 60% de los tomadores de decisiones en empresas que adoptan IA citan la calidad de los datos como el principal desafío al tratar de entregar capacidades de IA. Hoy en día, las organizaciones pasan el 80% de su tiempo preparando los datos para su uso productivo, creando un cuello de botella para la agilidad empresarial, la competitividad y la rentabilidad. Un lago de datos diseñado y gobernado correctamente elimina las inconsistencias de datos, resuelve duplicados y crea una versión única de la verdad para que los usuarios accedan. Al administrar y dominar los datos en el lago de datos, las organizaciones pueden encontrar y confiar en la calidad de los datos con los que trabajan.
+
+A continuación, una organización debe organizar y catalogar los datos. Para entender por qué este paso es importante, una analogía de una biblioteca es útil. SiUna biblioteca era simplemente una habitación llena de miles de libros, tendría poco valor para el lector promedio. Las bibliotecas son útiles porque están organizadas y proporcionan un catálogo para ayudar a encontrar información de diversas maneras: puedes encontrar todos los libros de un autor específico, en un género específico o sobre un tema específico. Este catálogo debe mantenerse actualizado cada vez que se agrega (o se elimina) un libro nuevo a la biblioteca. Los datos son lo mismo. Las organizaciones necesitan tener un catálogo de sus datos para proporcionar información sobre su origen, quién los posee, metadatos asignados a su contexto empresarial, y así sucesivamente. Cuando nuevos datos se vuelven disponibles para los usuarios a través de fuentes de datos integradas o replicadas (al igual que nuevos libros se publican y están disponibles en una biblioteca), sin procesos de catálogo adecuados y un inventario actualizado, los datos se vuelven difíciles o imposibles de conocer, confiar y utilizar.
+
+Finalmente, una organización debe gobernar los datos para asegurarse de que solo los usuarios autorizados tengan acceso. Muchas empresas subestiman los peligros que puede crear una mala gobernanza de datos. Por ejemplo, un gran banco aprendió esto a la fuerza cuando descubrió que una gerente de ventas y su equipo ajustaron números que terminaron costando millones al banco. Debido a que la empresa no tenía sus datos debidamente organizados, fue víctima de las implicaciones del control de acceso amplio. Al igual que las organizaciones deben gobernar el acceso a los datos, también deben gobernar los datos en sí.
+
+Los líderes no pueden confiar en su IA sin asegurarse de que los datos alimentados a ella sean confiables, completos y consistentes. Los datos son el pan y la mantequilla de la IA, y la calidad de esos datos afecta directamente los resultados de su IA. Eso es porque su IA es solo tan buena como sus datos. Si tiene malos datos, no tendrá una IA confiable y transparente. Las organizaciones necesitan que sus datos estén limpios, organizados, catalogados y gobernados para asegurarse de que solo las personas que deberían tener acceso a ellos, lo tengan.
+
+Aquí hay algunos ejemplos que detallan cómo las empresas pueden trabajar para organizar sus datos en una fundación de análisis empresarial confiable:
+
+Centrarse en la preparación y calidad de los datos (DataOps y IA)
+
+DataOps, un término para Operaciones de Datos, es una metodología que orquesta a las personas, los procesos y la tecnología para entregar una tubería de datos empresarial continua y lista para el negocio a los consumidores de datos a la velocidad del negocio. Esto permite la colaboración entre los consumidores y los proveedores de datos, crea un servicio de datos autosuficiente y permite a los usuarios tomar decisiones informadas.cultura, y elimina cuellos de botella en la tubería de datos para impulsar
+la agilidad y nuevas iniciativas a escala.
+
+Gobernando el lago de datos
+Un lago de datos bien diseñado y gobernado elimina las inconsistencias
+de datos, resuelve duplicados y crea una versión única de la verdad
+para que los usuarios accedan. Al administrar y dominar los datos en
+el lago de datos, las organizaciones pueden encontrar y confiar en los
+datos con los que trabajan, lo que facilita a las empresas construir modelos
+de IA y extraer insights accionables del lago de datos en el que confían.
+
+Modernizando aplicaciones
+Las empresas desean que sus datos sean seguros y cumplan con las
+regulaciones de cumplimiento para proteger a los clientes y usuarios.
+Las empresas también desean poder desplegar aplicaciones de alta calidad
+en menos tiempo y a un costo más bajo, mediante la provisión y
+actualización de entornos de prueba de datos en las instalaciones o en la nube.
+
+Asegurando la privacidad de los datos y el cumplimiento regulatorio
+Las organizaciones enfrentan dos objetivos comerciales en competencia:
+llevar a cabo un negocio rentable y cumplir con las leyes y regulaciones
+en constante evolución. Es esencial cumplir con las obligaciones de
+privacidad y proteger los datos personales, lo que requiere el descubrimiento
+y clasificación de diferentes tipos de datos en toda la empresa.
+
+Proporcionar insights impulsados por la información de 360 grados
+Con múltiples fuentes de datos de clientes y productos en competencia en
+toda la empresa, las organizaciones necesitan una solución de gestión de
+datos para establecer una vista única y confiable de la información, y
+utilizar datos en tiempo real como un activo crítico.
+
+Analizar: Construir y Escalar IA con Confianza y Transparencia
+Una vez que una organización ha podido recopilar sus datos y organizarlos
+en una vista unificada y confiable, ahora puede aprovechar esos datos
+para construir y escalar modelos de IA en toda la empresa. Esto permite
+a las empresas obtener insights de todos sus datos, sin importar dónde
+residan, y comprometerse con la IA para transformar su negocio, lo que
+les brinda una clara ventaja competitiva.
+
+Este paso en la escalera presenta sus propios desafíos únicos. Inversiones
+precipitadas pueden crear problemas serios en herramientas, personas y
+procesos. Las soluciones de punto crean complejidad en la integración,
+mantenimiento,y apoyo, lo que conduce a desafíos técnicos y costos aumentados.
+
+La creciente demanda de científicos de datos hace que la contratación y retención sean un desafío enorme. Además, la falta de una plataforma de análisis unificada a menudo resulta en una baja tasa de retorno de la inversión (ROI) y frustración por parte de los líderes que buscan un impacto más positivo. Las empresas necesitan confiar en su IA antes de escalar y automatizar por completo en toda su organización empresarial.
+
+Para construir modelos de IA desde cero y escalarlos en toda la empresa, las organizaciones necesitan capacidades que cubran todo el ciclo de vida de la IA. Esto incluye lo siguiente:
+
+Construir
+Aquí es donde las empresas construyen sus modelos de IA. Considere esto como el estudio de un artista o el banco de trabajo de un carpintero. Es donde las empresas crean y entrenan modelos que pueden utilizar para hacer predicciones. En esta fase del ciclo de vida de la IA, es crítico asegurarse de que las empresas utilicen los algoritmos correctos para construir sus modelos para hacer predicciones.
+
+Ejecutar
+Después de que un modelo ha sido construido, necesita ser puesto en producción dentro de una aplicación o proceso empresarial. Cuando un modelo se despliega, ahora está funcionando en la organización, por lo que está tomando decisiones de reclamo, decisiones de precios, etc. y puede ser reentrenado según sea necesario.
+
+Administrar
+Después de que un modelo ha sido construido y puesto en funcionamiento, la pregunta es: ¿cómo se puede escalar con confianza y transparencia? Para abordar entornos de construcción y ejecución complejos o diversos, las empresas necesitan una herramienta que no solo pueda administrar ese entorno, sino que también explique cómo sus modelos llegaron a sus predicciones y lo escalen en toda su organización. Al tener la gestión en su lugar, las organizaciones pueden rastrear quién cambió el modelo, cuándo se desplegó el modelo y la genealogía del modelo. Al rastrear todos estos elementos, las organizaciones pueden asegurarse de que sus modelos no estén sesgados y que sean explicables y transparentes.
+
+En el mundo actual de regulaciones, GDPR y leyes de privacidad de datos, la forma en que las organizaciones interactúan con la IA está bajo intensa escrutinio. Las organizaciones necesitan administrar su IA en todo el ciclo de vida de la IA para explicar a un consumidor o a otra empresa cómo sus sistemas llegaron a una decisión y por qué. Por ejemplo, un banco necesita explicar cómo llegó a una decisión de préstamo.Ser capaz de informar a un consumidor sobre los factores que llevaron a la denegación de su préstamo y qué debe hacer para cambiar esa decisión.
+
+Una organización nunca podrá escalar verdaderamente su IA a lo largo de sus flujos de trabajo sin establecer primero la confianza y la transparencia en la IA. A continuación, se presentan algunos ejemplos que muestran por qué las empresas necesitan visibilidad en lo que su IA está haciendo:
+
+Seguros
+Los subcriptores de seguros pueden utilizar el aprendizaje automático para realizar evaluaciones de riesgo más consistentes y precisas en cuanto a reclamaciones, asegurar resultados justos para los clientes y explicar las recomendaciones de IA con fines de inteligencia empresarial y regulatoria.
+
+Telecomunicaciones
+Los científicos de datos pueden construir modelos de aprendizaje automático y trabajar con sus equipos de operaciones de TI para recomendar con confianza el mantenimiento proactivo de activos para proveedores de telecomunicaciones.
+
+Atención médica
+Las organizaciones en la industria de la atención médica deben mantener la conformidad regulatoria rastreando y explicando las decisiones de IA a lo largo de los flujos de trabajo, y detectar y corregir sesgos para mejorar los resultados.
+
+Fraude
+Las actividades fraudulentas han continuado aumentando a un ritmo rápido en los últimos años. El fraude es difícil de detectar. Esto se debe a que los datos utilizados en tareas de detección de fraude son complejos y a menudo no estructurados. Y, si los datos están siloeados, puede ser difícil para las empresas obtener una visión de 360 grados, lo que lleva a falsos positivos o alertas perdidas, costando a las empresas cientos de millones de dólares.
+
+Las organizaciones pueden trabajar con la IA para ayudar a manejar los problemas mencionados anteriormente con insights predictivos, análisis en tiempo real, técnicas de modelado más sofisticadas y tecnologías de automatización. Al invertir en una plataforma híbrida y multicloud, las organizaciones pueden lograr todo esto en un entorno gobernado y seguro.
+
+Infundir: Operacionalizar la IA en toda la empresa
+El peldaño de infusión se trata de ser capaz de aplicar la IA en toda la empresa. Es decir, las organizaciones necesitan poder implementar la IA en toda la empresa.Trabajar en múltiples departamentos y dentro de varios procesos—desde
+la nómina, hasta el cuidado al cliente, hasta el marketing, utilizando
+predicciones, automatización y optimización—para ayudar a avanzar
+su agenda empresarial. En muchos casos, esto requerirá que las
+organizaciones desarrollen flujos de trabajo y procesos empresariales
+completamente nuevos en todos los departamentos. Imagina la vasta
+red de despacho de empresas de transporte de demanda y almacenes
+automatizados. Estos son sistemas infundidos con IA, permitiendo
+una compleja danza de humanos y máquinas cooperando para
+completar tareas cada vez más complejas a una velocidad y escala
+enormes.
+
+Aquí hay algunos ejemplos de cómo las empresas en diferentes
+industrias están infundiendo IA en sus procesos empresariales:
+
+Atención al cliente
+Un asistente de IA puede acceder y "aprender de" cientos de
+puntos de contacto con clientes y compartir estos datos con otros
+sistemas de manera integrada, para que el cliente disfrute de una
+experiencia consistente y se sienta como si la empresa "la conociera".
+Los chatbots impulsados por IA bien ejecutados mejoran la puntuación
+de Promotor Neto (NPS) a través de la velocidad de resolución y
+accesibilidad las 24 horas del día, a través de los canales en los que
+los usuarios se sienten más cómodos, ya sea chat web, SMS (mensajes de
+texto), redes sociales como Facebook, o una llamada a servicio al cliente.
+
+Trabajadores del conocimiento
+La IA se puede utilizar para escanear y comparar enormes volúmenes
+de documentos para entender y encontrar relaciones, insights y
+discrepancias que los humanos nunca notarían. Con IA, profesionales
+de compras y abogados, por ejemplo, pueden revisar billones de
+páginas de contratos y documentos legales con menos esfuerzo y más
+precisión, ahorrando tanto tiempo como dinero.
+
+Marketing
+La IA sobresale al encontrar insights a partir de grandes cantidades
+de datos dispares, descubriendo correlaciones que un analista humano
+nunca notaría. En el mundo de hoy, los equipos de marketing creativos
+incluyen científicos de datos porque la cantidad de datos a la que
+los marketers tienen acceso y la capacidad de aplicar IA a ellos está
+cambiando la forma en que los marketers trabajan—desde predecir
+tendencias de compras, hasta optimizar estrategias de marketing,
+hasta entregar anuncios que son atractivos, relevantes y personales.
+
+La Escalera de IA | 15Cadena de suministro
+Con IA, las empresas ahora tienen visibilidad en sus datos operativos, lo que les permite derivar insights sin precedentes para tomar decisiones mejor informadas y mitigar las interrupciones antes de que afecten su capacidad para entregar resultados empresariales. En última instancia, esto mejora la eficiencia de toda la cadena de suministro para un aumento del ROI y una mayor satisfacción del cliente.
+
+Recursos humanos
+El éxito de una empresa depende de sus empleados. Ahora, con IA, las organizaciones tienen una visión más clara para predecir con precisión qué empleados están en riesgo de deserción y ayudar a identificar al candidato adecuado para una vacante. También se puede utilizar para ayudar a determinar qué empleados merecen ascensos y aumentos salariales.
+
+Seguros
+Con IA, el proceso de aprobación de reclamos para las aseguradoras es más consistente y automatizado, puede predecir con mayor precisión las evaluaciones de riesgo y asegurar resultados justos para los clientes. Esto permite a sus empleados enfocarse en tareas de mayor valor mientras aún permiten a sus empleados explicar cómo se tomaron esas decisiones de IA.
+
+Planificación financiera empresarial
+Invertir en una solución de análisis financiero impulsada por IA permite a las organizaciones desarrollar CFOs de próxima generación que pueden aplicar análisis predictivos y desbloquear el valor previamente oculto en sus datos. Esto permite a las organizaciones liberarse del trabajo manual y propenso a errores.
+
+Estos ejemplos demuestran el impacto que puede tener la IA mientras las empresas continúan encontrando formas de obtener más valor de sus datos y transformar negocios.
+
+Tomemos, por ejemplo, una gran empresa energética independiente que ha sido líder global en petróleo y gas durante más de medio siglo. ¿Cuál es su secreto? Contrata y desarrolla a algunos de los expertos en ingeniería más destacados del mundo. Esta fórmula ha ayudado a la empresa a construir algunas de las estructuras más grandes del planeta, en algunas de las partes más remotas del océano, y transportar con seguridad la energía que produce a personas en todo el mundo para asegurar que la próxima generación pueda llevar con éxito la antorcha.
+
+16 | La Escalera de IAEsta empresa de energía sabía que debía aprovechar el conocimiento institucional de sus mejores empleados, y al aprovechar el poder de la IA, la empresa pudo extraer insights significativos de 30 años de datos de ingeniería densos y complejos y poner décadas de conocimientos al alcance de los empleados en toda la empresa. Esto ayudó a la organización a responder a preguntas difíciles más rápido para habilitar la toma de decisiones basada en hechos en proyectos complejos.
+
+Ahora, esto es solo un ejemplo de cómo una empresa puede infundir IA en su núcleo empresarial. Sin embargo, este mismo enfoque puede ser replicado en cualquier industria porque comienza con poner la IA a trabajar. Se trata de automatizar y optimizar procesos de manera completamente nueva y aplicar la IA para desbloquear nuevo valor para su negocio, independientemente del tamaño o industria.
+
+Conclusión
+
+Está claro que en el mundo híbrido multicloud de hoy, para que las organizaciones tengan éxito con la IA, es imperativo que modernicen la arquitectura en la que se ingiere, almacena, organiza, accede y analiza la información.
+
+Cuando las organizaciones buscan adoptar la IA, es importante recordar tres cosas. Primero, comience con su problema. Ya sea que esté comenzando su viaje de IA o esté en camino, siempre regrese al problema empresarial central que está tratando de resolver. En muchos casos, comienza con sus necesidades y puntos débiles. Piense en cómo la IA puede ayudar a construir experiencias de cliente personalizadas y excepcionales.
+
+En segundo lugar, recuerde que no puede tener IA sin IA. Las organizaciones necesitan una arquitectura de información moderna para conectar datos de todas las fuentes necesarias, hacerlos accesibles a los usuarios en todos los equipos, construir y desplegar dinámicamente modelos de IA, y simplificar y unificar servicios de datos y IA en entornos de nube. La Escalera de IA fue desarrollada para ayudar a las organizaciones a construir una arquitectura de información y alcanzar finalmente sus objetivos de IA.
+
+Finalmente, la IA no es magia. Es trabajo duro. Requiere las herramientas, metodologías y mentalidad adecuadas para superar las brechas que las empresas enfrentan (datos, habilidades y confianza) para abrazar verdaderamente una práctica de IA y ponerla en funcionamiento en toda la organización.
+
+La IA es la mayor oportunidad de nuestro tiempo, y sin embargo, todavía hay un miedo en el mercado de que la IA reemplazará los trabajos. Sin embargo, laLa realidad es esta: la IA no va a reemplazar a los gerentes. Más bien, los gerentes que utilizan la IA reemplazarán a los gerentes que no lo hacen.
+
+18 | La Escalera de la IAAcerca del Autor
+
+Robert D. Thomas es el gerente general de IBM Data y Inteligencia Artificial. Dirige la estrategia de inversión en productos de IBM, ventas y marketing, laboratorios de expertos y desarrollo de productos de software a nivel global.
+
+Las principales marcas de productos bajo el liderazgo de Rob incluyen Watson, Db2, Netezza, Cognos, SPSS e InfoSphere. Desde que se unió a la unidad de software de IBM, el señor Thomas ha ocupado roles de creciente responsabilidad, incluyendo desarrollo empresarial, ingeniería de productos, ventas y marketing, y gerencia general. Ha supervisado cuatro adquisiciones por parte de la empresa, que representan más de 2.500 millones de dólares en valor de transacción.
+
+El señor Thomas se formó en economía en la Universidad de Vanderbilt, donde obtuvo su título de bachiller en Economía. Durante su Maestría en Administración de Empresas en la Universidad de Florida, el señor Thomas trabajó en investigación de valores, aprendiendo economía aplicada, finanzas y análisis financiero.
+
+El señor Thomas ha publicado dos libros: La revolución de los macrodatos: Lo que los agricultores, médicos y agentes de seguros pueden enseñarnos sobre patrones en macrodatos (John Wiley & Sons, 2015), y El fin de las empresas tecnológicas (autopublicado, 2016), educando a los líderes empresariales sobre cómo navegar la disruptiva digital en todas las industrias. Hoy en día, escribe extensivamente en su blog robdthomas.com.

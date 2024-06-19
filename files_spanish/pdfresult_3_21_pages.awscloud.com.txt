@@ -1,0 +1,203 @@
+CASO DE USO SIETE
+7 Liderazgo  
+Aprendizaje Automático 
+Casos de Uso 
+Cómo las empresas de hoy en día están utilizando 
+el aprendizaje automático para lograr resultados rápidos, 
+eficientes y mediblesEl aprendizaje automático ha superado la hiperinflación para convertirse en un impulsor significativo de valor para muchas organizaciones. Más de la mitad de las empresas que han desplegado iniciativas de inteligencia artificial (IA) impulsadas por aprendizaje automático dicen que la tecnología ha aumentado la productividad.1
+
+Aunque está claro que el aprendizaje automático es una parte esencial de la transformación empresarial, muchas organizaciones luchan por entender dónde aplicar el aprendizaje automático para obtener el mayor impacto. Seleccionar el caso de uso adecuado de aprendizaje automático requiere considerar varios factores.
+
+En primer lugar, debes encontrar un equilibrio entre el valor empresarial óptimo y la velocidad. Un prototipo de concepto construido por un científico de datos aislado no es probable que genere mucho entusiasmo por el aprendizaje automático en una organización. Lo que es más probable que atraiga el compromiso y la financiación necesarios es mostrar cómo el aprendizaje automático puede abordar los problemas prácticos que enfrenta actualmente su organización. Además, querrás encontrar algo que se pueda lograr en 6-10 meses para no perder el impulso. Esto es especialmente cierto si esta es su primera incursión en el aprendizaje automático.
+
+Resuelve tus desafíos empresariales más comunes con aprendizaje automático
+
+En segundo lugar, querrás encontrar un caso de uso rico en datos que ya tienes. Un buen caso de uso empresarial sin datos conduce a científicos de datos frustrados.
+
+Por último, querrás evaluar si el problema empresarial realmente requiere aprendizaje automático para tener éxito y si el aprendizaje automático resultará en mejores resultados que tu enfoque tradicional. Estos resultados podrían realizarse como reducción de costos, aumento de la productividad de los empleados o experiencias mejoradas para tus clientes finales.
+
+La mejor manera de satisfacer todos estos criterios es asegurarte de que los expertos técnicos y los expertos en dominio trabajen mano a mano en tu proyecto de aprendizaje automático. Los expertos técnicos pueden realizar evaluaciones de viabilidad, y los expertos en dominio asegurarán que la solución esté resolviendo un problema empresarial real y tendrá un impacto real.
+
+1 https://www.pwc.com/us/en/services/consulting/library/artificial-intelligence-predictions.htmlINTRODUCCIÓN
+2CAMBIANDO EL JUEGO
+INTRODUCCIÓN
+Comenzar con el caso de uso adecuado
+es clave para la adopción organizativa
+En este eBook, hemos presentado siete casos de uso donde los clientes de AWS han aplicado con éxito el aprendizaje automático. Estos casos de uso fortalecerán su caso de negocio para una adopción más amplia del aprendizaje automático, y puede aplicarlos para iniciar su viaje de aprendizaje automático o agregarlos a su estrategia actual.
+¿Qué hace que un caso de uso de aprendizaje automático sea bueno?
+• Resuelve un problema real para su negocio, uno lo suficientemente importante como para obtener atención, apoyo y adopción
+• Aprovecha fuentes de datos no explotadas
+• Mejora el rendimiento, reduce costos y/o mejora las experiencias del cliente final
+• Incluye a expertos técnicos para realizar evaluaciones de viabilidad y expertos en dominio para asegurarse de que la solución será utilizada
+• Puede completarse en 6-10 meses
+Cuando esté listo para implementar su caso de uso, tiene la opción de utilizar uno o más servicios de IA de AWS completamente administrados para comenzar rápidamente y integrar fácilmente la inteligencia en sus aplicaciones. O, si desea desarrollar sus propios modelos, puede utilizar Amazon SageMaker, una solución que le proporciona todas las herramientas de aprendizaje automático que necesita en un solo servicio.
+
+casos de uso líderes7
+ Mejora la productividad de los empleados »
+Automatiza la extracción y análisis de datos de documentos »
+Agrega inteligencia al centro de contacto »
+Personaliza recomendaciones para clientes »
+Aumenta el valor de los activos de medios »
+Predecir métricas de demanda »
+Identifica actividades fraudulentas en línea »1  
+2
+3
+4
+5
+6
+74WOODSIDE ENERGY LTD. 
+“(Con Amazon Kendra,) ahora podemos buscar con precisión nuestros documentos de ingeniería de proyectos más valiosos. 
+Este cambio en la capacidad cognitiva nos permitirá tomar decisiones mejores y más rápidas para mejorar nuestras operaciones y la vida laboral de nuestros empleados.”
+Shelley Kalms, Directora Digital Mejora la productividad de los empleados 
+al encontrar rápidamente información precisa
+Los empleados que tienen acceso rápido y fácil a datos precisos son más productivos. En un estudio de 2019 de The Economist, los ejecutivos identificaron la "facilidad de acceso a la información necesaria para realizar el trabajo" como la forma número uno en que la tecnología puede impulsar la productividad.2
+Sus empleados pueden buscar la información que necesitan haciendo preguntas en lenguaje natural a través de Amazon Kendra —un servicio de búsqueda inteligente muy preciso impulsado por el aprendizaje automático. Esto es mucho más rápido y eficiente que la búsqueda de palabras clave tradicional, y el servicio es fácil de implementar para empresas de todos los tamaños. El aumento resultante en la productividad ayuda a acelerar la investigación mientras mejora la toma de decisiones —y fortalece su caso de negocio para una adopción más amplia del aprendizaje automático.
+2 https://wtheexperienceofwork.economist.com/pdf/Citrix_The_Experience_of_Work_BriefingPaper.pdfCASO DE USO 1
+BAKER TILLY DIGITAL | LABS 
+“Al utilizar (Amazon) Kendra, nuestros clientes pueden superficiar información relevante 10 veces más rápido en comparación con la búsqueda de texto completo de SharePoint, superficiando rápidamente una respuesta previamente no posible con la búsqueda de palabras clave y conectándolos con contenido relevante en todo el repositorio empresarial, o proporcionando a los gerentes de marketing acceso rápido a investigaciones cruciales sobre el comportamiento del cliente.”  
+Ollie East, Director de Análisis Avanzados y Ingeniería de Datos, y Tom Puch, Gerente Senior
+IDEAL PARA TODAS LAS INDUSTRIASTome decisiones más rápidas mediante la extracción y análisis automáticos de datos de documentos
+
+Los millones de documentos creados por su organización contienen un tesoro de conocimientos esperando a ser aprovechados. Desafortunadamente, procesar manualmente los volúmenes cada vez más grandes de información para hacerlos accesibles y buscar es una tarea costosa y laboriosa. Utilizando el aprendizaje automático, su organización puede obtener acceso oportuno a la información contenida en sus documentos, lo que conduce a nuevos conocimientos que informan sus decisiones empresariales.
+
+Para las organizaciones que buscan activar el procesamiento de documentos inteligentes hoy en día, AWS ofrece tres servicios que se pueden implementar individualmente o en cualquier combinación. Amazon Textract extrae automáticamente la escritura a mano, el texto impreso y los datos de los documentos escaneados. Amazon Comprehend es un servicio de procesamiento de lenguaje natural (NLP) que utiliza el aprendizaje automático para encontrar conocimientos y relaciones en el texto. Y Amazon Augmented AI (Amazon A2I) proporciona flujos de trabajo de revisión humana integrados para asegurar la precisión de los datos.
+
+También puede desarrollar rápidamente y con eficiencia sus propios modelos de aprendizaje automático para la extracción y análisis de texto con Amazon SageMaker, un servicio completamente administrado que ayuda a los científicos de datos y desarrolladores a construir, entrenar y implementar modelos de aprendizaje automático. Este servicio proporciona varios algoritmos de aprendizaje automático integrados, como BlazingText y Linear Learner, que están optimizados para la clasificación de texto, NLP y reconocimiento óptico de caracteres (OCR).
+
+5ASSENT COMPLIENCIA
+
+"La tecnología de OCR de Amazon Textract nos permitió procesar... documentos mientras que Amazon Comprehend pudo extraer entidades personalizadas. (Usando) Amazon Augmented AI, pudimos tener a nuestros equipos revisar documentos en un rango de precisión determinado y ayudar a entrenar nuestra próxima iteración del modelo. Combinando estos servicios...(ahorró) a nuestros clientes cientos de horas en la revisión manual de documentos."
+
+Corey Peters, Líder del equipo de AI/ML
+THOMSON REUTERS
+
+"Nuestra solución requirió varias iteraciones de configuraciones de aprendizaje profundo a escala. Amazon SageMaker nos permitió diseñar una capacidad de procesamiento de lenguaje natural en el contexto de una aplicación de respuesta a preguntas... permitiendo a nuestros clientes simplificar y derivar más valor de su trabajo."
+
+Khalid Al-Kofahi, AI y Computación Cognitiva - Centro de Thomson Reuters
+
+CASO DE USO 2
+IDEAL PARA SERVICIOS FINANCIEROS, ATENCIÓN MÉDICA Y CIENCIAS DE LA VIDA, CONTABILIDAD, EDUCACIÓN, GOBIERNO, DERECHO, PETRÓLEO Y GASCASO DE USO 3
+Agregue inteligencia a su centro de contacto 
+para mejorar el servicio y reducir costos
+Mejorar la experiencia del servicio al cliente es una de las mejores formas de 
+diferenciar su marca y demostrar el valor del aprendizaje automático. Las organizaciones exitosas tratan su centro de contacto con clientes como un activo crucial para el éxito, en lugar de verlo solo como un centro de costos. 
+El aprendizaje automático puede ayudar a transformar un centro de contacto en un centro de ganancias reduciendo los tiempos de espera de llamadas, mejorando la productividad y la satisfacción de los agentes, reduciendo costos y ayudando a identificar oportunidades de mejora empresarial.
+AWS ofrece varias opciones flexibles para agregar inteligencia a su centro de contacto de manera sencilla. Amazon Connect es un centro de contacto en la nube omnicanal fácil de usar que ayuda a las empresas a brindar un servicio al cliente superior a un costo más bajo. Contact Lens para Amazon Connect es un conjunto de capacidades de aprendizaje automático integradas en Amazon Connect que permite a los supervisores del centro de contacto entender mejor el sentimiento, las tendencias y los riesgos de cumplimiento de las conversaciones con clientes para entrenar a los agentes de manera efectiva, replicar interacciones exitosas e identificar retroalimentación crucial de la empresa y los productos.
+Si su organización ya tiene una solución de centro de contacto en lugar, las soluciones de inteligencia del centro de contacto de AWS (CCI) ofrecen varias formas de agregar inteligencia artificial a su centro de contacto de manera rápida y rentable. Estas soluciones, disponibles a través de socios participantes de la red de socios de AWS (APN), permiten a los clientes beneficiarse de soluciones impulsadas por el aprendizaje automático de AWS para mejorar el autoservicio, analizar llamadas en tiempo real para asistir a los agentes y aprender de todas las interacciones del centro de contacto con análisis de llamadas posteriores.
+GE ELECTRÓNICOS 
+“Utilizando Amazon Connect, Amazon Lex y Amazon Polly, podemos automatizar tareas simples del centro de contacto, como buscar información de productos, tomar detalles de clientes y responder a preguntas comunes antes de que un agente responda (la llamada).”
+Byron Guernsey, Estratega Jefe
+VONAGE 
+“Con Amazon Lex, podemos empoderar a los clientes de Vonage para que elijan cómo y dónde se comunicarán con nosotros, creando rutas de interacción inteligentes en los canales de voz y mensajería existentes.”
+Alan Masarek, Director Ejecutivo
+6
+IDEAL PARA TODAS LAS INDUSTRIAS7Realiza recomendaciones personalizadas 
+para aumentar la participación del cliente
+Los consumidores de hoy en día esperan experiencias personalizadas 
+en tiempo real a través de canales digitales mientras consideran, 
+compran y utilizan productos y servicios.
+El aprendizaje automático puede ayudarte a entregar estas experiencias 
+altamente personalizadas, lo que resulta en mejoras en la participación 
+del cliente, la conversión, los ingresos y la margen. AWS ofrece soluciones 
+de aprendizaje automático que entregan experiencias personalizadas 
+de alta calidad a través de canales digitales, todas adaptadas a las 
+necesidades de tu negocio.
+Si deseas empezar rápidamente con la personalización hoy, puedes 
+utilizar Amazon Personalize, un servicio completamente administrado 
+que aprovecha más de 20 años de experiencia en personalización en 
+Amazon. Amazon Personalize facilita el desarrollo de aplicaciones 
+para una amplia variedad de casos de uso de personalización, 
+incluyendo recomendaciones de productos o contenido, resultados de 
+búsqueda individualizados y comunicaciones de marketing personalizadas, 
+sin necesidad de experiencia en aprendizaje automático.
+O, si deseas desarrollar tus propios modelos de aprendizaje automático 
+para motores de recomendación, puedes utilizar Amazon SageMaker, 
+un servicio completamente administrado que ayuda a científicos de 
+datos y desarrolladores a construir, entrenar y implementar modelos de 
+aprendizaje automático rápidamente. Puedes utilizar algoritmos integrados 
+como máquinas de factorización o XGBoost, ambos optimizados para 
+personalización, para entrenar y implementar modelos rápidamente. 
+También puedes traer tus propios algoritmos o modelos o seleccionar 
+entre cientos de algoritmos y modelos pre-entrenados disponibles en 
+el AWS Marketplace.
+LOTTE MART
+“(Con Amazon Personalize,) hemos visto un aumento de 5 veces 
+en la respuesta a productos recomendados… (aumentando) 
+el número de productos que el cliente nunca ha comprado 
+antes hasta un 40%.”
+Jaehyun Shin, Líder del Equipo de Big Data
+ZAPPOS
+“Estamos… utilizando soluciones de análisis y aprendizaje 
+automático para personalizar tallas y resultados de búsqueda 
+para usuarios individuales. Los servicios de AWS (incluyendo 
+Amazon SageMaker) permiten que nuestros ingenieros se 
+enfoquen en mejorar el rendimiento y los resultados en lugar 
+de sobrecarga de DevOps.”
+Ameen Kazerouni, Jefe de Investigación y Plataformas de Aprendizaje Automático
+CASO DE USO 4
+IDEAL PARA RETAIL, MEDIOS Y ENTRETENIMIENTO, VIAJES Y HOSPITALIDAD, 
+EDUCACIÓN, SERVICIOS FINANCIEROS, GOBIERNO, ATENCIÓN MÉDICA, 
+SOFTWARE Y INTERNETAnálise de activos de medios para aumentar el valor y crear nuevas perspectivas
+Los activos de medios, como audio y video, son invaluables para ofrecer una experiencia del cliente mejorada en entretenimiento, deportes profesionales, educación y otras industrias. El valor de estos activos puede aumentarse significativamente a través de la segmentación, personalización y mejora de la monetización. Desafortunadamente, muchas empresas luchan por optimizar sus medios para aprovechar al máximo este contenido.
+
+Aplicar el aprendizaje automático a este problema puede proporcionar beneficios en cuatro áreas clave: habilitar la búsqueda y descubrimiento de contenido de manera más sencilla, aumentar la accesibilidad a través de subtítulos y localización, mejorar la monetización del contenido y mejorar la moderación y cumplimiento de los medios. AWS ofrece varias soluciones de aprendizaje automático que pueden ayudarte a administrar inteligentemente tus activos de medios.
+
+AWS Media Insights Engine aprovecha Amazon Rekognition, Amazon Transcribe y Amazon Translate para acelerar dramáticamente tu capacidad para indexar contenido rico, para que puedas hacerlo disponible rápidamente para búsquedas de contenido, optimización de anuncios, subtítulos y localización, moderación de contenido, cumplimiento y generación de destacados. Amazon Rekognition permite un análisis de imágenes y videos más rápido y fácil con etiquetado personalizado para mejorar aún más la indexación y recuperación de contenido. Amazon Transcribe permite la conversión eficiente de voz en texto para crear índices de metadatos ricos para búsqueda y descubrimiento. Combinar Amazon Transcribe con Amazon Translate proporciona a los editores de contenido un flujo de trabajo para subtítulos y traducciones de videos para eliminar barreras y aumentar la accesibilidad. Media2Cloud te ayuda a configurar un flujo de trabajo de ingesta y análisis de contenido sin servidor, simplificando el proceso de mover activos de medios a la nube. Utiliza el aprendizaje automático para extraer y analizar los metadatos necesarios para construir las experiencias de visualización que desean tus clientes.
+
+NASCAR
+"Seleccionamos Amazon Transcribe para impulsar la subtítulación del contenido VOD de NASCAR... en 195 países y 29 idiomas. Desde la implementación de Amazon Transcribe, automáticamente agregamos subtítulos al 99% de nuestro contenido VOD y gastamos un 97% menos de lo que habíamos estimado originalmente."
+Patrick Carroll, Director Senior, Desarrollo
+
+NFL MEDIA
+"Amazon Rekognition... mejora significativamente la velocidad a la que podemos buscar contenido y nos permite etiquetar automáticamente elementos que requerían esfuerzos manuales antes."
+Brad Boim, Director Senior, Postproducción y Gestión de Activos
+
+CASO DE USO 5
+IDEAL PARA ENTRETENIMIENTO Y MEDIOS, SOFTWARE Y TECNOLOGÍA, VIAJES Y HOSPITALIDADCAMBIANDO EL JUEGO
+9HEROLEADS 
+
+“Al integrar Amazon Forecast, liberaremos al equipo para que se centre en trabajo de mayor valor, ampliemos el alcance de nuestros modelos para que sean utilizados por otros equipos y mejoremos la precisión de nuestro modelo de pronóstico al 99%. (Amazon Forecast proporciona) insights más rápidos, predictibilidad mejorada, sistemas de alerta de rendimiento, planificación de presupuesto dinámica y modelos de inversión más precisos.”
+
+Amit Das, Líder de Ingeniería de DatosDOMINO'S PIZZA ENTERPRISES LIMITED
+
+“Sabíamos que al utilizar los servicios de AWS (incluyendo Amazon SageMaker) podríamos... dar a nuestras tiendas una visión del futuro al predecir qué pizzas se ordenarían a continuación. Los clientes están recibiendo sus pizzas más rápido, más caliente y más fresca debido a las mejoras que hemos implementado.”
+
+Michael Gillespie, Oficial de Tecnología y Digital
+
+CASO DE USO 6
+IDEAL PARA ENERGÍA Y SERVICIOS PÚBLICOS, INDUSTRIA, MANUFACTURA, 
+COMERCIO, SOFTWARE Y INTERNET, STARTUPS, TELECOMUNICACIONES, 
+VIAJES Y HOSPITALIDAD
+
+Pronosticar métricas clave de demanda 
+más rápido y con mayor precisión para 
+satisfacer la demanda del cliente y reducir desperdicio
+
+Pronosticar qué desean los clientes, cuánto de eso desean y cuándo lo desean es vital para el éxito de cualquier organización. La cadena de suministro, las ventas, las finanzas y otras unidades empresariales dependen de métricas de demanda precisas para satisfacer a los clientes, administrar mejor el inventario y optimizar el flujo de caja. Puedes utilizar el aprendizaje automático para descubrir cómo los datos de series temporales y otras variables como características de productos y ubicación se afectan mutuamente para generar pronósticos como la demanda de productos y necesidades de recursos.
+
+En el pasado, las herramientas de pronóstico impulsadas por aprendizaje automático han sido demasiado costosas y complejas para que muchas empresas las adopten de manera significativa. Amazon Forecast cambia la ecuación, haciendo que sea fácil generar pronósticos rápidos y precisos combinando datos de series temporales con variables adicionales relevantes para las necesidades únicas de cada cliente. 
+Los procesos automatizados te ayudan a crear un modelo de aprendizaje automático personalizado en horas, sin necesidad de experiencia en aprendizaje automático. 
+Las organizaciones que desean desarrollar sus propios modelos de aprendizaje automático para pronóstico pueden utilizar Amazon SageMaker, un servicio completamente administrado que ayuda a científicos de datos y desarrolladores a construir, entrenar y implementar modelos de aprendizaje automático rápidamente. El servicio incluye varios algoritmos de aprendizaje automático integrados, como DeepAR, que están optimizados para pronóstico. Amazon SageMaker elimina la carga pesada de cada paso del aprendizaje automático para hacer que sea más fácil desarrollar modelos de alta calidad para pronóstico.CASO DE USO SIETE
+CASO DE USO 7
+EULER HERMES
+“Con datos administrativos y financieros de más de 30 millones de empresas, puede ser desafiante detectar el fraude cibernético antes de que afecte las operaciones comerciales. (Utilizando Amazon SageMaker,) pudimos lanzar un nuevo servicio interno en siete meses y ahora podemos identificar el fraude de squatting de URL dentro de las 24 horas.”
+Luis León, Asesor de Innovación en TI
+VACASA
+“Estamos emocionados de la introducción del Detector de Fraude de Amazon porque significa que podemos utilizar técnicas de aprendizaje automático avanzadas para detectar con precisión las reservas fraudulentas (de vacaciones). Proteger nuestra ‘puerta principal’ de daños potenciales nos permite enfocarnos en hacer que la experiencia de alquiler de vacaciones sea fluida y sin preocupaciones.”
+Eric Breon, Fundador y CEO
+3 https://www.javelinstrategy.com/coverage-area/2019-identity-fraud-report-fraudsters-seek-new-targets-and-victims-bear-brunt
+10
+IDEAL PARA COMERCIO ELECTRÓNICO, FINANZAS, RETAIL Hacer que sea fácil identificar actividades en línea fraudulentas potenciales
+En todo el mundo, se pierden miles de millones de dólares cada año debido al fraude en línea.3 Muchas aplicaciones diseñadas para proteger contra el fraude en línea potencial dependen de reglas comerciales que no están manteniendo el ritmo con las tácticas cambiantes de los actores malintencionados.
+La detección de fraude es una buena aplicación para el aprendizaje automático por tres razones principales. En primer lugar, aborda un problema que es rico en datos y puede beneficiarse de la identificación de patrones dentro de conjuntos de datos. En segundo lugar, puede lograr resultados que son casi imposibles de lograr a través de la entrada humana sola. Finalmente, estos resultados son fácilmente cuantificables en términos financieros, lo que puede ayudar a fomentar la adopción del aprendizaje automático en toda la organización.
+El Detector de Fraude de Amazon aprovecha el aprendizaje automático y más de 20 años de experiencia en detección de fraude de Amazon para detectar más rápido y con mayor facilidad el fraude en línea potencial. Pone sus datos en el centro de su solución y hace que sea más sencillo identificar y prevenir el fraude, sin necesidad de experiencia previa en aprendizaje automático.
+Para la detección de fraude, Amazon SageMaker ofrece algoritmos integrados, como Random Cut Forest y XGBoost, y cientos de algoritmos y modelos pre-entrenados disponibles a través de AWS Marketplace, lo que le permite desarrollar soluciones de detección de fraude en días.CAMBIANDO EL JUEGO
+CONCLUSIÓN
+Inicia o expande tu viaje de aprendizaje automático ahora
+Con los casos de uso en este eBook, puedes aprovechar el aprendizaje automático para impulsar la productividad, hacer un uso más inteligente de tus datos, satisfacer las demandas de los clientes de manera más efectiva y eficiente, mejorar las experiencias y la satisfacción del cliente, tomar decisiones más rápidas y reducir la frecuencia y el impacto del fraude.
+
+Elegimos destacar estos siete casos de uso porque nuestros clientes están logrando el éxito con ellos hoy en día —y porque cumplen con todos los requisitos que debes buscar al identificar una aplicación adecuada para el aprendizaje automático. Estos casos de uso se pueden completar en cuestión de meses, resuelven problemas empresariales reales, aprovechan fuentes de datos no explotadas, y mejoran el rendimiento, reducen costos y/o mejoran las experiencias del cliente final. Se prestan a la inclusión de expertos técnicos y de dominio, y —cuando se ejecutan adecuadamente— generan resultados que llaman la atención y fomentan el apoyo ejecutivo para una adopción más amplia del aprendizaje automático.
+
+El potencial empresarial del aprendizaje automático va mucho más allá de estos siete casos de uso. Con el conjunto más amplio y profundo de servicios de aprendizaje automático disponibles hoy en día, AWS puede ayudarte a aplicar el aprendizaje automático de manera que transforme tu negocio —permitiéndote impulsar la innovación a nuevas alturas y reimagina las posibilidades de lo que tu organización puede lograr.
+
+Aprende más sobre el aprendizaje automático de AWS »

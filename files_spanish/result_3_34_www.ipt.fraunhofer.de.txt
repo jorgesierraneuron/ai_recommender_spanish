@@ -1,0 +1,81 @@
+La inteligencia artificial (IA) ya puede ser utilizada en la producción hoy en día: ejemplos son la automatización de actividades rutinarias, la predicción de fallos en las plantas y la optimización de procesos. Sin embargo, para las empresas manufactureras de tamaño medio, existe el riesgo de perderse los desarrollos y el potencial de la IA. Muchas empresas carecen de la experiencia y la experiencia para dar los primeros pasos hacia una producción más inteligente por sí solas sin orientación experta. Por lo tanto, la Alianza Fraunhofer Big Data AI agrupa su experiencia en los campos de la IA y la producción, y ofrece a los gerentes de empresas manufactureras una introducción estructurada a este tema complejo.
+
+El uso de la IA parece ser indispensable en el futuro para aumentar la productividad y la competitividad de las empresas. Hoy en día, especialmente las pequeñas y medianas empresas enfrentan la tarea de implementar la IA en relación con su propio modelo de negocio en casos de uso adecuados a costos razonables.
+
+En cooperación con otros institutos de la Alianza Fraunhofer Big Data AI, el Instituto Fraunhofer IPT ofrece a las empresas manufactureras la oportunidad de aplicar conocimientos expertos de la investigación en inteligencia artificial de manera dirigida a la práctica industrial. Con este fin, los investigadores han desarrollado el "Paquete de inicio de IA" en una alianza interdisciplinaria.
+
+Instituto Fraunhofer de Tecnología de Producción IPT
+
+Instituto Fraunhofer de Tecnología de Producción IPT
+ESPAÑOL
+ACERCA DE NOSOTROS
+¿Dónde estoy?
+Selección de casos de uso de IA
+Big Data para la clase media
+Concepto «AI Kick Starter» de la Alianza Fraunhofer Big Data AI BUSCARPrimeros pasos propios: Conjuntos de datos de acceso gratuito para iniciar el primer proyecto de IA para producción
+
+La falta de experiencia de los empleados al tratar con IA y aprendizaje automático conduce a un gran número de proyectos fallidos a pesar de la creciente cantidad de datos. Las razones de esto son que los datos internos de la empresa están disponibles en forma no estructurada, no contienen la información relevante o no se almacenan en cantidades suficientes. En estos casos, es posible ganar experiencia inicial en el uso del aprendizaje automático utilizando conjuntos de datos de acceso gratuito. Sin embargo, los conjuntos de datos públicamente disponibles en el área de producción se almacenan en diferentes plataformas.
+
+Para reunir experiencia inicial, el Fraunhofer IPT ha recopilado y compilado conjuntos de datos públicamente disponibles para empresas con un enfoque en »producción«. Estos conjuntos de datos se pueden asignar a los ocho campos de aplicación más importantes. Se puede acceder a una visión general completa a través del enlace 
+https://www.bigdata-ai.fraunhofer.de/s/datasets/index.html
+.
+
+Nuestra gama de servicios
+
+En cooperación con la Alianza Fraunhofer Big Data AI, ofrecemos los siguientes servicios
+
+
+Identificación y priorización de objetivos estratégicos de actividades de IA
+
+Desarrollo de nuevos casos de uso de IA
+
+Evaluación de la viabilidad técnica y económica de casos de uso individuales de IA y creación de mapas de ruta
+Fases del »AI Kick Starter« de la Alianza Fraunhofer Big Data AI
+Áreas de aplicación para inteligencia artificial y aprendizaje automático en producción
+Información adicional
+
+Entrenamiento en línea / 13.7.2022 & 13.12.2022
+Calidad de datos y preprocesamiento de datos
+En colaboración con Fraunhofer IAIS, ofrecemos un seminario en línea sobre "Calidad de datos y preprocesamiento de datos".
+MÁS INFO [alemán]
+
+© Sergey Tarasov/stock.adobe.com
+Inteligencia artificial en producción de piezas individuales y lotes pequeños
+Puede descargar el informe técnico gratuito desde nuestro sitio web.
+IR A DESCARGAR
+[alemán]
+Proyectos relacionados
+Cambio tecnológico en Industria 4.0
+Los socios industriales y de investigación están desarrollando en conjunto enfoques para solucionar los campos de desarrollo de Industria 4.0 en el
+"Centro Internacional de Producción Adaptativa y Conectada".
+SITIO WEB DEL CENTRO
+
+Cadenas de valor flexibles y eficientes
+El objetivo del "Centro de Excelencia" es desarrollar producción adaptativa y conectada mediante la interconexión y digitalización de sistemas de hardware y software, así como del propio producto.COMPARTIR
+IMPRIMIR
+MÁS INFORMACIÓN
+Conjuntos de datos para aplicaciones de aprendizaje automático
+Descubre nuestros conjuntos de datos de aprendizaje automático accesibles gratuitamente en el área de aplicación de producción.
+
+CONJUNTOS DE DATOS
+
+IA para la clase media
+Descubre el comunicado de prensa sobre "Inteligencia artificial para empresas medianas: Fraunhofer prepara a las empresas manufactureras para la introducción de sistemas de IA".
+
+COMUNICADO DE PRENSA
+Tecnología de baterías innovadora
+El "Forschungsfertigung Batteriezelle" de Fraunhofer se enfoca en la investigación de nuevos conceptos de celdas de batería relevantes para la producción y su implementación.
+MÁS INFORMACIÓN
+
+Síguenos
+
+ 
+
+ 
+© 2024
+MAPA DEL SITIO
+CONTACTO
+IMPRESIÓN
+PROTECCIÓN DE DATOS
+	
+Contacto

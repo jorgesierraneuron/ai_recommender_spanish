@@ -1,0 +1,177 @@
+Inicio
+•
+Análisis
+•
+12 casos de uso de IA más populares en la empresa
+hoy
+por 
+Sarah K.
+White
+Escritora Sénior
+12	casos	de uso	de	IA	más	populares	en	la	empresa
+hoy
+Artículo
+19 de septiembre de 2023
+•
+10
+min
+Inteligencia Artificial
+Chatbots
+Estrategia de TI
+Desde chatbots hasta mantenimiento predictivo, las empresas de todas las industrias están poniendo en marcha la IA para entregar valor empresarial. Aquí es donde la IA tiene su mayor impacto.
+CRÉDITO:	GORODENKOFF	/	SHUTTERSTOCK
+Las organizaciones de todo el mundo están implementando la IA de diversas maneras para simplificar procesos, optimizar costos, prevenir errores humanos, asistir a clientes, administrar sistemas de TI y aliviar tareas repetitivas, entre otros usos. Y con el auge de la IA generativa, los casos de uso de la IA en la empresa solo aumentarán.
+Para obtener una comprensión más profunda de cómo las empresas están poniendo en práctica la IA, la consultora Deloitte encuestó a 2,620 líderes empresariales globales, en 13 países, como parte de su informe "Impulsando la transformación de la IA". La encuesta identificó los usos más destacados de la IA para una variedad de verticales, que van desde servicios financieros hasta gobierno y sector público.Servicios.
+
+A continuación, presentamos nuestro análisis de las 12 formas más populares en que se utiliza la inteligencia artificial en todas las industrias empresariales hoy en día, ya que las empresas buscan aprovechar la promesa de la inteligencia artificial para mejorar el servicio al cliente, reducir costos empresariales y impulsar procesos empresariales.
+
+1. Optimización de precios en la nube
+Las organizaciones confían en la inteligencia artificial para reducir costos en la nube y encontrar soluciones costo-efectivas para ejecutar aplicaciones en la nube. 
+Airbnb es una empresa que utiliza la inteligencia artificial para optimizar precios en AWS, utilizando la inteligencia artificial para administrar la capacidad, crear herramientas de datos de costos y uso personalizadas, y optimizar la capacidad de almacenamiento y computación. Dropbox es otra empresa que utiliza la inteligencia artificial para optimizar costos en la nube y gastos operativos, reduciendo su dependencia de AWS y ahorrando cerca de $75 millones en el proceso. Las herramientas de inteligencia artificial ayudan a las empresas a optimizar los precios en la nube y los gastos identificando patrones de uso en la nube para mejorar la predicción de costos, detectando anomalías en el uso en la nube, identificando oportunidades para ahorrar y descubriendo recursos más costo-efectivos para utilizar.
+
+2. Asistentes de voz, chatbots y inteligencia artificial conversacional
+Las herramientas de inteligencia artificial conversacional, como chatbots y asistentes de voz, han crecido en popularidad, haciendo que la tecnología sea más accesible, brindando apoyo a los clientes y reduciendo la carga en los representantes de soporte técnico. En Estée Lauder, la empresa ha lanzado un asistente de maquillaje habilitado por voz diseñado para ayudar a las personas con discapacidad visual a aplicar maquillaje. Mientras tanto, empresas como la Unión de Crédito del Pentágono (PenFed) están utilizando chatbots y inteligencia artificial conversacional para ayudar a los clientes a obtener respuestas a preguntas comunes más rápido, reduciendo la carga en los representantes de servicio al cliente.
+
+3. Optimización de uptime/fiabilidad
+Para las empresas que dependen de servicios web o comercio electrónico, mantener el uptime y la fiabilidad del sitio web es una prioridad absoluta. La inteligencia artificial ayuda a las organizaciones a lograr esto mediante el escaneo constante de sistemas, redes y procesos para detectar ineficiencias, posibles interrupciones y amenazas potenciales de manera que los humanos no podrían lograr. Casi todas las organizaciones importantes están empleando la inteligencia artificial para respaldar sus necesidades únicas de uptime y fiabilidad. Netflix, Uber, Facebook, Salesforce, Airbnb y muchos más están implementando la inteligencia artificial para monitorear, mantener y mantener sus servicios en línea y disponibles para los clientes. Para las empresas que ofrecen servicios digitales las 24 horas, utilizar la inteligencia artificial puede ayudar a identificar problemas antes de que comiencen, reducir instancias de caídas, hacking y errores humanos.
+
+4. Mantenimiento predictivo
+En GE, la inteligencia artificial se utiliza regularmente para el mantenimiento predictivo, analizando datos directamente de motores de aviones para identificar problemas, necesidades de mantenimiento y asegurar la seguridad general de los aviones. Rolls-Royce también ha encontrado un uso para la inteligencia artificial en el mantenimiento predictivo para mejorar la eficiencia de los motores de aviones y reducir la cantidad de carbono que producen, mientras que también se simplifican los horarios de mantenimiento a través de análisis predictivos. La Autoridad del Agua y Alcantarillado del Distrito de Columbia está utilizando el mantenimiento predictivo para identificar posibles roturas de tuberías de agua y monitorear el rendimiento de los sistemas de recolección. DC Water incluso tiene una herramienta de inteligencia artificial llamada Pipe Sleuth que puede revisar footage de CCTV de tuberías de alcantarillado para evaluar sus necesidades de mantenimiento en tiempo real.
+
+5. Operaciones de servicio al cliente
+La inteligencia artificial se ha convertido en una herramienta fundamental para las operaciones de servicio al cliente, ayudando a las organizaciones a asegurarse de que los clientes reciban el apoyo que necesitan mientras alivian parte de la carga en los representantes de servicio y centros de llamadas. Cuando el negocio de Lufthansa Group se vio interrumpido por la pandemia de COVID-19, sus centros de llamadas se vieron abrumados con clientes que intentaban navegar vuelos cancelados y reprogramados, lo que aceleró la transformación digital de la empresa en estas áreas. Para otras empresas, el uso de la inteligencia artificial en el servicio al cliente también ha sido impulsado por las expectativas crecientes de los consumidores. McKinsey informa que alrededor del 67% de los millennials "esperan servicio al cliente en tiempo real", y el 75% de los clientes esperan una respuesta inmediata.Según informes de McKinsey, alrededor del 67% de los millennials "esperan un servicio al cliente en tiempo real" y el 75% de los clientes esperan una "experiencia de servicio cruzada consistente". Unilever, que está utilizando la API de GPT para crear herramientas de IA para minimizar el desperdicio de alimentos y generar automáticamente listas de productos, también está utilizando la API para crear una plataforma que filtra correos electrónicos enviados al servicio al cliente, clasificando spam de mensajes legítimos y escalando hacia los agentes de servicio al cliente.
+
+6. Personalización
+Cuando inicia sesión en su aplicación de redes sociales o servicio de streaming favorito, la experiencia se personaliza según sus gustos y hábitos de navegación — hasta los anuncios dirigidos. La IA ha ayudado a las empresas a entregar productos y contenido a audiencias objetivo, asegurando que cada aplicación o servicio que utilice esté personalizado según los intereses únicos del usuario. Spotify te presentará a un nuevo artista, Amazon te recordará que es hora de reabastecer tus productos más comprados y sugerirá productos relacionados que podrías estar interesado, y YouTube te entregará una feed de contenido curada según tus intereses. La personalización de IA utiliza datos, compromiso del cliente, aprendizaje profundo, procesamiento de lenguaje natural, aprendizaje automático y más para curar experiencias altamente personalizadas para los usuarios y clientes finales. La gigante minorista Nordstrom también utiliza la IA en su plataforma de análisis Nordstrom (NAP) para obtener insights más profundos sobre las actividades de sus clientes y para proporcionar predicciones para entregar experiencias más personalizadas para sus clientes. La empresa también utiliza la IA para controlar inventarios, navegar el proceso de cumplimiento y enrutar pedidos a la tienda más cercana para los clientes, entre otras aplicaciones.
+
+7. Gestión de operaciones de TIHerramientas de gestión de operaciones de TI con inteligencia artificial (AIOps) están creciendo en popularidad. Según un informe de OpsRamp, las empresas están utilizando plataformas de AIOps para alertas inteligentes (70%), análisis de causa raíz (57%), detección de anomalías y amenazas (52%), auto-remediación de incidentes (50%) y optimización de capacidad (27%). Delta Airlines ha utilizado AIOps para crear un "entorno de simulación digital a gran escala para su operación global", que la empresa dice es un "primero en aviación comercial de pasajeros", para mantener la confiabilidad, especialmente durante el clima adverso. La plataforma analiza puntos de datos operativos y utiliza eso para crear resultados hipotéticos que ayudan a los empleados de Delta a tomar "decisiones críticas antes, durante y después de las interrupciones a gran escala", según un comunicado de prensa de Delta.
+
+8. Automatización de procesos
+La IA ha demostrado ser una herramienta efectiva para automatizar procesos que consumen tiempo y están propensos a errores humanos. Al automatizar procesos, las organizaciones pueden liberar a los empleados para trabajar en proyectos más complejos. El sistema de salud Atlantic utiliza la automatización de procesos para agilizar el proceso de obtener autorizaciones previas, impulsado por la necesidad de aliviar la carga de trabajo aumentada durante la pandemia de COVID-19. La automatización de autorizaciones previas ayuda a acelerar el tiempo de tratamiento, liberando a médicos y enfermeras para enfocarse en pacientes, y reduce los esfuerzos manuales alrededor de obtener autorizaciones y programar citas. Johnson & Johnson ha combinado RPA con ML, IA y minería de tareas para identificar y automatizar procesos complejos que abarcan varios departamentos. AT&T es otra empresa que ha utilizado la automatización de procesos desde 2015 para aliviar tareas de entrada de datos manuales extensas, lo que ha evolucionado para agilizar varios procesos en toda la organización.
+
+9. Informes financieros y contabilidad
+Intuit es una organización que utiliza la IA para mejorar el análisis de datos en la planificación financiera para clientes, con más de 730 millones de "interacciones de consumidores impulsadas por IA por año, lo que lleva a 58 mil millones de predicciones de aprendizaje automático por día". Utilizando su propia plataforma de sistema operativo de IA generativa (GenOS), Intuit puede implementar modelos de lenguaje financieros que se especializan en impuestos, contabilidad, flujo de caja y más. Esto ayuda a reducir tareas repetitivas para los trabajadores y ayuda a agilizar y reducir errores en la entrada de datos, categorización de transacciones y procesamiento de facturas. PWC también está utilizando la IA de manera similar, para informar mejor a través del procesamiento de lenguaje natural, aprendizaje automático, aprendizaje profundo, operaciones de modelos, ML automatizado, gemelos digitales, IA generativa, IA encarnada, IA responsable y más. La empresa está invirtiendo $1 mil millones en los próximos tres años para "ampliar y escalar" las capacidades de IA, ya que está claro que más organizaciones están empezando a reconocer los beneficios de la IA para las prácticas de informes financieros y contabilidad.
+
+10. Reclutamiento/contratación
+Amazon es una organización que utiliza la IA en el proceso de contratación para cribar currículums, emparejar candidatos con roles adecuados, realizar evaluaciones iniciales de candidatos en línea y pasar datos a reclutadores para contactar a candidatos. Esto se está convirtiendo rápidamente en una práctica común para organizaciones para ayudar a reducir el trabajo manual involucrado en la revisión de currículums, lo que acelera el proceso de contratación y el tiempo de contratación. La IA también se puede utilizar para realizar entrevistas iniciales por video. Unilever, que procesa más de 1,8 millones de solicitudes de trabajo cada año, se asoció con Pymetrics para construir una plataforma en línea que puede evaluar a candidatos a través de software de video. En la segunda etapa de entrevistas, los candidatos responden a preguntas durante 30 minutos mientras el software analiza su lenguaje corporal, expresiones faciales y elección de palabras utilizando tecnología de análisis de lenguaje natural y análisis de lenguaje corporal. Una vez que los empleados están dentro, organizaciones como Schneider Electric también utilizan la IA para ayudar a avanzar y desarrollar las carreras de los empleados, emparejándolos con oportunidades adecuadas.Organizaciones como Schneider Electric también utilizan IA para ayudar a avanzar y desarrollar las carreras de los empleados, emparejándolos con oportunidades de aprendizaje continuo, nuevos proyectos en la organización y oportunidades de networking con líderes de pensamiento en toda la organización.
+
+11. Seguridad y calidad
+La IA puede ayudar a las organizaciones a automatizar y simplificar los procesos de aseguramiento de la seguridad y la calidad, garantizando que haya menos riesgos para la empresa y los consumidores, al mismo tiempo que se garantiza una mejor calidad de productos y servicios. 
+Boeing está utilizando IA para detectar anomalías en los sensores de los aviones, analizar los datos recopilados en los aviones y mejorar la seguridad de vuelo en general. La IA también se puede integrar en productos para garantizar mejor su seguridad y la seguridad de las personas que los utilizan. Por ejemplo, Google ha implementado características de seguridad de IA en su línea de productos Nest, con la capacidad de detectar intrusos, así como humo o monóxido de carbono. También puede utilizar IA para ayudar a determinar si hay una emergencia real o si es una alarma falsa. Este año, Boeing también se asoció con Shield AI para "explorar la colaboración estratégica en áreas de capacidades autónomas y inteligencia artificial en programas de defensa actuales y futuros". Shield AI ha creado una tecnología llamada Hivemind, que permite que la IA vuelen drones y aviones de manera autónoma sin GPS, comunicaciones ni piloto humano.
+
+12. Optimización del horario de trabajo
+La IA ha encontrado su camino en muchos procesos, ayudando a las empresas a simplificar esfuerzos que antes requerían mucho tiempo para los gerentes. Eso es especialmente cierto cuando se trata de la optimización del horario de trabajo, donde la IA ha ayudado a las empresas a optimizar la programación, considerando varios factores como la disponibilidad de los empleados, el tráfico de clientes, las habilidades y preferencias de los empleados, todo al mismo tiempo para identificar el horario óptimo. Empresas como Walmart, Starbucks, Costco, Delta Airlines, Target y muchas más utilizan esta tecnología para identificar el mejor horario para las necesidades de la empresa.por 
+Sarah K.
+Blanco
+Escritora Sénior
+Sarah Blanco es una escritora sénior para CIO.com, cubriendo carreras de TI, contratación y personal, y diversidad.
+Más de este
+autor
+ 
+Autores más populares
+Sarah K.
+Blanco
+Escritora Sénior
+Anirban Ghoshal
+Escritor Sénior
+Thor Olavsrud
+Escritor Sénior
+Muéstrame más
+ARTÍCULOS POPULARES
+PODCASTS
+VIDEOS
+0
+1
+Camunda simplifica la automatización de procesos con nuevas características de lenguaje natural impulsadas por IA
+Por John Dunn
+16 de mayo de 2024
+•
+5
+mins
+IA Generativa
+Gestión de Procesos Empresariales
+Mejora de Procesos
+NOTICIAS¿Qué detiene a los CTOs?
+Por Esther Shein
+16 de mayo de 2024
+•
+8
+min
+CTO
+Liderazgo de TI
+FUNCIONALIDAD
+
+0
+3
+El primer CIO de Baldor establece la agenda de transformación
+Por Paula
+Rooney
+16 de mayo de 2024
+•
+6
+min
+Industria de Transporte y Logística
+Transformación Digital
+Liderazgo de TI
+FUNCIONALIDAD0
+4
+Liderazgo de CIO en vivo con Satya Jayadev, Vicepresidente y CIO, Soluciones Skyworks
+17 de mayo de 2024
+•
+17
+min
+Liderazgo de CIO en vivo
+PODCAST
+0
+5
+La CIO de Principal Financial, Kathy Kay, sobre equilibrar IA tradicional y genIA
+16 de mayo de 2024
+•
+56
+min
+Liderazgo de CIO en vivo
+PODCASTLiderazgo de CIO en Vivo
+0
+6
+Liderazgo de CIO en Vivo Oriente Medio con Ramadan Mohamad, especialista en infraestructura digital en Corporación de Transporte Público.
+14 de mayo de 2024
+•
+12
+min
+Liderazgo de CIO en Vivo
+PODCAST
+0
+70
+7
+Liderazgo de CIO en vivo con Satya Jayadev, Vicepresidente y CIO, Soluciones Skyworks
+17 de mayo de 2024
+•
+17
+min
+Liderazgo de CIO en vivo
+VIDEO
+0
+8
+La CIO de Principal Financial, Kathy Kay, sobre equilibrar IA tradicional y genIA
+16 de mayo de 2024
+•
+56
+min
+Liderazgo de CIO en vivo
+VIDEOEnlaces Patrocinados
+0
+9
+Alteryx agrega genIA para habilitar la creación de análisis a través de plataforma sin código
+15 de mayo de 2024
+•
+9
+min
+Inteligencia Artificial Generativa
+Inteligencia Artificial
+VIDEO
+Todos están listos para IA, excepto tus datos. Desbloquea el poder de IA con Informática
+Acerca de
+ 
+Políticas
+ 
+Nuestra RedDerechos de autor © 2024 IDG Communications, Inc.

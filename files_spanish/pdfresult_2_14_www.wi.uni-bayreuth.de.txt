@@ -1,0 +1,292 @@
+Desarrollar Casos de Uso de IA con Propósito – Un Método Estructurado y su Aplicación en la Gestión de Proyectos
+
+Resumen. Un ajuste adecuado entre el problema y la solución es esencial para desarrollar aplicaciones de inteligencia artificial (IA) con propósito. Sin embargo, en dominios con un ajuste problema-solución no intuitivo, como la gestión de proyectos (GP), las organizaciones requieren orientación metodológica. Por lo tanto, proponemos un método de cinco pasos para desarrollar casos de uso de IA específicos de la organización: Primero, las empresas deben considerar cinco factores contextuales, es decir, tecnología, datos, organización, dominio y entorno. En segundo lugar, las empresas deben identificar problemas existentes en el dominio y soluciones de IA. En tercer lugar, nuestro método facilita la abstracción para comprender la naturaleza subyacente de los problemas y soluciones de IA identificados. En cuarto lugar, nuestra matriz problema-solución ayuda a las empresas a emparejar funciones de IA con el contexto del dominio. En quinto lugar, las empresas derivan implicaciones necesarias para la implementación posterior del caso de uso. Para construir y evaluar nuestro método, seguimos el paradigma de investigación de diseño científico complementado por la ingeniería de métodos situacionales y basado en 14 entrevistas. Nuestro método aborda un problema práctico relevante y contribuye a identificar casos de uso de IA con propósito en dominios de aplicación no intuitivos.
+
+Palabras clave: Inteligencia Artificial, Gestión de Proyectos, Desarrollo de Casos de Uso, Ingeniería de Métodos Situacionales, Investigación de Diseño Científico.1 Introducción
+
+Los avances en recursos computacionales, la alta disponibilidad de datos y los avances en aprendizaje automático, entre otros, amplifican la comercialización de aplicaciones de inteligencia artificial (IA) en una amplia gama de áreas empresariales. Las aplicaciones de IA ejemplares van desde el diagnóstico médico [1] hasta asistentes virtuales [2] y vehículos autónomos [2]. El potencial empresarial, así como la presión para no perder la ventaja competitiva, lleva a las organizaciones a colocar la identificación de casos de uso de IA en el núcleo de sus agendas. Por lo tanto, IA ya no es solo un tema técnico. Por un lado, muchas empresas carecen de la comprensión adecuada de IA. Por otro lado, desarrollar casos de uso no es solo copiar los casos de uso de otras organizaciones, ya que los casos de uso de IA deben cumplir con factores contextuales específicos de la organización. Mientras que algunas áreas de aplicación ofrecen una relación intuitiva problema-solución (por ejemplo, mantenimiento predictivo en producción), otras áreas de aplicación vienen con importantes desafíos gerenciales.
+
+Un área de aplicación ejemplar con una relación problema-solución no intuitiva es la gestión de proyectos (GP) con su esfuerzo temporal para construir un resultado único [3]. Dado que el aprendizaje a partir de datos está en el centro de las aplicaciones de IA actuales [4, 5], situaciones únicas y la falta de datos específicos del proyecto [6] contradicen la idea de utilizar IA para GP. En cambio, muchas decisiones exitosas parecen relacionarse con el conocimiento de los gerentes de proyectos [3]. Sin embargo, el dominio de GP ofrece oportunidades múltiples para la aplicación de IA que son en gran medida desconocidas en la práctica. Varios enfoques para resolver los diferentes problemas de GP existen [por ejemplo, 6, 7], pero el trabajo previo solo se ha centrado en aplicaciones específicas de IA para abordar problemas particulares de GP. Los practicantes enfrentan el desafío de identificar la solución adecuada o de entender qué solución se adapta mejor a su problema actual [6]. En otras palabras, existe una necesidad de apoyar a las organizaciones para cerrar la brecha entre sus problemas organizativos y las soluciones de IA potenciales. A nivel tecnológico-independiente, tanto la práctica como la literatura ya han discutido la identificación de casos de uso. Sin embargo, la literatura existente sobre selección y evaluación de tecnología [8-10] no considera suficientemente las características de IA (discusión detallada en la sección 2.2). Además, el papel central de los datos en las aplicaciones de IA requiere atención especial. Para cerrar esta brecha de investigación, planteamos la siguiente pregunta de investigación: ¿Cómo puede un método apoyar a los practicantes en el desarrollo de casos de uso de IA con propósito para su aplicación en GP? Para responder a esta pregunta de investigación, desarrollamos un método para identificar casos de uso específicos de la organización para aplicar IA desde una perspectiva de problema y solución. Por lo tanto, el objetivo de ingeniería del método es desarrollar casos de uso de IA a lo largo del contexto del dominio con propósito.
+
+2 Antecedentes teóricos
+
+2.1 Inteligencia Artificial en la Gestión de Proyectos
+
+En esta sección, describimos la aplicación de IA en GP. En este contexto, seguimos la definición amplia y establecida de IA de Russell y Norvig, quienes describen la IA comoAgentes inteligentes [4]. El PM no parece ser un dominio de aplicación intuitivo para la IA, ya que los datos no están tan estructurados y obvios como en otros dominios. Sin embargo, tanto la investigación como los productos existentes indican el uso de la IA en el PM. Muchas de estas herramientas y técnicas existentes son específicas del PM, pero no son suficientes para un PM exitoso. Además, un gerente de proyecto necesita un conocimiento y una intuición altos sobre el PM, así como sobre el dominio de aplicación [3]. Además, el éxito de un proyecto depende del desempeño y la personalidad del gerente del proyecto [3].
+
+Por lo tanto, revisamos la literatura existente y las soluciones de software de PM disponibles para proporcionar una visión general ejemplar de los casos de uso de la IA en el PM. Hasta ahora, la literatura cubre principalmente el uso del aprendizaje automático para la predicción. Sin embargo, también hay aplicaciones de IA que consideran el presupuesto, la priorización de requisitos o la evaluación de riesgos. Por ejemplo, Tronto et al. [6] predicen el esfuerzo de los proyectos basándose en los drivers de costos y las variables de tamaño del software. Para predecir, utilizan una red neuronal artificial y un enfoque de regresión lineal. Vargas [13] tiene como objetivo predecir el costo del PM de un proyecto dado. Nayebi et al. [14] desarrollaron un sistema de apoyo a la toma de decisiones utilizando procesamiento de lenguaje natural para mejorar la estimación del esfuerzo, la definición del alcance y la asignación de solicitudes de cambio en proyectos de software. Para investigaciones adicionales, véase, por ejemplo, [7, 15, 16].
+
+La investigación existente está teniendo un impacto lento en las ofertas de productos. Hoy en día, la mayoría de las aplicaciones de IA en el PM son chatbots [17]. Aquí, el uso de la IA está en la interfaz de entrada y salida, pero no en la tarea del PM en sí. En consecuencia, la aplicación de IA, en lugar de humanos o software basado en reglas, desencadena la tarea del PM. Por ejemplo, el asistente de proyecto bot stratejos (https://stratejos.ai) apoya a los equipos de proyecto compartiendo tareas diarias, creando nuevas tareas o solicitando a las personas que completen temas pendientes. Otro ejemplo es el bot de redbooth (https://redbooth.com), que ilustra las tareas diarias y los temas que el equipo está trabajando. Sin embargo, ya existen aplicaciones que ejecutan tareas centrales del PM. PMOtto (https://pmotto.ai) es un asistente virtual que aconseja sobre el tiempo, el costo y los recursos de una tarea basándose en el aprendizaje automático. Cloverleaf (https://cloverleaf.me) es una plataforma basada en IA que apoya la obtención de insights sobre cómo trabajan los miembros del equipo del proyecto. Por ejemplo, Cloverleaf indica dónde enfocar el desarrollo de habilidades. Además, Cloverleaf entiende cómo posicionar a las personas en los equipos de proyecto y, por lo tanto, ayuda a ensamblar el mejor equipo de proyecto posible para un proyecto.
+
+En resumen, la literatura y los productos existentes ya ofrecen oportunidades de valor agregado para el uso de la IA en el PM. Sin embargo, las organizaciones a menudo carecen de la comprensión de los beneficios de las soluciones de IA y, por lo tanto, para crear una solución-problema-ajuste. Por lo tanto, vemos la necesidad de un método para emparejar problemas específicos de la organización y soluciones de IA.
+
+2.2 Evaluación y selección de tecnología
+
+La selección y evaluación de tecnología es una tarea crítica para que las organizaciones permanezcan competitivas [9, 18]. La selección de tecnología es un proceso de identificar tecnologías y elegir la más apropiada de ellas [18, 19]. Sin embargo, el rápido desarrollo de paisajes tecnológicos complejos y la creciente complejidad y dinamismo en el entorno empresarial complican el proceso de selección de tecnología [19, 20]. Los enfoques de selección de tecnología existentes varían en su estructura: Yap y Souder [10], Shehabudden et al. [20] y Collins y Williams [9] siguen un enfoque de filtro para identificar...La tecnología adecuada a través de diferentes criterios de filtro. Chan et al. [8] y Shen et al. [21] combinan conceptos fuzzy con enfoques de estructura jerárquica para sus modelos de selección de tecnología. Los métodos de Stillman [18] y Friedrich et al. [19] contienen un enfoque paso a paso hacia la tecnología adecuada. Además de la literatura de selección de tecnología, identificamos el método paso a paso de Fridgen et al. [25] que conceptualiza un método para desarrollar casos de uso de blockchain de manera sistemática. Inicialmente, identificar tecnologías y soluciones potenciales es un importante primer paso para muchos modelos de selección de tecnología [8, 10, 18, 21]. Después del primer paso, la literatura de selección de tecnología a menudo incorpora diferentes áreas de contexto, como tecnología, mercado, estrategia y clientes [10, 18-20]. Tanto la identificación de tecnologías como el análisis de factores de contexto representan una base importante para la selección de tecnología. En contraste con los dos primeros aspectos, la comprensión de la tecnología solo se menciona explícitamente en Fridgen et al. [22]. La mayor parte de los métodos considerados incorpora criterios para evaluar el valor agregado de la tecnología que se va a introducir [8, 9, 19-21]. La comparación estructurada de las soluciones evaluadas también juega un papel importante en todos los métodos considerados. Mientras que los enfoques de selección de tecnología se centran en la elección adecuada de tecnología, los enfoques en el campo de la IA se centran en desarrollar e implementar algoritmos de IA.
+
+Sin embargo, los métodos de selección de tecnología existentes no identificarían adecuadamente los casos de uso de IA para dominios con una relación problema-solución no intuitiva como PM. La selección de tecnología se centra en considerar áreas de contexto y cumplir con factores específicos para crear valor para la organización. Además, la IA tiene características que requieren consideración explícita para utilizar con éxito la IA en organizaciones. Las enormes expectativas suelen provenir del hecho de que muchas organizaciones no entienden completamente el potencial empresarial de la IA [23]. En consecuencia, es muy importante desarrollar una comprensión de la IA antes de identificar casos de uso. Los datos son indispensables para aplicaciones de IA y están cada vez más se convirtiendo en un recurso central para las organizaciones. En consecuencia, el triángulo de aplicación, datos y organización debe encajar cuando se utiliza la IA. Si un caso de uso no cumple con todos estos criterios, hay un riesgo de que el caso de uso de IA no funcione en la organización. En última instancia, la IA tiene un carácter modular [24, 25] que la hace muy prometedora para transferir soluciones existentes a otros dominios y re combinar componentes de IA individuales para crear nuevos casos de uso completamente nuevos. Todos estos aspectos necesitan atención especial cuando se introduce la IA en organizaciones.
+
+3 Método de Investigación
+
+Seguimos el paradigma de DSR para desarrollar nuestro artefacto, es decir, un método que identifica casos de uso de IA en PM. DSR es un enfoque para desarrollar y evaluar artefactos que sirven a propósitos humanos o organizacionales rigurosamente [26, 27]. Los métodos, como un artefacto de DSR reconocido, especifican cómo realizar actividades dirigidas a objetivos [27]. Complementamos el paradigma de DSR con principios de SME [11]. SME proporciona técnicas para crear métodos de desarrollo de IS que cumplen con los requisitos de una situación dada [28]. Anteriores estudiosos han demostrado el valor de incrustar SME dentro del paradigma de DSR para desarrollar métodos rigurosamente [29, 30]. En nuestro estudio, utilizamos el método basado en ensamblaje.Enfoque de ingeniería, un modelo de procedimiento para PYME propuesto por Ralyté et al. [31]. El enfoque de ingeniería de métodos basado en ensamblaje nos permite utilizar técnicas de evaluación y selección de tecnología existentes (es decir, fragmentos de métodos). Además, el enfoque iterativo de la ingeniería de métodos basada en ensamblaje nos permite incorporar nuevas perspectivas de entrevistas con expertos.
+
+En el curso de nuestro proyecto de investigación, realizamos, grabamos, transcribimos y analizamos 14 entrevistas semiestructuradas [32]. Las primeras diez entrevistas proporcionaron conocimientos generales sobre la relevancia práctica y los desafíos relacionados con la aplicación de IA en la gestión de proyectos, lo que nos motivó a crear un método que desarrolla casos de uso de IA en un dominio con una relación problema-solución no intuitiva. Las perspectivas de las cuatro entrevistas restantes abarcan especialmente la evaluación de nuestro método para asegurar su aplicabilidad. Además, revisamos las primeras diez entrevistas durante la evaluación para verificar que nuestro método se ajusta a las expectativas de los entrevistados. Utilizamos muestreo de expertos [33] para identificar entrevistados con experiencia en IA y gestión de proyectos de diferentes industrias y tamaños de empresa.
+
+Tabla 1. Visión general de las entrevistas con expertos
+
+# Cargo Área de 
+Expertise Experiencia 
+en años Industria Tamaño de 
+la empresa Duración 
+de la entrevista 
+E1 Especialista en datos 
+senior IA <5 Energía <50,000 56 
+E2 Gerente de proyectos de TI IA y PM 5-10 Consultoría de TI <500 74 
+E3 Fundador y CEO IA <5 Software Start-up <50 46 
+E4 Arquitecto de soluciones de TI IA 5-10 ICT <100 105 
+E5 SVP y COO IA y PM >10 Logística >100,000 89 
+E6 Jefe de gestión de programas PM 5-10 Ingeniería <25,000 63 
+E7 Consultor de TI senior PM <5 Consultoría de TI <500 69 
+E8 Gerente de programas de TI PM >10 ICT y consultoría de TI >100,000 78 
+E9 Gerente de proyectos de TI PM >10 Automotriz >100,000 65 
+E10 Director senior PM >10 Logística >100,000 86 
+E11 Jefe de estrategia e innovación IA y PM >10 Investigación y desarrollo de IA <50 59 
+E12 Analista de datos IA 5-10 Software Start-up <50 49 
+E13 Gerente de proyectos de TI PM <5 Ingeniería <25,000 72 
+E14 Gerente de seguridad de TI IA y PM <5 Sector público <100 54 
+
+En el primer paso de nuestro desarrollo de método, definimos los objetivos de ingeniería de métodos basados en nuestra evaluación de la relevancia de IA y las limitaciones de los modelos de selección y evaluación de tecnología existentes para abordar las especificidades de IA. En el segundo paso, identificamos los requisitos de fragmentos de métodos y condiciones de finalización generales. Establecimos nuestras condiciones de finalización (CC) como sigue: (CC1) El ensamblaje del método cumple con los objetivos de ingeniería de métodos. (CC2) Cada fragmento de método cumple con sus requisitos. (CC3) El ensamblaje del método considera un problema y una perspectiva potencial. En el tercer y cuarto paso, seleccionamos y ensamblamos fragmentos de métodos hasta que el método cumplió con todas las condiciones de finalización. En el quinto paso, evaluamos inicialmente el método para demostrar su utilidad inherente [26, 27]. Por lo tanto, seguimos la evaluación.Criterios de March y Smith [27], es decir, facilidad de uso, viabilidad, efectividad, eficiencia y generalidad.
+
+4 Un método para desarrollar casos de uso de inteligencia artificial con propósito en la gestión de proyectos
+
+En esta sección, describimos nuestro método desarrollado para desarrollar casos de uso de IA con propósito en la gestión de proyectos como un dominio de aplicación ejemplar. Nuestro método consta de cinco pasos, es decir, preparación, descubrimiento, comprensión, diseño e implementación. Utilizamos fragmentos de métodos establecidos de evaluación y selección de tecnologías, así como de otros métodos que se centran en la aplicación de tecnologías emergentes. Además, nuestro método considera las opiniones de expertos para atender las necesidades de los practicantes, como comprender la tecnología, enfoque en el valor empresarial, evaluación de casos de uso y enfoques de implementación, entre otros. La Figura 1 resume los cinco pasos del método.
+
+Objetivo Recopilar y estructurar información sobre cinco factores de contexto Recopilar problemas de dominio y soluciones de IA existentes Comprender problemas y soluciones a través de abstracción Coincidir problemas de dominio y soluciones de IA en una matriz de problema-solución Derivar los requisitos previos para la implementación exitosa de los casos de uso seleccionados Salida Tecnología, datos, organización, dominio y contexto ambiental Lista de problemas de dominio relevantes y posibles soluciones de IA Asignación abstracta de problemas y soluciones a clases de problemas y soluciones Lista factible de casos de uso con ajuste de problema-solución Implicaciones estratégicas y contextuales para la implementación de casos de uso
+
+Figura 1. Visión general del método para desarrollar casos de uso de IA en el dominio de la gestión de proyectos
+
+4.1 Preparación
+
+El primer paso del método (es decir, preparación) recopila y estructura información relevante sobre el contexto específico de la organización. Para ello, nos basamos en la literatura de selección de tecnologías [8-10, 18, 20, 21], el marco establecido de Tecnología-Organización-Medio ambiente (TOE) [34] y la literatura de adopción de IA [23, 35] para derivar factores de contexto relevantes para un análisis detallado. La selección de tecnologías es un proceso crítico para que las organizaciones permanezcan competitivas. Al ofrecer una teoría genérica para la difusión de tecnologías, el marco TOE es adecuado para conocer nuevas tecnologías [36]. Por ejemplo, Pumplun et al. [35] y AlSheibani et al. [23] describen la adopción de IA utilizando el marco TOE y proporcionan áreas de contexto adicionales para utilizar IA dentro de una organización. Ampliamos el marco TOE para incluir datos y dominio como áreas de contexto adicionales para tener en cuenta las especificidades de IA y dominio. Por lo tanto, distinguimos cinco áreas de contexto: tecnología, datos, organización, dominio y entorno.
+
+Tecnología. Las organizaciones deben tener una comprensión general de las tecnologías de IA. Además, las organizaciones deben considerar las condiciones límite de las tecnologías existentes.estrategias (empresariales, de TI y de IA, si corresponde) por sus implicaciones tecnológicas, 
+así como la experiencia previa y el conocimiento actual dentro de la organización en cuanto a 
+IA [35]. 
+
+Datos. Al utilizar el aprendizaje automático, la implementación exitosa de la IA depende 
+especialmente de los datos [35]. Por ejemplo, entrenar algoritmos de aprendizaje automático 
+requiere grandes cantidades de datos para lograr una calidad de solución adecuada [37]. Sin 
+embargo, la disponibilidad, calidad y seguridad de los datos suelen ser factores limitantes en 
+proyectos de IA [35]. Además, los modelos de aprendizaje automático solo pueden generar 
+salidas significativas si los datos coinciden con la aplicación [4]. Por lo tanto, las 
+organizaciones deben considerar cuidadosamente estos aspectos y evaluar los datos 
+disponibles (por ejemplo, actualidad, relevancia, accesibilidad). 
+
+Organización. Al considerar la organización, aspectos como la estructura, los recursos y la 
+cultura juegan un papel decisivo [35]. Es importante asegurar la alineación de las 
+tecnologías emergentes como la IA con la estrategia general de la organización [19]. Por 
+ejemplo, las organizaciones deben asegurarse, entre otras cosas, del apoyo de la dirección 
+superior, una cultura innovadora y recursos adecuados (por ejemplo, presupuesto, 
+expertise del empleado y disponibilidad). 
+
+Dominio. Con el método que busca desarrollar casos de uso de IA dentro de un dominio de 
+aplicación específico, las organizaciones deben evaluar las características generales del 
+dominio. Para ello, las organizaciones deben recopilar información relevante y partes 
+interesadas para crear una comprensión compartida (por ejemplo, a través de equipos 
+conjuntos con expertos en IA y dominio). Para casos de uso de IA en la gestión de 
+proyectos, esto puede incluir el número total de proyectos, información sobre tipos de 
+proyectos, contenido y tamaño, informes de éxito y fracaso, o apoyo de herramientas 
+actuales. 
+
+Entorno. El contexto ambiental incluye una evaluación de los requisitos de la industria, 
+competidores, clientes y regulación [35]. Por lo tanto, las organizaciones deben 
+identificar factores facilitadores y obstaculizadores para el desarrollo de casos de uso de 
+IA. Estos factores pueden incluir tendencias generales de la industria para la adopción de 
+IA, preferencias de los clientes para la aceptación de IA y el impacto regulatorio en la 
+implementación de IA (por ejemplo, financiamiento público, GDPR y directrices éticas 
+sobre la confiabilidad de la IA [38]). 
+
+4.2 Descubrimiento 
+
+El objetivo del segundo paso del método (es decir, descubrimiento) es recopilar problemas 
+específicos del dominio y soluciones de IA existentes. De esta manera, las organizaciones 
+pueden desarrollar casos de uso de IA desde dos perspectivas: en primer lugar, las 
+organizaciones pueden utilizar la IA para abordar problemas existentes en el dominio de 
+aplicación (perspectiva del problema). En segundo lugar, las organizaciones pueden 
+explorar nuevas soluciones de IA para abrir oportunidades tecnológicas nuevas en el 
+dominio de aplicación (perspectiva de la solución). 
+
+Perspectiva del problema. En el caso de la gestión de proyectos, seguir la perspectiva del 
+problema es un enfoque sensato para aprender de los fracasos de proyectos pasados para 
+proyectos futuros [39]. Sin embargo, las definiciones de éxito y fracaso de proyectos 
+difieren en las organizaciones y en la literatura [40]. Las dimensiones comunes de éxito 
+incluyen la eficiencia del proceso de implementación, el valor percibido del proyecto y la 
+satisfacción del cliente [41]. Con base en una comprensión común del fracaso del proyecto, 
+los gerentes de proyectos deben analizar sus proyectos para identificar problemas y 
+obstáculos pasados. Este enfoque inicialmenteresultado en problemas muy específicos [39] que las organizaciones pueden comparar con la literatura de fallo de PM [e.g., 39, 42-44].
+
+Perspectiva de solución. La perspectiva de solución identifica enfoques y oportunidades tecnológicas existentes para casos de uso de IA en el dominio de aplicación. Las empresas deben realizar un análisis de mercado exhaustivo [19] para recopilar soluciones de IA existentes. Dicho análisis puede incluir productos de software disponibles, así como oportunidades tecnológicas y conocimientos de investigación de vanguardia. Siguiendo este enfoque agnóstico de problemas, las organizaciones ganan una comprensión más profunda de las soluciones de IA potenciales y pueden descubrir oportunidades tecnológicas adicionales para mejoras en PM [22].
+
+4.3 Comprensión
+
+Las organizaciones a menudo carecen de conocimientos profundos sobre tecnologías emergentes, lo que conduce a expectativas exageradas [22]. Por lo tanto, el tercer paso del método (es decir, comprensión) abstractiza aún más los problemas del dominio identificados y las soluciones de IA existentes para revelar su naturaleza subyacente. Esta comprensión permite a las organizaciones emparejar problemas y soluciones en el paso del método siguiente. Además, es importante comprender bien los problemas y soluciones para evaluar el resultado de la aplicación en la fase de desarrollo y despliegue posterior. La abstracción suele cambiar solo la representación de un fenómeno (por ejemplo, un sobrecosto en un proyecto específico indica un problema de estimación de presupuesto) para reducir la complejidad [45]. Resolver esta abstracción es a menudo más fácil que resolver un fenómeno específico directamente. Finalmente, se transfiere la solución abstracta a una solución específica para el fenómeno original (por ejemplo, aplicar un algoritmo de estimación de presupuesto basado en IA en un proyecto específico con sus características). Mientras que una solución abstracta puede aplicarse a varios problemas (por ejemplo, varios proyectos con sobrecostos), es importante abstractar con propósito para mantener la naturaleza subyacente del fenómeno [46].
+
+Estructura del dominio de aplicación. Considerando la comprensión del dominio, las organizaciones deben encontrar una forma de estructurar los procesos, actividades y expertos del dominio. Para el dominio de aplicación de PM, utilizamos las diez áreas de conocimiento del Project Management Body of Knowledge [3] como un estándar de facto de PM enfocado en la experticia. Las organizaciones también podrían utilizar grupos de procesos o fases de PM para estructurar el dominio de aplicación. Sin embargo, preferimos el enfoque en la experticia porque no limita las soluciones de IA a una fase específica del proyecto, como la estimación de presupuesto al principio del proyecto o la predicción continua de necesidades de presupuesto. Por supuesto, otros dominios de aplicación o específicos de la organización pueden requerir su propia estructura del dominio de aplicación (por ejemplo, fases de desarrollo de productos para usos de IA en un contexto de producción).
+
+Funciones de IA. Considerando la comprensión de IA, proponemos siete funciones de IA inspiradas en las habilidades cognitivas humanas por tres razones principales. Primero, IA imita problemas del pensamiento humano [4]. En segundo lugar, IA se inspira en el aprendizaje biológico de los humanos [37]. En tercer lugar, las habilidades cognitivas son familiares para los tomadores de decisiones humanos, facilitando la aplicación de nuestro método. Para una discusión sobre las habilidades cognitivas en PM, véase, entre otros, Mair et al. [47]. En consecuencia, nos basamos en la literatura de psicología para distinguir las tareas abstractas que IA puede apoyar [e.g., 48, 49]. Enumeramos las siete funciones de IA, incluyendo una definición breve, a continuación.• Percibir, es decir, adquirir y procesar datos del mundo real para producir información
+• Extracción y identificación de características, es decir, extraer e identificar objetos específicos de los datos
+• Razonamiento, es decir, separar datos en entidades (similares) para explicar o entender su estructura o sus relaciones subyacentes
+• Predicción, es decir, estimar eventos y condiciones futuras en una escala continua
+• Toma de decisiones, es decir, elegir entre alternativas discretas conocidas
+• Generación, es decir, producir o crear algo
+• Acción, es decir, ejecutar acciones orientadas a objetivos (por ejemplo, movimiento, navegación, control)
+
+Tipos de soluciones de IA. Además de las funciones de IA, existen diferentes tipos de soluciones de IA. Refinamos los enfoques de tipo de solución de Auth et al. [17] y Balada et al. [50] y distinguimos cuatro tipos de soluciones de IA según el papel, alcance y valor del uso de IA: soluciones basadas en reglas, soluciones habilitadas por IA, soluciones basadas en IA y soluciones de IA completas.
+
+Las soluciones basadas en reglas no poseen ningún componente de IA, sino que se basan en programación basada en reglas comunes. Las soluciones basadas en reglas son particularmente útiles para automatizar tareas de proyectos estandarizadas a través de la integración de flujo de trabajo simple (por ejemplo, automatización de procesos robóticos). Las soluciones habilitadas por IA utilizan IA para apoyar interfaces de entrada y salida. Las soluciones habilitadas por IA suelen comprender interacción humano-computadora, a menudo basada en procesamiento de lenguaje natural (por ejemplo, chatbots). Las soluciones basadas en IA utilizan IA para apoyar el procesamiento de la tarea principal. Estas soluciones crean nuevo conocimiento (por ejemplo, estimación de presupuestos o asesoramiento de gestión de riesgos). Las soluciones de IA completas utilizan IA para entrada y salida, así como para el procesamiento de la tarea. Las soluciones de IA completas pueden consistir en soluciones de IA separadas (por ejemplo, un chatbot que comunica estimaciones de presupuestos basadas en IA). Nuestro método se centra principalmente en soluciones basadas en IA y soluciones de IA completas, ya que las soluciones basadas en reglas no incluyen un componente de IA y las soluciones habilitadas por IA facilitan el proceso en lugar de abordar la tarea principal. Sin embargo, las organizaciones pueden utilizar esta clasificación para guiar el desarrollo de casos de uso para los cuatro tipos de soluciones de IA.
+
+4.4 Diseño
+
+El paso anterior del método resultó en una lista de soluciones de IA y problemas de dominio, así como una comprensión más profunda de la estructura de dominio y las funciones de IA. En el cuarto paso del método (es decir, diseño), es necesario emparejar problemas de dominio y soluciones de IA consolidando la información recopilada en la matriz de problema-solución (cf. Figura 2): En el caso de PM, organizamos las áreas de conocimiento en las columnas de la matriz y las funciones de IA en las filas de la matriz. Dependiendo de qué capacidad humana sería necesaria para resolver el problema o qué capacidad humana se asemeja a la solución, se puede realizar una asignación a las funciones de IA.
+
+Constelaciones de problema-solución. Después de ordenar las soluciones y problemas, tres escenarios son posibles: En el caso de una coincidencia de problema-solución, los elementos de la matriz incluyen tanto problemas como soluciones. Las organizaciones pueden comparar los casos de uso resultantes con los factores contextuales y evaluar su valor agregado. Si solo hay un problema en un campo de matriz, pero no hay solución, la organización puede realizar un análisis de mercado más intensivo.investigación. La organización puede buscar específicamente soluciones en el área en la que ocurrió el problema. Si no existe una solución, la organización también puede evaluar si es posible desarrollar la solución. Si solo hay una solución en el campo de la matriz, pero no hay problema, la organización debe verificar las siguientes dos posibilidades. Primero, si la organización ha pasado por alto un problema. Segundo, si la organización no ha pasado por alto un problema, si la solución tiene el potencial de mejorar los procesos actuales.
+
+Estructura de Dominio de Aplicación (Áreas de Conocimiento de PM)    Integración 
+Gestión de Alcance 
+Gestión de Proyectos 
+Gestión de Proveedores 
+Gestión de Stakeholders 
+Funciones de IA  Percepción       
+Extracción y Identificación de Características       
+Razonamiento       
+Predicción       
+Toma de Decisiones       
+Generación       
+Acción       
+Figura 2. Matriz de Problema-Solución en el Dominio de PM  
+
+Comparación y Priorización. Tan pronto como se tiene una colección de casos de uso, la organización analiza los factores de contexto de la primera etapa del método (es decir, preparación) nuevamente, específicamente para cada caso de uso. De esta manera, la organización puede determinar si es posible implementar en el momento actual o qué obstáculos y requisitos existen para habilitar la implementación. Con base en esto, la organización puede priorizar los casos de uso. Para este propósito, la organización debe definir criterios según los cuales desee evaluar los casos de uso. Criterios comunes de la literatura se refieren a la calidad, costo, beneficios, confiabilidad y compatibilidad [8, 20].
+
+4.5 Implementación  
+El objetivo del quinto paso del método (es decir, implementación) es superar con éxito el obstáculo desde la concepción del caso de uso hasta la implementación del caso de uso. Por lo tanto, las organizaciones deben poner en práctica las consideraciones teóricas y derivar los requisitos previos para una implementación exitosa del caso de uso. Al hacerlo, una organización debe responder a la pregunta de si desea desarrollar la aplicación de IA en casa, externalizar el desarrollo o comprar una solución existente de un proveedor externo. Además, las organizaciones deben considerar nuevamente los cinco factores de contexto introducidos en la primera etapa del método durante la implementación del caso de uso. En cuanto al contexto tecnológico, la organización necesita considerar, por ejemplo, cómo integrar la aplicación de IA en la infraestructura actual y cómo desarrollar un prototipo. Estrechamente relacionado, la organización necesita considerar el contexto de datos. Por ejemplo, si los datos requeridos no están disponibles, la organización debe planificar la adquisición de datos o adaptar su estrategia de datos. En el contexto organizativo, la organización necesita abordar, entre otros, las inquietudes de los empleados. En cuanto al contexto de dominio, la organización necesita decidir cómo cambiar las oportunidades existentes.
+
+Caso 1: Celda específica contiene problema y solución  
+Verificar la coincidencia problema-solución y proceder  
+Caso 2: Celda específica contiene solo un problema  
+Verificar soluciones desconocidas y viabilidad tecnológica de una solución de IA  
+Caso 3: Celda específica contiene solo una solución  
+Verificar puntos ciegos del problema o nuevas oportunidades impulsadas por IAprocesos. Como ejemplo del contexto ambiental, la organización debe verificar cuidadosamente la protección de datos y cuestiones éticas.
+
+5 Evaluación y Discusión
+
+5.1 Discutiendo la Aplicación del Método
+
+Nuestro método no es un enfoque aislado, sino que las organizaciones deben considerar explícitamente su integración dentro del contexto organizacional. La IA no es solo un tema para laboratorios o el departamento de TI. Los equipos interdisciplinarios naturales reúnen una perspectiva de problema y solución y, por lo tanto, se complementan mutuamente. Dado que los casos de uso de IA pueden afectar a muchos empleados, la gestión del cambio se convierte en un tema importante para las organizaciones. Para hacer frente a esto, nuestro método permite incorporar a no expertos en IA desde el principio del desarrollo de casos de uso de IA para dar forma al uso de IA en su dominio. Además, nuestro método puede parecer seguir un orden secuencial de pasos del método. Sin embargo, sugerimos una implementación más iterativa. Dado que nuestro método deja espacio para la ejecución personalizada, se puede aplicar nuestro método en diferentes extensiones. Por ejemplo, expertos en IA, expertos en dominio y ejecutivos comienzan con un taller para generar una evaluación inicial y rápida de áreas de casos de uso. Las percepciones de una primera iteración permiten planificar iteraciones adicionales con más detalle. Además, los practicantes pueden aplicar nuestro método en otros dominios con ajustes de problema-solución no intuitivos. En primer lugar, las funciones de IA introducidas son aplicables de manera independiente del dominio porque no tienen características específicas del dominio. En segundo lugar, la estructura de nuestro método permite reemplazar PM por otros dominios caracterizados por un ajuste de problema-solución no intuitivo.
+
+5.2 Evaluando la Utilidad del Método
+
+Siguiendo a March y Smith [27], evaluamos nuestro método con respecto a cinco criterios (es decir, facilidad de uso, viabilidad, efectividad, eficiencia y generalidad) y discutimos el cumplimiento del CC. Aunque no hemos aplicado nuestro método en un escenario real del mundo aún, evaluamos la utilidad del método inicialmente basada en las entrevistas con expertos posteriores.
+
+Viabilidad. En general, los expertos confirman la comprensibilidad y viabilidad de nuestro método [E11-E14]. Además, los expertos están de acuerdo en que todos los pasos del método son completos. A pesar de la singularidad de los proyectos, E11 afirma que no hay obstáculos adicionales para utilizar soluciones de IA en diferentes proyectos. E12, E13 y E14 enfatizan la aplicabilidad de nuestra matriz. En detalle, E12 puede combinar nuestras funciones de IA con diferentes algoritmos de IA y E13, como no especialista en IA, puede comprender las funciones de IA.
+
+Facilidad de uso. Los practicantes no necesitan hacer inversiones a largo plazo para utilizar nuestro método. Sin embargo, nuestro método implica que la organización debe tratar intensamente con el dominio y la IA. Sin embargo, desde nuestro punto de vista, esto es necesario para desarrollar casos de uso con propósito. Debido a la variabilidad del método, el esfuerzo de ejecución es controlable y escalable. Según las demandas de la organización, el proceso puede variar desde un taller de un día hasta una fase más larga con pocos participantes o un equipo completo.Eficiencia. El carácter iterativo del método brinda a los practicantes la posibilidad de terminar la etapa actual del método para evitar costos hundidos. Ejecutar iterativamente nuestro método permite obtener insights más profundos en los problemas para obtener soluciones lo más intencionadas posible. E11 confirma que es importante obtener soluciones para problemas específicos de manera intencionada. Además, la parte de abstracción del método permite cubrir un cierto número de problemas con una sola solución.
+
+Eficacia. En general, los expertos confirman la relevancia de un enfoque estructurado para utilizar soluciones de IA [E11-E14]. E12 destaca la relevancia del método al describir su idea de crear un método similar para su organización para desarrollar soluciones rápidamente y de manera intencionada. Por ejemplo, las estimaciones de alcance [E13] son un área de aplicación de la IA en la gestión de proyectos, que nuestro método puede identificar. Sin embargo, E13 afirma que una alta abstracción conlleva el riesgo de que los gerentes de proyectos clasifiquen los problemas de manera diferente en la matriz.
+
+Generalidad. Como se estableció en la sección 5.1, el método es independiente del dominio y, por lo tanto, proporciona aplicabilidad general en organizaciones. Aunque presentamos nuestro método en un contexto de gestión de proyectos, por ejemplo, E12 transfiere el método, especialmente las funciones de IA, al sector médico. Además, E14 transfiere el método a una tarea de seguridad informática actual y confirma la aplicabilidad de nuestra matriz en este área.
+
+Condiciones de finalización. Al utilizar nuestro método, los practicantes entienden cómo crear casos de uso de IA en la gestión de proyectos. También pueden organizar conocimientos de IA y experiencia en gestión de proyectos correspondiente (CC1). Además, los expertos confirman que cada chunk del método cumple con sus requisitos (CC2). Por último, el método considera un problema y una visión potencial, ya que la clasificación es posible desde ambas perspectivas (CC3). En consecuencia, la evaluación inicial de nuestro método indica que nuestro método cumple con las CC.
+
+5.3 Limitaciones y futuras investigaciones
+
+Nuestro estudio está sujeto a limitaciones que estimulan futuras investigaciones. En primer lugar, utilizamos 14 entrevistas con expertos para apoyar todo el proceso de desarrollo del método y su evaluación posterior. Aunque las declaraciones de los entrevistados apoyan la relevancia del método, la investigación futura debería ampliar el número de participantes en las entrevistas para evaluar nuestro método. En segundo lugar, no podemos presentar un escenario real para evaluar nuestro método. Sin embargo, basándonos en nuestras percepciones durante el desarrollo del método y su evaluación inicial, la aplicación de nuestro método parece prometedora. Por lo tanto, la investigación futura puede abordar preguntas detalladas como la composición del equipo y las iteraciones razonables del método al ejecutar nuestro método [E11]. En tercer lugar, la tasa de cambio y los avances tecnológicos en IA requieren una evaluación y mejora continuas de nuestro método. En cuarto lugar, la investigación futura puede validar la aplicación de nuestro método en otros dominios con una relación problema-solución no intuitiva.6 Conclusión
+
+Motivados por la necesidad de las organizaciones de comprender la naturaleza de la IA y su aplicación valor agregado, proporcionamos un método de cinco pasos para desarrollar casos de uso de IA con propósito. En particular, un método como este es necesario para áreas de aplicación que tienen una relación problema-solución no intuitiva. En este estudio, utilizamos la gestión de proyectos (PM) como área de aplicación ejemplar en la que parece especialmente difícil evaluar el potencial de aplicación de la IA. La contribución teórica de nuestro documento amplía la investigación existente sobre la selección de tecnología y la identificación de casos de uso mediante orientación metodológica específica de IA. Además, proporcionamos argumentos para la generalizabilidad de nuestro método más allá de la PM para cubrir otros dominios de aplicación con una relación problema-solución no intuitiva. Además, nuestro método tiene importantes implicaciones gerenciales al proporcionar orientación científica inicial para la identificación estructurada y reflexiva de casos de uso de IA. Por lo tanto, nuestro método ayuda a desmitificar la IA, su aplicación específica del dominio y los casos de uso con propósito.
+
+Referencias
+
+1. Hofmann, P., Oesterle, S., Rust, P., Urbach, N.: Enfoques de aprendizaje automático a lo largo de la cadena de valor de radiología – Repensando las proposiciones de valor. Proceedings of the 27th European Conference on Information Systems (ECIS) (2019)
+2. Rzepka, C., Berger, B.: Interacción del usuario con sistemas habilitados por IA: Una revisión sistemática de la investigación en IS. Proceedings of the 39th International Conference on Information Systems (ICIS) (2018)
+3. Project Management Institute: Guía del cuerpo de conocimientos de la gestión de proyectos. The Stationery Office Ltd, Londres (2018)
+4. Russell, S., Norvig, P.: Inteligencia artificial. Un enfoque moderno. Pearson Education UK, Edimburgo (2016)
+5. Bengio, Y., Courville, A., Vincent, P.: Aprendizaje de representación: una revisión y nuevas perspectivas. IEEE transactions on pattern analysis and machine intelligence 35, 1798 –1828 (2013)
+6. Barcelos Tronto, I.F. de, da Silva, J.D.S., Sant’Anna, N.: Una investigación de sistemas de predicción basados en redes neuronales artificiales en la gestión de proyectos de software. Journal of Systems and Software 81, 356 –367 (2008)
+7. Perini, A., Susi, A., Avesani, P.: Un enfoque de aprendizaje automático para la priorización de requisitos de software. IEEE Transactions on Software Engineering 39, 445 –461 (2013)
+8. Chan, F.T.S., Chan, M.H., Tang, N.K.H.: Metodologías de evaluación para la selección de tecnología. Journal of Materials Processing Technology 107, 330 –337 (2000)
+9. Collins, M., Williams, L.: Un filtro de tres etapas para la selección efectiva de tecnología. Research-Technology Management 57:3, 36 –42 (2014)
+10. Yap, C.M., Souder, W.E.: Un sistema de filtro para la evaluación y selección de tecnología. Technovation 13, 449 –469 (1993)
+11. Brinkkemper, S.: Ingeniería de métodos: ingeniería de métodos y herramientas de desarrollo de sistemas de información. Information and Software Technology 38, 275 –280 (1996)
+12. Gregor, S., Hevner, A.R.: Posicionamiento y presentación de la investigación de ciencia de diseño para máximo impacto. MIS Quarterly 37, 337 –355 (2013)
+13. Vargas, R.: Aplicación de redes neuronales y estimación análoga para determinar el presupuesto del proyecto. Congreso Global de PMI (2015)Here is the translation:
+
+14. Nayebi, M., Kabeer, S.J., Ruhe, G., Carlson, C., Chew, F.: Las etiquetas híbridas son la nueva medida. IEEE Software 35, 54 –57 (2018)
+
+15. Fauser, J., Schmidthuysen, M., Scheffold, B.: La predicción del éxito en la gestión de proyectos. Análisis predictivo de proyectos. Projektmanagement aktuell 26, 66 –74 (2015)
+
+16. Shivaji, S., Whitehead, E.J., Akella, R., Kim, S.: Reduciendo características para mejorar la predicción de errores basada en cambios de código. IEEE Transactions on Software Engineering 39, 552 –569 (2013)
+
+17. Auth, G., Jokisch, O., Dürk, C.: Revisión de la gestión de proyectos automatizada en la era digital - una encuesta de enfoques de IA. Online Journal of Applied Knowledge Management 7, 27 –39 (2019)
+
+18. Stillman, H.M.: Cómo ABB decide sobre las inversiones tecnológicas adecuadas. Research - Technology Management 40, 14 –22 (1997)
+
+19. Friedrich, T., Overhage, S., Schlauderer, S., Eggs, H.: Selección de tecnologías para el comercio social: hacia un método sistemático. Proceedings of the 23rd European Conference on Information Systems (ECIS) (2015)
+
+20. Shehabuddeen, N., Probert, D., Phaal, R.: De la teoría a la práctica: desafíos en la operacionalización de un marco de selección de tecnología. Technovation 26, 324 –335 (2006)
+
+21. Shen, Y. -C., Chang, S. -H., Lin, G.T.R., Yu, H. -C.: Un modelo de selección híbrido para tecnologías emergentes. Technological Forecasting and Social Change 77, 151 –166 (2010)
+
+22. Fridgen, G., Lockl, J., Radszuwill, S., Rieger, A., Schweizer, A., Urbach, N.: Una solución en busca de un problema - Un método para el desarrollo de uso de blockchain. 24th Americas Conference on Information Systems (AMCIS) (2018)
+
+23. AlSheibani, S., Cheung, Y., Messom, C.: Adopción de inteligencia artificial: preparación para la IA a nivel de empresa. Proceedings of the Twenty-Second Pacific Asia Conference on Information Systems (PACIS) (2018)
+
+24. Hammond, K.J.: La tabla periódica de la IA, https://www.datasciencecentral.com/profiles/blogs/the-periodic-table-of-ai (2017)
+
+25. Bitkom: Diseñar la digitalización con el sistema periódico de la inteligencia artificial. Un sistema de navegación para decisores (2018)
+
+26. Hevner, A.R., March, S.T., Park, J., Ram, S.: Ciencia del diseño en la investigación de sistemas de información. MIS Quarterly 28, 75 –105 (2004)
+
+27. March, S.T., Smith, G.F.: Diseño y investigación científica en tecnología de la información. Decision Support Systems 15, 251 –266 (1995)
+
+28. Henderson-Sellers, B., Ralyté, J.: Ingeniería de métodos situacionales: revisión del estado del arte. Journal of Universal Computer Science 16, 424 –478 (2009)
+
+29. Denner, M. -S., Püschel, L.C., Röglinger, M.: Cómo explotar el potencial de digitalización de los procesos empresariales. Business & Information Systems Engineering 60, 331 –349 (2018)
+
+30. Hofmann, P., Keller, R., Urbach, N.: Redes de relaciones intertecnológicas: ordenar tecnologías a través de minería de texto. Technological Forecasting and Social Change 143, 202 –213 (2019)
+
+31. Ralyté, J., Deneckère, R., Rolland, C.: Hacia un modelo genérico para la ingeniería de métodos situacionales. En: Eder, J., Missikoff, M. (eds.) Ingeniería avanzada de sistemas de información. 15ª Conferencia Internacional, CAiSE 2003, 141, pp. 95 –110. Springer, Berlín y Heidelberg, Alemania (2003)
+
+32. Myers, M.D., Newman, M.: La entrevista cualitativa en la investigación de SI: examinando el oficio. Information and Organization 17, 2 –26 (2007)
+
+33. Bhattacherjee, A.: Investigación científica social: principios, métodos y prácticas. Scholar Commons, Universidad del Sur de Florida, Tampa, Florida (2012)34. Baker, J.: El Marco de Tecnología-Organización-Medio Ambiente. En: Dwivedi, Y.K., Wade, M.R., Schneberger, S.L. (eds.) Teoría de los Sistemas de Información, 28, pp. 231-245. Springer New York, Nueva York, NY (2012)
+
+35. Pumplun, L., Tauchert, C., Heidt, M.: Un Nuevo Chasis Organizativo para la Inteligencia Artificial - Explorando Factores de Preparación Organizativa. Proceedings of the 27th Conferencia Europea de Sistemas de Información (ECIS) (2019)
+
+36. Zhu, K., Kraemer, K.L.: Variaciones Post-Adopción en el Uso y Valor del Negocio Electrónico por parte de las Organizaciones: Evidencia Transnacional de la Industria Minorista. Investigación en Sistemas de Información 16, 61-84 (2005)
+
+37. Neftci, E.O., Averbeck, B.B.: Aprendizaje por Refuerzo en Sistemas Artificiales y Biológicos. Inteligencia de Máquina de Nature 1, 133-143 (2019)
+
+38. Grupo de Expertos de Alto Nivel en Inteligencia Artificial: Pautas Éticas para la IA Confiable (2019)
+
+39. Nelson, R.R.: Gestión de Proyectos de TI - Fallos Infames, Errores Clásicos y Mejores Prácticas. Ejecutivo de la Revista de Sistemas de Información 6, 67-78 (2007)
+
+40. Basten, D., Pankratz, O., Joosten, D.: Evaluación de los Evaluadores - Una Visión General y Evaluación de Informes de Éxito de Proyectos de TI. Proceedings of the 21st Conferencia Europea de Sistemas de Información (ECIS) (2013)
+
+41. Pankratz, O., Basten, D.: Escalera del Éxito - Elicitando Criterios de Éxito de Proyectos de IS en Gerentes de Proyectos. Revista Internacional de Sistemas de Información y Gestión de Proyectos 2, 5-24 (2014)
+
+42. Belassi, W., Tukel, O.I.: Un Nuevo Marco para Determinar Factores Críticos de Éxito/Fracaso en Proyectos. Revista Internacional de Gestión de Proyectos 14, 141-151 (1996)
+
+43. Pinto, J.K., Mantel, S.J.: Las Causas del Fracaso de Proyectos. Transacciones de la IEEE sobre Gestión de Ingeniería 37, 269-276 (1990)
+
+44. Yeo, K.T.: Factores Críticos de Fracaso en Proyectos de Sistemas de Información. Revista Internacional de Gestión de Proyectos 20, 241-246 (2002)
+
+45. Zucker, J. -D.: Una Teoría Fundamentada de Abstracción en Inteligencia Artificial. Transacciones Filosóficas de la Royal Society de Londres. Serie B, Ciencias Biológicas 358, 1293-1309 (2003)
+
+46. Saitta, L., Zucker, J. -D.: Abstracción en Inteligencia Artificial y Sistemas Complejos. Springer New York, Nueva York, NY (2013)
+
+47. Mair, C., Martincova, M., Shepperd, M.: Un Estudio Empírico de Gerentes de Proyectos de Software que Utilizan un Razonador Basado en Casos. Proceedings of the 45th Conferencia Internacional de Sistemas de Ciencias (HICSS), 1030-1039 (2012)
+
+48. Carroll, J.B.: Habilidades Cognitivas Humanas. Una Encuesta de Estudios Factor-Analíticos. Prensa de la Universidad de Cambridge, Cambridge (2004)
+
+49. Gerrig, R., Zimbardo, P., Campbell, A., Cumming, S., Wilkes, F.: Psicología y Vida. Pearson Education Australia, Melbourne (2012)
+
+50. Lahmann, M., Keiser, P., Stierli, A.: La IA transformará la gestión de proyectos. ¿Estás listo? (2018)

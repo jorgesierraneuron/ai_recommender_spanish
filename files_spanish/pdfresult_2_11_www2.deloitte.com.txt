@@ -1,0 +1,513 @@
+16 Proyectos de Inteligencia Artificial de Deloitte
+Casos prácticos de IA aplicada
+Desbloquea el poder de la IA para tu organizaciónIntroducción  5
+IMPUESTOS Y LEGALES  
+TAX-I: su asistente de investigación legal virtual 10
+Un estudio de benchmark de inteligencia artificial sobre precios de transferencia 12
+SONAR: encuentra errores de etiquetado en bases de datos  14
+Detector de transacciones con respecto a las regulaciones de costos laborales holandesas 16
+AUDITORÍA
+GRAPA: asistencia con estrategias de riesgo 18
+Chatbot como herramienta de búsqueda para una biblioteca técnica en línea 20
+Argus: un ojo para el detalle 21 
+CONSULTORÍA  
+Agente de recursos humanos Edgy: el futuro de los recursos humanos 24
+Asistentes virtuales: más allá del hype 26 ASesoría de RIESGOS
+Uso del aprendizaje automático para evaluar riesgos para pólizas de seguro 28
+Predicción del comportamiento de pago  30
+DocQMiner: análisis de contratos a través de IA  31
+Eagle Eye: utilizando la web para la detección temprana de migraciones de crédito 32
+SERVICIOS DE ASesoría FINANCIERACombatiendo el fraude de bienestar con aprendizaje automático 34
+Uso del aprendizaje automático y análisis de redes para buscar una aguja en un pajar 36
+Agrupación de información no estructurada en BrainSpace  37Índice de contenido16 Proyectos de inteligencia artificial de Deloitte  | Casos prácticos de IA aplicada"Un computadora merecería ser llamada inteligente si pudiera engañar a un ser humano haciéndole creer que era humano"
+
+Alan Turing
+
+0416 Proyectos de Inteligencia Artificial de Deloitte | Casos prácticos de IA aplicada16 Proyectos de Inteligencia Artificial de Deloitte | Casos prácticos de IA aplicada 05
+
+Según algunos, la inteligencia artificial es el desarrollo más prometedor para el futuro. Desde curar el cáncer hasta resolver la crisis de hambre global, la inteligencia artificial se presenta como la solución a todos nuestros problemas. Otros, sin embargo, la consideran una amenaza - la inteligencia artificial puede generar desempleo y desigualdad, y incluso poner en peligro la existencia continuada de la humanidad. Como lo expresó el emprendedor tecnológico Elon Musk: "El escenario benigno es que la inteligencia artificial puede hacer cualquier trabajo que los humanos hacen, pero mejor".
+
+Introducción
+
+Según algunos, la inteligencia artificial es el desarrollo más prometedor para el futuro. Desde curar el cáncer hasta resolver la crisis de hambre global, la inteligencia artificial se presenta como la solución a todos nuestros problemas. Otros, sin embargo, la consideran una amenaza - la inteligencia artificial puede generar desempleo y desigualdad, y incluso poner en peligro la existencia continuada de la humanidad. Como lo expresó el emprendedor tecnológico Elon Musk: "El escenario benigno es que la inteligencia artificial puede hacer cualquier trabajo que los humanos hacen, pero mejor".
+
+Deloitte se ha posicionado en el lado optimista de ese espectro. "Creemos que la inteligencia artificial será extremadamente útil para nosotros y para nuestros clientes", dice Richard Roovers, socio de Deloitte Países Bajos y Líder de Soluciones de Innovación Transformacional Norte-Europa. La inteligencia artificial nos permitirá resolver problemas que los humanos no pueden o apenas pueden resolver, explica Richard. "La inteligencia artificial es capaz de procesar cantidades masivas de datos y tiene la capacidad de descubrir patrones que incluso los matemáticos más inteligentes no pueden encontrar. Eso en sí mismo abre un gran número de nuevas posibilidades".
+
+Esas nuevas posibilidades son lo que este libro trata. Los estudios de caso proporcionan una visión general de las formas en que Deloitte está trabajando para desarrollar aplicaciones que incorporan inteligencia artificial, tanto internamente como para uso con clientes. Las aplicaciones son diversas, utilizan diferentes tecnologías y se encuentran en una variedad de industrias. Esto muestra que, además de todas las predicciones para el futuro, la inteligencia artificial ya es una realidad en el sector empresarial desde hace algún tiempo y forma un recurso que podría proporcionar a su empresa una ventaja decisiva.
+
+¿Qué es IA?
+La inteligencia artificial (IA) es un término colectivo para la ciencia que intenta hacer que los sistemas sean inteligentes. La definición, sin embargo, no ha sido definitivamente delineada: el tipo de comportamiento por parte de una computadora que consideramos "inteligente" está cambiando a medida que la tecnología logra nuevos avances. Los sistemas que hubiéramos llamado "inteligentes" en la década de 1980, como un sistema de ascensores inteligentes o navegación automática, ahora son parte regular de la vida cotidiana y algunas personas ya no los incluyen bajo el título de inteligencia artificial.
+
+El matemático británico Alan Turing (1912-1954) fue uno de los pioneros en el campo de la inteligencia artificial. Según Turing, "una computadora merecería ser llamada inteligente si pudiera engañar a un humano para que creyera que era humano". Ese es el enfoque adoptado por la prueba de Turing: las personas deben poder charlar con un ser humano y un programa de computadora.16 Proyectos de Inteligencia Artificial de Deloitte | Casos prácticos de IA aplicada
+
+06– ninguno de los cuales puede verse – y luego deben adivinar cuál fue el humano y cuál fue la máquina. Si la computadora es seleccionada, ha pasado la prueba de Turing y, por lo tanto, es “inteligente”.
+
+La desventaja de esa definición es que se utiliza un juicio humano como referencia. Los resultados de las pruebas de Turing muestran que algunas personas asumen con facilidad que programas relativamente no inteligentes son en realidad inteligentes. Otras definiciones de inteligencia artificial, por lo tanto, enfatizan los métodos de autoaprendizaje y otras formas avanzadas de análisis de datos que se utilizan. Mientras tanto, se han desarrollado una gran cantidad de tecnologías asociadas con la inteligencia artificial – las más importantes se pueden encontrar en la lista de términos.
+
+¿Por qué estamos escuchando hablar tanto sobre inteligencia artificial?
+
+Como área de investigación, la inteligencia artificial ha estado presente durante décadas, pero solo en los últimos años ha comenzado a desarrollarse a un ritmo rápido. Hay varias razones para esto.
+
+En primer lugar, el advenimiento de internet y el uso a gran escala de sensores generaron cantidades sin precedentes de datos – en el caso de las tecnologías de IA, esto fue un desarrollo significativo, ya que se basan en el análisis de un gran número de ejemplos.
+
+En segundo lugar, el surgimiento de servicios en la nube simplificó y aumentó el acceso a la capacidad de almacenamiento y computación para las empresas. Esto no solo permitió realizar cálculos complejos con grandes cantidades de datos, sino que también permitió escalar aplicaciones sin restricciones.
+
+Finalmente, las principales empresas tecnológicas ahora ofrecen interfaces de programación de aplicaciones inteligentes (APIs). Estas permiten conectar a aplicaciones estándar de IA y facilitan el desarrollo de aplicaciones que utilizan inteligencia artificial. Por ejemplo, si se necesita reconocimiento facial para una aplicación, se puede utilizar una API en lugar de desarrollar un algoritmo de reconocimiento facial para la aplicación individual.
+
+Todos estos desarrollos han llevado a una situación en la que la inteligencia artificial ha alcanzado un punto en el que está teniendo un impacto significativo en nuestras vidas cotidianas. Las empresas están comenzando a investigar aplicaciones a gran escala. Debido a que las principales empresas tecnológicas en lugares como Silicon Valley están utilizando inteligencia artificial de manera avanzada, el sector empresarial está bajo presión para innovar en esa área. Los clientes están acostumbrándose a recibir orientación de la tecnología y esperan ese tipo de servicio de otras empresas.
+
+¿Cómo está utilizando Deloitte la IA?
+
+Deloitte está destinando recursos máximos en el área de inteligencia artificial. Es por eso que recientemente reunió todos sus proyectos y iniciativas en el área de inteligencia artificial en el Centro de Expertise en Inteligencia Artificial (AICE), en el que participan cientos de expertos en IA de toda la organización. El aprendizaje juega un papel clave, dice el Líder de Innovación, Richard Roovers. “Desde un punto de vista técnico, puede haber una gran superposición entre las aplicaciones de IA utilizadas en diferentes industrias. Por ejemplo, se puede utilizar tecnología de reconocimiento de imágenes para el reconocimiento automático de instalaciones en imágenes satelitales, pero también en una aplicación para detectar cáncer de piel. Reunir a personas de diferentes departamentos significa que podemos compartir conocimientos y acelerar el aprendizaje.”
+
+Deloitte se mantiene en contacto con la comunidad externa de IA a través de Meetups y hackathons. Esto le permite a la organización mantenerse al día con los últimos avances técnicos. Aquí también, se trata de aprender lo más posible, lo más rápido posible, dice Roovers: “Y no solo estamos hablando de IA, lo estamos haciendo. Estamos experimentando, probando cosas, atraemos a expertos y invertimos en tecnología. Solo entonces...tan rápido como pueda, dice Roovers: “Y no solo estamos hablando de IA, lo estamos haciendo. Estamos experimentando, probando cosas, atraemos a expertos y invertimos en tecnología. Solo entonces puedes entender verdaderamente cómo y en qué casos puedes utilizar la inteligencia artificial de manera sensata.”
+
+Para innovar con eficacia, no se trata solo de invertir en tecnología, sino de crear apoyo dentro de la organización en su conjunto. Es por eso que Deloitte lanzó una campaña interna para aumentar la conciencia sobre las posibilidades ofrecidas por la inteligencia artificial – incluso entre los empleados sin experiencia técnica. Para hacer que un concepto abstracto como la inteligencia artificial sea más tangible, se desarrolló el robot de IA “AIME”. Para dar a los empleados una impresión del potencial ofrecido por la inteligencia artificial, AIME se colocó en la entrada de las oficinas de Deloitte y estuvo activo en las redes sociales. “En Deloitte, no solo hablamos sobre IA, lo hacemos”.16 Proyectos de Inteligencia Artificial de Deloitte | Casos prácticos de IA aplicada07El objetivo de esto fue llamar la atención sobre la inteligencia artificial de una manera accesible, explica Roovers. “Y funcionó. El personal se sorprendió y se intrigó. Empezaron conversaciones con AIME y tomaron selfies con ella. Resultó ser un verdadero iniciador de conversaciones.” Nuestros empleados podían entonces inscribirse voluntariamente en nuestro curso “IA para principiantes” para aprender más sobre el tema. “El impulso fue considerable – incluso nuestro CEO participó en el curso”, continúa Roovers.
+
+En cuanto a la empresa, Roovers considera que la inteligencia artificial es una oportunidad, no una amenaza. “Es cierto que la inteligencia artificial puede tomar el relevo de tareas previamente realizadas por personas – y puede incluso hacerlas mucho más rápido y con mayor precisión. Pero la parte más importante de nuestro negocio, el trabajo que nos distingue de los demás, radica en el contacto que tenemos con nuestros clientes y en brindar un servicio personalizado, y son cosas que simplemente no se pueden externalizar a un algoritmo.” Continúa señalando que la inteligencia artificial puede hacer que nuestro trabajo sea más interesante. “El trabajo aburrido y repetitivo puede externalizarse, dejando más tiempo para el trabajo creativo que nos permite a los humanos hacer una diferencia.”
+
+Como dice Roovers, no puedes detener el cambio. Lo importante es entender cómo está cambiando el mundo y cómo puedes beneficiarte de eso como empresa. Utilizando IA, las empresas pueden obtener una ventaja decisiva. “Para mantenerse por delante de los demás, debes asomar la cabeza por encima del parapeto. Al utilizar inteligencia artificial, podemos seguir brindando a nuestros clientes el mejor servicio posible – y eso es lo que realmente importa.”
+
+¿Qué tipos de soluciones puede ofrecer la IA a su empresa?
+
+Los estudios de casos en este libro dan una impresión de las posibles aplicaciones de la inteligencia artificial. Entre otras cosas, las tecnologías de IA se utilizan para mejorar el servicio mediante chatbots, evitar ciberataques, rastrear posibles estafadores, generar informes de benchmarking automáticamente, estimar los riesgos que los nuevos clientes suponen para las empresas de seguros, clasificar grandes cantidades de evidencia digital y mucho más.
+
+En resumen, el potencial de la inteligencia artificial es enorme. Roovers: “El truco es encontrar cómo podemos hacer que sea utilizable dentro de nuestra propia organización. Por un lado, podemos hacerlo creando procesos más inteligentes, pero también podemos utilizar la inteligencia artificial para establecer productos o servicios completamente nuevos.”
+
+Pero ¿dónde empezar? Lo primero que necesitas es conocimiento de las tecnologías. Después de eso, es posible explorar las posibilidades que existen dentro de tu propia organización y identificar oportunidades y amenazas. Después de eso, se trata de desarrollar pruebas de concepto – y si salen bien, pueden escalarse.
+
+Deloitte puede ayudar en todos estos pasos: desde explorar las posibilidades hasta desarrollar pruebas de concepto y procesos de colaboración a largo plazo y co-creación. “La inteligencia artificial no es una panacea”, advierte Roovers. “Se trata de buscar con cuidado para identificar precisamente qué problema deseas resolver y qué tecnologías están disponibles. En algunos casos, tecnologías menos avanzadas ya son suficientes para resolver el problema.”
+
+Gracias a la disponibilidad de APIs y computación en la nube, desarrollar una prueba de concepto es un asunto relativamente sencillo. “Lo agradable es que puedes empezar pequeño y si funciona, puedes escalar rápidamente”, dice Roovers. “Hay mucho que puedes hacer si eres astuto al implementar la inteligencia artificial. Ahora mismo, estamos solo al principio.”16 Proyectos de Inteligencia Artificial de Deloitte | Casos prácticos de IA aplicada08Definiciones
+
+Hay una gran variedad de tecnologías asociadas con la inteligencia artificial. A continuación, se presentan algunas de ellas:
+
+• El aprendizaje automático es un campo de investigación que puede reconocer patrones en los datos y desarrollar sistemas que aprenden de ellos.
+• El aprendizaje automático supervisado entrena sistemas utilizando ejemplos clasificados (etiquetados) por humanos – por ejemplo: estas transacciones son fraudulentas; esas transacciones no son fraudulentas. Basándose en las características de esos datos clasificados, el sistema aprende qué patrones subyacentes tienen esos tipos de elementos y puede predecir qué nuevas transacciones son muy probablemente fraudulentas.
+• El aprendizaje automático no supervisado puede descubrir patrones en grandes cantidades de datos no etiquetados. Intenta descubrir una estructura subyacente por sí mismo, como agrupar casos que se asemejan entre sí y hacer asociaciones. Por ejemplo, las empresas minoristas pueden utilizar datos de compras para reconocer qué productos se compran juntos y ajustar su oferta en consecuencia, o incluso proporcionar ofertas personalizadas.
+• Una red neuronal es una tecnología de aprendizaje automático que imita una estructura similar a un cerebro humano (compuesta por neuronas y conexiones), y es capaz de adaptar su propia estructura para realizar la tarea que ha aprendido de manera más efectiva. Cuanto más complejas se vuelven las redes neuronales y más frecuentemente consisten en varias "capas", más podemos utilizar el término: "aprendizaje profundo".
+• El procesamiento del lenguaje natural es un área de investigación que se centra en entrenar modelos artificiales para procesar un lenguaje humano.
+• La visión por computadora es un área de investigación que se centra en el procesamiento de material de imagen digital. “La inteligencia artificial nos permitirá resolver problemas que los humanos no podemos, o apenas podemos, resolver”.16 Proyectos de Inteligencia Artificial de Deloitte | Casos prácticos de IA aplicada09Impuestos y LegalIMPUESTOS & LEGALES
+IMPUESTOS-I:  
+su asistente de investigación legal virtual
+Ya sea buscar jurisprudencia relevante, analizar sentencias, 
+o evaluar si un caso de impuestos tiene probabilidades de éxito, 
+los abogados tributarios tienen mucho que hacer. Y el resultado no siempre es precisamente exacto.
+
+1016 Proyectos de Inteligencia Artificial de Deloitte | Casos prácticos de IA aplicada¿Qué pasaría si pudiera automatizar este trabajo legal preliminar? No solo permitiría resolver un caso de impuestos de manera más rápida, sino también más eficiente y precisa. Esa fue la idea detrás de TAX-I, un asistente de investigación legal virtual desarrollado por Deloitte. TAX-I es capaz de utilizar inteligencia artificial para analizar miles de casos de impuestos del Tribunal de Justicia de la Unión Europea, relacionarlos con casos similares, resumirlos y incluso predecir cómo un tribunal podría fallar en un caso.
+
+Cantidades masivas de datos
+"Los Estados miembros de la UE están obligados por ley a publicar sus sentencias y hacerlas accesibles a terceros", afirma Marc Derksen, consultor en Análisis de Datos y A.I. en Deloitte Impuestos Indirectos, y miembro del equipo que desarrolló TAX-I. "Así que hay cantidades masivas de datos disponibles". Trabajando en dos sprints de seis semanas, el equipo de TAX-I examinó lo que podían hacer con ellos, y pronto resultó que las posibilidades eran numerosas.
+
+En primer lugar, la herramienta visualiza la forma en que un nuevo caso se corresponde con casos anteriores. Un gráfico interactivo de líneas muestra cómo los casos se relacionan entre sí, y el tamaño de un punto indica la relevancia del caso según el número de referencias. La herramienta también produce un resumen de todos los casos, basado en la frecuencia con la que se repiten oraciones o partes de ellas en una sentencia. "Los resúmenes aún no son textos fluidos y bien escritos", comenta Derksen. "Tenemos la intención de mejorar eso en el futuro. En cualquier caso, los resúmenes están actualmente en un nivel que te permite evaluar rápidamente de qué se trata el caso".
+
+Finalmente, TAX-I es capaz de predecir cómo el Tribunal de Justicia de la Unión Europea podría fallar en un caso, basándose en hechos que el usuario de la herramienta puede ingresar. Utiliza un algoritmo de aprendizaje automático que se entrena para reconocer patrones en casos de impuestos y sacar conclusiones. Todos los 1153 casos de impuestos del Tribunal de Justicia de la UE ya se han ingresado en TAX-I. El equipo también espera analizar todos los casos de países individuales más adelante. "Solo en los Países Bajos, eso ya nos da 2,5 millones de casos", afirma Derksen. "Esta cantidad de datos nos permitirá utilizar el aprendizaje profundo y producir insights más precisos".
+
+Desarrollo continuo
+El equipo ha estado trabajando durante unos meses para hacer que TAX-I sea más simple y poderoso. Los análisis de TAX-I se están evaluando en el momento en que Deloitte's oficina científica y en un estudio de la Universidad Libre de Ámsterdam y la Universidad de Tilburgo.
+
+A largo plazo, TAX-I está destinado a ser accesible para todos los consultores de Impuestos y Legales en Europa. "Les permitirá ahorrar tiempo y mejorar la calidad de sus servicios", afirma Derksen. Pero el prototipo actual ya ha demostrado su valor. "Regularmente hablo con colegas que encontraron casos relacionados utilizando TAX-I que ellos mismos habían pasado por alto. Eso es un logro valioso en sí mismo".
+
+TAX & LEGAL
+Todos los 1153 casos de impuestos del Tribunal de Justicia de la UE se han ingresado en TAX-I.16 Proyectos de Inteligencia Artificial de Deloitte | Casos prácticos de IA aplicada12Si una empresa forma parte de un grupo internacional, los precios y condiciones aplicados a la venta de bienes y servicios dentro de este grupo deben ser similares a los de terceros. Esto está destinado a prevenir la desviación indebida de beneficios entre países. Sin embargo, esto carga a las empresas con un problema, afirma Martijn Krassenburg, Gerente de Precios de Transferencia en Deloitte. Después de todo, ¿cuáles son los precios de qué empresas se consideran 'similares'?Un estudio de benchmark de precios de transferenciaIMPUESTOS Y LEGAL16 Proyectos de Inteligencia Artificial de Deloitte | Casos prácticos de IA aplicada
+
+Un estudio de benchmark es necesario para responder a esa pregunta. Una variante de tales estudios examina qué empresas realizan actividades idénticas en una industria similar, y se verifican los márgenes reportados contra los de la empresa en cuestión. Ese es un proceso muy laborioso, en el que se realizan muchas tareas repetitivas manualmente. "Es por eso que decidimos averiguar si era posible automatizar ese trabajo", explica Krassenburg.
+
+Miles de capturas de pantalla
+
+Un estudio de benchmark primero examina qué empresas son similares. Se selecciona inicialmente a unas pocas cientos de empresas que pueden ser similares aplicando filtros a una base de datos internacional. Deben ser revisadas manualmente, como buscar los sitios web de todas esas empresas y tomar capturas de pantalla de ellos. Krassenburg: "La Automatización de Procesos Robóticos es la automatización de tareas simples y repetitivas, que en este caso son buscar sitios web y guardar capturas de pantalla, y nos ha permitido acelerar considerablemente ese proceso".
+
+Pero las ambiciones del equipo van más allá. "Estamos desarrollando inteligencia artificial que estima automáticamente el grado en que una empresa es similar", agrega. El sistema ya puede realizar una selección inicial, y su capacidad de autoaprendizaje significa que se volverá cada vez más preciso cuanto más se utilice. La tecnología se está entrenando con grandes cantidades de datos de estudios de benchmark previos, y se están empleando tecnologías como procesamiento de lenguaje natural, redes neuronales y algoritmos de reconocimiento de entidades ultra precisas para este propósito. Pronto, aparecerá un porcentaje junto al nombre de cada empresa, indicando la probabilidad de que esa empresa sea similar. Esto significará que un número cada vez menor de empresas necesitarán ser revisadas manualmente. En última instancia, el objetivo es completar parte de la tarea completamente automáticamente.
+
+El toque final
+
+El proyecto aún está en la fase de prueba, pero Krassenburg cree que la tecnología puede ser implementada ampliamente una vez que esté en funcionamiento. "De esta manera, puedes probar cómo los precios interempresas se relacionan con el mercado, y sustentar esto con documentación detallada. Todas las empresas que operan internacionalmente y venden productos o servicios se ven afectadas por esto. En este sentido, AI Benchmark les ayuda a mantener la consistencia y ya les ahorra tiempo". Deloitte Global ya ha expresado interés en esta herramienta. Tan pronto como AI Benchmark pueda ser implementada, se empleará más ampliamente.
+
+Cuando se trata de la pregunta de si AI Benchmark hará que su propio trabajo sea redundante, Krassenburg no está preocupado. "Realizar un estudio de benchmark no es lo que crea nuestro valor agregado. Es el toque final, una parte de un proceso mucho más grande y complejo. El trabajo realmente interesante, entender exactamente cómo funciona una empresa y cómo se relaciona con las normas fiscales, no es algo que pueda ser simplemente externalizado". TAX & LEGAL
+
+La tecnología se está entrenando con grandes cantidades de datos de estudios de benchmark previos. Un estudio de benchmark de precios de transferencia con IASONAR: 
+detection de errores de etiquetado 
+en bases de datos
+IMPUESTOS Y LEGALES
+1416 proyectos de Inteligencia Artificial de Deloitte | Casos prácticos de IA aplicadaJusto debajo de un año, Deloitte fue abordada por un importante minorista. Su gama constaba de más de 30,000 productos, y los códigos de mercancías proporcionados por los proveedores debían ser verificados manualmente para unos 600 nuevos productos cada mes. Además, se debía ingresar información relacionada con la tasa de IVA y cualquier impuesto local, como el impuesto sobre baterías que se aplica en Bélgica para productos que contienen baterías. No era infrecuente que algo saliera mal cuando se trataba de esta etiquetado. El minorista pidió asistencia a Deloitte para verificar la información ingresada por los miembros del personal humano.
+
+"Anteriormente, habríamos realizado controles aleatorios", dice Gerhard Smit, arquitecto de información y analista de datos en Deloitte. "Pero luego pensamos, ¿no podemos automatizar los controles?" Dentro de una semana, él y sus miembros del equipo crearon un concepto de prueba: Informe de Análisis de Red de Observación de Similitud, o SONAR por breve. Es una herramienta que predice la probabilidad de que la información relacionada con el IVA, el código de mercancía y los impuestos locales ingresada en una base de datos de productos sea correcta.
+
+Funciona de la siguiente manera: un cliente proporciona un archivo de datos que contiene tantos detalles como sea posible - la descripción comercial del producto, la tasa de IVA, el código de mercancía y una indicación de si cada impuesto local se aplica. También contiene, por ejemplo, el código de barras y otra información que puede ayudar a entender la naturaleza del producto. SONAR compara esta información con una base de datos aduanera que contiene todos los códigos de mercancías, una descripción textual para cada código de mercancía y la tasa de IVA aplicable. La comparación resulta en un porcentaje para indicar la probabilidad de que la etiqueta agregada por el cliente sea correcta. Si una etiqueta tiene más del 80% de probabilidad de ser incorrecta, por ejemplo, el producto puede ser verificado por una persona.
+
+Gran parte del trabajo relacionado con etiquetas es simple, pero los productos innovadores a menudo requieren atención adicional. "La legislación a menudo no se mantiene al día con la realidad", comenta Smit. "Tomemos los teléfonos inteligentes. ¿Debemos clasificarlos como un teléfono o como un sistema de navegación, por ejemplo?" Estos casos necesitan ser evaluados por un experto. SONAR permite automatizar la verificación de la mayoría de los productos, para que se pueda prestar atención adicional a los casos difíciles.
+
+Luces de bicicleta
+El equipo de SONAR fue a una tienda con el cliente para probar la herramienta y realizó un control aleatorio en una estantería de luces de bicicleta. En el caso de una luz de bicicleta, SONAR indicó que algo estaba probablemente incorrecto en cuanto al impuesto sobre baterías. "Al examinar más de cerca, resultó que había una pequeña batería incluida en el paquete, aunque eso no estaba incluido en la descripción", recuerda Smit. "Pensamos que era muy divertido: algo que habíamos construido en una semana tenía un impacto inmediato".
+
+SONAR se desarrolló para un cliente, pero Smit cree que la tecnología es lo suficientemente genérica como para ser implementada para otros problemas. Funciona particularmente bien con bases de datos que contienen al menos 2,500 productos, y debe estar disponible una base de datos de referencia. "SONAR te permite verificar la información ingresada por humanos mucho más rápido y con mayor precisión", afirma Smit. "Y lo mejor de todo es que, cuanto más se utiliza la tecnología y más información de productos se vuelve disponible, más precisos serán los resultados".
+
+TAX & LEGAL
+"SONAR te permite verificar la información ingresada por humanos mucho más rápido y con mayor precisión"
+
+1516 Proyectos de Inteligencia Artificial de Deloitte | Casos prácticos de IA aplicada
+SONAR: encuentra errores de etiquetado en bases de datos16 Proyectos de Inteligencia Artificial de Deloitte | Casos prácticos de IA aplicada
+
+Detector de transacciones con respecto a las regulaciones de costos laborales holandeses
+
+El esquema de gastos laborales en los Países Bajos, conocido como WKR, causa un mundo de problemas para muchas empresas. Deloitte ha desarrollado una solución astuta para ayudar a sus clientes a implementar correctamente este esquema de impuestos.
+
+Esquema desconocido
+
+El WKR permite a las empresas gastar un 1,2% de los salarios gravables en asignaciones y beneficios en especie para sus empleados. "Cuando el esquema se volvió obligatorio para todos los empleadores en 2015, pronto reveló una serie de problemas", explica Guy Thien, consultor tributario de Deloitte. "En la práctica, por ejemplo, hay una gran falta de claridad sobre quién es responsable de implementar el esquema. Requiere datos de recursos humanos, registros salariales y financieros, por nombrar algunos, pero nadie asume el papel de administrarlo".
+
+Además, es un esquema relativamente desconocido, y en consecuencia, muchos gastos se excluyen incorrectamente de él. "Si un director da diez iPads a diez empleados, a menudo no es consciente de que esto tiene implicaciones bajo el WKR", continúa Thien. "No informa a las partes adecuadas y el gasto se pierde en el camino".
+
+Categorización y aprendizaje
+
+Para superar estos problemas, el equipo de Análisis de Recursos Humanos y Finanzas de Deloitte desarrolló un sistema inteligente que lee descripciones de gastos y puede categorizarlos: WKR Analytics. "Ingresas todos tus gastos y el sistema selecciona lo que está cubierto por el WKR. Sin nuestra herramienta, un cliente podría lograr un nivel de calidad del 20% en la implementación del WKR. Nosotros lo aumentamos al 95%", afirma Thien.
+
+Un experto en impuestos se llama para el 5% restante. El experto desperdicia mucho menos tiempo en WKR que antes, y puede enfocar su atención en los casos dudosos. "Si WKR Analytics categoriza incorrectamente un gasto, puedes corregirlo y el sistema aprenderá de él", explica Thien. "Cada corrección hace que el sistema sea más inteligente y eficiente. Cuanto más lo uses, menos tiempo desperdiciarás en él".
+
+WKR Analytics combina tecnologías de aprendizaje automático y procesamiento de lenguaje natural, es decir, conocimiento del lenguaje y uso de palabras. "El WKR es relevante en situaciones específicas", continúa Thien. "Tomar un almuerzo, por ejemplo. Cuando voy a almorzar con un colega, puede tener implicaciones diferentes bajo el WKR que cuando voy a almorzar con un cliente. WKR Analytics entiende esa distinción".
+
+La ventaja
+
+WKR Analytics ya se está utilizando en más de cuarenta clientes. "He notado que el momento es propicio para soluciones inteligentes", dice Thien. "En 2014, cuando les dije a los empleadores sobre WKR Analytics, apenas creían que funcionaría. Ahora, están realmente curiosos sobre lo que podemos ofrecer". No solo aumenta el número de usuarios, sino que WKR Analytics también sigue desarrollándose. "Estamos mejorando continuamente el panel de control, agregando nueva información y aumentando constantemente el grado de integración con análisis de IVA", dice Thien. "Ahora también estamos demostrando qué nivel de calidad de datos es necesario. En solo dos horas, podemos saber si los datos de una empresa son lo suficientemente buenos como para permitir el uso de WKR Analytics".
+
+El éxito de WKR Analytics no ha pasado desapercibido. Hay incluso algunas empresas que han intentado copiarlo. Thien lo considera un cumplido: "Eso no me asusta. Una vez que has ganado una ventaja con IA, no la pierdes rápidamente".AuditoríaAUDITORÍA
+GRAPA:  
+asistencia 
+con estrategias de riesgo
+Cuando los auditores determinan una estrategia de riesgo, se basan parcialmente en el conocimiento que han adquirido durante auditorías previas. 
+Deloitte está desarrollando ahora un asistente personal inteligente que apoya a los auditores utilizando la experiencia combinada de todos sus colegas profesionales. 
+1816 proyectos de Inteligencia Artificial de Deloitte | Casos prácticos de IA aplicadaConocimiento adquirido
+
+Determinar la estrategia de riesgo forma parte importante de una auditoría. Twan van Gool, Director de Innovación y Análisis dentro del Departamento de Auditoría de Deloitte, explica: "El auditor determina qué secciones de los estados financieros anuales son de alto riesgo, basándose en desarrollos del mercado, nueva legislación y regulaciones o eventos dentro de la empresa, por ejemplo. La estrategia de riesgo elegida determina el método de auditoría subsequente". Al formular la estrategia de riesgo, el conocimiento adquirido por el auditor en casos previos será muy valioso. "Cada negocio es diferente, por supuesto, pero una auditoría es una auditoría", observa Van Gool. "Mientras que la lencería y el ciclismo pueden no tener nada en común, el proceso de inventario y stock de Hunkemöller es en gran medida el mismo que el de Halfords. Así que los riesgos asociados también son similares entre sí".
+
+Un segundo lector
+
+Imagina qué útil sería si los auditores pudieran utilizar no solo su propio conocimiento y experiencia, sino también los de otros auditores, al determinar la estrategia de riesgo. Con esa idea en mente, el equipo de Van Gool desarrolló la herramienta de IA Asistente Personal de Evaluación de Riesgos Guiada, o GRAPA por abreviatura.
+
+"GRAPA asiste al auditor al marcar su estrategia elegida contra todas las demás estrategias de riesgo que se han utilizado antes", explica Van Gool. Utiliza una base de datos de Deloitte de 10,000 casos, y cada caso contiene un promedio de cincuenta riesgos.
+
+GRAPA no es una aplicación independiente; en su lugar, se agrega al software que los auditores utilizan al determinar la estrategia de riesgo. "Es como si pudieras pedir a una segunda persona que lea junto a ti", continúa Van Gool. "Pero la ventaja es que esta segunda persona tiene la experiencia acumulada de Deloitte". Destaca que el auditor sigue siendo responsable de la estrategia de riesgo y el método de auditoría elegidos. "GRAPA indica qué ha sucedido en casos similares. Pero si hay algo en la situación del cliente que es especial o inusual, obviamente depende del auditor adaptar el enfoque en consecuencia".
+
+Benchmarkeo y planificación
+
+La herramienta, por lo tanto, no está destinada a reemplazar a los auditores. "Cuando se trata de consideración crítica de procesos, desarrollos y riesgos, todavía necesitas creatividad e inteligencia humana", mantiene Van Gool. Sin embargo, reconoce que hay oportunidades para automatizar la finalización de una auditoría una vez que se haya determinado la estrategia de riesgo y el método de auditoría: "Esas actividades están tan estandarizadas que un robot podría hacerlas". Deloitte tiene la intención de utilizar GRAPA en 2019 para la auditoría del año fiscal 2018. "Estamos trabajando actualmente en una prueba de concepto", dice Van Gool. El próximo paso es utilizar GRAPA para más que solo examinar datos del pasado. "Queremos alimentar la herramienta con datos de desarrollo del mercado, como aquellos relacionados con el Brexit o derivados de alto riesgo en el mercado de viviendas. Ese conocimiento permitirá que la herramienta también presente riesgos potenciales futuros al contable".
+
+AUDITORÍA
+
+"Cuando se trata de consideración crítica de procesos, desarrollos y riesgos, todavía necesitas creatividad e inteligencia humana"
+
+1916 Proyectos de Inteligencia Artificial de Deloitte | Casos prácticos de IA aplicadaProyectos de Inteligencia Artificial de Deloitte | Casos prácticos de IA aplicada20AUDIT
+Chatbot como herramienta de búsqueda 
+en una biblioteca técnica en línea
+
+La biblioteca técnica en línea de Deloitte es tan extensa que fácilmente podrías perderse en ella. Es por eso que pronto los empleados verán la introducción de un chatbot inteligente que los guiará a través de la jungla de leyes, regulaciones, normas de auditoría y contabilidad, y literatura especializada.
+
+Juego de preguntas y respuestas
+"Aunque la biblioteca técnica tiene un motor de búsqueda, debes ingresar criterios de búsqueda muy específicos para utilizarlo", explica Twan van Gool, Director de Innovación y Análisis dentro del departamento de Auditoría de Deloitte. "La gente utiliza la función de búsqueda de la misma manera que utiliza Google. Escriben 'materialidad' cuando buscan cómo determinar la materialidad de una entidad de interés público. Pero la biblioteca contiene una gran cantidad de información especializada, y los contenidos están estrechamente relacionados. No encontrarás la respuesta utilizando un criterio de búsqueda general; genera demasiados resultados de búsqueda".
+
+Para ayudar a los empleados a buscar de manera más eficiente, el equipo de análisis y innovación está trabajando en un chatbot inteligente. "El chatbot lleva a las personas a los resultados de búsqueda más rápidamente jugando un juego de preguntas y respuestas", dice Van Gool. "Actúa como un intermediario entre el usuario y la biblioteca". Por ejemplo, el chatbot pregunta si el usuario está buscando un problema de contabilidad o de auditoría, y luego hace preguntas de seguimiento.
+
+"El algoritmo inteligente utiliza esas preguntas para guiarlo hacia la información adecuada", continúa Van Gool. Los usuarios charlan con el bot en una ventana emergente separada, "justo como si estuvieran escribiendo un mensaje en Skype. Debido a que se siente como si estuvieran charlando con una persona real, utilizan oraciones naturales y encuentran más fácil dar detalles sobre exactamente lo que están buscando".
+
+Modelo japonés
+Esta no es la primera vez que el equipo ha intentado hacer que la biblioteca técnica sea más amigable con el usuario. "Pasamos mucho tiempo etiquetando contenido y mejorando la función de búsqueda, pero eso logró muy poco", admite Van Gool. "Es por eso que ahora estamos dedicando nuestra energía a mejorar el lado de entrada. El chatbot es relativamente fácil de crear".
+
+El chatbot se está construyendo actualmente para una colección en la biblioteca técnica, y el plan es implementar el chatbot para todas las cuarenta colecciones en debido curso. El equipo de Van Gool está utilizando el chatbot construido para la biblioteca técnica de Deloitte Japón como modelo para el desarrollo, y los resultados del piloto japonés son alentadores.
+
+"La biblioteca técnica ha sido consultada con mucha más frecuencia desde la introducción del chatbot", nota Van Gool. "Los usuarios también han comenzado a realizar búsquedas ligeramente más detalladas y a ingresar criterios de búsqueda más avanzados".
+
+Datos valiosos
+El chatbot no solo simplifica el proceso de búsqueda, sino que también produce datos valiosos. "Mientras que el motor de búsqueda actual muestra qué se está buscando y qué se está encontrando, no nos dice si el usuario consideró la respuesta satisfactoria", dice Van Gool.
+
+El chatbot muestra exactamente qué se está buscando y la ruta por la que el usuario llega al resultado. "Podemos utilizar esa información para retroalimentar al algoritmo para hacer que el chatbot sea más rápido y eficiente". Los datos también son valiosos fuera de la biblioteca técnica. "Si identificamos tendencias, desarrollos y temas actuales, podemos anticiparlos de inmediato", agrega Van Gool.
+
+"Porque se siente como si estuvieran charlando con una persona real, utilizan oraciones naturales y encuentran más fácil dar detalles sobre exactamente lo que están buscando".Argus:   
+un ojo para 
+el detalleAUDITORÍA
+El Equipo de Compromiso de Deloitte no necesita que se le diga 
+cuán laborioso es escanear contratos largos para identificar 
+diferencias menores. 
+Afortunadamente, pronto recibirán una mano amiga en forma 
+de Argus, una solución de inteligencia artificial que 
+compara documentos rápidamente y destaca los detalles y 
+discrepancias más pequeñas.
+2116 Proyectos de Inteligencia Artificial de Deloitte | Casos prácticos de IA aplicada"Pequeñas enmiendas"
+
+"Nuestro departamento evalúa un gran número de documentos", afirma Twan van Gool, Director de Innovación y Análisis dentro del Departamento de Auditoría de Deloitte. "Tomemos, por ejemplo, las instrucciones de derivación: acuerdos internos que requieren un número de confirmaciones de auditores de Deloitte en otros países". A menudo, una de estas instrucciones se devuelve con una pequeña enmienda. "El original establece que la auditoría se llevará a cabo en inglés, pero en la versión devuelta, ha cambiado repentinamente a ruso o portugués", continúa Van Gool. "Al hacer esto, un equipo está tratando de cumplir con deseos específicos mientras mantiene un ojo en su propio presupuesto".
+
+Es una tarea tediosa y consumidora de tiempo detectar este tipo de pequeñas enmiendas. "He visto a personas colocar una página encima de otra y sostenerla contra la luz para tratar de identificar rápidamente si algo ha cambiado. Eso no es, obviamente, la forma más efectiva de hacerlo", comenta Van Gool. Por lo tanto, está ansioso por la introducción de Argus, una herramienta inteligente que escanea y analiza documentos utilizando tecnologías cognitivas.
+
+"En primer lugar, se enseña a Argus la estructura de un contrato y qué componentes son permitidos variar de contrato a contrato, como el nombre, lugar y fecha. Luego, Argus puede hacer comparaciones y buscar diferencias", explica. Argus analiza las diferencias, asigna las enmiendas a categorías según su importancia y entrega un informe de riesgo.
+
+Departamentos que ya están utilizando Argus han notado que las revisiones de contratos se están llevando a cabo de manera mucho más eficiente y con un nivel de calidad más alto.
+
+Aplicación global
+Por ahora, Argus solo se está utilizando dentro de los departamentos de Auditoría de Deloitte en EE. UU., Canadá y Australia. Deloitte Global está actualmente en negociaciones para obtener la licencia para uso global. "Esperamos poder empezar a utilizar Argus este año. Tenemos que esperar un poco, pero pronto recibiremos un concepto probado", afirma Van Gool. Los resultados de utilizar Argus son claros. Departamentos que ya lo están utilizando han notado que las revisiones de contratos se están llevando a cabo de manera mucho más eficiente y con un nivel de calidad más alto.
+
+En un principio, la herramienta se espera que se utilice principalmente para analizar las diferencias entre contratos. "Pero hay oportunidades sin precedentes para brindar apoyo en el análisis, evaluación y comparación de documentos", observa Van Gool. "Y estamos desarrollando rápidamente algoritmos para analizar otros tipos de documentos, como facturas". Por ejemplo, cree que Argus pondrá fin a la búsqueda manual de detalles en tareas de auditoría laboriosas y orientadas a datos, "como reingresar manualmente el monto total de una factura escaneada. Muy pronto, Argus lo hará por ti".
+
+Las licencias de Argus son válidas específicamente para Auditoría, pero Van Gool también reconoce oportunidades para utilizarlo en otros departamentos de Deloitte. "Argus podría hacer una gran diferencia en Consultoría o Impuestos. De hecho, en cualquier lugar donde se necesiten comparar más de un puñado de contratos o se necesite copiar información de documentos".AsesoríaAgente de RRHH 
+Edgy:   
+el futuro de los Recursos HumanosCONSULTORÍA
+24Suena futurista: un robot que alivia la carga de trabajo del 
+departamento de Recursos Humanos resolviendo consultas de 
+empleados y apoyando a los reclutadores en eventos. Sin embargo, 
+un equipo en Deloitte ha demostrado que es posible. Su robot 
+inteligente, llamado Edgy, ha demostrado varias áreas de 
+aplicación para la automatización basada en robótica dentro de 
+RRHH.  16 Proyectos de Inteligencia Artificial de Deloitte | Casos prácticos de IA aplicadaHacer y pensar
+
+Hay numerosos procesos dentro de RRHH que se prestan especialmente bien a soluciones basadas en robótica, afirma Henri Drogulski, analista de negocio de Capital Humano en Deloitte. Describe estos procesos como "procesos con un alto volumen de transacciones idénticas y pocas excepciones", como verificar los documentos presentados en una solicitud de empleo y posteriormente enviarlos al departamento correcto. "Esos tipos de tareas repetitivas realizadas según reglas fijas son fáciles de automatizar utilizando RPA, o Automatización de Procesamiento Robótico", afirma Drogulski.
+
+Rob van Werven, consultor senior en Estrategia y Operaciones en Deloitte, está de acuerdo: "RRHH también es el campo ideal para soluciones de robótica cognitiva, en el que un robot hace sus propias evaluaciones y inicia interacciones". Por ejemplo, un robot de software puede analizar un CV y determinar si el solicitante es abierto y sociable, o es más introvertido. "Estas tecnologías han madurado en 2018 y son lo suficientemente accesibles para que nuestros clientes también puedan beneficiarse de ellas dentro de RRHH", agrega Drogulski.
+
+Un equipo cruzado de Deloitte, con miembros de Capital Humano, Estrategia y Operaciones, y Tecnología, comenzó a trabajar en la combinación de RPA y tecnologías cognitivas en un solo robot. "Queríamos producir un robot que demuestre tecnologías de vanguardia, mientras que al mismo tiempo es divertido y atractivo", dice Van Werven. Más que un gadget
+
+El resultado final de sus esfuerzos fue Edgy, un chatbot cognitivo dentro de un robot humanoid. Edgy tiene altavoces, cámaras y micrófonos, y puede interactuar con empleados y candidatos potenciales. Reconoce caras y saluda a las personas que ha conocido anteriormente por nombre. También responde a todas las preguntas utilizando una variedad de servicios de nube cognitiva, como reconocimiento de voz, visión por computadora y procesamiento de lenguaje natural de Google y IBM Watson. "Y para agregar el toque personal, Edgy puede hacer chistes y gestos frescos, como el dab", dice Van Werven.
+
+"Un robot que camina y habla puede ser fácilmente considerado un truco", agrega Drogulski. "Por eso solo estamos utilizando Edgy para explicar la aplicación de la robótica en RRHH". Edgy se utiliza para registrar informes de enfermedad y recuperación de empleados, o para ayudarlos a ingresar reclamos de gastos. Edgy también puede decirte todo sobre trabajar en Deloitte. "Incluso puede emparejar a los candidatos con una vacante existente durante una entrevista", afirma Drogulski.
+
+Inspirador
+
+Desde esta primavera, Deloitte ha estado utilizando Edgy para demostraciones de robótica y sesiones de inspiración. "Queremos animar a nuestros clientes a pensar en cómo podrían utilizar la robótica", dice Drogulski. Una demostración inicial de Edgy es seguida de una sesión de inmersión profunda sobre el tema. "Vemos qué procesos de RRHH del cliente podrían ser adecuados para una solución de robótica". Drogulski no espera que el departamento de RRHH sea operado completamente por robots en el futuro, aunque: "Lo que realmente queremos hacer es liberar a los empleados para que hagan las tareas que solo pueden hacer los humanos". Investigación reciente de Deloitte confirma esta idea: los directores informaron que pretendían utilizar la robótica de software principalmente para hacer mejoras sostenibles en la calidad y la orientación al servicio, en lugar de reducir el personal.Proyectos de Inteligencia Artificial de Deloitte | Casos prácticos de IA aplicada
+
+Asistentes virtuales: 
+más allá del hype
+
+Para 2020, tendremos más conversaciones con 
+bots que con nuestros compañeros, según la gurú 
+de marketing Heather Pemberton Levy. Eso 
+certainly podría ser el caso: ahora que las 
+empresas están utilizando chatbots y altavoces 
+inteligentes como Amazon Alexa y Google Home 
+están en auge, los asistentes virtuales se están 
+integrando cada vez más en la vida diaria.
+
+“Lograr el equilibrio es 
+importante, entre lo mejor 
+de la tecnología y lo mejor 
+de las personas”
+
+Los asistentes virtuales son sistemas que pueden 
+proporcionar respuestas satisfactorias a preguntas 
+habladas o escritas. Los asistentes virtuales han 
+sido objeto de hype en los últimos años, lo que ha 
+hecho que algunas personas sean escépticas. “Eso 
+no es sin razón”, dice Hugo van den Berg, 
+gerente en Deloitte Digital. “Los asistentes 
+virtuales no podrán resolver todos nuestros 
+problemas. Son un medio para lograr algo, no 
+un objetivo en sí mismos.”
+
+En Deloitte Digital, Van den Berg asiste a 
+las empresas en el desarrollo y la integración 
+de asistentes virtuales, no como un truco, sino 
+como un medio para permitirles atender a los 
+clientes más rápido y de manera más efectiva, 
+mientras ahorran costos y liberan al personal 
+para trabajar en áreas donde el toque humano 
+hace la diferencia.
+
+Aprender como un niño
+
+Hay una miríada de tecnologías en el mercado 
+en el campo de la inteligencia conversacional, 
+desde start-ups y empresas nicho hasta gigantes 
+tecnológicos que invierten fuertemente en esta 
+área. “Los asistentes virtuales más avanzados 
+utilizan tecnologías como el aprendizaje automático, 
+procesamiento de lenguaje natural y análisis de 
+sentimiento”, explica Van den Berg. “Esas tecnologías 
+les permiten mantener un diálogo humano 
+autónomo”. Van den Berg describe la tecnología 
+como un niño que aprende a través de la experiencia: 
+“Cuanto más ejemplos recibe, mejor entiende lo que 
+se quiere decir”.
+
+El “cerebro” de los asistentes virtuales se compone 
+de árboles de decisión, que determinan qué respuestas 
+son adecuadas, o cuándo un cliente debe ser 
+remitido a un miembro del personal humano. “Aquí 
+es donde se determina qué problemas puede resolver 
+un asistente virtual, qué palabras utiliza y qué 
+personalidad tiene”, explica Van den Berg.
+
+Comenzar pequeño
+
+Deloitte Digital ayuda a los clientes a determinar 
+si la introducción de un asistente virtual es viable, 
+factible y deseable. “También podemos asistir en 
+el desarrollo y la implementación de la tecnología 
+y el impacto organizacional”, dice Van den Berg.
+
+Él nota que, aunque es tentador quedar deslumbrado 
+por todo lo que es posible con la tecnología, “es 
+importante saber qué es lo que quieres lograr con 
+ella. A veces, puedes lograr tu objetivo con un uso 
+limitado de asistentes virtuales”. La tecnología es ideal 
+para acciones relativamente simples, como cambiar 
+un número de registro o solicitar un estado, mientras 
+que en otros casos, podría ser más efectivo tener 
+contacto personal con los clientes. “Lograr ese 
+equilibrio es importante, entre lo mejor de la 
+tecnología y lo mejor de las personas”, dice Van 
+den Berg.
+
+También cree que es sensato comenzar pequeño: 
+“Comienza con un pequeño grupo de clientes que 
+estén abiertos a la experimentación. Observa 
+cuidadosamente lo que sucede, ajusta gradualmente 
+tu tecnología según sea necesario y solo escala 
+hasta que la tecnología haga exactamente lo que 
+quieres que haga”.16 Proyectos de Inteligencia Artificial de Deloitte | Casos prácticos de IA aplicada27Asesoría de RiesgosUtilizando el aprendizaje automático para evaluar riesgos para pólizas de seguro
+La idea de que puede averiguar rápidamente exactamente qué riesgo está asociado con un nuevo tomador de póliza será música para los oídos de muchas empresas de seguros.ASESORÍA DE RIESGOS
+2816 Proyectos de Inteligencia Artificial de Deloitte | Casos prácticos de IA aplicadaEn la actualidad, este tipo de evaluación de riesgos se lleva a cabo principalmente con la ayuda de modelos laboriosos y a menudo cuesta mucho tiempo entregar un nuevo modelo de riesgo. Deloitte está trabajando con nuevas tecnologías que están ayudando a los aseguradores a realizar evaluaciones con mayor velocidad y precisión.
+
+Las evaluaciones de riesgos se realizan principalmente en función de características personales y objetivas. "Si alguien conduce un gran coche, es más probable que cause daños mayores. Si alguien tiene un techo de paja, el daño por incendio será más grave, en promedio", explica Jurjen Boog, gerente de Gestión de Riesgos Financieros en Deloitte.
+
+Desde la década de 1990, los aseguradores han estado utilizando modelos lineales generalizados (GLM) basados en estadísticas para este tipo de evaluaciones. Los modelos son desarrollados por actuarios con muchos años de experiencia y expertise. Ahora que las tecnologías de aprendizaje automático están en auge, surge la pregunta de si los algoritmos inteligentes pueden hacer evaluaciones aún más precisas.
+
+"Con el aprendizaje automático, un algoritmo hace una evaluación de riesgo basada en criterios predeterminados, en lugar de estimar parámetros para modelos estadísticos", dice Boog. "Un GLM convencional puede tener en cuenta la interacción entre dos, pero no más de tres variables, como la relación entre la edad y el sexo de un titular de póliza. El aprendizaje automático, por otro lado, puede 'entender' miles de variables y interacciones más profundas".
+
+Nuevas relaciones El equipo de Gestión de Riesgos Financieros de Deloitte comparó la evaluación de riesgos del aprendizaje automático con la de un GLM. "Examinamos una póliza de seguro de automóvil y luego específicamente la responsabilidad civil", explica Boog. "Este es un componente con un conjunto de datos relativamente pequeño, lo que nos permitió explicar exactamente cómo diferirían las dos predicciones". Sorprendentemente, el aprendizaje automático y el modelo convencional generaron predicciones de calidad comparable. "Eso no es tan extraño; no hay muchas interacciones más profundas que el aprendizaje automático pueda tener en cuenta en un conjunto de datos tan pequeño", razona Boog. Lo que el aprendizaje automático pudo hacer, sin embargo, fue establecer valiosas nuevas relaciones. "Esto nos permitió cartografiar clusters de titulares de pólizas con un riesgo más alto de pérdidas", dice Boog. "Este conocimiento puede ser utilizado para administrar la cartera, como ajustar precios o aceptación".
+
+¿Alterará radicalmente el aprendizaje automático el sistema de seguros? El equipo pronto comenzará a trabajar con un conjunto de datos más amplio. "Luego estaremos examinando pólizas combinadas", explica Boog. "Si alguien combina seguro de automóvil con seguro contra incendios, ¿podemos demostrar que esto es menos riesgoso que dos pólizas de seguro separadas con exactamente los mismos factores de riesgo? Y si es así, ¿cuánto menos? Al agregar más interacciones, esperamos lograr predicciones más precisas para cosas como esta utilizando el aprendizaje automático".
+
+¿Alterará radicalmente el aprendizaje automático el sistema de seguros? "Principalmente, esto dará lugar a una justificación más sólida de las decisiones", afirma Boog. "El seguro es sobre pesar las cosas. Quieres saber el riesgo que representa cada nuevo titular de póliza, y un modelo de riesgo más preciso te permite medir el impacto que tendrán ciertas elecciones".Proyectos de Inteligencia Artificial de Deloitte | Casos prácticos de IA aplicada 30Predicción del comportamiento de pago
+
+Un cliente había pasado tres años luchando con un problema. El cliente era una fundación que debía asumir tareas de seis municipios para ahorrar costos. Sin embargo, las conversaciones con los municipios no avanzaban muy bien en cuanto a una de esas tareas, la gestión de deudas malas. La fundación debía asumir las deudas, pero ¿cuánto valían? Era improbable que todas las deudas se pagaran, por lo que el monto debía ser menor que la deuda total, pero las partes no podían acordar exactamente cómo determinar ese valor.
+
+"Nos pidieron crear un tablero que mostrara el comportamiento de pago de todos los deudores hasta ahora", explica Wouter Pepping, gerente senior de Tecnología y Riesgo de Datos en Deloitte. La solicitud era identificar para cada municipio y tipo de deuda el porcentaje de deudores que habían pagado sus deudas en el pasado y deducir el valor a partir de eso. "Propusimos ir un paso más allá", dice Pepping. "Al utilizar análisis avanzados, en realidad puedes hacer predicciones mucho más precisas, hasta el nivel de deudores individuales".
+
+Un paso más allá
+
+El equipo probó varios modelos y decidió utilizar un modelo de Bosque Aleatorio. "Este es un algoritmo de aprendizaje automático que utiliza datos para entrenar árboles de decisión y luego crea un 'bosque' de árboles de decisión con variables aleatorias", explica Pepping. "Al navegar por un gran número de árboles de decisión y permitir que decidan el resultado, obtienes una aproximación cercana del riesgo de cada deudor".
+
+Este método es muy efectivo cuando se utilizan conjuntos de datos inconsistentes, continúa Pepping. "Dos deudores pueden mostrar el mismo comportamiento de pago durante un período prolongado de tiempo, pero si uno recibe una herencia o es promovido, eso puede cambiar de la noche a la mañana. Al crear un gran número de árboles aleatorios, el sistema puede manejar esas diferencias de manera más efectiva".
+
+El resultado fue un tablero dinámico que se puede ordenar por diferentes criterios, como municipio, tipo de deuda, monto de la deuda o período. Puedes acercarte cada vez más a la lista completa hasta llegar al nivel de la historia de transacciones de un deudor individual. El sistema proporciona una predicción del comportamiento de pago futuro de cada deudor. "Validamos el sistema y terminamos con un margen de error promedio del cuatro por ciento", dice Pepping.
+
+Fin del 'tira y afloja'
+
+La solución brindó un avance al cliente. El interés de la fundación era llegar al valor más alto posible de las deudas, mientras que el interés de los municipios era tenerlas lo más bajas posible. "Nuestro método hizo posible determinar el valor con un nivel de confiabilidad muy alto", dice Pepping. "Se consideró un resultado justo para todas las partes involucradas".
+
+El modelo es comparable con los análisis de riesgo que los bancos realizan en clientes con deudas, "pero las organizaciones fuera del sector financiero rara vez utilizan modelos de riesgo avanzados, aunque ofrecen oportunidades significativas", agrega Pepping. "Puedes obtener mucha más visibilidad en los conjuntos de datos, lo que te permite establecer tu estrategia de manera mucho más precisa. Y, como en este caso, podría resolver una disputa después de muchos años de jugar al 'tira y afloja'".
+
+ASESORÍA DE RIESGO
+
+"Con análisis avanzados, puedes hacer predicciones mucho más precisas".ASESORÍA DE RIESGOS 16 Proyectos de Inteligencia Artificial de Deloitte | Casos prácticos de IA aplicada
+Sugerencias inteligentes
+Varios de nuestros clientes se enfrentaron a un desafío, dice Marc Verdonk, socio y gerente de innovación de Deloitte Asesoría de Riesgos. "De acuerdo con la nueva norma contable IFRS 16, prácticamente todos los contratos de arrendamiento deben ser listados en el balance general a partir de 2019". Por ejemplo, para una empresa de telecomunicaciones, que arrienda cada mástil y cada parcela de tierra en la que se encuentra ese mástil, esto significa que deberá revisar cientos de miles de contratos en diferentes idiomas. "Nuestro equipo comenzó a trabajar en la pregunta de cómo el aprendizaje automático podría extraer los puntos de datos relevantes de esos contratos. No para reemplazar a los analistas de contratos, sino para asistirlos con sugerencias inteligentes".
+El resultado fue DocQMiner, una aplicación fácil de usar que puede ser utilizada por analistas para revisar contratos. "La aplicación cuenta con un bot, al que hemos llamado Robin. Se alimenta con un número de contratos y Robin te da sugerencias para los datos que necesitarás, como la fecha de inicio de un contrato", explica Verdonk. El analista ve la sugerencia destacada y indica si es correcta o no. "Robin aprende de esto, lo que significa que los contratos posteriores se analizan un poco más inteligentemente cada vez, y la confiabilidad de sus predicciones aumenta. El analista está entrenando constantemente a Robin durante el proceso de revisión".
+DocQMiner funciona utilizando tecnologías de aprendizaje automático y procesamiento de lenguaje natural de vanguardia. "Cuenta con una red neuronal que entiende el lenguaje, la estructura de oraciones y cómo se relacionan las palabras entre sí", continúa Verdonk. "Ese conocimiento se convierte en cifras, que se utilizan para calcular y hacer predicciones. También agregamos información a ella. Al alimentar contratos anotados, mostrando qué datos estamos buscando, Robin aprende a reconocer contratos de arrendamiento". Debido a que el reconocimiento del sistema se vuelve cada vez más preciso, pero no almacena datos de clientes confidenciales, puede ser transferido de un cliente a otro. "Significa que nuestros clientes se benefician de la experiencia que ya ha ganado".
+Aplicación más amplia
+El uso de nuevas tecnologías también da lugar a una nueva forma de hacer negocios. "Con DocQMiner, no estamos vendiendo la cantidad de trabajo que se invierte en él, sino el resultado", dice Verdonk. "En lugar de establecer el número de horas que esperamos invertir en él, hacemos un acuerdo sobre el número de contratos que analizaremos. Eso resulta en un precio bajo para el cliente y un incentivo para nosotros para hacerlo lo más eficiente posible".
+Aunque DocQMiner se desarrolló para clientes que deben cumplir con la norma contable IFRS 16 o US GAAP, hay numerosas aplicaciones concebibles en las que se necesitan leer grandes cantidades de contratos. "Un ejemplo es la reescritura de contratos después del Brexit, cuando todos los contratos deberán ser revisados si las sedes de las empresas se reubican. O la Regulación General de Protección de Datos, que requerirá que se revisen cláusulas en muchos contratos de compra. Podemos utilizar DocQMiner en todas las situaciones".
+DocQMiner: análisis de contratos a través de IA
+Para cumplir con las regulaciones internacionales, las empresas con contratos de arrendamiento deberán revisar miles de contratos uno por uno en los próximos meses. Es una tarea inmensa, especialmente cuando se considera que un analista pasará alrededor de 90 minutos en cada contrato. Ese tiempo puede reducirse drásticamente utilizando tecnologías de aprendizaje automático. Para ayudar a las empresas con tareas como esta, Deloitte ha desarrollado DocQMiner: una aplicación autodidacta que lee y analiza contratos.Proyectos de Inteligencia Artificial de Deloitte | Casos prácticos de IA aplicada
+
+32Eagle Eye: utilizando la web para la detección temprana de migraciones crediticias
+
+Imagina que pudieras buscar en toda la internet para encontrar señales de alerta temprana para todo tipo de eventos. Por ejemplo, para ver si una empresa es probable que experimente dificultades financieras en un futuro cercano. Eso es exactamente lo que hace Eagle Eye, la nueva y avanzada herramienta de IA de Deloitte.
+
+Señales
+Eagle Eye fue desarrollada por Deloitte República Checa. El líder de análisis, Jan Balatka, y su equipo construyeron un modelo para realizar análisis semánticos en línea con el fin de identificar amenazas y oportunidades. Balatka: "Inicialmente creamos Eagle Eye para una empresa financiera que quería saber si sus deudores eran probablemente insolventes".
+
+Los sistemas de monitoreo tradicionales revisan a los deudores verificando sus cuentas bancarias, transferencias de crédito o estados financieros. Pero para cuando se comienzan a ver señales de alerta, ya es demasiado tarde, explica Balatka. "Para entonces, la empresa ya está en dificultades financieras".
+
+Antes de que se puedan ver en los estados financieros, las señales de alerta temprana de un posible declive pueden observarse en línea. Esto es precisamente lo que hace Eagle Eye. Balatka: "Eagle Eye utiliza inteligencia de código abierto para recopilar señales. Fue construida y probada para un problema particular, pero la idea es reentrenar el modelo para diferentes mercados y países".
+
+¿Cómo sabe Eagle Eye qué información es relevante, una señal, y qué no lo es? Balatka: "Considera cualquier información que encuentre sobre la empresa, cliente o mercado que se le asigne como una señal". Con la ayuda del aprendizaje automático, Eagle Eye luego comienza a analizar señales, correlacionarlas y reconocer patrones específicos. Balatka: "Solo la IA puede manejar los vastos volúmenes de datos en internet y encontrar correlaciones entre parámetros que los humanos ni siquiera pensarían. Una vez que encontramos ciertos patrones, Eagle Eye monitorea constantemente la internet en busca de ellos".
+
+Enfoque conjunto
+El equipo checo se acercó a colegas internacionales para unirse a sus esfuerzos y Roald Waaijer, Director de Asesoría de Riesgos para Deloitte Países Bajos, respondió. Waaijer: "Estábamos muy interesados en la tecnología. Y cuando probamos el concepto, la retroalimentación del cliente fue muy positiva también". Esto llevó a una colaboración con el equipo de Balatka y un enfoque conjunto para el mercado.
+
+Eagle Eye es personalizado para cada cliente, explica Waaijer. "Dependiendo de sus necesidades y preferencias, los clientes pueden trabajar con una aplicación que les brinde acceso al sistema de monitoreo. O podemos simplemente suministrar alertas cada vez que se detecta una señal". Balatka agrega: "Eagle Eye sirve como punto de partida. Aunque el sistema es correcto en la mayoría de los casos que marca, solo proporciona una advertencia temprana. El cliente puede seguir con su proceso de revisión habitual".
+
+Waaijer ve una amplia gama de posibles implementaciones de Eagle Eye: "Piensa en monitorear la cumplimentación, detectar fraude o poder identificar posibles adquisiciones en una fase muy temprana". A partir de 2018, la tecnología está en vivo y Eagle Eye se está utilizando en diferentes prototipos para clientes en toda Europa.
+
+ASESORÍA DE RIESGOS
+"Dependiendo de sus necesidades y preferencias, los clientes pueden trabajar con una aplicación que les brinde acceso al sistema de monitoreo".16 Proyectos de Inteligencia Artificial de Deloitte | Casos prácticos de IA aplicada33Servicios de Asesoría FinancieraCombatiendo el fraude de bienestar con aprendizaje automático
+
+Una organización gubernamental en los Países Bajos tuvo que lidiar con casos de fraude. La organización era responsable de pagar asignaciones a los ciudadanos, pero cientos de millones de euros se estaban pagando a personas no elegibles. Un departamento interno había identificado que los procesos no se estaban ejecutando de manera efectiva, y después de la publicidad negativa, estaba claro que el método de abordar el fraude necesitaba ser mejorado.
+
+SERVICIOS DE ASESORÍA FINANCIERA
+3416 Proyectos de Inteligencia Artificial de Deloitte | Casos prácticos de IA aplicadaEl método existente consistía en evaluadores humanos que realizaban controles aleatorios basados en lo que se conocen como reglas de negocio: patrones establecidos por expertos en fraude que pueden indicar cuando algo está mal. "Queríamos averiguar si era posible mejorar los procesos con la ayuda del aprendizaje automático", explica Hilko van Rooijen, Gerente Senior de Análisis de Delincuencia Financiera en Deloitte. "El beneficio es doble: menos ciudadanos son sospechosos de fraude por error, mientras que los inspectores pueden pasar su tiempo de manera más eficiente". Aumentar la tasa de acierto
+
+Dentro de cuatro semanas, el equipo de Van Rooijen había creado un prototipo de concepto. Después de un estudio comparativo de varias tecnologías de inteligencia artificial, decidieron utilizar una forma de regresión logística. Se alimentaron grandes cantidades de casos pasados al sistema, lo que le permitió aprender en qué nuevos casos se sospechaba que algo estaba mal. El resultado fue asombroso: donde los casos de fraude sospechoso fueron evaluados por expertos humanos, se encontró que el fraude había sido cometido en un 10% de los casos; esta tasa de acierto aumentó al 50% en el prototipo de concepto.
+
+La tecnología se mejoró y refinó durante los meses siguientes, y uno de los desafíos en este sentido fue asegurarse de que los datos fueran representativos. "El sistema aprende de la información que se le proporciona, por lo que es importante que esta información proporcione la imagen más completa posible", dice Van Rooijen. "Una vez, por ejemplo, utilizamos una muestra que contenía a muchas personas mayores que no habían cometido fraude, y el sistema concluyó que las personas mayores nunca cometen fraude. Tuvo que corregir eso".
+
+Una parte no insignificante del proceso fue integrar el sistema en la cultura corporativa. "Lo hicimos proporcionando explicaciones detalladas, pero también pidiendo aportaciones", revela Van Rooijen. "El personal dentro de la organización tenía una gran cantidad de conocimientos sobre fraude, y ese conocimiento resultó ser extremadamente valioso en el desarrollo de la tecnología". El sistema se ha conectado desde entonces a la infraestructura de TI existente, y un equipo interno ha sido entrenado para administrar la tecnología.
+
+Desde la detección hasta la prevención
+
+Después de seis meses, la tasa de acierto de la tecnología había aumentado al 87%. Seis meses más tarde, volvió a disminuir. "Nos mostró que simplemente había menos fraude cometido", comenta Van Rooijen. "Obviamente, las técnicas de detección habían llegado a ser tan efectivas que actuaban como un disuasivo para los estafadores. Además de proporcionar un medio de detección, la tecnología también había comenzado a actuar como una forma de prevención".
+
+El enfoque ha prevenido con éxito fraude por valor de decenas de millones de euros. "Y esas ahorros siguen siendo", agrega Van Rooijen. Deloitte ha asistido desde entonces a autoridades públicas en varios otros países europeos en la integración de esta tecnología. SERVICIOS DE ASESORÍA FINANCIERA
+
+"Además de ser un medio de detección, la tecnología también actúa como una forma de prevención".16 Proyectos de Inteligencia Artificial de Deloitte | Casos prácticos de IA aplicada
+
+Utilizando el aprendizaje automático y el análisis de redes para buscar una aguja en un pajar
+
+Un cliente corporativo se puso en contacto con Deloitte con un problema grave: la empresa había sido acusada de sobornar a funcionarios públicos. Necesitaba determinar rápidamente qué había sucedido exactamente para preparar su defensa. ¿Podría Deloitte ayudar a determinar si habían tenido lugar transacciones inaceptables? "El período que debíamos investigar era de doce años", explica Christian Cnossen, gerente de Análisis de Delitos Financieros en Deloitte. "Significaba que teníamos que evaluar más de 80 millones de pagos y cientos de millones de correos electrónicos y documentos internos. Era como buscar una aguja en un pajar". Para montar una investigación efectiva, Deloitte desarrolló un método que combinaba el aprendizaje automático y el análisis de redes con trabajo de detective humano astuto.
+
+Ciento cincuenta nombres y entidades
+
+La primera etapa consistió en clasificar documentos internos y correos electrónicos para recuperar información relevante. Para hacer esto, Wesley van Saane del equipo de Descubrimiento Forense de Deloitte utilizó un módulo de aprendizaje automático de la suite de software Relativity y la herramienta de categorización y visualización BrainSpace. Los abogados revisaron manualmente unos pocos cientos de documentos para indicar si eran relevantes para la investigación, y estos se utilizaron para entrenar el sistema. "Realizamos algunas iteraciones, lo que gradualmente hizo que los resultados fueran más precisos", explica Van Saane. Significaba que, en última instancia, los abogados solo tuvieron que estudiar una fracción de los millones de documentos.
+
+Aproximadamente cincuenta nombres de individuos y entidades surgieron de esta investigación que estaban potencialmente implicados en la supuesta corrupción. Luego, el equipo de Cnossen construyó una herramienta personalizada para realizar un análisis de redes de las relaciones entre estos individuos y entidades. Búsquedas en fuentes en línea accesibles públicamente, como los Papeles del Paraíso y OpenCorporates, revelaron alrededor de cien nombres nuevos que estaban potencialmente implicados en el caso, como directores que no aparecían en la correspondencia o subholdings no nombrados. La siguiente etapa fue buscar en las cuentas del cliente por transacciones que involucraban a estos ciento cincuenta individuos y entidades, y se verificaron los pagos contra los correos electrónicos y documentos sospechosos para cualquier vínculo entre ellos. En última instancia, el equipo pudo identificar alrededor de treinta pagos relacionados con las acusaciones.
+
+Acuerdo
+
+Fue, por supuesto, desafortunado para la empresa que hubiera habido soborno. Sin embargo, la empresa se sintió aliviada de que los incidentes pudieran rastrearse rápidamente para producir una respuesta rápida y coherente a las acusaciones. Esto permitió que el asunto se resolviera relativamente rápido con las autoridades supervisoras relevantes. La investigación también arrojó luz sobre los procesos empresariales que habían permitido que se produjeran los pagos indeseables, y la empresa pudo tomar medidas al respecto.
+
+El aprendizaje automático y el análisis avanzado pueden ser de gran ayuda en la realización de una investigación que implica grandes cantidades de datos. Sin embargo, en cuanto a los procedimientos legales potenciales, es importante que todas las partes involucradas entiendan plenamente la tecnología y la confíen, advierte Cnossen. "El abogado debe poder explicar el proceso, y el tribunal o el Servicio de Fiscalía debe considerar el enfoque aceptable. Gracias a nuestro método de trabajo, pudimos proporcionar una sustanciación estadística detallada, y las partes involucradas estaban convencidas del resultado".
+
+SERVICIOS DE ASesoramiento FINANCIERO
+
+Gracias a la inteligencia artificial, los abogados solo tuvieron que estudiar una fracción de los millones de documentos.Agrupación de información no estructurada en BrainSpace
+SERVICIOS DE ASESORÍA FINANCIERA
+37 En la búsqueda electrónica de evidencias – la recopilación de pruebas de datos digitales – se deben recopilar y hacer comprensibles grandes cantidades de datos. Pero ¿cuál es exactamente una forma factible de buscar entre millones de documentos en un corto espacio de tiempo? El equipo de búsqueda electrónica de Deloitte ha pasado tres años trabajando con BrainSpace, una herramienta inteligente que categoriza datos y los hace comprensibles con velocidad y precisión extraordinarias. 16 Proyectos de Inteligencia Artificial de Deloitte | Casos prácticos de IA aplicadaMillones de documentos
+
+BrainSpace se utiliza para asistir en casos legales. Anoeska Schipper, gerente de Análisis de Datos y e-Discovery en Deloitte Asesoría Financiera, explica: "Si las autoridades realizan un allanamiento en las instalaciones de uno de nuestros clientes, podemos ser llamados para asegurar datos con el fin de preparar su defensa. Suele tratarse de datos sobre cosas como laptops, teléfonos y servidores de correo, por ejemplo".
+
+El equipo de e-Discovery suele realizar una copia de seguridad completa del sistema. "El cliente y sus abogados quieren que les digamos lo antes posible todo lo que se ha guardado en estos sistemas", dice Schipper. "¿Qué puede servir como prueba y qué puede ser utilizado para respaldar su defensa?"
+
+El equipo ha pasado tres años trabajando con BrainSpace, una herramienta que utiliza aprendizaje automático y análisis de clusters para buscar en datos no estructurados, como correos electrónicos, documentos de Word y presentaciones de PowerPoint. Schipper explica cómo BrainSpace facilita el proceso de búsqueda: "BrainSpace muestra qué tipos de documentos existen y puede hacer una selección inicial según nuestras instrucciones. Pero también puede agrupar datos y proporcionar un resumen de ellos". Entre otras cosas, BrainSpace puede mostrar qué se está discutiendo y quiénes lo están haciendo, y cómo los temas de discusión se relacionan entre sí en la correspondencia por correo electrónico que se ha encontrado.
+
+Además, BrainSpace es autodidacta: la herramienta gana nuevo conocimiento de cada conjunto de datos y mejora su capacidad de navegación cada vez. "Si indicamos qué documentos son importantes para nosotros, los reconoce automáticamente y es muy preciso al predecir qué otros documentos son relevantes al reconocer patrones dentro del texto", dice Schipper. BrainSpace también asiste en la presentación de datos relevantes. "Por ejemplo, podemos mostrar a nuestros clientes desgloses en formatos visualmente atractivos, que hacen que sea claro ver a primera vista lo que hemos encontrado".
+
+Más rápido y efectivo
+
+BrainSpace categoriza datos relevantes no solo mucho más rápido, sino también mucho más efectivamente que las personas, afirma Schipper. "Algunos estudios científicos han comparado una revisión humana con una herramienta de aprendizaje automático, y han demostrado que el aprendizaje automático genera resultados mucho mejores". Esto no significa, sin embargo, que BrainSpace funcione sin supervisión. Se toma una muestra aleatoria de cada revisión realizada por la herramienta para verificar cómo funciona el aprendizaje automático en el conjunto de datos ingresado.
+
+BrainSpace se utiliza actualmente solo para e-Discovery, pero también es adecuado para aplicaciones más amplias. Schipper: "Queremos involucrarnos en un número creciente de tareas interfuncionales. BrainSpace también puede marcar una gran diferencia en el análisis de contratos, como cuando se busca cláusulas y se categorizan contratos de empleo y arrendamiento".
+
+SERVICIOS DE ASESORÍA FINANCIERA
+38"Podemos mostrar a nuestros clientes desgloses en formatos visualmente atractivos, que hacen que sea claro ver a primera vista lo que hemos encontrado" 16 Proyectos de Inteligencia Artificial de Deloitte | Casos prácticos de IA aplicadaPersonas de contacto
+
+Socio Impuestos y Legales – Frank Nan
+Socio Consultoría – Patrick Schunck
+Socio Asesoría Financiera – Oscar Sneijders
+Socio Asesoría de Riesgos – Marc Verdonk
+Socio Auditoría y Aseguramiento – Theo Jongeneel
+Socio GSC – Liesbeth Mol
+Socio Innovación – Richard Roovers
+
+Detalles de contacto
+Si desea obtener más información sobre Deloitte Innovation y nuestras actividades, 
+por favor, contáctenos vía correo electrónico NLInnovation@deloitte.nl
+
+Colofón
+Texto: De Graaf & De Valk
+Traducción: Wilkens
+Diseño: Visual Heroes
+Por encargo de Deloitte Innovation B.V.Deloitte se refiere a una o varias de Deloitte Touche Tohmatsu Limited (“DTTL”), su red global de firmas miembros y sus entidades relacionadas. 
+DTTL (también referida como “Deloitte Global”) y cada una de sus firmas miembros son entidades jurídicas separadas e independientes. DTTL no proporciona servicios a clientes. Por favor, visite www.deloitte.nl/about para obtener más información.
+
+Deloitte es un proveedor global líder de auditoría y aseguramiento, consultoría, asesoramiento financiero, asesoramiento de riesgos, impuestos y servicios relacionados. Nuestra red de firmas miembros en más de 150 países y territorios atiende a cuatro de cada cinco empresas Fortune Global 500®. Aprenda cómo las aproximadamente 264,000 personas de Deloitte tienen un impacto que importa en www.deloitte.nl.
+
+Esta comunicación contiene solo información general, y ninguna de Deloitte Touche Tohmatsu Limited, sus firmas miembros o sus entidades relacionadas (colectivamente, la “red de Deloitte”) está, mediante esta comunicación, brindando asesoramiento profesional o servicios. Antes de tomar cualquier decisión o acción que pueda afectar sus finanzas o su negocio, debería consultar a un asesor profesional calificado. Ninguna entidad en la red de Deloitte será responsable por cualquier pérdida que sufra cualquier persona que se basa en esta comunicación.
+
+© 2018 Deloitte Países Bajos

@@ -1,0 +1,259 @@
+IA Generativa en la Industria ManufactureraFundamentalmente, las herramientas de IA generativa realizan cuatro cosas clave con eficacia:
+Generar nuevo contenido con poca o ninguna guía.
+Resumir contenido existente de manera que pueda ser entendido por la audiencia objetivo.
+Mantener conversaciones inteligentes con una comprensión humana de diversos dominios.
+Realizar actividades de cadena de pensamiento (CoT).
+
+Introducción
+La IA generativa ayuda a las organizaciones a crear una ventaja competitiva a través de capacidades únicas.
+
+La industria manufacturera evoluciona constantemente, esforzándose por mejorar la eficiencia mientras reduce costos y mejora la experiencia del cliente (CX). Todo esto se produce en un contexto de crecientes expectativas del cliente, fluctuaciones rápidas del mercado y la creciente necesidad de prácticas sostenibles.
+
+La IA generativa (gen AI) ofrece soluciones prometedoras para estos desafíos. Al aprovechar el poder de la gen AI, los fabricantes pueden analizar grandes volúmenes de datos diversos en tiempo real para obtener insights contextuales. También pueden evaluar diseños rápidamente, lo que mejora la eficiencia y la productividad, y reducir costos en la cadena de suministro. También puede servir como una especie de copiloto para las organizaciones de operaciones y servicio al cliente, nuevamente aumentando la productividad mientras reduce el costo de errores.
+
+¿Qué es la gen AI?
+La gen AI representa la vanguardia de la inteligencia artificial, enfocándose en crear contenido contextualmente apropiado. En general, el término se refiere a un tipo de red neuronal que puede crear contenido actualizado según las instrucciones humanas. Los grandes modelos de lenguaje que subyacen a la gen AI han sido entrenados con cantidades masivas (típicamente más de un billón de parámetros) de datos de texto, lo que les permite comprender y generar respuestas humanas en lenguaje natural.
+
+En lugar de depender solo de datos históricos, la gen AI se centra en generar nuevas instancias de datos que se asemejan al conjunto de datos de entrenamiento. Los algoritmos de gen AI, como las redes generativas adversarias (GANs) o los autoencoders variacionales (VAEs), aprenden patrones y características subyacentes de los datos y utilizan este conocimiento para generar nuevos puntos de datos.Potencial de la IA generativa para la industria manufacturera
+
+La IA generativa ofrece un potencial inmenso para impulsar la productividad, mejorar la experiencia del usuario en áreas clave de la industria manufacturera, como operaciones posteriores a la venta, investigación y desarrollo de productos, y marketing y ventas. Varios analistas, como McKinsey, IDC y Gartner, esperan que áreas similares se beneficien de la IA generativa.
+
+McKinsey ha identificado operaciones con clientes, marketing y ventas, ingeniería de software y investigación y desarrollo como cuatro áreas clave que podrían representar aproximadamente el 75% del valor anual total de los casos de uso de la IA generativa en un informe reciente sobre la IA generativa.
+
+Representa ~75%
+del impacto anual total
+de la IA generativa
+Impacto, miles de millones de dólares
+0 200 100 300 400 500 10
+0203040
+Impacto como porcentaje del gasto funcional, %
+Ingeniería de software
+(desarrollo de productos)
+Ingeniería de software
+(IT corporativa)
+Mercadotecnia
+Ventas
+Manufactura
+IT corporativa
+Talento y organización
+(incl. RRHH)
+Finanzas
+Estrategia
+Precios
+Riesgo y cumplimiento
+Gestión de compras
+Legal
+Cadena de suministro
+I+D de productos
+Operaciones con clientes4 | Inteligencia Artificial Generativa en la industria manufacturera
+
+IDC publicó sus hallazgos de la encuesta en la industria manufacturera, que encontró que el 27% de las empresas están invirtiendo activamente en tecnología de IA generativa. Se espera que la industria en general experimente un mayor impacto de la IA generativa, considerando los costos excesivos de operar y mantener equipos industriales/producción.
+
+¿Cuál es el enfoque actual de su organización hacia la IA generativa?
+
+Gartner predice que las iniciativas de IA generativa se centrarán principalmente en mejorar la experiencia del cliente y la retención, seguida de crecimiento de ingresos mediante la creación de aplicaciones o procesos para impulsar nuevos flujos de ingresos.
+
+Aunque hay opiniones divergentes sobre el uso de IA generativa en la manufactura, hay un acuerdo abrumador de que ofrecerá una ventaja desproporcionada a las empresas y será extremadamente beneficiosa para sus fuerzas laborales y para las organizaciones mismas.
+
+Enfoque principal de las iniciativas de IA generativa
+34,6% 27,1% 38,2%
+Estamos invirtiendo en tecnologías de IA generativa en 2023
+Estamos explorando inicialmente posibles casos de uso
+No estamos haciendo nada todavía
+Experiencia del cliente/retención
+Crecimiento de ingresos
+Optimización de costos
+Continuidad empresarial
+Ninguno de los anteriores o no aplicable (por ejemplo, proveedor o inversor)
+38%
+26%
+17%
+7%
+12%
+gartner.comNosotros en Cognizant, a través de interacciones con nuestros clientes y discusiones prospectivas, hemos identificado un conjunto de casos de uso donde el gen AI puede impulsar una ventaja competitiva para la industria manufacturera. Aunque estos casos de uso no son exhaustivos, los casos de uso de gen AI se clasifican ampliamente en tres categorías:
+
+A medida que la tecnología de gen AI evoluciona, algunos de los modelos generativos han ganado tracción en el espacio de manufactura por su amplia aplicabilidad en toda la cadena de valor de manufactura. A continuación, se presentan algunos de los modelos y su relevancia para la industria manufacturera.
+
+Conversacional Referencial Creativo
+Conversaciones humanas con clientes, proveedores y más. Referir, resumir e interpretar información como documentos contractuales y más. Crear contenido nuevo como documentación, mejoras de diseño de productos, código de software y más.
+
+Modelo de gen AI Descripción Aplicación en manufactura
+Autoencoder variacional (VAE) • A menudo utilizado en procesamiento de imágenes y videos
+• Funciona tomando una imagen de entrada y codificándola en una representación de baja dimensionalidad, que luego se decodifica para producir una imagen de salida • Control de calidad inteligente
+• Servicio de productos
+• Sistemas de gestión de tecnología operativa inteligente (OTSM)
+Redes adversarias generativas (GANs) • Utilizadas para generar nuevas muestras de datos similares a los datos de entrenamiento (generador)
+• Clasificar con precisión los datos como reales o falsos (discriminador) • Generación de documentos, búsqueda y síntesis
+• Mercadotecnia entrante/saliente
+• I+D de productos
+Redes neuronales recurrentes (RNNs) • Utilizadas para el procesamiento de datos secuenciales, como el procesamiento del lenguaje natural y el análisis de series temporales
+• La salida de cada paso se utiliza como entrada para el siguiente paso • Mejora de la CRM, CX y autoservicio del cliente
+• Desarrollo de productos y procesos
+Redes de memoria a corto y largo plazo (LSTM) • Tipo de RNN diseñado para manejar secuencias de datos largas y complejas que son difíciles de analizar
+• Las LSTM pueden aprender a reconocer patrones en los datos que ocurren a lo largo del tiempo • Decisiones de compra informadas
+• Gestión inteligente de proveedores y negociación y optimización de contratos
+• Gemelo digital impulsado por gen AI6 | Inteligencia Artificial Generativa en la industria manufacturera Casos de uso tempranos
+
+Aunque la tecnología de IA genérica aún está evolucionando, la industria está invirtiendo en algunos casos de uso en paralelo, para aprovechar la capacidad de la tecnología para procesar grandes volúmenes de datos y ofrecer inteligencia contextual. A continuación, se presentan tres áreas y casos de uso donde vemos inversiones tempranas. A través de estos experimentos, las organizaciones están probando el agua, con un compromiso de expandir el uso de IA genérica a otras partes de su cadena de suministro manufacturera.
+
+Asesoramiento de mantenimiento/servicio
+Servicio de productos
+• La industria manufacturera se basa en una gran fuerza laboral para apoyar las necesidades de servicio después de la venta de sus clientes. Esta fuerza laboral necesita capacitación extensiva y años de experiencia para adquirir la experiencia necesaria para diagnosticar y resolver problemas de manera rápida. La IA genérica ofrece la oportunidad de simplificar esto con la capacidad de procesar grandes volúmenes de datos de manuales de usuario, manuales de servicio y análisis de información de diagnóstico y resolución pasados para diagnosticar problemas de servicio rápidamente y sugerir resoluciones para el personal de mantenimiento con mayor precisión. Para las organizaciones manufactureras y sus clientes, esto reduce el tiempo de inactividad del equipo y ayuda a construir la confianza en el producto con los clientes.
+
+• Empresas como Embassy of Things y Cognite han incursionado en la IA genérica para entrenar y validar sus modelos de mantenimiento predictivo (con Twin Talk GPT) y mejorar la gestión del rendimiento de activos (con Cognite Data Fusion), respectivamente.
+• Cognizant está trabajando con un fabricante de elevadores de primer nivel, aprovechando la tecnología de IA genérica para desarrollar una solución de asesoramiento de mantenimiento que puede ingerir miles de páginas de especificaciones de productos, registros de datos y preguntas frecuentes en una aplicación que puede responder con chat en lenguaje natural o interfaz de voz. Esto permitirá a los técnicos diagnosticar y resolver problemas mucho más rápido, sin necesidad de consultar otros sistemas o expertos.
+
+Soporte y servicios de tecnología operativa inteligente
+• La IA genérica permite a los profesionales de soporte de TI solucionar problemas de tecnología operativa (OT) sin conocimientos previos extensivos ni capacitación específica en tecnologías específicas.
+• El soporte de OT requiere habilidades muy específicas y se basa en un número limitado de trabajadores. El soporte de OT inteligente es una forma efectiva de reducir el tiempo medio de reparación, para que los trabajadores de soporte puedan ser más productivos. Otros beneficios incluyen menos incertidumbre en la resolución de problemas, priorización de problemas, manejo de consultas y análisis offline.
+• Al capturar datos históricos y hacerlos digestibles, los centros de ayuda de IA genérica pueden ayudar a los usuarios a filtrar la información. Puede permitir a los usuarios resolver problemas con instrucciones fáciles de seguir y descripciones de procesos claras.Control de calidad inteligente
+
+• Los fabricantes están constantemente implementando y encontrando nuevas vías para minimizar errores y defectos en productos durante el proceso de manufactura. El IA genérica ofrece el potencial de predecir problemas potenciales analizando conjuntos de casos de prueba vastos y detectando rápidamente tendencias, problemas recurrentes y puntos de fallo potenciales en productos nuevos o modificados. Esto permite a los fabricantes lograr una mayor precisión y eficiencia en el proceso, escalabilidad, cobertura más amplia en la evaluación de riesgos y una mejor calidad de producto.
+
+• La empresa aeroespacial Airbus está utilizando el IA genérica para impulsar gafas de realidad aumentada (RA) para un control de calidad más eficiente y preciso. Estas gafas transmiten datos capturados por drones a las gafas y tabletas de RA, lo que permite al usuario digerir fácilmente los datos.
+
+Gemelos digitales impulsados por IA
+• La sinergia del IA genérica y los gemelos digitales ofrece una oportunidad para crear mundos virtuales, utilizando información en tiempo real, que pueden reflejar la realidad con simulaciones detalladas para apoyar el mantenimiento predictivo, minimizar reparaciones costosas y identificar cuellos de botella potenciales con anticipación.
+
+• A medida que la tecnología del IA genérica progresa, veremos a las organizaciones avanzar desde una etapa temprana de modelado hasta un gemelo digital más conectado y luego un gemelo digital que utiliza datos reales (gemelo predictivo/gemelo de datos en vivo), actualizando en tiempo real y finalmente ayudando a las empresas a predecir el futuro (de su planta de producción, por ejemplo).Asesoría contractual inteligente
+Gestión de contratos de proveedores inteligente
+• El Gen AI tiene el potencial de revolucionar la gestión de contratos al rastrear, analizar y automatizar procesos de cumplimiento, generando plantillas estandarizadas y personalizadas que pueden reducir los costos y el tiempo involucrados. Permite a los fabricantes anticiparse a los problemas de cumplimiento y agilizar la remediación.
+• Estos sistemas pueden configurar alertas para compromisos contractuales, desviaciones de cláusulas, compromisos de privacidad de datos, obligaciones contractuales relacionadas con violaciones de datos y mucho más, mejorando así el cumplimiento general.
+• Empresas como Ironclad, Evisort y Spotdraft ya han integrado el Gen AI con sistemas de gestión de contratos para acelerar la negociación y la generación de contratos, y el proceso de revisión. El Gen AI puede identificar y categorizar tipos de contratos en su base de datos en grupos según tipo y función, utilizando algoritmos de coincidencia de patrones.
+
+Perspectivas de datos
+Decisiones de compra informadas con datos del mercado
+• A través de su capacidad para procesar grandes volúmenes de datos externos para identificar productos comparables y proveedores competidores, el Gen AI ofrece una oportunidad única para establecer benchmarks de productos, calidad y costos, y impulsar recomendaciones para minimizar el costo total de compra.
+• Las funciones de aprovisionamiento y compras pueden beneficiarse del uso del Gen AI en áreas que van desde la capitalización del gasto hasta procesos de compra guiados, lo que permite a las empresas tomar decisiones informadas con un alto valor de realización.
+• Una startup de aprovisionamiento autónomo, Globality Inc., ha lanzado un chatbot conversacional basado en Gen AI llamado "Glo" en su plataforma de aprovisionamiento para obtener información sobre los proveedores y los productos, que ya ha sido implementado por muchos de sus clientes para tomar decisiones informadas sobre la compra de productos y la identificación de proveedores.
+• Las metodologías impulsadas por el Gen AI pueden descubrir oportunidades potenciales, proporcionar benchmarks y indicar posiciones de riesgo de proveedores al utilizar grandes cantidades de datos externos, como índices del mercado, calificaciones crediticias de empresas y información pública disponible sobre los proveedores.Investigación y diseño 
+Transformación del desarrollo de productos R&D   
+• La investigación y el diseño son la columna vertebral de cualquier esfuerzo de desarrollo de productos exitoso en el sector manufacturero. 
+Gen AI permitirá a los fabricantes iterar rápidamente a través de una amplia variedad de ideas de diseño, eligiendo qué modelo se adapta mejor a sus necesidades. Lo que una vez fue un proceso costoso en tiempo y dinero ahora será simplificado con gen AI.
+• Análisis de investigación temprana: Los investigadores utilizan gen AI para mejorar la informes de mercado, la ideación y el borrador de productos o soluciones.
+• Diseño virtual y simulaciones: Los investigadores utilizan gen AI para generar borradores basados en prompts y diseños virtuales, lo que les permite iterar rápidamente con más opciones de diseño.
+
+Ventas y marketing: Revolucionar la generación de contenido 
+Flujos de trabajo de comunicación de marketing inbound y outbound   
+• Gen AI tiene un gran potencial para improvisar la segmentación de clientes al aprovechar algoritmos de aprendizaje automático para identificar patrones y tendencias en el comportamiento de compra de los clientes y, por lo tanto, adaptar estrategias de ventas y marketing a segmentos de clientes específicos. Esto también puede optimizar las recomendaciones de productos a los clientes.
+• La generación de leads, seguimiento y conversión se vuelven más efectivas utilizando gen AI, ya que el equipo de ventas puede adaptar su discurso a clientes específicos según la información del mercado más reciente.
+
+Servicios después de la venta: Transformar operaciones del cliente   
+• El servicio al cliente es otro área que puede beneficiarse de gen AI, para ofrecer respuestas en tiempo real, soporte multilingüe, mayor disponibilidad del servicio y insights autónomos e impactantes para los clientes.
+• Interacciones de autoservicio del cliente: Los clientes pueden interactuar con un chatbot humanoide que entrega respuestas inmediatas, precisas y personalizadas extraídas de documentos voluminosos como manuales de usuario, guías de instalación de productos, etc., para responder a consultas complejas y asegurar la voz de la marca independientemente del idioma y la ubicación del cliente. Los investigadores del Instituto de Investigación de Toyota han desarrollado un proceso que utiliza gen AI para implementar restricciones en el proceso de diseño, produciendo soluciones de diseño innovadoras y específicas. 
+Una nueva herramienta llamada Air puede realizar llamadas de servicio al cliente de 5 a 40 minutos y suena como una respuesta humana. Puede trabajar de forma autónoma y realizar acciones en diferentes aplicaciones.
+
+9 | Inteligencia Artificial Generativa en la industria manufacturera Casos de uso potencial 
+Gen AI se encuentra en las etapas iniciales de madurez, y a medida que la sociedad comienza a realizar sus beneficios, Cognizant ha identificado casos de uso adicionales donde gen AI sería relevante en toda la cadena de valor manufacturera.10 | Inteligencia Artificial Generativa en la industria manufacturera Creación, búsqueda y síntesis de documentos 
+Interacción con y auto-generación de documentos logísticos   
+• El proceso tedioso y meticuloso de generar y buscar documentos logísticos (como BOL, POD, confirmaciones de tarifas, facturas, etc.) se puede simplificar y estandarizar con IA genérica. Esto puede reducir errores y disminuir el tiempo de resolución de ciclos.
+• Habilitar el chat con los documentos puede ayudar a obtener información y conocimientos incluso de diferentes tipos de documentos que contienen imágenes, PDF escaneados, PDF digitalizados, etc., lo que hace que la lectura de documentos sea más rápida.
+• La Inteligencia Artificial Generativa de Microsoft, que combina tecnologías como Azure AI, inteligencia de documentos y Servicio de Azure OpenAI con búsqueda cognitiva como base de conocimientos, puede mejorar flujos de trabajo como el procesamiento de facturas (para extraer automáticamente información importante y generar pagos), generación de informes (para generar automáticamente variedad de gráficos, tablas y resúmenes para partes interesadas) y clasificación de documentos (para clasificar automáticamente documentos para su fácil recuperación y gestión).
+Consideraciones clave 
+La Inteligencia Artificial Generativa es una tecnología en evolución que promete mayores beneficios para las empresas. Sin embargo, las organizaciones, incluyendo los fabricantes, deberán evaluar la privacidad de los datos, el sesgo, la ética y más en su enfoque hacia la IA genérica. Aquí hay algunas de las consideraciones tempranas para los fabricantes que buscan manejar el poder de esta tecnología:
+• Incluir solo datos despersonalizados y no sensibles.
+• Mantenerse actualizado con las noticias y tendencias de IA genérica.
+• Desarrollar una política de uso y ética de IA genérica.
+• Considerar las implicaciones laborales. La adopción de IA genérica creará nuevos empleos que requieren trabajadores capacitados.
+• Ofrecer capacitación profesional a todos los empleados; esto les ayudará a utilizar la IA genérica de manera apropiada en su trabajo, mientras construyen sus habilidades.
+• Es vitalmente importante que los humanos utilicen su mejor juicio al decidir cuán involucrada estará la IA genérica en su empresa. Asegúrese de que se utilicen conocimientos contextuales y expertos en el dominio antes de permitir que algo sea alterado permanentemente por la IA genérica.
+• Tenga cuidado con la sobreconfianza en la IA genérica. La confianza total en la tecnología puede llevar a errores críticos o oportunidades perdidas, lo que se puede evitar mediante la revisión humana obligatoria donde sea aplicable.Comenzar con IA generativa
+
+Comenzar con soluciones de IA generativa requiere una comprensión profunda de las capacidades de la tecnología y 
+involucra varias actividades clave, como la definición del problema, la evaluación de la aplicabilidad de la IA generativa, 
+el preprocesamiento de datos, la selección de algoritmos, la creación de un modelo de prototipo, el ajuste fino del modelo 
+y luego la escalada a funciones empresariales.
+
+Cognizant recomienda un enfoque de cinco pasos para que las organizaciones adopten la IA generativa de manera estratégica, 
+como se muestra en la figura a continuación.
+
+Seguridad y cumplimiento
+Evalúe los riesgos potenciales, los requisitos regulatorios y el cumplimiento, y gestione estos proactivamente a través 
+de políticas, controles, habilitadores y capacitación.
+
+Evaluación de sistemas y datos fundamentales y preparación
+Evalúe los datos organizativos, la arquitectura, los requisitos de infraestructura y construya una base sólida (incluyendo 
+el modelo de operaciones y la gobernanza).
+
+Enfoque de gobernanza interdisciplinario
+Involucre equipos interdisciplinarios para definir la estrategia de IA, así como para rastrear y informar sobre el progreso 
+con el tiempo, para proporcionar transparencia en la adopción y el éxito.
+
+Preparación de la organización y gestión del cambio
+Ayude a los empleados a comprender y adoptar la IA generativa para impulsar el negocio, el valor y la estrategia de la empresa.
+
+11 | IA generativa en la industria manufacturera Explorar
+
+• Introducir conceptos de IA generativa
+• Identificar pros y contras
+• Evaluar el potencial 
+a través de funciones empresariales
+• Identificar casos de usoPlanificar• Evaluar la preparación 
+de datos, habilidades y 
+personas
+• Analizar 
+costos y beneficios
+• Seleccionar casos de uso que generen valor empresarial para piloto
+
+Piloto
+• Definir la arquitectura de la solución
+• Preparar los datos
+• Implementar casos de uso piloto
+• Evaluar el valor realizado
+• Preparar la hoja de ruta de implementación
+
+Escalar• Integraciones de sistemas extendidas
+• Monitoreo continuo
+• Ampliar a otras áreas empresariales
+
+Innovar
+• Innovación por cultura
+• Revisión periódica de casos de uso, 
+priorización, tecnología, 
+adopción y retroalimentación del usuario
+01 03 05
+02 0412 | Inteligencia Artificial Generativa en la industria manufacturera
+
+Las organizaciones necesitan invertir en comprender las capacidades de la tecnología y evaluar los beneficios que puede ofrecer a sus negocios. Esto puede requerir identificar funciones y casos de uso específicos que podrían beneficiarse de la IA generativa. Cuando se identifican los casos de uso, las organizaciones pueden querer priorizar los casos de uso para pilotar antes de considerar la expansión de la IA generativa a múltiples casos de uso en toda la empresa. Con base en las métricas clave de éxito, si los resultados mejoran la experiencia del cliente o usuario actual o reducen costos y esfuerzos, se puede tomar la decisión de escalar y expandir el uso de la IA generativa. Al igual que con otras tecnologías, el uso de la IA generativa también debe ser continuamente expandido e iterado a través de un proceso de innovación en curso.
+
+Si bien la tecnología ofrece beneficios, las organizaciones necesitarán tomar múltiples decisiones dependiendo de su caso de uso, comenzando con la selección de los hyperscalers (Microsoft Open AI, Google, etc.), realizar una evaluación de preparación de datos, habilidades y experticia requeridas para implementar, y muchos más. Además, las organizaciones también necesitan considerar el impacto de la tecnología en los seres humanos y planificar para mejorar y cruzar habilidades en su fuerza laboral, mientras se enfocan en la gobernanza, seguridad y cumplimiento.
+
+Seleccionar al socio adecuado
+
+Mientras las organizaciones emprenden su viaje de IA generativa, es crítico y valioso invertir y colaborar con el socio de TI adecuado que pueda reunir y integrar a todos los stakeholders necesarios (para servicios en la nube, modelos de IA generativa, APIs, etc.) y preparar un mapa de ruta para la adopción de IA generativa. Es importante que los socios puedan aportar conocimientos sobre su negocio, ya sea sobre proveedores, distribuidores, operaciones, proveedores de manufactura o puntos de venta al cliente.
+
+Teniendo en cuenta lo crítico que será la IA generativa en la industria manufacturera, Cognizant ha invertido en Neuro, una plataforma de IA que reúne múltiples características que abarcan áreas como servicios de TI, automatización y IA generativa. Cognizant también ha forjado asociaciones de clase mundial con los principales hyperscalers, como Google, Microsoft y Amazon Web Services. Cada uno de nuestros socios hyperscalers ha invertido y desarrollado sus propias soluciones y capacidades de IA generativa. Cognizant también tiene un conocimiento profundo de modelos de lenguaje de código abierto que pueden ser desplegados para casos de uso específicos. Actualmente estamos trabajando con varios clientes manufactureros para planificar su viaje de IA generativa en colaboración con nuestros socios hyperscalers y podemos brindar apoyo y orientación para que las organizaciones comiencen o expandan su viaje de IA generativa.Conclusión
+
+El Gen AI tiene el potencial de revolucionar la industria manufacturera, mejorando la experiencia del cliente, aumentando la productividad, reduciendo costos y reimaginando cada proceso. El Gen AI puede agregar valor a las operaciones de la empresa, impulsar el crecimiento económico y transformar dramáticamente la forma en que las empresas trabajan y su propósito en la sociedad. Aunque la tecnología aún está evolucionando, el valor potencial que ofrece es una propuesta atractiva para que las organizaciones exploren y comiencen con sus respectivas iniciativas de Gen AI. ¡Es hora de actuar!
+
+© Derechos de autor 2023, Cognizant. Todos los derechos reservados. Ninguna parte de este documento puede ser reproducida, almacenada en un sistema de recuperación, transmitida en cualquier forma o por cualquier medio, electrónico, mecánico, fotocopiado, grabado o de otra manera, sin el permiso escrito expreso de Cognizant. La información contenida aquí está sujeta a cambios sin previo aviso.
+
+Todas las demás marcas comerciales mencionadas aquí son propiedad de sus respectivos propietarios. Cognizant (Nasdaq-100: CTSH) ingenia negocios modernos. Ayudamos a nuestros clientes a modernizar la tecnología, reimagine procesos y transformar experiencias para que puedan mantenerse adelante en nuestro mundo en constante cambio. Juntos, estamos mejorando la vida cotidiana. Vea cómo en www.cognizant.com o @Cognizant.
+
+Sede Mundial
+300 Frank W. Burr Blvd.
+Suite 36, 6º piso
+Teaneck, NJ 07666 EE. UU.
+Teléfono: +1 201 801 0233
+Fax: +1 201 801 0243
+Gratuito: +1 888 937 3277
+
+Sede Europea
+280 Bishopsgate
+Londres
+EC2M 4RB, Inglaterra
+Tel: +44 (01) 020 7297 7600
+
+Sede de Operaciones en la India
+5/535, Okkiam Thoraipakkam,
+Old Mahabalipuram Road,
+Chennai, 600 096 India
+Tel: 1-800-208-6999
+Fax: +91 (01) 44 4209 6060
+
+Sede de APAC
+1 Fusionopolis Link,
+Nivel 5 NEXUS@One-North,
+Torre Norte
+Singapur 138542
+Teléfono: +65 6812 4000

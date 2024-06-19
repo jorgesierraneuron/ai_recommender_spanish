@@ -1,0 +1,80 @@
+EO 13960: Inventarios de Casos de Uso de Inteligencia Artificial (IA)
+
+ORIENTACIÓN PARA CREAR INVENTARIOS DE AGENCIAS DE CASOS DE USO DE IA SEGÚN EO 13960
+
+De conformidad con la Sección 5 de la Orden Ejecutiva (EO) 13960, "Fomento del Uso de Inteligencia Artificial Confiable en el Gobierno Federal", las agencias federales están obligadas a realizar un inventario anual de sus casos de uso de Inteligencia Artificial (IA) y compartir sus inventarios con otras agencias gubernamentales y el público. El Consejo de Oficiales Principales de Información (CIO Council), en coordinación con otros organismos interagenciales según sea necesario, tiene la responsabilidad de identificar, proporcionar orientación sobre y hacer públicamente disponibles los criterios, formato y mecanismos para inventarios de agencias de casos de uso no clasificados y no sensibles de IA.
+
+Esta orientación proporciona los criterios, formato y mecanismos para que las agencias federales designadas bajo la Sección 8 de la EO creen y hagan públicos sus inventarios anuales de casos de uso de IA.
+
+Como se mencionó en la orientación del Consejo de Oficiales Principales de Información de 2021, el inventario consolidado de 2021 estaba destinado a servir como una línea base, sobre la que expandir en años posteriores. El Consejo de Oficiales Principales de Información (CIO Council) continuará actualizando la orientación requerida, según sea necesario, para madurar este esfuerzo y asegurar la incorporación de avances tecnológicos, mayor usabilidad y alineación con las mejores prácticas.
+
+INVENTARIO DE IA
+
+Ámbito
+
+Al determinar qué casos de uso de IA deberían incluirse en sus inventarios, las agencias deberán utilizar los siguientes criterios, en línea con la EO 13960:
+
+Definición de IA
+
+1. Las agencias deberán aplicar la definición de IA descrita en la sección 238(g) de la Ley de Autorización de Defensa Nacional para el Año Fiscal 2019. Si hay duda, las agencias deberán incluir, excepto por las exclusiones establecidas a continuación.
+2. Para fines de este inventario, las agencias deberán tener en cuenta que los siguientes casos de uso de IA son ejemplos de sistemas de IA que las agencias deberían enlistar en el inventario:
+a. Un sistema de IA que utiliza regresión logística, regresión lineal, árboles de decisión u otros modelos de aprendizaje automático, independientemente de la complejidad del modelo;b. Sistemas de IA, incluyendo modelos de aprendizaje automático, independientemente del número de parámetros o puntos de datos que utilicen; y  
+c. Un sistema de IA que tenga supervisión completa por parte de un ser humano. 5  
+
+Casos de Uso de IA Incluidos  
+3. Excepto por las exclusiones establecidas a continuación y en la sección 9(d) de la EO 13960, o previstas por la ley aplicable, las agencias deberán incluir como casos de uso de IA en el inventario aquellas aplicaciones de IA diseñadas, desarrolladas, adquiridas o utilizadas específicamente para avanzar en la ejecución de las misiones de las agencias, mejorar la toma de decisiones o brindar un beneficio específico al público;  
+a. Las agencias deberán inventariar tanto los usos existentes como los nuevos de IA; tanto IA autónoma como IA incrustada en otros sistemas o aplicaciones; IA desarrollada tanto por la agencia como por terceros en nombre de las agencias para el cumplimiento de misiones específicas de la agencia, incluyendo entradas de datos relevantes utilizadas para entrenar IA y salidas utilizadas en apoyo de la toma de decisiones; y la adquisición de aplicaciones de IA por parte de las agencias;  
+
+Casos de Uso de IA Excluidos  
+4. Las agencias deberán excluir casos de uso de IA sensibles, donde un caso de uso sensible se define como aquel que no puede ser divulgado prácticamente o de conformidad con la ley y la política aplicable, incluyendo aquellos relacionados con la protección de la privacidad y la seguridad, la aplicación de la ley y los intereses protegidos;  
+a. Las agencias no deberán considerar un caso de uso como sensible para ocultar ineficiencias, violaciones de la ley, errores administrativos o para evitar la vergüenza de una organización o agencia;  
+5. Las agencias deberán excluir el uso de IA en sistemas de defensa y seguridad nacional, donde un "sistema de defensa" se define como un sistema utilizado principalmente para la conducción de operaciones militares y un "sistema de seguridad nacional" tiene el significado definido en 44 U.S.C. 3552 (b)(6).  
+6. Las agencias deberán excluir la IA incrustada en productos comerciales comunes, como procesadores de texto o sistemas de navegación por mapas, aunque se debe tener en cuenta que el uso gubernamental de tales productos debe cumplir con la ley y la política aplicable para asegurar la protección de la seguridad, la privacidad, los derechos civiles, las libertades civiles y los valores americanos; y  
+7. Las agencias deberán excluir las actividades de investigación y desarrollo (I+D) de IA, incluyendo cualquier caso de uso de IA que sea improbable que se incorpore en las operaciones de la agencia.  
+
+Instrucciones del Inventario  
+Como se requiere en la EO 13960, las agencias deberán compartir sus inventarios con otras agencias, en la medida de lo posible y de conformidad con la ley y la política aplicable, incluyendo aquellas relacionadas con la protección de la privacidad y la seguridad, la aplicación de la ley y los intereses protegidos. Esta compartición se coordinará a través del Consejo de Oficiales de Información, el Consejo de Oficiales de Datos, la Oficina de Iniciativa Nacional de IA y otros cuerpos interagenciales, según sea apropiado, para mejorar la coordinación interagencial y el intercambio de información para casos de uso comunes.  
+ 
+5 Un sistema solo necesita satisfacer una de las subsecciones bajo la sección 238(g) de la NDAA del FY19 para ser incluido en el inventario. Por ejemplo, la definición incluye (pero no se limita a) "Un conjunto de técnicas, incluyendo aprendizaje automático, diseñadas para aproximar una tarea cognitiva". Regresiones, árboles de decisión y modelos de aprendizaje automático utilizados para mejorar la toma de decisiones o automatizar operaciones de la agencia deberían ser incluidos en el inventario, al igual que los sistemas de aprendizaje automático que tienen supervisión completa por parte de un ser humano.Las agencias deberán publicar un inventario de IA por agencia/departamento. Las agencias deberán publicar la versión completa de su inventario a través de la comunidad MAX Federal, y publicar una versión pública de su inventario públicamente:
+
+a) Las agencias deberán publicar la versión completa de su inventario de IA a través de la comunidad MAX Federal (ver detalles de ubicación de envío arriba). Los archivos de inventario cargados en MAX deberán tener el título "Inventario de casos de uso de IA 2023 - <insertar abreviatura de agencia>" (ver tabla de referencia de agencias ITDB - https://www.itdashboard.gov/reports). Y seguir el esquema a continuación.
+
+b) Las agencias también deberán publicar una versión pública de su inventario de IA en formato CSV en [agencia.gov]/data/ai_inventory.csv. En sus inventarios públicos, las agencias pueden eliminar las columnas "Nombre de contacto" y "Correo electrónico de contacto" y agregar una dirección de correo electrónico designada para consultas públicas. Alternativamente, si las agencias no utilizan IA, deberán publicar un aviso en [agencia.gov]/data/ai_inventory con una declaración indicando que no utilizan tecnología de IA. Los avisos deberán ser publicados en formato HTML.
+
+Todos los inventarios de casos de uso de IA estarán enlazados en [ai.gov/ai-use-case-inventories/]. Si su inventario no está presente en este sitio, por favor envíe un correo electrónico a su oficial de escritorio OFCIO con 1) la URL de su inventario público de casos de uso de IA y 2) la solicitud de que se refleje su inventario público en ai.gov/ai-use-case-inventories/.
+
+Los inventarios de IA de las agencias deberán incluir la siguiente información:
+
+CAMPO  TIPO DE DATOS  REQUERIDO?  DESCRIPCIÓN
+ID de caso de uso  [Código de agencia] -[#]  Requerido  Identificador único para el caso de uso de IA. Los casos de uso deberán mantener el mismo ID si se incluyen en inventarios a lo largo de varios años.
+Nombre del caso de uso  Texto  Requerido  Título del caso de uso de IA
+Agencia  Texto  Requerido  Agencia (o agencias) con el caso de uso de IA
+Bureau / Departamento  Texto  Requerido  Departamento específico con el caso de uso de IA
+Resumen del caso de uso  Texto  Requerido  Descripción del caso de uso de IA
+Etapa del ciclo de vida del sistema de desarrollo
+Iniciación, Desarrollo y Adquisición, Implementación, Operación y Mantenimiento  Requerido  Etapa actual de producción del caso de uso de IA.
+Fecha de inicio, si corresponde  Fecha (si corresponde)  Requerido  Cuando se definieron por primera vez el propósito y los requisitos generales del IA.
+Fecha en que comenzó el desarrollo y/o adquisición, si corresponde  Fecha (si corresponde)  Requerido si la etapa del ciclo de vida del sistema de desarrollo = Desarrollo y Adquisición, Implementación o Operación y Mantenimiento  Cuando se inició el desarrollo y/o adquisición del IA.
+
+6 Ciclo de vida del desarrollo del sistema (SDLC) - Glosario | CSRC (nist.gov) (https://csrc.nist.gov/glossary/term/system_development_life_cycle)Fecha de implementación, si corresponde  Fecha (si corresponde)  Requerido si Etapa de 
+desarrollo del ciclo de vida del sistema = Operación y mantenimiento  Cuando se implementó y desplegó completamente el sistema de IA.  
+Nombre de contacto  Texto  Requerido  Nombre del individuo responsable del caso de uso de IA.  
+Correo electrónico de contacto  Texto / Dirección de correo electrónico  Requerido   
+Información del desarrollador  Interno, 
+Contratado, 
+Comercial fuera de la estantería  Requerido  1. Interno: El sistema fue diseñado y desarrollado por personal federal, en lugar de contratistas.  
+2. Contratado: El personal contratado jugó un papel en el diseño y desarrollo.  
+3. Comercial fuera de la estantería: El sistema de IA se compró preconstruido de un tercero, lo que permitió a la agencia saltarse el diseño y desarrollo por parte de personal federal o contratistas.  
+¿Es consistente con la EO 13960?  Sí / No  Requerido  ¿Es el caso de uso consistente con los requisitos establecidos en la Orden Ejecutiva 13960 sobre la promoción del uso de inteligencia artificial confiable en el gobierno federal?7  
+Explicación de las inconsistencias con la EO 13960  Texto  Opcional  Se alienta a las agencias a proporcionar detalles adicionales cuando el caso de uso no sea consistente con la EO 13960, como un resumen de por qué el caso de uso no es consistente con la EO 13960 y planes para lograr la consistencia.  
+¿Qué técnicas de IA específicas se utilizaron?  Texto  Opcional   
+¿Dónde se originó/dónde se origina el conjunto de datos de entrenamiento?  Generado por la agencia, 
+comprado, 
+de otra agencia, 
+otro  Opcional  Si la agencia entrenó este caso de uso de IA, ¿dónde se originó/dónde se origina el conjunto de datos de entrenamiento?  
+¿Tiene la agencia acceso al código asociado con el caso de uso de IA?  Sí/No  Opcional   
+Si el código fuente está disponible públicamente, proporcione enlace.  Texto  Opcional   
+¿Puede la agencia realizar pruebas continuas en el código?  Sí/No  Opcional   
+¿Puede la agencia monitorear y/o auditar el rendimiento?  Sí/No  Opcional   FUNCIONARIOS DE IA RESPONSABLES
+
+Además, las agencias deberán revisar la lista de funcionarios de IA responsables en la Lista de Contactos de la Agencia IDC (ver Apéndice B para detalles). Las agencias deberán asegurarse de que al menos un funcionario de IA responsable esté designado correctamente para su agencia. Las agencias deberán actualizar la información de contacto de su funcionario de IA responsable si es necesario (por ejemplo, si el funcionario de IA responsable ha cambiado).

@@ -1,0 +1,206 @@
+ [Lección] Establecer OKR con 15 ejemplos
+LECCIÓN 2 
+Marco de OKR para productos de IA
+Este marco puede actuar como fundamento. Para cada producto o característica de IA, completará con detalles relevantes para su producto. Los ejemplos proporcionados son solo ilustrativos. Ajuste el marco según sea necesario según las peculiaridades del producto de IA y las prioridades estratégicas de su organización.
+
+. Objetivo: ¿Cuál es el objetivo principal para el próximo trimestre? Debe ser enfocado en el usuario (¿para quién es?) y claro sobre el resultado deseado.
+Ejemplo: "Mejorar la experiencia del usuario proporcionando recomendaciones de contenido más personalizadas."
+. Característica específica: ¿Qué características o cambios introducirá para avanzar hacia el objetivo?
+Ejemplo: "Introducir tres nuevos algoritmos de personalización basados en el comportamiento del usuario."
+. Estrella del Norte: Este es su métrica principal que muestra el éxito del producto. Es lo que está tratando de influir.
+Ejemplo: "Aumentar la participación del usuario con contenido recomendado en un 20%."
+. Métrica de Salud del Producto: ¿Cómo mide la satisfacción del usuario o la salud del producto?
+Ejemplo: "Reducir el número de quejas de usuarios sobre la irrelevancia del contenido en un 15%."
+. Métrica de Guarda: ¿Qué efectos secundarios negativos desea monitorear y mantener bajo control?
+Ejemplo: "Asegurarse de que el tiempo de visualización del contenido no disminuya en más del 5%."
+. Métrica de Salud del Sistema: ¿Cómo asegurará que la herramienta o característica permanezca confiable y performante?
+Ejemplo: "Mantener un tiempo de actividad del sistema del 99% y asegurarse de que los tiempos de carga de contenido sean inferiores a 2 segundos."
+. Métrica Proxy de IA: ¿Qué métrica específica de IA está tratando de mejorar? Esto suele estar relacionado con el rendimiento del algoritmo.
+Ejemplo: "Aumentar la precisión del algoritmo de recomendación de contenido en un 15%."
+
+Ejemplos de características de IA OKR de 15 empresas
+Nota: Los porcentajes y objetivos enumerados a continuación son ilustrativos y se basan en escenarios hipotéticos proporcionados por la Academia de PM de IA con fines educativos. En la práctica, deberían determinarse analizando datos históricos, retroalimentación del usuario, benchmarking competitivo y objetivos del equipo de productos. Puede ignorar la etiqueta "Estrella del Norte" a continuación, solo la estoy agregando para señalarle qué categoría específica de KR resultó de ella.
+
+. Amazon Alexa - Reconocimiento de voz:
+Objetivo: Proporcionar una experiencia de comando de voz más intuitiva y fluida para los usuarios de dispositivos domésticos mediante la optimización de las capacidades de procesamiento del lenguaje natural de la IA.
+Resultado clave (Características): Expandir las capacidades de comando de voz para cubrir un 20% más de tareas.
+Resultado clave (Estrella del Norte): Aumentar las interacciones diarias del usuario con Alexa en un 10%.
+Resultado clave (Salud del Producto): Mejorar la satisfacción del usuario con el reconocimiento de voz reduciendo los problemas reportados por los usuarios en un 20%.
+Resultado clave (Métrica de Guarda): Asegurarse de que no haya aumento en activaciones no deseadas o "falsos positivos".
+Resultado clave (Salud del Sistema): Asegurarse de que el sistema tenga un tiempo de actividad del 99,5% y reducir la latencia en el procesamiento de comandos en un 15%.
+Resultado clave (Métrica Proxy de IA): Reducir la tasa de error de reconocimiento de voz en un 15%.
+
+. Tesla - Conducción autónoma:
+Objetivo: Mejorar la experiencia de conducción para los propietarios de vehículos Tesla implementando algoritmos de evaluación de riesgos dinámicos para aumentar la confianza y la comodidad en la conducción autónoma de Tesla.
+Resultado clave (Características): Introducir dos nuevos ajustes personalizables para preferencias de estilo de conducción.
+Resultado clave (Estrella del Norte): Aumentar el uso del modo autónomo en un 15% durante los tiempos de conducción típicos.
+Resultado clave (Salud del Producto): Mejorar las puntuaciones de retroalimentación del usuario relacionadas con la "confiabilidad" de la característica de conducción autónoma en un 20%.
+Resultado clave (Métrica de Guarda): Asegurarse de que todas las alertas de seguridad sean comunicadas y entendidas claramente por los conductores.
+Resultado clave (Salud del Sistema): Lograr una tasa de respuesta del sistema de menos de 200ms para la detección y alerta de peligros.
+Resultado clave (Métrica Proxy de IA): Mantener una tasa de intervención del vehículo inferior al 0,01% durante el modo autónomo.
+
+. Netflix - Sistema de recomendación de programas de TV:
+Objetivo: Mejorar el placer de ver televisión para los suscriptores de Netflix entregando recomendaciones de contenido personalizadas.Netflix - Sistema de Recomendación de Programas de TV:
+Objetivo: Mejorar el placer de visualización para los suscriptores de Netflix entregando recomendaciones de contenido personalizadas.
+Resultado clave (Características): Lanzar tres nuevas mejoras de interfaz de usuario que destacan contenido personalizado.
+Resultado clave (Estrella del Norte): Aumentar la tasa de clics en contenido recomendado (CTR) en un 10%.
+Resultado clave (Salud del Producto): Mejorar la satisfacción del usuario reduciendo el porcentaje de calificaciones de "pulgar hacia abajo" en contenido recomendado en un 15%.
+Resultado clave (Métrica de Guardrail): No reducir el tiempo de visualización por persona por sesión más del 2%.
+Resultado clave (Salud del Sistema): Mantener un tiempo de actividad del 99% para el motor de recomendación y reducir los tiempos de carga de contenido en un 15%.
+Resultado clave (Proxy de IA): Implementar un mecanismo de aprendizaje en tiempo real para adaptar el algoritmo de recomendación según la retroalimentación y preferencias del usuario.
+
+OpenAI - Casos de Uso de IA Generales:
+Objetivo: Democratizar la investigación de IA para la comunidad de desarrolladores globales mejorando la accesibilidad y flexibilidad de las herramientas de Gen AI.
+Resultado clave (Características): Lanzar cinco nuevos puntos de conexión de API personalizados para tareas de investigación específicas.
+Resultado clave (Estrella del Norte): Aumentar el número de desarrolladores que se integran con la plataforma de OpenAI en un 20%.
+Resultado clave (Salud del Producto): Mejorar la puntuación de retroalimentación del usuario sobre la claridad de la documentación de la API en un 25%.
+Resultado clave (Métrica de Guardrail): Asegurarse de no comprometer la seguridad y las pautas éticas establecidas por OpenAI.
+Resultado clave (Salud del Sistema): Lograr un tiempo de actividad del 99,5% para la plataforma de Gen AI y un tiempo de respuesta inferior a 300ms para consultas de API.
+Resultado clave (Proxy de IA): Mejorar la adaptabilidad del modelo a tareas de investigación diversas, con un objetivo de aumento del 20% en la precisión general de las tareas.
+
+Adobe - Generación de Imágenes:
+Objetivo: Empoderar a los artistas y diseñadores digitales para que puedan llevar sus visiones creativas a la vida mediante herramientas de generación de imágenes mejoradas con IA.
+Resultado clave (Características): Introducir tres características impulsadas por IA que ayudan en la generación o transformación de imágenes.
+Resultado clave (Estrella del Norte): Aumentar la participación del usuario con herramientas asistidas por IA en un 15%.
+Resultado clave (Salud del Producto): Lograr una mejora del 20% en las puntuaciones de retroalimentación del usuario sobre la calidad de las imágenes generadas.
+Resultado clave (Métrica de Guardrail): Asegurarse de que el contenido generado por IA cumpla con los estándares éticos y de derechos de autor.
+Resultado clave (Salud del Sistema): Asegurarse de un tiempo de actividad del 98% para los servicios de generación de imágenes y reducir los tiempos de generación en un 10%.
+Resultado clave (Proxy de IA): Mejorar la capacidad del modelo de IA para generar imágenes de alta resolución sin artefactos, con un objetivo de mejora del 20% en la fidelidad de la imagen.
+
+Google - Reconocimiento de Imágenes:
+Objetivo: Proporcionar a los desarrolladores y empresas capacidades de reconocimiento de imágenes potentes para extraer insights acciónables de datos visuales.
+Resultado clave (Características): Desplegar cuatro nuevas características enfocadas en la categorización de imágenes nuanciadas y comprensión contextual.
+Resultado clave (Estrella del Norte): Aumentar el número de llamadas a la API de reconocimiento de imágenes de Google en un 20%.
+Resultado clave (Salud del Producto): Mejorar la satisfacción del usuario mejorando la claridad y profundidad de la documentación de la API en un 15%.
+Resultado clave (Métrica de Guardrail): Asegurarse de que el reconocimiento de imágenes respete la privacidad del usuario y las pautas éticas de datos.
+Resultado clave (Salud del Sistema): Mantener un tiempo de actividad del 99,8% para la API de reconocimiento de imágenes y lograr un tiempo de respuesta inferior a 300ms.
+Resultado clave (Proxy de IA): Mejorar la precisión del modelo de reconocimiento de imágenes, con un objetivo de reducir las tasas de malclasificación en un 15%.
+
+Tinder - Algoritmo de Coincidencia:
+Objetivo: Cultivar conexiones significativas para los usuarios que buscan relaciones refinando el algoritmo de coincidencia impulsado por IA de Tinder.
+Resultado clave (Características): Lanzar dos características que permiten a los usuarios proporcionar retroalimentación más detallada sobre las coincidencias.
+Resultado clave (Estrella del Norte): Aumentar el número de coincidencias diarias en un 10% mientras se mantiene o mejora la calidad de las coincidencias.
+Resultado clave (Salud del Producto): Lograr una mejora del 20% en las puntuaciones de retroalimentación del usuario relacionadas con la relevancia de las coincidencias.Resultado clave (Salud del Producto): Lograr una mejora del 20% en las puntuaciones de retroalimentación del usuario relacionadas con la relevancia de los matches.
+
+Resultado clave (Métrica de Guardrail): Asegurar que se preserve la privacidad de los datos del usuario y que haya mecanismos contra el uso indebido.
+
+Resultado clave (Salud del Sistema): Asegurar un tiempo de actividad del 99% para el motor de matching y mantener tiempos de carga de perfil rápidos.
+
+Resultado clave (Proxy de IA): Mejorar la sensibilidad del modelo de matching a las preferencias del usuario, con un objetivo de mejora del 15% en las puntuaciones de relevancia de los matches.
+
+Spotify - Recomendación de Música:
+Objetivo: Mejorar el viaje musical para los oyentes personalizando la entrega de contenido según sus gustos únicos.
+
+Resultado clave (Características): Introducir dos características que permitan a los usuarios explorar nuevos géneros o estados de ánimo más fácilmente.
+
+Resultado clave (Estrella del Norte): Elevar la participación del usuario con listas de reproducción personalizadas en un 15%.
+
+Resultado clave (Salud del Producto): Lograr una mejora del 20% en las puntuaciones de retroalimentación del usuario relacionadas con la relevancia de las canciones en las listas de reproducción.
+
+Resultado clave (Métrica de Guardrail): Asegurar que el contenido promocionado o patrocinado no exceda el 10% de cualquier lista de reproducción personalizada.
+
+Resultado clave (Salud del Sistema): Mantener un tiempo de actividad del 99,9% para el motor de recomendación y asegurar transiciones de pista suaves.
+
+Resultado clave (Proxy de IA): Mejorar la adaptabilidad del modelo de recomendación a las tendencias musicales emergentes y la retroalimentación del usuario, con un objetivo de aumento del 20% en la precisión de los matches de canciones.
+
+Facebook - Curación de Noticias:
+Objetivo: Fomentar una conexión social significativa para los usuarios curando una noticias relevantes y atractivas.
+
+Resultado clave (Características): Lanzar tres características que mejoren el control y la transparencia del usuario sobre la curación de noticias.
+
+Resultado clave (Estrella del Norte): Aumentar las métricas de participación del usuario, como likes y comentarios, en un 10%.
+
+Resultado clave (Salud del Producto): Mejorar las puntuaciones de retroalimentación del usuario sobre la relevancia de las noticias en un 15%.
+
+Resultado clave (Métrica de Guardrail): Asegurar que el contenido controvertido o polarizado sea señalado y revisado adecuadamente.
+
+Resultado clave (Salud del Sistema): Lograr un tiempo de actividad del 99,9% para el sistema de curación de noticias y asegurar tiempos de carga de contenido rápidos.
+
+Resultado clave (Proxy de IA): Optimizar el modelo de curación de noticias para que se alinee mejor con los intereses del usuario, con un objetivo de mejora del 20% en las puntuaciones de relevancia de contenido.
+
+Amazon - Recomendaciones de Productos:
+Objetivo: Mejorar la experiencia de compra para los clientes de Amazon entregando recomendaciones de productos personalizadas.
+
+Resultado clave (Características): Introducir dos nuevos elementos de interfaz de usuario que destacan ofertas de productos específicas para el usuario.
+
+Resultado clave (Estrella del Norte): Aumentar las ventas del apartado "Recomendados para ti" en un 10%.
+
+Resultado clave (Salud del Producto): Mejorar las puntuaciones de retroalimentación del usuario sobre la relevancia de las recomendaciones de productos en un 15%.
+
+Resultado clave (Métrica de Guardrail): Asegurar que las recomendaciones de productos sean equilibradas y no estén sesgadas hacia productos de alta margen de beneficio.
+
+Resultado clave (Salud del Sistema): Asegurar un tiempo de actividad del 99,9% para el motor de recomendación y mantener tiempos de carga de página de productos rápidos.
+
+Resultado clave (Proxy de IA): Refinar el modelo de recomendación para capturar hábitos de compra del usuario más sutiles, con un objetivo de mejora del 20% en la precisión de las recomendaciones.
+
+Grammarly - Asistencia de Escritura:
+Objetivo: Empoderar a los escritores de todos los niveles para que se expresen con claridad y confianza utilizando retroalimentación mejorada por IA.
+
+Resultado clave (Características): Desplegar tres nuevas características que brinden retroalimentación específica del género para la escritura.
+
+Resultado clave (Estrella del Norte): Aumentar el número de usuarios activos diarios en un 15%.
+
+Resultado clave (Salud del Producto): Mejorar las puntuaciones de retroalimentación del usuario relacionadas con la relevancia y utilidad de la retroalimentación en un 20%.
+
+Resultado clave (Métrica de Guardrail): Asegurar que el estilo y la voz del escritor sean respetados y preservados.
+
+Resultado clave (Salud del Sistema): Lograr una tasa de respuesta del sistema de menos de 200ms para la retroalimentación en tiempo real.
+
+Resultado clave (Proxy de IA): Optimizar el modelo de retroalimentación para reducir los falsos positivos en sugerencias de gramática y estilo en un 15%.
+
+Zoom - Procesamiento de Fondo de Video:
+Objetivo: Proporcionar un entorno de reunión virtual profesional y libre de distracciones para trabajadores remotos y equipos mediante el uso de IA para mejorar los fondos de video.Objetivo: Proporcionar un entorno de reunión virtual profesional y libre de distracciones para trabajadores remotos y equipos mediante el aprovechamiento de la IA para mejoras de fondo de video.
+
+Resultado clave (Características): Introducir dos nuevos fondos de video personalizables y una función para desenfocar entornos en tiempo real.
+
+Resultado clave (Estrella del Norte): Lograr un aumento del 20% en el uso diario de características de fondo de video.
+
+Resultado clave (Salud del Producto): Elevar las puntuaciones de retroalimentación del usuario relacionadas con la calidad de renderizado de fondo en un 25%.
+
+Resultado clave (Métrica de Guardrail): Asegurar que el procesamiento de IA no distorsione las caras de los usuarios ni el contenido de video principal.
+
+Resultado clave (Salud del Sistema): Mantener tasas de fotogramas de video suaves y asegurar menos del 0,01% de tiempo de inactividad para servicios de procesamiento de fondo.
+
+Resultado clave (Proxy de IA): Optimizar el modelo de procesamiento de fondo para detectar y mejorar fondos de video con un 20% de mejora en la precisión de renderizado.
+
+.
+
+Objetivo: Ayudar a estudiantes y profesionales a destilar documentos largos en resúmenes concisos para una comprensión más rápida.
+
+Resultado clave (Características): Lanzar una función de "Resumen Rápido" que proporciona una visión general del documento generada automáticamente.
+
+Resultado clave (Estrella del Norte): Aumentar el uso de la herramienta de auto-resumen en un 20% entre el segmento de usuarios estudiantiles.
+
+Resultado clave (Salud del Producto): Lograr una mejora del 20% en las puntuaciones de retroalimentación del usuario relacionadas con la relevancia y calidad de los resúmenes.
+
+Resultado clave (Métrica de Guardrail): Asegurar que la auto-resumen retiene las ideas principales y no omite información crítica.
+
+Resultado clave (Salud del Sistema): Asegurar la respuesta del herramienta en menos de 1,5 segundos, incluso en momentos de uso pico, y mantener un 99,9% de uptime.
+
+Resultado clave (Proxy de IA): Aumentar la coherencia semántica y la relevancia del contenido generado por IA en un 20%.
+
+.
+
+Objetivo: Empoderar a los diseñadores gráficos para que optimicen su proceso de diseño mediante la integración de herramientas de automatización y sugerencias impulsadas por IA adaptadas para proyectos profesionales.
+
+Resultado clave (Características): Lanzar dos características impulsadas por IA que asisten en la coincidencia de colores y la optimización de diseño.
+
+Resultado clave (Estrella del Norte): Impulsar un aumento del 25% en el uso de herramientas impulsadas por IA dentro de la suite de Illustrator.
+
+Resultado clave (Salud del Producto): Lograr un 30% de reducción en los tiempos de finalización de proyectos informados por usuarios que utilizan frecuentemente herramientas de IA.
+
+Resultado clave (Métrica de Guardrail): Mantener el control del usuario sobre los diseños, asegurando que las sugerencias de IA puedan ser fácilmente anuladas.
+
+Resultado clave (Salud del Sistema): Mantener un tiempo de carga de herramientas consistente de menos de 2 segundos y un 99,5% de uptime.
+
+Resultado clave (Proxy de IA): Mejorar la precisión de las recomendaciones de diseño basadas en tendencias de diseño actuales en un 20%.
+
+.
+
+Objetivo: Empoderar a los fotógrafos y diseñadores gráficos para que refinen y mejoren sus imágenes con herramientas y insights impulsadas por IA mediante la implementación de técnicas de análisis de imágenes avanzadas.
+
+Resultado clave (Características): Lanzar tres nuevas herramientas de mejora de imágenes impulsadas por IA.
+
+Resultado clave (Estrella del Norte): Aumentar la utilización de la herramienta de "Mejora" de IA en un 20%.
+
+Resultado clave (Salud del Producto): Lograr una mejora del 25% en las puntuaciones de retroalimentación del usuario para correcciones de imágenes asistidas por IA.

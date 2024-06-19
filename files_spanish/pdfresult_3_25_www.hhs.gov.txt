@@ -1,0 +1,74 @@
+DEPARTAMENTO DE SALUD Y SERVICIOS HUMANOS
+Casos de Uso de Inteligencia Artificial –AF2022
+1Introducción
+
+La Orden Ejecutiva 13960, "Fomento del Uso de Inteligencia Artificial Confiable en el Gobierno Federal", requiere que las agencias preparen un inventario de casos de uso actuales y planificados de IA no clasificados y no sensibles. Las agencias deben compartir sus inventarios con el público y otras agencias, en la medida de lo posible.
+
+La Oficina del Jefe de Oficiales de Inteligencia Artificial (OCAIO) del Departamento de Salud y Servicios Humanos (HHS) ha creado un inventario de Casos de Uso de IA del HHS que no solo satisface los requisitos de la OE, sino que también aumenta la conciencia y la colaboración interagencial en iniciativas de IA.
+
+En las páginas siguientes, el Departamento destaca algunos de los casos de uso de IA y proporciona contexto sobre cómo estos casos de uso mejoran las misiones departamentales.Dispositivo de Detección de Productos Falsificados de la FDA Versión 5 (CD5)
+
+Oportunidad: La FDA desarrolló la versión 5 del dispositivo de detección de productos falsificados (CD5), un dispositivo portátil que utiliza LEDs a diferentes longitudes de onda para ayudar a los trabajadores forenses a examinar productos regulados por la FDA y detectar productos farmacéuticos falsificados. Aunque este dispositivo es valioso, sus salidas son imágenes que requieren interpretación a través de comparación visual para determinar si un producto es auténtico o falsificado. Con productos falsificados cada vez más sofisticados, esta toma de decisiones visual puede ser subjetiva en ocasiones y convertirse en una vulnerabilidad importante en las capacidades actuales de detección de productos falsificados.
+
+Propósito: El objetivo del proyecto es eliminar la subjetividad en el análisis de productos falsificados sofisticados y productos auténticos aprobados en el extranjero que ingresan a EE. UU. Utilizando IA para el examen y análisis de imágenes, este proyecto busca mejorar el CD5 para que proporcione una conclusión generada por el dispositivo.
+
+Metodologías: La IA utilizará la información colorimétrica y las imágenes de tabletas generadas por el CD5 para detectar diferencias entre productos auténticos y falsificados.
+
+Resultados: Al automatizar el análisis y la generación de conclusiones del dispositivo, este proyecto reducirá el tiempo necesario para examinar y determinar si un producto es auténtico o falsificado de minutos a segundos. También multiplicará el número de productos que pueden ser examinados mientras disminuye el número de resultados inconclusos que requieren que las muestras se envíen a un laboratorio para análisis adicionales. En última instancia, este dispositivo puede expandirse a otros productos y paquetes de productos.Centro de Integridad de Programas (CPI) del CMS: Modelos de Sistemas de Prevención de Fraude
+
+Oportunidad: Dada la creación de sistemas que capturan datos más extensivos sobre el proceso de investigación y resultados, hay una mayor oportunidad de aplicar técnicas de aprendizaje automático, como el aprendizaje por refuerzo y el aprendizaje profundo. Además, las técnicas de aprendizaje automático nos ayudan a desarrollar modelos de fraude, despilfarro y abuso que no dependen tanto de esquemas de fraude conocidos en el pasado, lo que permite a CPI identificar más rápidamente nuevos casos de fraude, despilfarro y abuso emergentes.
+
+Propósito: El objetivo de este proyecto es detectar, prevenir y priorizar de manera más efectiva los posibles casos de fraude, despilfarro y abuso en Medicare y Medicaid para futuras investigaciones.
+
+Metodología: Se desarrolló un sistema que complementa el sistema de prevención de fraude existente de CPI, el sistema de gestión de casos unificado (UCM), que sirve como un flujo de trabajo empresarial centralizado, repositorio de datos y sistema de informes que crea un enfoque coordinado para capturar datos de investigación de fraude. Utilizando modelos basados en árboles y enfoques de aprendizaje profundo, se analizaron datos administrativos y de reclamos de Medicare para desarrollar un sistema que asigna pesos a modelos de identificación de fraude convencionales.
+
+Resultados: Aunque este proyecto aún está en desarrollo, los resultados de este sistema se utilizarán para mejorar las alertas a los investigadores sobre posibles esquemas de fraude. El sistema también identifica modelos de identificación de fraude que no funcionan correctamente o están obsoletos para su desactivación.Plataforma de Inteligencia de Riesgos Químicos Emergentes de la FDA (ECHIP) y
+Motor de Aprendizaje Inteligente Warp (WILEE)
+
+Oportunidad: La capacidad de la FDA para responder a un riesgo químico emergente depende de la identificación temprana de señales. Sin embargo, los retrasos en la detección de señales han llevado a la FDA a adoptar una postura reactiva al responder a posibles riesgos químicos.
+
+Propósito: El objetivo de este proyecto es aprovechar el uso de la inteligencia artificial para predecir mejor la emergencia de un nuevo riesgo químico, mediante la búsqueda y conexión de una gama más amplia de fuentes de datos para detectar señales químicas potenciales.
+
+Metodologías: Se utiliza inteligencia artificial para desarrollar una aplicación de exploración del horizonte y una plataforma de descubrimiento de conocimientos inteligentes que identifica, agrega, mapea y enlaza información de fuentes de datos internas y externas relacionadas con alimentos consumidos, ingredientes y químicos alimentarios. Se entrena un modelo para identificar patrones de eventos que pueden utilizarse para anticipar la detección de señales de riesgos químicos a lo largo del tiempo y en diferentes fuentes de datos. El riesgo planteado por las señales identificadas se determina analizando los niveles de exposición y toxicidad potenciales.
+
+Resultados: Al mejorar la detección de señales y la capacidad de predecir riesgos químicos, esta herramienta puede ayudar a anticipar y priorizar riesgos, acelerar la toma de decisiones y mitigar proactivamente el riesgo para los consumidores.CMS Autoridad Rápida para Operar (ATO)
+
+Oportunidad: El proceso de planificación de seguridad para obtener la Autoridad para Operar (ATO) es un proceso laborioso y prolongado que requiere un promedio de 500 páginas de documentación. Además de requerir a los propietarios de negocios más de 543 horas para obtener un ATO, obtener y mantener un ATO puede costar entre $180.000 y $700.000.
+
+Propósito: El objetivo de este proyecto es reducir la carga de planificación de cumplimiento de seguridad y acelerar el tiempo para obtener un ATO, proporcionando documentación de cumplimiento reutilizable que se ajusta a los requisitos tecnológicos específicos.
+
+Metodología: Se utilizó una pipeline automatizada de IA, que consiste en procesamiento de lenguaje natural y aprendizaje automático supervisado y no supervisado, para analizar los planes de seguridad de las tecnologías utilizadas en CMS. Combinado con la experiencia de los expertos en la materia, esta pipeline se utilizó para crear una biblioteca de componentes, una biblioteca de plantillas reutilizables de narrativas de control relacionadas con una tecnología o metodología específica. Estos componentes incluyen implementaciones de seguridad de muestra en forma de descripciones de cumplimiento.
+
+Resultados: La biblioteca de componentes proporciona a los propietarios de negocios estándares de implementación de seguridad de muestra que aumentan el potencial de reutilización, automatización y colaboración, reduciendo la carga. Puede acelerar el tiempo para obtener un ATO, ayudando en una de las tareas más intensivas en tiempo.CMS OSFLO Mesa de ayuda Chatbot
+
+Oportunidad: Las llamadas al mostrador de ayuda de OSFLO (Oficina de Seguridad, Instalaciones y Operaciones Logísticas) no se estaban respondiendo de manera oportuna.
+
+Propósito: El objetivo de este proyecto es ayudar al mostrador de ayuda de OSFLO a responder más rápidamente y de manera más efectiva a las preguntas de los empleados y contratistas, automatizando respuestas de voz y texto para preguntas generales de seguridad y credenciales.
+
+Metodologías: Después de analizar las llamadas más comunes al mostrador de ayuda de OSFLO, el equipo entrenó el modelo de comprensión del lenguaje natural de DialogFlo de Google para responder a preguntas generales de seguridad física y credenciales. El chatbot también se ha acoplado con un "LocatorBot" que puede programar automáticamente una cita en la oficina regional de CMS o en una instalación de emisión de tarjetas de identificación personal (PIV) del Departamento de Salud y Servicios Humanos más cercana, utilizando el código postal proporcionado por el solicitante de la tarjeta PIV.
+
+Resultados: En la primera iteración del chatbot, se resolvieron el 20% de las llamadas entrantes mediante chatbot. Se proyecta que la versión completamente desarrollada del chatbot resuelva el 65% de las llamadas entrantes. A través de esta automatización del chatbot, el personal del mostrador de ayuda puede enfocarse en ayudar a los empleados y contratistas con problemas más detallados y complejos.Manuales Electrónicos del HRSA (EHB) Chatbot de IA
+
+Oportunidad: La plataforma de solicitudes de subvenciones y gestión del HRSA, Manuales Electrónicos (EHB), cuenta con una gran base de usuarios (45,000+ usuarios) que genera alrededor de 25,000 llamadas de soporte al cliente al año, lo que sobrecarga las capacidades actuales del personal.
+
+Propósito: El objetivo de este proyecto es desarrollar y desplegar el Chatbot EHB, una plataforma de autoservicio con disponibilidad las 24 horas del día, capaz de comunicar conocimientos y respuestas basadas en acciones a los beneficiarios utilizando expresiones conversacionales naturales regulares.
+
+Metodología: Utilizando la plataforma Teneo de Artificial Solutions, el Chatbot EHB se entrenó para identificar las preguntas más comunes y de baja complejidad de los beneficiarios y desarrollar respuestas a preguntas utilizando expresiones conversacionales naturales regulares. El chatbot tiene la capacidad de refinar y aumentar la precisión de sus respuestas a medida que más y más usuarios invocan/usan el chatbot. También se integra con aplicaciones de manuales electrónicos existentes para la creación automática de tickets.
+
+Resultados: El 90% de las consultas del chatbot se resuelve sin la intervención del personal de soporte al cliente. El personal del centro de llamadas EHB ahora puede dedicar más tiempo y atención a responder preguntas y problemas más complejos de los beneficiarios.Portal de Análisis de Subvenciones de la OIG
+
+Oportunidad: Los auditorías únicas pueden ser útiles para identificar problemas que afectan a todos los programas de subvenciones, pero algunos hallazgos de auditorías únicas solo se pueden encontrar leyendo informes en PDF. Con 35,000 a 45,000 auditorías únicas presentadas cada año, extraer esta valiosa información requiere una inversión significativa en tiempo y personal.
+
+Propósito: El objetivo de este proyecto es convertir los datos de subvenciones en inteligencia accionable para apoyar la supervisión de los destinatarios de subvenciones del HHS y los programas de subvenciones.
+
+Metodologías: Se construyó un modelo de red neuronal profunda para extraer texto de hallazgos de auditoría A-133 de PDF. Los resultados de esta extracción se fusionaron con otros conjuntos de datos y se desarrollaron modelos estadísticos adicionales para evaluar múltiples dimensiones de riesgo. Se utilizaron procesos ágiles para construir visualizaciones que hacen accesibles los resultados de los esfuerzos de IA para el personal.
+
+Resultados: El GAP ha permitido que el personal y el liderazgo del HHS aprovechen los datos para evaluar programas con mayor riesgo.Módulo de Derivación Interna de NIH eRA (IRM)
+
+Oportunidad: El proceso de derivación de subvenciones de NIH es propenso a cuellos de botella, ya que requiere que los individuos revisen manualmente las solicitudes y las deriven a las agencias correspondientes. La escasez de personal puede agravar este riesgo y provocar demoras en el proceso de derivación.
+
+Propósito: El objetivo de este proyecto es eliminar los cuellos de botella de derivación automatizando la derivación de solicitudes de subvenciones a los Oficiales de Programa una vez que se reciben.
+
+Metodología: Se entrenó un sistema de IA para analizar las entradas de solicitudes de subvenciones, incluyendo el título, resumen, objetivos específicos y Relevancia para la Salud Pública, y derivar automáticamente la solicitud de subvención al Oficial de Programa que coincide con un fondo similar con la ciencia contenida en las solicitudes. El sistema es flexible y brinda la oportunidad a los expertos en gestión de subvenciones de tomar la decisión final.
+
+Resultados: Este proceso opera con una tasa de precisión alta (92%) y ha eliminado efectivamente el cuello de botella de derivación.

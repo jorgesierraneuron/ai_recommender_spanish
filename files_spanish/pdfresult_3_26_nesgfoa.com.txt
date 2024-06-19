@@ -1,0 +1,199 @@
+©2024 CliftonLarsonAllen LLP. CLA (CliftonLarsonAllen LLP) es un miembro de la red independiente de CLA Global. Vea CLAglobal.com/aviso_legal.
+Los servicios de asesoramiento de inversiones se ofrecen a través de CliftonLarsonAllen Wealth Advisors, LLC, un asesor de inversiones registrado ante la SEC.
+Revolucionando las Finanzas y la Contabilidad
+Automatización y IA: Casos de Uso y
+¿Qué Hay en Juego para Usted
+1©2024 CliftonLarsonAllen LLP
+Mitch Thompson
+Director de Crecimiento Digital
+Mitch.Thompson@CLAconnect.com(317) 569-6154
+Introducción 
+2©2024 CliftonLarsonAllen LLP
+•Identificar cómo la automatización puede mejorar las operacionesAl final de la sesión, podrás:
+Objetivo de aprendizaje
+3©2024 CliftonLarsonAllen LLP
+
+Objetivos clave
+
+Comprender los conceptos básicos de IA y automatización: Obtenga una comprensión integral de cómo funcionan las tecnologías de IA y automatización, específicamente en el contexto de la contabilidad y las finanzas
+
+Explorar casos de uso del mundo real: Descubra una variedad de casos de uso prácticos de IA y automatización en procesos financieros
+
+Ventajas e impacto en la eficiencia: Aprenda cómo la implementación de IA y automatización puede mejorar significativamente la eficiencia, reducir errores, impulsar la misión organizativa y mejorar la vida de la fuerza laboral
+
+Tendencias futuras y estrategias de adaptación: Obtenga conocimientos sobre cómo su organización puede adaptarse y mantenerse adelante en este campo en rápida evolución, incluyendo estrategias para la implementación y superar desafíos potenciales©2024 CliftonLarsonAllen LLP
+
+•Comprender los conceptos básicos
+•Beneficios
+•Casos de uso
+•Cómo implementar
+•Tendencias futuras
+•Demostración de herramientas
+•Preguntas y respuestas
+Orden del día
+5©2024 CliftonLarsonAllen LLP
+
+A: Creo que está sobrevalorado y es improbable que genere muchos cambios.
+B: Optimista con cautela sobre cómo cambiará la forma en que trabajamos.
+C: Esto es la quinta revolución industrial.
+D: No sé lo suficiente para decir algo, pero quiero saber más.¿Cuán Transformadora Cree Usted que Será la IA?Pregunta de Encuesta 6©2024 CliftonLarsonAllen LLP
+Ciclo de Hype de Gartner
+7©2024 CliftonLarsonAllen LLP
+Una Introducción a los Datos, la Automatización y el IA©2024 CliftonLarsonAllen LLP
+Datos e Inteligencia Empresarial
+Automatización
+IA & IA Generativa
+Modelos de Lenguaje de Gran Escala
+Definiciones©2024 CliftonLarsonAllen LLP
+
+• Los datos son los hechos y estadísticas crudos y no procesados recopilados para referencia o análisis. En el gobierno, es cualquier cosa cuantificable y medible, como números de presupuesto, número de delitos, demografía de la población y estadísticas de EMS, por ejemplo. Los datos son la base para obtener conocimientos para tomar decisiones estratégicas. Los datos son neutrales y deben ser procesados y analizados para crear valor.
+
+• La Inteligencia de Negocios son las herramientas, tecnologías y metodologías utilizadas para recopilar, integrar, analizar y presentar los datos como información empresarial. La Inteligencia de Negocios tiene como objetivo ayudar a tomar mejores decisiones a través de la transformación de datos en conocimientos acciónables. Esto se logra a través de la visualización, análisis, tendencias históricas y predictivas, y gestión del rendimiento. Datos e Inteligencia de Negocios 10©2024 CliftonLarsonAllen LLP
+
+La automatización es la técnica, método o sistema de operar o controlar un proceso mediante medios altamente automáticos, reduciendo la intervención humana al mínimo. En entornos gubernamentales, esto se ve en various informes, sistemas de integración, visión por computadora y la implementación de grandes modelos de lenguaje. Automatización©2024 CliftonLarsonAllen LLP
+
+80% de los informes son ad hoc, 20% estandarizados
+Consumen tiempo
+Propensos a errores
+Inconsistent
+Dependientes de individuos80% estandarizados, 20% ad hoc
+Ahorra tiempo
+Más precisos
+En tiempo real
+EscalableManual AutomatizadoUna ComparaciónManual Vs. Informes Automatizados
+12©2024 CliftonLarsonAllen LLP
+Ejemplo de BI y Automatización
+13©2024 CliftonLarsonAllen LLP
+
+¿Qué es la Inteligencia Artificial?
+•La IA es la capacidad de una computadora o un robot controlado por una computadora para realizar tareas que normalmente realizan los seres humanos porque requieren inteligencia y discernimiento humanos.
+•Los modelos de IA son programas que analizan conjuntos de datos y hacen predicciones. La modelización de IA replica la toma de decisiones humanas y es más precisa y efectiva cuando recibe/entrena en múltiples puntos de datos.
+•Tipos de IA
+oCaptura de datos automatizada - Automatización de AP
+oRecomendación/Personalización - Amazon, Netflix, etc.
+oGenerativa – IA que crea contenido como ChatGPT
+oDetección de anomalías – alertas de fraude
+•La IA es una herramienta para suplementar y aumentar las funciones diarias para ser más productivos/útiles/recursos.©2024 CliftonLarsonAllen LLP
+Comparación entre Computación Tradicional vs. IA
+•Computación Tradicional: Conjunto de instrucciones explícitas para una tarea específica
+•Inteligencia Artificial (IA): Máquinas que aprenden y toman decisiones a partir de datos
+oAprendizaje Automático
+oAprendizaje Profundo
+oEstadística
+15Inteligencia 
+Artificial
+Aprendizaje Automático
+Aprendizaje Profundo
+Estadística©2024 CliftonLarsonAllen LLP
+
+•Los LLM son un tipo específico de IA centrado en comprender, generar y trabajar con lenguaje humano. Se entrenan con una gran cantidad de datos de texto para predecir la próxima palabra en una oración, entender el contexto, responder preguntas y más.
+
+•Un ejemplo es los Transformadores Pre-entrenados Generativos (GPT) – centrados en un conjunto particular de contenido o material, por ejemplo, las políticas y procedimientos de su agencia. ¿Qué es un Modelo de Lenguaje Grande?
+16©2024 CliftonLarsonAllen LLP
+
+¿Qué es GPT?
+GPT es un tipo de Modelo de Lenguaje Grande: Capaz de generar texto novedoso, similar al humano, escribir código y crear conjuntos de datos
+El objetivo del proyecto GPT fue crear un agente de chat que pueda interactuar de manera conversacional, generar contenido coherente y relevante, responder a preguntas adicionales.
+Entrenado en sitios web, libros y material en línea.
+Los entrenadores de IA humanos ayudaron a los modelos GPT a proporcionar salidas más deseables mediante el aprendizaje por refuerzo.
+OpenAI lanzó ChatGPT en noviembre de 2022
+Muchas actualizaciones y nuevas aplicaciones y servicios de IA generativa
+17©2024 CliftonLarsonAllen LLP
+OpenAI
+•ChatGPT 3.5
+•ChatGPT 4.5
+•GPTs personalizados
+oGeneración de imágenes
+oInvestigación académica
+oCodificaciónOtras organizaciones
+•Google Bard y Gémini
+•Facebook e Instagram 
+Messenger
+•Chatbot de Snapchat AI
+•Muchas organizaciones de investigación y startups desarrollando modelos y herramientasGPTs
+18©2024 CliftonLarsonAllen LLP
+•¿Puedes dar ejemplos de IA en tu vida personal o profesional diaria hoy en día? Escanea el código QR y envía tus respuestas!IA Hoy – Participación del Público
+19©2024 CliftonLarsonAllen LLP
+Revista Time 2011
+20©2024 CliftonLarsonAllen LLP
+•Mejora la Eficiencia
+•Mejora la Precisión
+•Mejora las Capacidades 
+Organizacionales
+•Mejora la Satisfacción del 
+Empleado
+Beneficios e Impacto
+21©2024 CliftonLarsonAllen LLP
+22
+©2024 CliftonLarsonAllen LLP Estudio de caso de uso: Informes de inteligencia empresarial y automatización – Análisis de tarjetas de pago corporativas©2024 CliftonLarsonAllen LLP
+
+Estudio de caso de uso: Automatización de AP
+23Factura 
+desde 
+Proveedor
+Cargada 
+Extraer datos 
+Revisión humana 
+Hoja de cálculo 
+QuickBooks 
+& Otros 
+Sistemas de finanzas
+Lago de datos, 
+Almacén de datos, 
+Lago de datos, 
+Reducción del tiempo de procesamiento manual de facturas
+Reducir la entrada manual de datos desde documentos 
+como facturas
+Minimizar errores asociados con el procesamiento manual
+Integrarse con el flujo de trabajo y sistemas empresariales existentes©2024 CliftonLarsonAllen LLP
+Estudio de caso de uso: Modelos de lenguaje de gran tamaño
+24©2024 CliftonLarsonAllen LLP
+Estudio de caso de uso: Copilotos de Microsoft
+•Copiloto de Windows
+•Copiloto de Microsoft 365
+•GitHub
+•Otros copilotos
+oPlataforma de poder
+oTela de Microsoft
+oInteligencia artificial de Azure
+oDynamics 365
+o¡Y mucho más!
+25©2024 CliftonLarsonAllen LLP
+•Precisión de datos
+•Sesgo
+•Seguridad
+•Confía pero Verifica
+•Conoce la fuente
+•Miedo al uso de herramientas disponibles
+Desafíos
+26©2024 CliftonLarsonAllen LLP
+
+•Sea intencional sobre cómo la IA puede proporcionar el mayor beneficio
+•Controles – mantener a un humano en el bucle y confiar pero verificar
+•Lanzamiento limitado y controlado. Piloto primero
+•Seguridad de la infraestructura
+•LLM versus OpenAISuperar desafíos
+27©2024 CliftonLarsonAllen LLP
+Cómo Llegar Allí
+Evaluar el estado actual
+Preparación de datos
+Desarrollar un mapa de ruta
+Objetivos a corto y largo plazo
+Grupo de trabajo interno
+Probar la tecnología
+Eduquese!
+28©2024 CliftonLarsonAllen LLP
+
+•No desaparecerá
+•La velocidad de crecimiento continuará acelerándose
+•¿Controles?
+•Habrá muchos modelos para elegir
+•Los casos de uso se volverán interminablesTendencias futuras
+29©2024 CliftonLarsonAllen LLP
+Sesión de Preguntas y Respuestas
+30©2024 CliftonLarsonAllen LLP
+Mitch Thompson
+Director de Crecimiento Digital
+Mitch.Thompson@CLAconnect.com(317) 569- 6154
+¡Gracias!
+31

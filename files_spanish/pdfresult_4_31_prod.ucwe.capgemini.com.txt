@@ -1,0 +1,1204 @@
+#ConsigueElFuturoQueQuieresAPROVECHA
+EL VALOR DE
+Casos de uso principales en diversas industriasINTELIGENCIA ARTIFICIAL GENERATIVAResumen Ejecutivo
+
+La inteligencia artificial generativa (IA) se está convirtiendo rápidamente en una parte integral de nuestras vidas personales y profesionales. Aunque la tecnología ha existido durante varios años, ha generado un interés del consumidor generalizado solo recientemente y ha surgido como una consideración estratégica crítica. Nuestra investigación más reciente enfocada en la industria revela que la IA generativa está en la agenda de la sala de juntas en el 96 por ciento de las organizaciones encuestadas a nivel global. Aunque la IA generativa está en su infancia en términos de adopción y implementación a gran escala, casi el 60 por ciento de los ejecutivos a nivel global dicen que su liderazgo es un defensor fuerte de la IA generativa y solo el 39 por ciento están adoptando un enfoque de "esperar y ver" hacia la adopción.
+
+Muchas organizaciones ya ven la IA generativa como una herramienta poderosa que puede acelerar el crecimiento, mejorar las capacidades y desbloquear nuevas oportunidades sin una reestructuración drástica de los modelos de negocio. A nivel global, alrededor de una quinta parte (21 por ciento) de los ejecutivos encuestados dicen que la IA generativa disruptará significativamente sus industrias. Los ejecutivos en alta tecnología y manufactura industrial - dos industrias que han sido moldeadas por las tecnologías de IA y han estado a la vanguardia de la IA generativa - son los más propensos a estar de acuerdo con esta afirmación.
+
+El potencial de la IA generativa para impulsar la innovación y mejorar la eficiencia y la productividad se extiende a casi todas las funciones y tiene aplicaciones en todas las industrias. Los casos de uso son amplios, desde la creación de contenido único y la automatización y aceleración de tareas, hasta la creación de experiencias personalizadas y la generación de datos sintéticos. Nuestra investigación revela que la IA generativa tiene el mayor potencial dentro de las funciones de TI, ventas y servicio al cliente, y marketing. El sector de alta tecnología lidera el camino.con la mayor parte de pilotos de IA generativa en curso.
+
+Los ejecutivos en nuestra encuesta también proyectan eficiencias desde la IA generativa en los próximos tres años en un rango del 7-9 por ciento.
+
+Al igual que con cualquier nueva tecnología, la IA generativa no está exenta de riesgos. Sin embargo, con planificación adecuada y salvaguardas en su lugar, hay potencial para transformar operaciones empresariales, desarrollo de productos y servicios, y interacción con los clientes. Casi tres cuartos de los ejecutivos en nuestra encuesta (74 por ciento) están de acuerdo en que los beneficios de la IA generativa superan los riesgos. Dado que el entrenamiento de nuevos modelos de IA generativa es intensivo en carbono, también será importante considerar las consideraciones ambientales. La buena noticia es que los ejecutivos en nuestra encuesta son conscientes de esta dinámica y entienden cómo mitigar el impacto adverso de la IA generativa en el medio ambiente.
+
+Sin embargo, el impacto neto de la IA generativa en las emisiones de Scope 1, 2 y/o 3 de una organización es actualmente difícil de predecir.
+
+Concluimos este informe con una mirada a cómo las organizaciones pueden iniciar y/o acelerar sus jornadas de IA generativa. En primer lugar, deben crear una arquitectura estratégica y operativa robusta para la IA generativa. Las organizaciones también deben establecer pautas internas y externas sobre el uso de la IA generativa, adoptar un enfoque centrado en el ser humano para escalar la tecnología, y construir la confianza del usuario y del consumidor en el sistema de IA. Dado que las emisiones de carbono asociadas con el entrenamiento y las consultas de la IA generativa son altas, el desarrollo y uso sostenibles de la tecnología también deberían ser una alta prioridad.
+
+Resumen Ejecutivo 3
+Instituto de Investigación de Capgemini 2023 APROVECHANDO EL VALOR DE LA IA GENERATIVA: CASOS DE USO PRINCIPALES EN INDUSTRIASIntroducciónLa inteligencia artificial generativa (IA generativa) está revolucionando rápidamente la forma en que interactuamos con la tecnología. Las máquinas están comenzando a imitar procesos de pensamiento creativo humanos, sintetizando contenido personalizado con implicaciones significativas para las organizaciones y los consumidores.
+
+Este informe es el segundo de una serie de informes que hemos creado sobre este tema. Nuestro primer informe, ¿Por qué los consumidores aman la IA generativa?, exploró las percepciones de los consumidores sobre la IA generativa; el uso de la IA generativa por parte de los consumidores; y cómo la tecnología está moldeando el futuro de la experiencia del cliente.
+
+En este informe, profundizamos en el potencial transformador de la IA generativa para las organizaciones en various industrias, preguntando cómo la tecnología podría impulsar la innovación en las organizaciones; destacando los casos de uso específicos de función y industria que creemos tienen el mayor potencial; y comparando las tasas de adopción en diferentes industrias.
+
+Para evaluar las percepciones de los ejecutivos sobre la IA generativa y la adopción de casos de uso, realizamos una encuesta global de 1,000 organizaciones en Australia, Canadá, Francia, Alemania, Italia, Japón, Países Bajos, Noruega, Singapur, España, Suecia, Reino Unido y EE. UU. Cuestionamos a ejecutivos de múltiples industrias, incluyendo automotriz, productos de consumo, retail, servicios financieros, telecomunicaciones, energía y servicios públicos, aeroespacial y defensa, alta tecnología, manufactura industrial, y farmacéutica y atención médica. Para obtener más detalles sobre la muestra de la encuesta, por favor, consulte la metodología de investigación.Introducción
+
+El informe explora cinco temas amplios:
+
+1
+2
+3
+45
+Las organizaciones ven 
+al IA generativa no como 
+un disruptor sino como 
+un acelerador Las organizaciones 
+ven más ganancia que dolor 
+en la IA generativa La IA 
+generativa tiene el mayor 
+impacto en TI, ventas y 
+marketing La alta tecnología 
+lidera en la implementación 
+de la IA generativa Cómo 
+las organizaciones pueden 
+iniciar sus jornadas de 
+IA generativa
+
+5
+Instituto de Investigación de Capgemini 2023APROVECHANDO EL VALOR DE LA IA GENERATIVA: CASOS DE USO PRINCIPALES EN DIFERENTES INDUSTRIASEste informe ofrece una introducción integral al impacto transformador que la IA Generativa tiene en grandes empresas de industrias como la automotriz, productos de consumo, retail, servicios financieros, telecomunicaciones, energía y servicios públicos, aeroespacial y defensa, alta tecnología, manufactura industrial y farmacéutica y atención médica. El informe ayudará a los ejecutivos empresariales a identificar casos de uso que ilustrarán las aplicaciones pragmáticas de la IA Generativa en IT, ventas y marketing, por ejemplo. El informe se basa en un análisis exhaustivo de 1,000 líderes industriales (clasificados como directores y superiores) en 13 países, cada uno en diferentes etapas de implementación de la IA Generativa. El informe también ofrece recomendaciones accionables para que los líderes empresariales inicien el viaje de IA generativa de sus organizaciones. Este informe es el segundo de nuestra serie de informes sobre IA Generativa. Lea el primer informe que se centra en las reacciones de los consumidores a la IA Generativa en https://www.capgemini.com/insights/research-library/creative-and-generative-ai/¿Quién debería leer este informe y por qué?
+
+6
+Instituto de Investigación de Capgemini 2023APROVECHANDO EL VALOR DE LA IA GENERATIVA: CASOS DE USO PRINCIPALES EN DIVERSAS INDUSTRIASLa inteligencia artificial generativa tiene la capacidad de aprender y reaplicar las propiedades y patrones de los datos para una amplia gama de aplicaciones, desde la creación de texto, imágenes y videos en diferentes estilos hasta la generación de contenido personalizado. Permite que las máquinas realicen tareas creativas previamente consideradas exclusivas de los humanos. La siguiente tabla resume las principales aplicaciones de inteligencia artificial generativa informadas en nuestra investigación y proporciona algunos ejemplos indicativos.
+
+Definición de inteligencia artificial generativa
+
+Fig. 1
+Aplicaciones de inteligencia artificial generativa en múltiples formatos
+
+Aplicaciones de inteligencia artificial generativa seleccionadas Ejemplos indicativos
+
+Texto
+Audio
+Chatbots
+Generación de imágenes y video 
+OpenAI’s GPT-4, Jasper
+Adobe Firefly, Difusión Estable, Midjourney
+Sonix.ai (solución de transcripción y generación de audio y video en la nube)
+Google Bard, ChatGPT de OpenAI
+Perplexity AI
+
+Análisis de imágenes y video existentes para generar nuevo contenido (por ejemplo, juegos de video, RV, animación)
+Resumen y traducción a múltiples idiomas
+Generación de música y remix, síntesis de voz, efectos de sonido, conversión de voz, mejora de audio
+Chatbots para proporcionar servicio al cliente y asesoramiento automatizados
+Funciones de búsqueda mejoradas utilizando procesamiento de lenguaje natural y aprendizaje automático
+
+Fuente: 1. TechTarget, "¿Qué es la inteligencia artificial generativa? Todo lo que necesita saber", 5 de marzo de 2023.
+2. Adobe, "Adobe presenta Firefly, una familia de nuevas herramientas creativas de inteligencia artificial generativa", 21 de marzo de 2023.
+3. Sonix.ai, "Sonix lanza la primera herramienta de transcripción y resumen automatizados de inteligencia artificial generativa", 14 de diciembre de 2022.
+4. Cointelegraph, "¿Qué es Google Bard y cómo funciona?", 10 de mayo de 2023.
+5. Kevin-Indig, "Primeros intentos de integrar IA en la búsqueda", 10 de enero de 2023.
+
+Instituto de Investigación de Capgemini 2023
+APROVECHANDO EL VALOR DE LA INTELIGENCIA ARTIFICIAL GENERATIVA: CASOS DE USO PRINCIPALES EN DIFERENTES INDUSTRIASLAS ORGANIZACIONES VEN EL IA GENERATIVO NO COMO UN DESORDENADOR, SINO COMO UN ACELERADOR
+
+Instituto de Investigación de Capgemini 2023APROVECHANDO EL VALOR DEL IA GENERATIVO: CASOS DE USO PRINCIPALES EN DIVERSAS INDUSTRIASLa inteligencia artificial generativa es un tema prioritario en las salas de juntas
+Casi todos los ejecutivos (96%) en nuestra encuesta citan la inteligencia artificial generativa como un tema candente de discusión en sus respectivas salas de juntas (ver Figura 2), lo que la convierte probablemente en la tecnología nueva más rápida en generar un interés tan alto en el nivel ejecutivo. Pat Geraghty, CEO de GuideWell, una organización de seguros mutuos con sede en EE. UU., comenta: "En cada reunión de la junta que hemos tenido este año, hemos tenido un punto permanente en la agenda de AI y ChatGPT. Queremos asegurarnos de que nuestra junta esté con nosotros mientras pensamos en hacia dónde vamos".
+
+La inteligencia artificial generativa es un tema de discusión en las salas de juntas en casi todas las organizaciones
+
+Porcentaje de organizaciones que están de acuerdo con la declaración por sector
+93% 93% 98% 97% 96% 95% 94% 93% 98% 96% 100%
+Productos de consumo
+RetailAeroespacial y defensa
+AutomotrizEnergía y servicios públicos
+TelecomManufactura industrial
+Farmacéutica y atención médicaServicios financieros
+Tecnología de alta gamaPromedio
+Fuente: Instituto de Investigación de Capgemini, Encuesta Ejecutiva de IA Generativa, abril de 2023, N = 800 organizaciones.
+
+9
+Instituto de Investigación de Capgemini 2023APROVECHANDO EL VALOR DE LA INTELIGENCIA ARTIFICIAL GENERATIVA: CASOS DE USO PRINCIPALES EN DIVERSAS INDUSTRIASFig.3
+Los líderes de la mayoría de las organizaciones son defensores fuertes de la IA generativa
+Fuente: Instituto de Investigación de Capgemini, Encuesta Ejecutiva de IA Generativa, abril de 2023, N = 766 organizaciones que citan la IA generativa como tema de discusión en sus respectivas salas de juntas. Nuestro liderazgo es un defensor fuerte de la IA generativa
+Nuestro liderazgo está adoptando un enfoque de "esperar y observar" hacia la IA generativa
+Nuestro liderazgo no está convencido o está dividido sobre el potencial de la IA generativa
+PORCENTAJE DE ORGANIZACIONES QUE ESTÁN DE ACUERDO CON LA DECLARACIÓN POR SECTOR
+5% 3% 1% 1% 1% 4% 2% 1% 2%
+Productos de consumo
+AutomotrizFabricación industrial
+Farmacéutica y atención médicaMinorista
+Energía y servicios públicosTelecomunicaciones
+Servicios financierosAeroespacial y defensa
+Alta tecnologíaPromedio59%39%16%
+32%39% 39% 41%37% 39%
+57%45%50%
+84%
+67% 60% 60% 59% 59% 58%51%57% 43%
+Los líderes superiores son defensores fuertes de la IA generativa
+Entre el 96% de las organizaciones que discuten la IA generativa en sus salas de juntas, más de la mitad (59%) de los ejecutivos dicen que sus líderes son defensores fuertes de la IA generativa solo seis meses después de que la tecnología alcanzó la corriente principal. Esto aumenta al 84% en el sector de alta tecnología. Treinta y nueve por ciento de los ejecutivos dicen que sus líderes están adoptando un enfoque de "esperar y observar" hacia la tecnología, y solo el 2% de los ejecutivos a nivel global dicen que sus líderes no están convencidos o están divididos sobre el potencial de la IA generativa (ver Figura 3). 10
+Instituto de Investigación de Capgemini 2023APROVECHANDO EL VALOR DE LA IA GENERATIVA: CASOS DE USO PRINCIPALES EN INDUSTRIAS96% de las organizaciones dicen que la IA generativa es un tema de discusión en sus salas de juntas11
+Instituto de Investigación de Capgemini 2023APROVECHANDO EL VALOR DE LA IA GENERATIVA: CASOS DE USO PRINCIPALES EN DIVERSAS INDUSTRIASLa mayoría de las organizaciones no ven a la IA generativa como un disruptor
+
+Mientras que el 21% de los ejecutivos anticipa una interrupción significativa en sus respectivas industrias debido a la IA generativa, el 67% de los ejecutivos no está de acuerdo. Es decir, la mayoría de los ejecutivos no ven a la IA generativa como una interrupción significativa de sus modelos de negocio. Sin embargo, los ejecutivos dentro de los sectores de alta tecnología y manufactura industrial esperan una interrupción significativa en un 52% y 48%, respectivamente (ver Figura 4). Aunque esto puede ser reflejo de la comprensión superior de estos ejecutivos sobre el potencial de la tecnología, las cifras subrayan la expectativa generalizada de que la IA generativa impulsará los negocios en general.
+
+Fig. 4
+La mayoría de los consumidores utilizan herramientas de IA generativa para generar contenido
+Fuente: Instituto de Investigación de Capgemini, Encuesta Ejecutiva de IA Generativa, abril de 2023, N = 800 organizaciones.
+
+La IA generativa puede interrumpir significativamente nuestra industria
+PORCENTAJE DE ORGANIZACIONES QUE ESTÁN DE ACUERDO CON LA DECLARACIÓN POR SECTOR
+12%
+3%21% 21% 20% 19% 18% 18%48%
+21%52%
+Minorista
+TelecomAeroespacial y defensa
+AutomotrizProductos de consumo
+Servicios financierosFarmacéutica y atención médica
+Energía y servicios públicosManufactura industrial
+Alta tecnologíaPromedio12
+Instituto de Investigación de Capgemini 2023
+APROVECHANDO EL VALOR DE LA IA GENERATIVA: CASOS DE USO PRINCIPALES EN LAS INDUSTRIASFig.5
+Relevancia de las plataformas de IA generativa para organizaciones en diferentes dominios
+Fuente: Instituto de Investigación de Capgemini, Encuesta Ejecutiva de IA Generativa, abril de 2023, N = 800 organizaciones. PORCENTAJE DE ORGANIZACIONES QUE CONSIDERAN LAS PLATAFORMAS DE IA GENERATIVA RELEVANTES PARA SU NEGOCIO
+83%
+75%
+71%
+70%
+61%
+54%
+4%26%34%48%50%
+Juegos (estudios o aplicaciones de juegos de IA generativa: por ejemplo, Ludo AI)Vídeo (generando o editando videos: por ejemplo, Pictory, Synthesys)Audio (resumiendo, generando o convirtiendo texto en audio: por ejemplo, Sonix)Imágenes (generando imágenes: por ejemplo, DALL-E)Código (asistente de codificación y prueba: por ejemplo, GitHub Copilot, convirtiendo código de un lenguaje a otro: por ejemplo, Codex, Traductor A2B de Capgemini)Plataformas de ML (aplicaciones de aprendizaje automático: por ejemplo, Slai)Generando datos sintéticos (Amplificador de Datos Artificiales de Capgemini)Búsqueda (insights impulsados por IA: por ejemplo, Bing)Texto (resumiendo, automatizando o traduciendo contenido: por ejemplo, ChatGPT)Datos (diseñando, recopilando o resumiendo datos: por ejemplo, Resumen de texto de Jasper)Chatbots (automatizando el servicio al cliente y mejorando la gestión del conocimiento: por ejemplo, ChatGPT) Las organizaciones están encontrando cada vez más relevantes las plataformas de IA generativa. 
+Los chatbots emergen como la aplicación de IA generativa más relevante, con un 83% de las organizaciones que los mencionan. Las organizaciones pueden utilizar chatbots impulsados por IA generativa para mejorar su servicio al cliente y también para habilitar una mejor gestión del conocimiento interno. El 75% de los ejecutivos dice que las aplicaciones de datos pueden ser utilizadas de manera efectiva en sus organizaciones, y el 71% cree que esto es cierto para las plataformas de texto generativas como ChatGPT (ver Figura 5).La vasta biblioteca de estrategias de inversión, investigación de mercado y 
+insights de analistas de la organización de servicios financieros estadounidense 
+Morgan Stanley puede ser tediosa y engorrosa para los asesores de gestión de 
+patrimonio. Para abordar esto, Morgan Stanley está utilizando GPT-4 para 
+impulsar un chatbot interno que proporciona acceso instantáneo a cualquier área 
+del archivo. Jeff McMillan, Jefe de Análisis, Datos e Innovación, agrega: 
+"En esencia, tienes [acceso al] conocimiento de la persona más conocedora en 
+gestión de patrimonio – instantáneamente. Piensa en tener a nuestro estratega 
+de inversiones jefe, economista global jefe, estratega de acciones globales y 
+cada otro analista en todo el mundo al alcance de cada asesor, todos los días. 
+Creemos que es una capacidad transformadora para nuestra empresa"."Tienes esencialmente acceso al conocimiento de la persona más conocedora en gestión de patrimonios – instantáneamente. Piensa en tener a nuestro estratega jefe de inversiones, economista global jefe, estratega de acciones globales y a cada otro analista en todo el mundo a disposición de cada asesor, todos los días. Creemos que esa es una capacidad transformadora para nuestra empresa."
+
+Jeff McMillan
+Jefe de Análisis, 
+Datos y Innovación, 
+Morgan Stanley.15
+Instituto de Investigación de Capgemini 2023APROVECHANDO EL VALOR DE LA IA GENERATIVA: CASOS DE USO PRINCIPALES EN DIVERSAS INDUSTRIASEl potencial de la IA generativa para transformar el trabajo
+
+Nuestra investigación de consumidores sobre IA generativa revela que la mayoría de los consumidores (70 por ciento) cree que les permitirá ser más eficientes en el trabajo y les liberará de tareas rutinarias para explorar aspectos más estratégicos de sus trabajos. La mayoría de los ejecutivos coinciden con estos sentimientos de los consumidores, con un 70 por ciento de acuerdo en que la tecnología permitirá a las organizaciones ampliar el alcance de los roles de los trabajadores del conocimiento (ver Figura 6). Más de la mitad (60 por ciento) también mencionó que la IA generativa revolucionaría completamente su forma de trabajar.
+
+PORCENTAJE DE ORGANIZACIONES QUE ESTÁN DE ACUERDO CON LAS DECLARACIONES
+La IA generativa revolucionará completamente nuestra forma de trabajar
+70%
+69%
+60%
+
+A medida que los algoritmos de IA generativa comienzan a proporcionar conceptos y diseños iniciales, los empleados pueden pasar de la ideación y creación tradicionales a la revisión y refinamiento. La IA generativa aumentará los roles de los trabajadores del conocimiento y reducirá sus cargas de trabajo.
+
+Fuente: Instituto de Investigación de Capgemini, Encuesta Ejecutiva de IA Generativa, abril de 2023, N = 800 organizaciones. Fig. 6
+La mayoría de los ejecutivos está de acuerdo en que la IA generativa aumentará el trabajo del conocimiento
+
+El impacto de la IA generativa en la fuerza laboral
+16
+Instituto de Investigación de Capgemini 2023
+APROVECHANDO EL VALOR DE LA IA GENERATIVA: CASOS DE USO PRINCIPALES EN INDUSTRIASPORCENTAJE DE ORGANIZACIONES QUE ESTÁN DE ACUERDO CON LA DECLARACIÓN
+El AI generativo dará lugar al
+emergimiento de nuevos roles laborales (p. ej., ingeniero de prompts) 69%
+Fuente: Instituto de Investigación de Capgemini, Encuesta Ejecutiva de IA Generativa, abril de 2023, N=800 organizaciones. El auge de la IA generativa creará nuevos roles
+En nuestra encuesta actual, el 69 por ciento de los ejecutivos cree que la IA generativa dará lugar al emergimiento de nuevos roles. Además de ingenieros de prompts, también podríamos ver nuevos roles como auditores de IA y éticos de IA emergen a medida que las iniciativas escalen.
+
+Fig. 7
+La mayoría de los ejecutivos cree que nuevos roles surgirán de la IA generativa La IA generativa demandará iniciativas de capacitación y formación
+Además de abrir nuevos roles y requisitos, según el 68 por ciento de los ejecutivos en nuestra encuesta, la integración de la IA generativa en la fuerza laboral requerirá una inversión significativa en la capacitación y formación cruzada del talento. En abril de 2023, en respuesta a la creciente demanda, Coursera, un proveedor de cursos en línea a gran escala con sede en EE. UU., lanzó múltiples nuevos cursos de capacitación en IA generativa, incluyendo ChatGPT Teach-Out de la Universidad de Míchigan, que introduce a los aprendices a modelos de lenguaje grande (LLMs) y chatbots, y discute el uso ético de la IA generativa y cómo la tecnología podría ser aprovechada y regulada en el futuro. 46% creen que la IA generativa revolucionará completamente la forma en que trabajamos17
+Instituto de Investigación de Capgemini 2023 APROVECHANDO EL VALOR DE LA IA GENERATIVA: CASOS DE USO PRINCIPALES EN INDUSTRIAS02
+LAS ORGANIZACIONES VEN MÁS VENTAJAS QUE DESVENTAJAS EN LA IA GENERATIVA
+18
+Instituto de Investigación de Capgemini 2023
+APROVECHANDO EL VALOR DE LA IA GENERATIVA: CASOS DE USO PRINCIPALES EN DIVERSAS INDUSTRIASLa mayoría de las organizaciones creen que 
+los beneficios del IA generativa superan los riesgos 
+Nuestra encuesta revela que la mayoría de los ejecutivos (74 por ciento) creen que los beneficios que aporta el IA generativa superan los riesgos asociados. Los ejecutivos más convencidos de que el IA generativa es una fuerza para el bien trabajan dentro del sector de alta tecnología (84 por ciento); incluso en el otro extremo de la lista, un sustancial 69 por ciento de los ejecutivos dentro de los sectores de energía y servicios públicos y telecomunicaciones apostarían por el IA generativa (ver Figura 8). Fig.8
+La mayoría de los ejecutivos en todas las industrias dicen que los beneficios del IA generativa superan los riesgos potenciales 
+Los beneficios de utilizar el IA generativo superan los riesgos asociadosPORCENTAJE DE ORGANIZACIONES QUE ESTÁN DE ACUERDO CON LA DECLARACIÓN POR SECTOR
+74%
+84%
+82%
+80%
+77%
+76%
+74%
+70%
+69%
+69%
+66%
+AutomotrizTelecomEnergía y servicios públicosProductos de consumoServicios financierosMinoristaFabricación industrialFarmacéutica y atención médicaAeroespacial y defensaAlta tecnologíaPromedio
+Instituto de Investigación de Capgemini, Encuesta Ejecutiva de IA Generativa, abril de 2023, N = 800 organizaciones.74%
+creen que los beneficios del IA generativa superan los riesgos asociados
+19
+Instituto de Investigación de Capgemini 2023APROVECHANDO EL VALOR DEL IA GENERATIVO: CASOS DE USO PRINCIPALES EN TODAS LAS INDUSTRIASFig.9
+La mayoría de los ejecutivos afirma que la IA generativa mejorará los productos/servicios y el servicio al cliente
+PORCENTAJE DE ORGANIZACIONES QUE ESTÁN DE ACUERDO CON LAS DECLARACIONES
+78%
+76%
+71%
+67%
+65%La IA generativa puede mejorar las operaciones internas
+y mejorar el mantenimiento de las instalacionesLa IA generativa se puede utilizar para mejorar el servicio al cliente proporcionando apoyo automatizado y personalizadoLa IA generativa nos permite crear experiencias más interactivas y atractivas para nuestros clientesLa IA generativa nos permite crear productos y servicios más accesibles e inclusivos, sirviendo a una gama más amplia de clientes con necesidades y preferencias diversasLa IA generativa permitirá que el proceso de diseño sea más eficiente y simplificado
+Fuente: Instituto de Investigación de Capgemini, Encuesta Ejecutiva de IA Generativa, abril de 2023, N = 800 organizaciones.Los beneficios anticipados de la IA generativa se extienden a 
+el diseño de productos y 
+la experiencia del cliente
+La IA generativa aporta numerosos beneficios transformadores a las organizaciones, incluyendo toma de decisiones mejorada, eficiencia mejorada, experiencias personalizadas, reducciones de costos, capacidad de innovación aumentada, gestión de riesgos y análisis predictivos. La mayoría de los ejecutivos en nuestra encuesta (78 por ciento) cree que la IA generativa hará que el diseño de productos y servicios sea más eficiente y que les ayudará a diseñar productos y servicios más inclusivos y accesibles (76 por ciento). Siete de cada diez ejecutivos creen que la IA generativa les ayudará a mejorar la experiencia del cliente (véase Figura 9). 20
+Instituto de Investigación de Capgemini 2023APROVECHANDO EL VALOR DE LA IA GENERATIVA: CASOS DE USO PRINCIPALES EN LAS INDUSTRIASFig.10
+La implementación de IA generativa se espera que genere beneficios operativos y para los clientes
+9%
+9%
+8%
+7%VENTAJAS FUTURAS ESPERADAS DE LA IA GENERATIVA EN TRES AÑOS A PARTIR DE HOY, 
+AUMENTO PORCENTUAL PROMEDIO PROYECTADO
+Disminución de costosAumento de las ventas Mejora de la eficiencia operativa 
+(ej., mejora de la calidad)Mejora de la participación y satisfacción del cliente 
+(incluyendo aumento en la puntuación de Net Promoter)
+Fuente: Instituto de Investigación de Capgemini, Encuesta Ejecutiva de IA Generativa, abril de 2023, N = 800 organizaciones.Los ejecutivos son positivos pero realistas en sus expectativas 
+de la IA generativa 
+Preguntamos a los ejecutivos qué beneficios organizativos esperan ver en la IA generativa dentro de tres años. 
+Los ejecutivos esperan ver mejoras del 7-9 por ciento en todas las industrias (ver Figura 10). La investigación reciente de Stanford y MIT sobre las aplicaciones de la IA generativa en el lugar de trabajo encontró que la productividad de los agentes de soporte técnico que utilizaron guiones de conversación mejoró hasta un 14 por ciento en una organización,5 lo que sugiere que tal estimación es realista, si no conservadora. 21
+Instituto de Investigación de Capgemini 2023APROVECHANDO EL VALOR DE LA IA GENERATIVA: CASOS DE USO PRINCIPALES EN TODAS LAS INDUSTRIAS• Participación y satisfacción del cliente: Las organizaciones pueden utilizar la IA generativa para la personalización; insights en tiempo real; servicio al cliente inteligente; análisis predictivos; mejora continua; y trayectorias del cliente optimizadas. Estos beneficios llevan finalmente a una mayor participación, satisfacción y lealtad del cliente.
+
+KT telecom (el operador móvil líder de Corea del Sur) ha construido LLMs de parámetros billonarios entrenados en la plataforma NVIDIA DGX SuperPOD y el marco NeMo para impulsar altavoces inteligentes y centros de llamadas del cliente. Su asistente de voz AI, GiGA Genie, puede controlar televisores, ofrecer actualizaciones de tráfico en tiempo real y completar una variedad de tareas de asistencia en el hogar cuando se le dan comandos de voz. Ha desarrollado habilidades conversacionales avanzadas en el idioma coreano utilizando LLMs – algoritmos de aprendizaje automático (ML) que pueden reconocer, entender, predecir y generar discurso humano basado en enormes conjuntos de datos de texto.6
+
+• Eficiencia operativa: Las organizaciones ya están informando eficiencias significativas gracias a la IA generativa; la empresa biotecnológica alemana Evotec anunció un ensayo clínico de fase uno para un compuesto anti-cáncer novel que desarrolló con Exscientia, una organización del Reino Unido que utiliza IA para el descubrimiento de fármacos de moléculas pequeñas. Al utilizar la plataforma de diseño de químicos Centaur Chemist AI de Exscientia, las organizaciones identificaron el candidato a fármaco en solo ocho meses. En contexto, el proceso de descubrimiento tradicional promedio tarda 4-5 años.7• Ventas: Al utilizar inteligencia artificial generativa para producir marketing personalizado, optimización de precios, previsión de la demanda, experiencia del cliente mejorada, apoyo a las ventas mejorado y toma de decisiones basada en datos, las organizaciones pueden atraer a más clientes, impulsar conversaciones de contenido a largo plazo y aumentar las conversiones.
+
+En un intento por aumentar sus ventas, la organización de productos de consumo italiano Ferrero trabajó con el diseñador de marcas Ogilvy Italia para personalizar tarros para su popular crema de chocolate Nutella. Los científicos de datos alimentaron una base de datos de patrones y colores a un algoritmo de inteligencia artificial generativa, que rápidamente produjo 7 millones de diseños de tarros únicos. Estos tarros únicos, etiquetados como Nutella Unica, se vendieron en toda Italia, agotándose en un mes. El diseño se basó en la letra reconocible de la marca, alrededor de la cual se personalizaron otros elementos.
+
+• Costos: Al utilizar inteligencia artificial generativa para automatizar procesos, optimizar recursos, implementar mantenimiento predictivo, optimizar la cadena de suministro, mitigar riesgos y mejorar la toma de decisiones, las organizaciones pueden lograr ahorros de costos y mejorar su desempeño financiero en general.
+
+La empresa alemana Claudius Peters produce equipos de procesamiento para plantas de cemento, carbón, alúmina y yeso. Trabajando con su socio tecnológico Autodesk, utilizó el marco de gestión de proyectos Scrum para reducir costos y pesos de productos mientras acortaba el proceso de ingeniería. El diseño generativo produjo componentes con una reducción de peso del 20-60% mientras se cumplían los requisitos de rendimiento. Además, el diseño sirvió como plantilla de reingeniería para la fabricación convencional, lo que resultó en un diseño final 30% más liviano que redujo los costos de los componentes. Reducción del 20-60% en el peso lograda a través del diseño generativo por la empresa alemana Claudius Peters.Fig.11
+Las organizaciones están priorizando equipos de IA generativa dedicados
+Fuente: Instituto de Investigación de Capgemini, Encuesta Ejecutiva de IA Generativa, abril de 2023, N = 800 organizaciones.Hemos establecido ya un equipo y presupuesto dedicados para su implementación
+Estamos actualmente indecisos sobre si o cómo vamos a
+integrar la IA generativa en nuestros
+planes de desarrollo de productos/servicios
+Estamos considerando establecer un equipo y presupuesto dedicados para su implementación
+en este año
+No hemos desarrollado aún un plan concreto para la integración
+NIVEL ACTUAL DE INTEGRACIÓN DE IA GENERATIVA EN PLANES DE DESARROLLO DE PRODUCTOS/SERVICIOS FUTUROS
+49%40%8%3%Cuatro de cada diez organizaciones han 
+establecido ya equipos y presupuestos para la IA generativa
+En solo unos pocos meses de que el público conoció la tecnología a través del lanzamiento de ChatGPT en noviembre de 2022, casi todas (97 por ciento) de las organizaciones en nuestra encuesta tienen planes para la IA generativa. Nuestra investigación revela que el 40 por ciento de las organizaciones han establecido equipos y presupuestos dedicados para la IA generativa, mientras que otra mitad (49 por ciento) están contemplando hacer lo mismo dentro de 12 meses. Solo el 8 por ciento de las organizaciones aún no han desarrollado una estrategia firme para la integración, y tan solo el 3 por ciento están actualmente indecisos sobre si o cómo integrarán la IA generativa en sus planes de desarrollo de productos o servicios (véase Figura 11).
+24
+Instituto de Investigación de Capgemini 2023APROVECHANDO EL VALOR DE LA IA GENERATIVA: CASOS DE USO PRINCIPALES EN INDUSTRIASFig.12
+La alta tecnología y la venta al por menor muestran el compromiso más fuerte para integrar la IA generativa
+Fuente: Instituto de Investigación de Capgemini, Encuesta Ejecutiva de IA Generativa, abril de 2023, N = 800 organizacionesPORCENTAJE DE ORGANIZACIONES QUE HAN ESTABLECIDO UN EQUIPO DEDICADO Y PRESUPUESTO PARA INTEGRAR IA GENERATIVA EN PLANES DE DESARROLLO DE PRODUCTOS/SERVICIOS FUTUROS POR SECTOR
+19%23%30%36%39%42%42%52%62%74%40%
+Manufactura industrialProductos de consumoAutomotrizTelecomunicacionesEnergía y servicios públicosServicios financierosFarmacéutica y atención médicaAeroespacial y defensaVenta al por menorAlta tecnologíaPromedioLa mayoría (74 por ciento) de los ejecutivos en el sector de alta tecnología dicen que han establecido equipos y presupuestos dedicados para la IA generativa. Más del 60 por ciento de los ejecutivos de la venta al por menor y el 52 por ciento de los ejecutivos de la aeroespacial y defensa dicen lo mismo (ver Figura 12). Dentro de la venta al por menor, mientras que solo el 3 por ciento de los ejecutivos creía que la IA generativa era disruptiva para su industria (ver Figura 4), el 62 por ciento de los ejecutivos de la venta al por menor dice que su organización ha establecido un equipo y presupuesto dedicados. Esto sugiere que aunque la industria de la venta al por menor no ve esta tecnología como una disruptora, las organizaciones se dan cuenta de que perderán si no la implementan.25
+Instituto de Investigación de Capgemini 2023APROVECHANDO EL VALOR DE LA IA GENERATIVA: CASOS DE USO PRINCIPALES EN LAS INDUSTRIASEl 40% de las organizaciones ya han establecido equipos y presupuesto para IA generativa, mientras que la otra mitad (49 por ciento) están considerando hacer lo mismo dentro de los próximos 12 meses26
+Instituto de Investigación de Capgemini 2023APROVECHANDO EL VALOR DE LA IA GENERATIVA: CASOS DE USO PRINCIPALES EN DIVERSAS INDUSTRIASFinanciamiento centralizado para iniciativas de IA generativa es actualmente el modelo favorito
+
+De las 40% de las organizaciones en nuestra encuesta (320 empresas) que tienen un presupuesto dedicado para iniciativas de IA generativa, el 78% lo obtiene de su presupuesto central, el 16% de su presupuesto general de IA y el 6% de su departamento de TI/digital.
+
+Las organizaciones esperan asociarse con desarrolladores y proveedores de TI
+
+Los socios preferidos para iniciativas de IA generativa son desarrolladores (69%); proveedores de TI y firmas de consultoría (66%); instituciones académicas (55%); y grandes tecnológicas (35%) (ver Figura 13).
+
+GOBIERNO DE IA GENERATIVA
+SOCIOS CON LOS QUE LAS ORGANIZACIONES YA TRABAJAN/PREFIEREN TRABAJAR PARA IMPULSAR MÁS VALOR PARA INICIATIVAS DE IA GENERATIVA
+
+69%
+66%
+55%
+35%
+22% Empresas peerGrandes tecnológicas (por ejemplo, Microsoft, Google)Instituciones académicasProveedores de TI/C&SI (consultores y integradores de sistemas)Desarrolladores (por ejemplo, OpenAI, Stability AI)
+
+Fuente: Instituto de Investigación de Capgemini, Encuesta Ejecutiva de IA Generativa, abril de 2023, N = 800 organizaciones. Fig. 13
+
+La mayoría de las organizaciones trabajan/prefieren trabajar con desarrolladores y proveedores de TI para sus iniciativas de IA generativa27
+Instituto de Investigación de Capgemini 2023APROVECHANDO EL VALOR DE LA IA GENERATIVA: CASOS DE USO PRINCIPALES EN INDUSTRIAS03
+PAQUETES DE IA GENERATIVA CON MAYOR IMPACTO
+PARA TI, VENTAS Y MARKETING28
+Instituto de Investigación de Capgemini 2023APROVECHANDO EL VALOR DE LA IA GENERATIVA: CASOS DE USO PRINCIPALES EN DIVERSAS INDUSTRIASFig.14
+El 67 por ciento de los ejecutivos ven el mayor potencial para la IA generativa en la función de TI
+PORCENTAJE DE ORGANIZACIONES QUE VEN EL MAYOR POTENCIAL PARA
+MODELOS DE IA GENERATIVA PARA IMPULSAR LA INNOVACIÓN Y CREAR VALOR PARA SU
+ORGANIZACIÓN A TRAVÉS DE FUNCIONES EMPRESARIALES
+9%13%22%26%31%31%48%54%67%
+Logística (p. ej., optimización de rutas)Finanzas (p. ej., procesamiento de facturas)Gestión de riesgos (p. ej., redacción y revisión de documentos legales y regulatorios)Operaciones (p. ej., optimización de la cadena de suministro)Diseño de productos/investigación y desarrollo
+ (p. ej., generación de nuevos diseños, descubrimiento de fármacos más rápido)Fabricación (p. ej., modelado 3D)Mercadotecnia y comunicaciones
+ (p. ej., creación de campañas de marketing personalizadas)Ventas y servicio al cliente
+ (p. ej., optimización de chatbots de soporte/autoservicio)TI (p. ej., impulsar la innovación en otras
+ funciones, asistente de codificación y prueba)
+Fuente: Instituto de Investigación de Capgemini, Encuesta Ejecutiva de IA Generativa, abril de 2023, N = 800 organizaciones.
+Pregunta formulada: ¿En qué funciones empresariales ve usted el mayor potencial para que los modelos de IA generativa impulsen la innovación y creen valor para su organización? Seleccione las tres principales. El mayor potencial para la IA generativa se encuentra en la función de TI
+Casi el 70 por ciento de los ejecutivos ven la IA generativa aportando el mayor valor a la TI dentro de su papel como habilitador para impulsar la innovación en todas las funciones. Más de la mitad (54 por ciento) también ven la IA generativa impulsando la innovación para las ventas y el 48 por ciento para la mercadotecnia y las comunicaciones (ver Figura 14).
+67%
+de los ejecutivos ven la IA generativa aportando
+el mayor valor a la TI dentro de su papel
+como habilitador para impulsar la innovación
+a través de las funciones29
+Instituto de Investigación de Capgemini 2023APROVECHANDO EL VALOR DE LA IA GENERATIVA: CASOS DE USO PRINCIPALES EN TODAS LAS INDUSTRIASFig.15
+Las organizaciones utilizan o planean utilizar la IA generativa con más frecuencia en TI
+PORCENTAJE DE ORGANIZACIONES QUE UTILIZAN O PLANIFICAN UTILIZAR IA GENERATIVA
+EN FUNCIONES EMPRESARIALES
+8%13%21%24%28%30%46%47%54%
+Logística (p. ej., optimización de rutas)Finanzas (p. ej., procesamiento de facturas)Gestión de riesgos (p. ej., redacción y revisión de documentos legales y regulatorios)Operaciones (p. ej., optimización de la cadena de suministro)Diseño de productos/investigación y desarrollo (p. ej., generación de nuevos diseños, descubrimiento de fármacos más rápido)Fabricación (p. ej., modelado 3D)Mercadotecnia y comunicaciones (p. ej., creación de campañas de mercadotecnia personalizadas)Ventas y servicio al cliente (p. ej., optimización de chatbots de soporte y autoservicio)TI (p. ej., impulsar la innovación en otras funciones, asistente de codificación y prueba)
+Fuente: Instituto de Investigación de Capgemini, IA generativa, Encuesta Ejecutiva, abril de 2023, N = 800 organizaciones.
+*Pregunta formulada: ¿En qué función empresarial(s) utiliza o planea utilizar IA generativa su organización con más frecuencia? Seleccione todas las que apliquen:
+Las organizaciones utilizan o planean implementar IA generativa con más frecuencia en TI, ventas y servicio al cliente, y mercadotecnia.
+Más de la mitad (54 por ciento) de los ejecutivos dicen que su organización utiliza o planea utilizar IA generativa en la función de TI, y ligeramente menos de la mitad en ventas (47 por ciento) y mercadotecnia (46 por ciento) (ver Figura 15).
+La función empresarial principal en la que los ejecutivos dicen que su organización utiliza o planea utilizar IA generativa varía según la industria:
+• Fabricación (p. ej., modelado 3D) –Automotriz (73 por ciento)
+–Fabricación industrial (65 por ciento)
+Instituto de Investigación de Capgemini 2023APROVECHANDO EL VALOR DE LA IA GENERATIVA: CASOS DE USO PRINCIPALES EN INDUSTRIAS• TI (por ejemplo, asistente de prueba y codificación)
+– Alta tecnología (86 por ciento)
+– Telecomunicaciones (71 por ciento)
+– Aeroespacial y defensa (69 por ciento)
+• Diseño de productos/investigación y desarrollo (por ejemplo, 
+generar nuevos diseños, descubrimiento de fármacos más rápido)
+– Farmacéutica y atención médica (63 por ciento)
+• Finanzas (por ejemplo, procesamiento de facturas)
+– Servicios financieros (72 por ciento)
+• Ventas (por ejemplo, optimización de chatbots de soporte de ventas)
+– Minorista (62 por ciento) 
+– Energía y servicios públicos (52 por ciento) 
+• Mercadotecnia y comunicaciones (por ejemplo, creación 
+de campañas de marketing personalizadas)
+– Productos de consumo (58 por ciento) 31
+Instituto de Investigación de Capgemini 2023APROVECHANDO EL VALOR DE LA IA GENERATIVA: CASOS DE USO PRINCIPALES EN DIVERSAS INDUSTRIASFig.16
+Generación de datos sintéticos es el principal caso de uso en TI
+32%
+31%
+28%2%
+4%
+5%
+Piloto/Implementación de POC
+TRES CASOS DE USO DE IA GENERATIVA PRINCIPALES EN TI
+Auto-generación y
+completitud de tablas de datosMejora de la entrega de servicios de TI a través de
+chatbots y asistentes virtualesGeneración de datos sintéticos
+Fuente: Instituto de Investigación de Capgemini, Encuesta Ejecutiva de IA Generativa, abril de 2023, N=314-384 organizaciones.
+Casos de uso principales por función empresarial
+En nuestra encuesta, evaluamos 32 casos de uso funcionales para IA generativa, preguntando a los ejecutivos qué etapa de implementación tenía su organización para cada uno. En las secciones siguientes, destacamos los tres casos de uso principales para cada función según el porcentaje de ejecutivos que dijeron que su organización tenía pilotos o pruebas de concepto (PoC) en curso. También discutimos el valor que estos casos de uso podrían aportar a las organizaciones.
+La IA generativa puede ayudar a los desarrolladores de varias maneras
+La IA generativa está revolucionando el mundo de TI, entregando mayor productividad, ciclos de desarrollo más rápidos y mayor precisión y calidad. Nuestra encuesta revela que el 5 por ciento de las organizaciones ya la utilizan para la auto-generación y completitud de tablas de datos, el 4 por ciento para chatbots en la entrega de servicios de TI y el 2 por ciento para la generación de datos sintéticos (ver Figura 16).
+32 Instituto de Investigación de Capgemini 2023APROVECHANDO EL VALOR DE LA IA GENERATIVA: CASOS DE USO PRINCIPALES EN INDUSTRIASAl utilizar inteligencia artificial generativa para generar y poblar tablas de datos, los usuarios pueden redirigir tiempo y esfuerzo hacia el pensamiento estratégico. La plataforma de Google aprovecha el procesamiento de lenguaje natural (NLP) y algoritmos de ML para lograr esto. Esta característica permite a los usuarios organizar y analizar sus datos rápidamente, lo que mejora la productividad.11
+
+Los modelos de inteligencia artificial generativa también pueden crear nuevo código de programación basado en prompts de lenguaje natural, ayudar a completar código parcialmente escrito y facilitar la traducción de código entre diferentes lenguajes de programación. Un director en una empresa de telecomunicaciones comenta: "La gran mayoría de nuestros desarrolladores internos quieren utilizar la tecnología porque creen que les permitirá producir código de alta calidad mucho más rápido".
+
+Duolingo, una aplicación de aprendizaje de idiomas renombrada, ha adoptado la herramienta de inteligencia artificial generativa de GitHub, GitHub Copilot, para ayudar a sus desarrolladores a escribir y "enviar" (entregar al cliente) código con una velocidad y precisión sin precedentes, reduciendo significativamente los ciclos de desarrollo. Además, la inteligencia artificial generativa habilita pruebas automatizadas, asegurando la confiabilidad y robustez del software mientras minimiza errores y mejora la cobertura de pruebas en general. Girish Mathrubootham, CEO de Freshworks, coincide: "Usamos ChatGPT para escribir código. El desarrollo de software solía tomar de ocho a 10 semanas; ahora puede hacerse en menos de una semana".11
+
+La inteligencia artificial generativa también está rompiendo barreras en datos sintéticos. Al entrenar algoritmos con muestras de datos del mundo real, el modelo generativo aprende patrones, detecta correlaciones y reconoce propiedades estadísticas. Los datos sintéticos retienen las mismas percepciones y correlaciones que los originales, lo que los hace un proxy confiable.12 Las organizaciones de autos autónomos como Cruise y Waymo utilizan datos sintéticos generados por IA para entrenar sistemas de percepción y preparar vehículos para escenarios del mundo real durante operaciones.13 Las organizaciones esperan optimizar sus operaciones de ventas y brindar un mejor servicio al cliente a través de chatbots.
+
+Según nuestra encuesta, el 6 por ciento de las organizaciones están utilizando inteligencia artificial generativa para optimizar operaciones de ventas; el 6 por ciento para optimizar chatbots de soporte a ventas; y el 4 por ciento para mejorar la participación del cliente a través de asistentes virtuales impulsados por inteligencia artificial generativa (ver Figura 17). Mike Hales, propietario de producto de una plataforma de inteligencia artificial conversacional en BT Group, explica su interés en inteligencia artificial generativa.IA: "Las conversaciones con guion tienen un flujo unidireccional y no hay desviación. Los clientes pueden desviarse en otras direcciones. Estamos explorando el uso de IA generativa para ayudar a envolver estas conversaciones y construir conversaciones más rápidamente y de manera más eficiente".
+
+La IA generativa automatiza tareas como la generación de correos electrónicos y resúmenes de conversaciones, ahorrando tiempo y esfuerzo y mejorando la productividad de los equipos de ventas. Esta optimización de operaciones permite a los equipos de ventas centrarse en actividades de alto valor, como construir relaciones con los clientes y cerrar tratos. Además, las organizaciones pueden utilizar chatbots impulsados por IA generativa para proporcionar un servicio al cliente más rápido y preciso, lo que conduce a tiempos de respuesta más rápidos y una mayor participación.
+
+Outreach, una plataforma de ejecución de ventas líder, lanzó Smart Email Assist, que utiliza IA generativa para auto-generar copias de correo electrónico precisas y relevantes basadas en patrones detectados en conversaciones previas entre compradores y vendedores. La organización también planea agregar nuevas capacidades para mejorar la productividad de los vendedores, mejorar las tasas de conversión y aumentar la participación y el logro en los equipos.
+
+Slack, una aplicación de chat empresarial propiedad de Salesforce, ha integrado ChatGPT para entregar resúmenes de conversaciones instantáneos, proporcionar herramientas de investigación, redactar mensajes y encontrar respuestas en relación con varios proyectos o temas. Amazon está trabajando en infundir IA generativa en su aplicación de compras. La intención de Amazon es mejorar la experiencia de compra utilizando LLMs para comunicarse de manera más efectiva con el cliente.
+
+Utilizar IA generativa como asistente virtual es el caso de uso principal en ventas y servicio al cliente
+35%
+33%
+32%4%
+6%
+6%
+Piloto/Implementación de prueba
+LOS TRES CASOS DE USO DE IA GENERATIVA MÁS COMUNES EN VENTAS Y SERVICIO AL CLIENTE
+Optimizar chatbots de soporte de ventas Optimizar y simplificar operaciones de ventasAsistentes virtuales para la participación del cliente
+Fuente: Instituto de Investigación de Capgemini, Encuesta Ejecutiva de IA Generativa, abril de 2023, N = 272-340 organizaciones.
+Instituto de Investigación de Capgemini 2023
+APROVECHANDO EL VALOR DE LA IA GENERATIVA: CASOS DE USO PRINCIPALES EN DIFERENTES INDUSTRIAS"Las conversaciones con guión tienen un flujo unidireccional y no hay desviación. Los clientes pueden desviarse en otras direcciones. Estamos explorando el uso de IA generativa para ayudar a envolver estas conversaciones y construir conversaciones más rápidamente y de manera más eficiente."
+
+Mike Hales
+Propietario de producto de una 
+plataforma de IA conversacional 
+en BT Group35
+Instituto de Investigación de Capgemini 2023APROVECHANDO EL VALOR DE LA IA GENERATIVA: CASOS DE USO PRINCIPALES EN DIVERSAS INDUSTRIASEl AI generativo podría permitir que las organizaciones de marketing y comunicaciones 
+alcancen a sus clientes de manera más efectiva. 
+Las organizaciones están pilotando el AI generativo en marketing y comunicaciones 
+para crear y optimizar sus campañas, y también para mejorar su targeting de clientes (30 por ciento) (véase la Figura 18).
+Las organizaciones pueden impulsar iniciativas de marketing personalizadas a gran escala 
+y los marketers pueden crear contenido personalizado, ofrecer recomendaciones de productos 
+personalizadas y crear experiencias que resuenen con sus audiencias objetivo. 
+Este nivel elevado de personalización impulsa la participación del cliente, lo que conduce a 
+tasas de conversión más altas. El AI generativo habilita el procesamiento eficiente de 
+grandes cantidades de retroalimentación del cliente en tiempo real, descubriendo patrones, 
+sentimientos y valiosos conocimientos para refinar las campañas de marketing y mejorar 
+las experiencias del cliente en general.Mensajes sintéticos como porcentaje de todos los mensajes de marketing salientes 
+de grandes organizaciones se proyecta que aumenten al 30 por ciento para 2025, 
+un salto impresionante desde el menos del 2 por ciento registrado en 2022.17 Jasper, 
+una versión enfocada en marketing de GPT-3, es capaz de producir contenido 
+frente al cliente, incluyendo blogs, publicaciones en redes sociales, copias web, 
+correos electrónicos de ventas y anuncios. La organización prueba activamente 
+sus salidas y ajusta sus modelos GPT-3 (que pueden entender y generar lenguaje 
+natural) utilizando las mejores salidas de sus clientes, lo que resulta en mejoras 
+sustanciales con el tiempo. En VMWare, una organización de computación en la nube, 
+los escritores utilizan Jasper para crear contenido de marketing original, que abarca 
+campañas por correo electrónico, promociones de productos y copias en redes sociales.18 
+Adobe Firefly, una familia de modelos de IA generativos creativos, permite a las 
+organizaciones elevar sus estrategias de marketing y experiencia al generar contenido 
+en su propio lenguaje y estilo de marca. Esto permite a las organizaciones crear 
+experiencias de cliente coherentes y interacciones personalizadas a gran escala.19 
+Fig.18
+Personalizar contenido es el caso de uso principal en marketing
+30%
+30%
+30%
+2%
+2%
+3%
+Piloto/Implementación de POC
+TOP TRES CASOS DE USO DE IA GENERATIVA EN MARKETING Y COMUNICACIONES
+Mejorar la segmentación y targeting del cliente
+Análisis de retroalimentación del cliente en tiempo real
+Crear y optimizar campañas de marketing
+Fuente: Instituto de Investigación de Capgemini, Encuesta Ejecutiva de IA Generativa, abril de 2023 N=235-263 
+organizaciones.37
+Instituto de Investigación de Capgemini 2023
+APROVECHANDO EL VALOR DE LA IA GENERATIVA: CASOS DE USO PRINCIPALES EN TODAS LAS INDUSTRIASFig. 19
+Generar conceptos de diseño es el caso de uso principal en diseño/I+D
+32%
+27%
+24%2%
+4%
+4%
+Implementación de piloto/POC
+TRES CASOS DE USO DE IA GENERATIVA PRINCIPALES EN DISEÑO/I+D
+Pruebas y procesos de validación de productos
+Optimizar el rendimiento y funcionalidad de productos
+Generar recomendaciones de nuevos conceptos de diseño/configuraciones
+Fuente: Instituto de Investigación de Capgemini, Encuesta Ejecutiva de IA Generativa, abril de 2023, N=279-325 organizaciones.
+El diseño generativo está abriendo 
+el camino en I+D de productos
+El diseño generativo puede explorar rápidamente una variedad de posibilidades de diseño en la fase de I+D. Los modelos generan un número de variaciones en un corto período de tiempo, incluyendo opciones que podrían considerarse fuera del rango natural de la creatividad humana. Este es el caso de uso que genera más interés experimental entre las organizaciones que encuestamos, con un 32 por ciento, como se ve en la Figura 19. Las organizaciones podrían confiar en la IA generativa para evaluar proactivamente las direcciones de diseño de productos según variables y criterios predefinidos, realizar iteraciones de diseño según retroalimentación más rápido y desarrollar experiencias de productos multimodales.
+En una aplicación interesante de la IA generativa, la NASA desarrolló hardware de misión llamado "estructuras evolucionadas", que se utilizarán en telescopios espaciales y escáneres de la atmósfera terrestre, entre otros usos. Ryan McClelland, ingeniero de investigación en el Centro de Vuelo Espacial de Goddard de la NASA en Greenbelt, Maryland, explica: "Puedes realizar el diseño, análisis y fabricación de una parte prototipo, y tenerla en mano en tan solo una semana". Agrega: "Encontramos que realmente reduce el riesgo. Las partes generadas por el algoritmo tienen factores de estrés casi diez veces menores que las partes producidas por diseño humano".2038
+Instituto de Investigación de Capgemini 2023APROVECHANDO EL VALOR DE LA IA GENERATIVA: CASOS DE USO PRINCIPALES EN INDUSTRIASFig.20
+Responder a consultas es el principal caso de uso en gestión de riesgos 
+26%
+24%
+22%3%
+6%
+4%
+Implementación de piloto/POC
+TRES CASOS DE USO DE IA GENERATIVA PRINCIPALES EN GESTIÓN DE RIESGOS
+Redacción y revisión de
+documentos legales y regulatoriosMejora de la evaluación y predicción de riesgos a través del análisis de datos en tiempo realRespuesta a consultas mediante el análisis de información confidencial en documentos legales
+Fuente: Instituto de Investigación de Capgemini, Encuesta Ejecutiva de IA Generativa, abril de 2023, N=97-1253 organizaciones.La IA generativa podría ofrecer una visión más clara del riesgo
+Nuestra encuesta revela que las organizaciones están utilizando la IA generativa para analizar, generar, extraer información de y revisar documentos legales y regulatorios, y mejorar la evaluación de riesgos. La IA generativa puede actuar como asistente virtual, apoyando a los oficiales de riesgo en sus roles. El Grupo Paladin, una correduría de seguros digital InsurTech, y Dais Technology, un proveedor de tecnología de seguros, han colaborado para crear UnderwriteAI, una herramienta de IA generativa con acceso a vastos conjuntos de datos que simplifica el proceso de suscripción, entregando velocidad, eficiencia y precisión mejoradas. Esta herramienta especializada mejora la evaluación de riesgos, optimiza la tarificación de productos y genera valiosos conocimientos para corredores y aseguradoras.21 Allen & Overy, un bufete de abogados internacional, ha introducido un chatbot de IA llamado Harvey, construido utilizando la tecnología GPT de OpenAI. Harvey ha pasado por pruebas exhaustivas desde noviembre de 2022, específicamente para tareas como la redacción de documentos de fusiones y adquisiciones y memorandos para clientes. El chatbot ahora está disponible para todos los aproximadamente 3,500 abogados de la firma. Este movimiento marca el primer uso conocido de IA generativa dentro del "Círculo Mágico" (un grupo prestigioso de bufetes de abogados con sede en Londres).2239
+Instituto de Investigación de Capgemini 2023APROVECHANDO EL VALOR DE LA IA GENERATIVA: CASOS DE USO PRINCIPALES EN INDUSTRIASMejora del 9%
+esperada en eficiencias operativas y satisfacción del cliente
+en tres años a partir de ahora debido a
+inteligencia artificial generativa40
+Instituto de Investigación de Capgemini 2023APROVECHANDO EL VALOR DE LA INTELIGENCIA ARTIFICIAL GENERATIVA: CASOS DE USO PRINCIPALES EN DIVERSAS INDUSTRIASInformes y detección de fraude son 
+los principales casos de uso en finanzas 
+La generación de lenguaje natural (NLG) es un subconjunto de inteligencia artificial generativa que 
+puede traducir datos financieros estructurados en discurso humano simulado o lenguaje escrito. Esto puede ser útil para generar comentarios 
+sobre informes financieros o para simplificar conceptos financieros complejos. Treinta y ocho por ciento de las organizaciones que encuestamos están pilotando este caso de uso. 
+Los traders, analistas, gerentes de fondos y otros pueden acceder a informes generados por NLG a partir de las numerous fuentes de datos convencionales utilizadas 
+por organizaciones de servicios financieros para informar decisiones.23 The Wall Street Journal se asoció con Narrativa, una organización de plataforma de inteligencia artificial generativa, para crear una herramienta que captura datos de interfaces de programación de aplicaciones (APIs) y, utilizando lenguaje de artículos existentes de The Wall Street Journal, crea borradores para ayudar a reporteros y editores, liberándolos para que puedan pasar más tiempo en análisis.24 Sin embargo, es importante entender que los modelos de inteligencia artificial generativa como GPT-4 tienden a "alucinar" (es decir, "...producir contenido que es absurdo o no veraz en relación con ciertas fuentes"). Así que, aunque la tecnología puede ayudar a crear borradores iniciales, es crítico asegurarse de la corrección y precisión, particularmente para la presentación de informes corporativos. 
+La detección de fraude es el segundo caso de uso más comúnmente investigado (ver Figura 21). La inteligencia artificial generativa puede ser utilizada para analizar patrones en transacciones de tarjeta de crédito, identificando anomalías o comportamientos inusuales. Notablemente, los datos sintéticos generativos de inteligencia artificial que se asemejan a transacciones fraudulentas pueden ser utilizados para entrenar modelos analíticos. Fig.21
+Realizar informes financieros es el caso de uso principal en finanzas
+38%
+34%
+32%4%
+5%
+1%
+Piloto/ImplementaciónTOP TRES CASOS DE USO DE INTELIGENCIA ARTIFICIAL GENERATIVA EN FINANZAS
+Presupuesto, pronóstico de flujo de cajaDetección de fraudeInformes financieros
+Fuente: Instituto de Investigación de Capgemini, Encuesta Ejecutiva de Inteligencia Artificial Generativa, abril de 2023, N=71-84 organizaciones.41
+Instituto de Investigación de Capgemini 2023APROVECHANDO EL VALOR DE LA INTELIGENCIA ARTIFICIAL GENERATIVA: CASOS DE USO PRINCIPALES EN INDUSTRIASFig.22
+El uso de análisis predictivos es el caso de uso principal en logística/operaciones
+39%
+25%
+22%2%
+2%
+3%
+Implementación de piloto/POC
+TRES CASOS DE USO DE IA GENERATIVA PRINCIPALES EN LOGÍSTICA/OPERACIONES
+Mejora de la gestión de almacenes
+a través del seguimiento de inventario automatizado Reducción de costos de transporte
+a través de la optimización de rutas Optimización de la planificación y gestión de la cadena de suministro
+a través de análisis predictivos
+Fuente: Instituto de Investigación de Capgemini, Encuesta Ejecutiva de IA Generativa, abril de 2023, N=149-185 organizaciones.
+Las cadenas de suministro en línea para una actualización de IA generativa
+La IA generativa puede ayudar con la optimización del transporte, la gestión de almacenes, la planificación y gestión de la cadena de suministro y la resolución de problemas en la cadena de suministro. Por ejemplo, Inspecterio, un proveedor de software como servicio (SaaS) para la cadena de suministro, lanzó una herramienta de IA generativa impulsada por ChatGPT que extrae datos de la ecosistema de proveedores de una organización para proporcionar acciones correctivas y preventivas para mejorar el rendimiento de la cadena de suministro.25
+Project44, una organización que proporciona soluciones de visibilidad de la cadena de suministro, lanzó Movement GPT, una herramienta que invita a los usuarios a enviar solicitudes de datos como "Muéstrame todos mis envíos afectados por el clima en Europa del Norte" o "¿Tengo opciones de enrutamiento más confiables para mi próximo envío?". Esto les permite identificar riesgos en la cadena de suministro y responder o anticiparse en consecuencia.26 42
+Instituto de Investigación de Capgemini 2023APROVECHANDO EL VALOR DE LA IA GENERATIVA: CASOS DE USO PRINCIPALES EN DIFERENTES INDUSTRIAS•Transformar bocetos y descripciones en diseños de productos 3D
+•Realizar brainstorming creativo (por ejemplo, nuevas ideas, variaciones de ofertas existentes a partir de datos y retroalimentación de clientes)
+•Personalizar ofertas a gran escala
+•Refinar marketing dirigido basado en comportamiento y preferencias del consumidor
+•Automatizar segmentación de consumidores
+•Generar contenido personalizado utilizando perfiles de consumidores y conocimientos de la comunidad
+•Personalizar jornadas de compra y ofertas exclusivas basadas en perfiles de consumidores
+•Mejorar el servicio al cliente con chatbots/virtual assistants multilingües que abordan consultas complejas
+•Crear avatares de clientes únicos con información contextual de todas las interacciones
+•Crear ofertas inclusivas que atienden a consumidores diversos
+•Incrementar operaciones de almacén y gestión de inventario a través de análisis en tiempo real
+•Evitar cuellos de botella a través de análisis predictivos avanzados y monitoreo en tiempo real
+•Asistencia de codificación y pruebas para aumentar la eficiencia y reducir el esfuerzo manual
+•Simplificar flujos de trabajo automatizando tareas repetitivas
+•Generar datos sintéticos
+•Desarrollar contenido de capacitación para empleados basado en función y desempeño
+•Habilitar autoservicio y automatizar tareas de soporte (por ejemplo, tickets de recursos humanos, análisis y presentación de informes financieros, revisión de documentos legales)
+
+DIFERENCIACIÓN DE PRODUCTOS Y INNOVACIÓN VENTAS Y MARKETING EXPERIENCIA DEL CONSUMIDOR
+OPERACIONES Y CADENA DE SUMINISTRO DESARROLLO DE IT FUNCIONES DE SOPORTE
+
+Fuente: Análisis del Instituto de Investigación de Capgemini. Fig. 23
+El poder del AI generativo desbloqueado en toda la cadena de valor
+El AI generativo tiene el potencial de ser una fuerza transformadora en todos los aspectos de la cadena de valor, así como en las interacciones con clientes y empleados.43
+Instituto de Investigación de Capgemini 2023APROVECHANDO EL VALOR DEL AI GENERATIVO: CASOS DE USO PRINCIPALES EN TODAS LAS INDUSTRIASLÍDERES TECNOLÓGICOS EN 
+IMPLEMENTACIÓN DE IA GENERATIVA44
+Instituto de Investigación de Capgemini 2023APROVECHANDO EL VALOR DE LA IA GENERATIVA: CASOS DE USO PRINCIPALES EN DIVERSAS INDUSTRIASFig.24
+La alta tecnología y la venta al por menor lideran en la implementación de iniciativas de IA generativa
+Fuente: Instituto de Investigación de Capgemini, Encuesta Ejecutiva de IA Generativa, abril de 2023, N=800 organizaciones; N=29–127 organizaciones por sector.
+Manufactura industrialEnergía y servicios públicosAeroespacial y DefensaTelecomunicacionesAutomotrizProductos de consumoServicios financierosFarmacéutica y atención médicaVenta al por menorAlta tecnologíaPromedio% DE LAS ORGANIZACIONES QUE ESTÁN DE ACUERDO CON LA DECLARACIÓN SOBRE LA MADUREZ DE IA GENERATIVA POR SECTOR
+53% 41% 6%
+14% 68% 18%
+34% 48% 17%
+56% 37% 7%
+47% 47% 6%
+61% 35% 4%
+68% 28% 4%
+47% 49% 4%
+53% 44% 3%
+64% 33% 3%
+55% 45%
+Hemos comenzado a explorar el potencial de la IA generativa
+Hemos comenzado a trabajar en algunos pilotos de iniciativas de IA generativa
+Hemos habilitado capacidades de IA generativa en algunas de nuestras ubicaciones/funciones
+El sector de alta tecnología lidera en la implementación de iniciativas de IA generativa
+Casi el 70% de los ejecutivos dentro del sector de alta tecnología dice que sus organizaciones tienen pilotos de IA generativa en curso, y el 18% dice que han habilitado capacidades de IA generativa en algunas ubicaciones o funciones. Casi la mitad de los ejecutivos en la venta al por menor, servicios financieros y telecomunicaciones tienen pilotos de IA generativa en curso, y el 17% de los ejecutivos de la venta al por menor dice que han habilitado capacidades de IA generativa (ver Figura 24).
+La cadena de restaurantes de comida rápida Wendy's de EE. UU. está trabajando con Google Cloud en una solución de IA generativa llamada Wendy's FreshAI, que se lanzará en junio de 2023. La tecnología está transformando la experiencia de pedido en el drive-through de Wendy's con la IA generativa y los LLM de Google Cloud que tienen la capacidad de discernir las miles de millones de combinaciones de pedidos posibles en el menú de Wendy's.27
+45
+Instituto de Investigación de Capgemini 2023APROVECHANDO EL VALOR DE LA IA GENERATIVA: CASOS DE USO PRINCIPALES EN LAS INDUSTRIASCasos de uso generativos de IA más destacados, 
+por industria
+En nuestra encuesta, evaluamos 38 casos de uso específicos de la industria 
+para IA generativa. Pedimos a los ejecutivos que especificaran la etapa actual de implementación de su organización para cada caso de uso. En la Figura 25, destacamos los dos casos de uso principales para cada industria según el porcentaje de ejecutivos que dijeron que su organización tiene pilotos o pruebas de concepto (PoC) en curso. 
+También discutimos el valor que estos casos de uso podrían aportar a las organizaciones. 
+46
+Instituto de Investigación de Capgemini 2023APROVECHANDO EL VALOR DE LA IA GENERATIVA: CASOS DE USO PRINCIPALES EN TODAS LAS INDUSTRIASFig.25
+Los dos principales casos de uso de IA generativa por industria*
+Fuente: Instituto de Investigación de Capgemini, Encuesta Ejecutiva de IA Generativa, abril de 2023, N = 800 organizaciones; N = 19-99 organizaciones por sector.
+*Los dos principales determinados por el porcentaje de organizaciones que pilotan el caso de uso.
+
+Modelado 3D para crear formas detalladas
+Diseño inverso, compuesto enteramente de nuevos materiales para capturar propiedades físicas específicas (ciencia de materiales)
+Generación de escenarios y pruebas de seguridad y rendimiento en un entorno simulado
+Personalización de características y configuraciones de vehículos según preferencias individuales de los clientes
+Experiencia del consumidor hiperpersonalizada y multisensorial
+Encuentra audiencias nicho para encuestas
+Generación de datos sintéticos
+Diseño inverso, compuesto enteramente de nuevos materiales para capturar propiedades físicas específicas (ciencia de materiales)
+Generación de datos sintéticos de clientes
+Mejora del perfil de prospectos y recomendaciones de productos personalizadas para gerentes de cuentas
+Modelado 3D para crear formas detalladas
+Mantenimiento predictivo
+Diseño generativo de partes optimizadas para cumplir con objetivos y restricciones específicas
+Modelado 3D para crear formas detalladas
+Descubrimiento de fármacos y terapias avanzadas
+Generar, predecir y comprender datos biomoleculares
+Chatbots de servicio al cliente en tiempo real, eficientes y autooptimizantes
+Crear campañas publicitarias creativas y anuncios visualmente atractivos
+Análisis de centro de llamadas
+Restauración de medios antiguos41%
+36%
+25%
+24%
+42%
+30%
+33%
+24%
+34%
+31%
+58%
+58%
+30%
+22%
+35%
+32%
+63%
+36%
+36%
+30%
+
+Uso del caso por industria% de organizaciones que pilotan el caso de uso% de organizaciones que implementan el caso de uso
+AEROSPACE Y DEFENSA
+AUTOMOTRIZ
+PRODUCTOS DE CONSUMO
+ENERGÍA Y SERVICIOS PÚBLICOS
+SERVICIOS FINANCIEROS
+ALTA TECNOLOGÍA
+FABRICACIÓN INDUSTRIAL
+FARMA Y ATENCIÓN MÉDICA
+VENTA AL POR MENOR
+TELECOMUNICACIONES4%
+0%
+1%
+3%
+0%
+0%
+2%
+4%
+6%
+8%
+20%
+10%
+0%
+4%
+2%
+2%
+11%
+0%
+2%
+0%
+47
+Instituto de Investigación de Capgemini 2023APROVECHANDO EL VALOR DE LA IA GENERATIVA: CASOS DE USO PRINCIPALES EN LAS INDUSTRIASLa inteligencia artificial generativa ofrece capacidades de diseño mejoradas para la industria aeroespacial y de defensa, así como para el sector de alta tecnología.
+
+Cuarenta y un por ciento de las organizaciones de la industria aeroespacial y de defensa y el 58 por ciento de las organizaciones de alta tecnología en nuestra encuesta están probando la inteligencia artificial generativa en modelado 3D. Al emplear algoritmos de inteligencia artificial generativa, los ingenieros y diseñadores pueden optimizar el proceso de diseño, simplificando geometrías complejas y creando estructuras innovadoras para aeronaves, naves espaciales y sistemas de defensa. Esta tecnología permite la producción de componentes livianos, altamente eficientes y aerodinámicos, mejorando el rendimiento y reduciendo costos. Los investigadores de Boeing están utilizando modelos de inteligencia artificial generativa para explorar nuevas formas de optimizar el diseño de aeronaves. "Cuando los humanos diseñan una estructura, tienden a repetir patrones existentes. Sin embargo, cuando se le pide a la IA que genere un diseño desde cero, no necesariamente sigue los mismos patrones que los ingenieros humanos. Debido a que [la IA] puede poner más complejidad en su cerebro electrónico de lo que puede un humano, puede optimizar en un espacio más amplio", explica Todd Citron, CTO de Boeing. Los modelos 3D de alta fidelidad son caros de producir e implementar. Los desarrolladores de juegos y estudios pueden aprovechar la inteligencia artificial generativa para producirlos de manera eficiente y rápida, reduciendo los costos de desarrollo. Nvidia, una organización tecnológica con sede en EE. UU., acaba de lanzar nuevas tecnologías de inteligencia artificial generativa para crear mundos virtuales emocionantes a través de su plataforma Omniverse. Nextech3D.AI, un proveedor de modelos 3D impulsado por inteligencia artificial generativa para importantes minoristas en línea como Amazon, P&G y Kohls, ha lanzado tecnología que permite la generación de materiales 3D a partir de instrucciones de texto.La industria automotriz 
+ve pilotos de IA generativa 
+revolucionando procesos de diseño y 
+personalización
+En nuestra encuesta, casi un cuarto de los ejecutivos de la industria automotriz afirma que su organización está pilotando IA generativa en los procesos de diseño y personalización. La IA generativa mejora el desarrollo de vehículos autónomos, generando y probando escenarios para la seguridad y el rendimiento, personalizando características de vehículos según las preferencias del cliente, optimizando el diseño de piezas; habilitando el mantenimiento predictivo y simplificando los procesos de seguro automotriz. La red de IA de Audi, FelGAN, utiliza una red adversarial generativa (GAN, un tipo de marco de ML) para generar nuevos diseños de ruedas ligeras para sus coches.31 General Motors está trabajando en el desarrollo de un asistente en el coche utilizando ChatGPT. Esta herramienta se utilizará para integrar horarios, predecir la necesidad de abrir puertas de garaje y ayudar a los conductores a entender sus coches.32 Productos de consumo y líderes minoristas utilizan casos de uso en 
+experiencia del cliente
+La tecnología de IA generativa puede transformar los viajes del cliente, haciéndolos más eficientes, efectivos y atractivos. Cuarenta y dos por ciento de las organizaciones de productos de consumo en nuestra encuesta están pilotando IA generativa en el viaje del cliente para hacerlo más personalizado, y el 63 por ciento de las organizaciones minoristas afirma que están utilizando IA generativa para mejorar los chatbots de atención al cliente. La empresa de servicios de ropa Stitch Fix ya utiliza IA para hacer recomendaciones a los clientes y está experimentando con DALL-E 2 para crear visualizaciones de ropa basadas en las preferencias del cliente solicitadas por color, tela y estilo.33 Con la ayuda del servicio de Azure Open AI de Microsoft, CarMax, un minorista de automóviles con sede en EE. UU., ha simplificado la creación de resúmenes de texto para sus páginas de investigación de coches, proporcionando rápidamente a los clientes contenido significativo que también mejora los rankings de motores de búsqueda.34 Energía y servicios públicos y 
+servicios financieros utilizan 
+IA generativa para crear 
+datos sintéticos
+Un tercio de los ejecutivos en energía y servicios públicos y un tercio en servicios financieros afirman que sus organizaciones están pilotando IA generativa para producir datos sintéticos, lo que puede acortar los plazos de desarrollo. La IA generativa puede aprender las complejas relaciones en los conjuntos de datos originales y producir datos que reflejan de manera más confiable estos patrones únicos. La generación de datos sintéticos también puede facilitar la compartición de datos internos, especialmente en organizaciones que almacenan conjuntos de datos de alta volumen, complejos y variados (por ejemplo, en energía y servicios públicos o servicios financieros). También puede proteger contra las preocupaciones de privacidad en industrias reguladas, ya que almacena las relaciones y patrones en los datos sin la necesidad de almacenar datos individuales.3549
+Instituto de Investigación de Capgemini 2023APROVECHANDO EL VALOR DE LA IA GENERATIVA: CASOS DE USO PRINCIPALES EN INDUSTRIASEn los sectores de energía y servicios públicos, la IA generativa también se puede utilizar para rastrear y predecir el consumo de energía. Un proyecto piloto lanzado por el proveedor de energía estadounidense Gridmatic y el proveedor de servicios de internet EdgeConneX utilizó un enfoque de energía libre de carbono (CFE) 24/7 para impulsar y rastrear la fuente y utilización de energía limpia. Al predecir y igualar la oferta a la demanda en una base horaria, la IA de Gridmatic ha habilitado la CFE las 24 horas del día para un centro de datos de Texas.36
+
+En los servicios financieros, la IA generativa puede habilitar la detección de fraude, mejorar la calificación crediticia y generar pronósticos financieros y escenarios precisos. Bloomberg ha anunciado su modelo de finanzas generativo BloombergGPT, que es capaz de análisis de sentimiento, clasificación de noticias y otras tareas financieras a un nivel comparable con el logrado por analistas humanos.37 Swedbank AB entrenó GANs utilizando unidades de procesamiento de gráficos (GPUs) de Nvidia como parte de su estrategia de prevención de fraude y lavado de dinero.38 Los fabricantes industriales están optimizando partes con pilotos de IA generativa.
+
+Treinta por ciento de los ejecutivos de manufactura industrial en nuestra encuesta dicen que su organización está pilotando el diseño de partes personalizadas y optimizadas con IA generativa y mantenimiento predictivo que puede reducir costos generales y tiempo de inactividad costoso. CUPRA, una marca de alto rendimiento de Volkswagen, optimiza el diseño y la fabricación de componentes de vehículos utilizando PTC Creo, que crea y prueba prototipos de partes 3D antes de la fabricación, reduciendo significativamente el tiempo de lanzamiento al mercado para nuevos vehículos mientras logra una optimización de peso de componentes del 10 por ciento, lo que resulta en una reducción de costos del 15 por ciento.39Farmacéutica y atención médica listas para 
+acelerar I+D, con la ayuda de 
+IA generativa
+
+Las organizaciones farmacéuticas y de atención médica en nuestra encuesta 
+están implementando IA generativa para pilotos en descubrimiento de fármacos 
+y terapéutica (35 por ciento) y generando, prediciendo y entendiendo datos biomoleculares (32 por ciento). Organizaciones biotecnológicas, incluyendo Cradle, Basecamp Research, Arzeda, Biomatter Designs, Cambrium y Absci, están diseñando nuevas proteínas desde cero utilizando IA generativa.40 Además, Profluent Bio, una organización biotecnológica con sede en EE. UU., utiliza LLM para diseñar proteínas enteras.41
+
+Las organizaciones de telecomunicaciones lideran 
+el cargo para IA generativa en centros de llamadas
+
+Más de un tercio (36 por ciento) de los ejecutivos de telecomunicaciones en nuestra encuesta dicen que su organización está pilotando IA generativa en análisis de centros de llamadas. La IA generativa puede jugar un papel fundamental en el sector de telecomunicaciones mejorando las interacciones de atención al cliente; optimizando el diseño y las arquitecturas de la red; restaurando medios antiguos; y facilitando la generación de texto a video para la cinematografía, impulsando la innovación y la eficiencia. 
+Orange está explorando un centro de contacto de próxima generación con Google Cloud, probando IA generativa para transcribir llamadas, resumir interacciones con clientes y sugerir acciones de seguimiento.42La huella de carbono de la construcción de IA generativa es masiva
+
+A medida que se intensifica la carrera por construir herramientas y plataformas impulsadas por IA generativa de alto rendimiento, una preocupación urgente es el aumento significativo en el poder de cálculo y el impacto posterior en el consumo de energía y las emisiones de carbono. La capacitación de GPT-3, que forma la base de ChatGPT, se estima que consumió 1,287 MWh de energía y generó más de 550 toneladas de emisiones de carbono. Esto es aproximadamente diez veces más alto que las emisiones generadas por un automóvil promedio durante su vida útil.43El impacto de la IA generativa en 
+la sostenibilidad 
+
+PORCENTAJE DE EJECUTIVOS QUE ESTÁN DE ACUERDO CON LAS DECLARACIONES
+78%
+77%Nuestra organización es consciente de la necesidad de 
+implementar y escalar la IA generativa de manera sostenibleLa IA generativa puede tener una huella de carbono mayor que los programas de TI tradicionales
+Fuente: Instituto de Investigación de Capgemini, Encuesta Ejecutiva de IA Generativa, abril de 2023, N = 800 organizaciones.Fig.26
+La mayoría de las organizaciones entienden que la IA generativa tiene una huella de carbono mayor que la de los programas de TI tradicionales y la necesidad de escalar de manera sostenible. Sin embargo, el impacto ambiental se extiende más allá de la capacitación. Servir a millones de usuarios con estos modelos amplifica aún más las demandas de energía. Integrar la IA generativa en motores de búsqueda como Microsoft Bing, que maneja alrededor de medio billón de búsquedas diarias, requiere al menos cuatro veces más poder de cálculo por búsqueda que en un producto independiente.44 Los ejecutivos en nuestra encuesta son conscientes de esto; el 78% está de acuerdo en que la IA generativa puede tener una huella de carbono mayor que los programas de TI tradicionales (ver Figura 26).52
+Instituto de Investigación de Capgemini 2023APROVECHANDO EL VALOR DE LA IA GENERATIVA: CASOS DE USO PRINCIPALES EN INDUSTRIASEl AI generativo puede llevar a una huella de carbono más pequeña
+
+Las organizaciones también tienen altas expectativas de sostenibilidad en cuanto al AI generativo, incluyendo una reducción proyectada del 9 por ciento en la huella de carbono a nivel organizativo en los próximos tres años. Airbus utiliza algoritmos de IA en su proceso de diseño generativo para desarrollar partes más ligeras para sus aeronaves, lo que resulta en un menor consumo de combustible y, en consecuencia, un menor impacto ambiental. El diseño inicial fue un 45 por ciento más ligero que la parte tradicional y se proyecta que reducirá las emisiones anuales de CO2 de Airbus en casi medio millón de toneladas métricas (tm) si se implementa en toda su flota A320.45 Actualmente, el impacto neto del AI generativo en las emisiones de carbono es incuantificable, pero podemos empezar a mitigarlas (ver recomendaciones).
+
+Las herramientas de AI generativo están impulsando conversaciones sobre sostenibilidad
+
+Las herramientas de AI generativo pueden hacer que la presentación de informes de responsabilidad social corporativa (RSC) sea más fácil para las organizaciones. Utilizando los datos alimentados a ellas, pueden crear un borrador inicial que los equipos pueden luego refinar para asegurarse de que se alinea con los estándares de presentación de informes. C3 AI, por ejemplo, utiliza AI generativo para unificar y almacenar datos ESG dispares y automatizar la presentación de informes.46 En otra aplicación interesante, Ekimetrics, una empresa de datos y IA francesa, lanzó un chatbot que responde a preguntas de los usuarios sobre el clima, como: "¿Los seres humanos son responsables del cambio climático? ¿Cuáles son los principios fundamentales del Acuerdo de París? ¿Es irreversible el cambio climático?" Para asegurar la confiabilidad de las respuestas, el chatbot solo puede obtener información de informes científicos de agencias como el Panel Intergubernamental sobre el Cambio Climático (IPCC).47
+
+Las organizaciones reconocen la necesidad de implementar y escalar el AI generativo de manera sostenible
+
+Es alentador que, como se muestra en la Figura 26, casi el 80 por ciento de las organizaciones son conscientes de la necesidad de construir AI generativo de manera sostenible. Louis DiCesari, Jefe Global de Datos, Análisis y IA en Levi Strauss, confirma: "A medida que la tecnología madura, deberíamos poder encontrar formas más eficientes de abordar las preocupaciones de sostenibilidad de las organizaciones relacionadas con el AI generativo".
+
+Pocas organizaciones tienen una estrategia para mitigar el impacto ambiental de los modelos de AI generativo
+
+Solo una pequeña minoría (8 por ciento) de las organizaciones globales (es decir, solo 64 organizaciones de la muestra) en nuestra encuesta planea invertir en la capacitación de modelos de AI generativo desde cero. De estas, aproximadamente la mitad han tomado medidas para mitigar su impacto ambiental, como invertir en energía renovable y compensar las emisiones de carbono a través de créditos de carbono. La otra mitad están explorando medidas de mitigación como el uso de hardware más eficiente en energía y la optimización de algoritmos de capacitación.05
+CÓMO LAS ORGANIZACIONES PUEDEN 
+INICIAR SU VIAJE DE IA GENERATIVA54
+Instituto de Investigación de Capgemini 2023APROVECHANDO EL VALOR DE LA IA GENERATIVA: CASOS DE USO PRINCIPALES EN DIVERSAS INDUSTRIASFig.27
+Consideraciones clave para que las organizaciones impulsen iniciativas de IA generativa
+Fuente: Análisis del Instituto de Investigación de Capgemini. Integrar 
+la IA generativa en 
+la estrategia y 
+operaciones de 
+la organización
+Impulsar un 
+enfoque centrado 
+en el ser humano 
+para escalar 
+la IA generativa
+Centrarse en 
+desarrollo sostenible
+Establecer la confianza y 
+la responsabilidad en 
+los sistemas de IA
+Establecer 
+directrices sobre 
+el uso
+IMPULSANDO
+LA IA GENERATIVA
+Sugerimos algunas áreas clave en las que las organizaciones deben enfocarse 
+para acelerar sus jornadas de IA generativa (véase Figura 27) 
+en un paisaje de aplicaciones en constante evolución.
+Integrar la IA generativa en 
+la estrategia y operaciones 
+de la organización
+Ante el fuerte interés en la IA generativa y la proliferación de aplicaciones, 
+las organizaciones deben encontrar respuestas a algunas preguntas clave: 
+• Cliente: Nuestra investigación de consumidores destacó cómo la IA generativa está transformando la búsqueda y el comportamiento de compra en línea.48 También detalla cómo la tecnología podría enriquecer la experiencia del consumidor; por ejemplo, un avatar personalizado podría representar al consumidor a lo largo de la vida de su relación con la marca. Podría actuar como un punto de contacto único, plenamente informado.por datos personales históricos, para guiar al consumidor 
+a través de cada jornada de compra. Al mismo tiempo, 
+es importante invertir en las iniciativas que se alinean 
+con los valores y la misión de la organización, para que 
+los consumidores puedan encontrar consistencia y conexión 
+con la marca.
+
+• Operaciones: En nuestra investigación sobre IA de más 
+de tres años atrás, encontramos que más de la mitad de 
+las organizaciones habían implementado tecnología de IA 
+a gran escala.49 Muchas de estas aplicaciones podrían 
+ampliarse a casos de uso de IA generativa. Sin embargo, 
+las organizaciones necesitan tener un mapa de ruta claro 
+priorizando casos de uso a través de funciones. Una vez 
+identificados los casos de uso, las organizaciones deberían 
+tomar los siguientes pasos.
+
+Determinar si pueden adaptar un modelo pre-entrenado 
+existente o construir uno original según sus propias 
+especificaciones. Elegir el modelo adecuado: Si se selecciona 
+un modelo pre-entrenado, el enfoque óptimo es utilizar 
+el modelo de tamaño óptimo, en lugar de optar por el 
+modelo con el mayor número de parámetros.
+
+Tener en cuenta los requisitos de privacidad de datos: 
+Tres cuartos de las organizaciones de nuestra investigación 
+identificaron la falta de privacidad y protección de datos 
+como una gran preocupación al realizar el potencial total 
+de la IA generativa. Italia, España y Canadá, entre otros 
+países, están investigando cómo OpenAI está recopilando 
+sus datos de entrenamiento.50 Cuando se utilizan modelos 
+pre-entrenados de OpenAI o de otros proveedores del 
+mercado, las organizaciones pueden exponerse a estas 
+responsabilidades.
+
+Entrenar o validar el modelo: En caso de construir desde 
+cero, el modelo de IA necesita ser entrenado, y si se 
+usa un modelo pre-entrenado disponible, las organizaciones 
+todavía necesitarán probar el modelo para asegurarse 
+de su confiabilidad.
+
+Supervisar y actualizar el modelo según la retroalimentación: 
+Una vez implementado el sistema, debe ser supervisado 
+por posibles problemas o sesgos. También es importante 
+recopilar retroalimentación de los usuarios y actualizar 
+el modelo para nuevas condiciones del mercado y 
+cambios en las preferencias o comportamientos de los 
+usuarios.
+
+• Preparación de datos: La mejora de la calidad de los 
+datos y la gestión efectiva de datos acelerarán la 
+implementación del modelo. Para esto, las organizaciones 
+deben investigar la gestión de datos maestros, construir 
+tuberías de datos que automatizan flujos de datos de 
+diferentes fuentes a bases de datos o almacenes de datos, 
+implementar técnicas de limpieza de datos como deduplicación 
+y detección de valores atípicos, y practicar la gestión activa 
+de datos.56Impulsa un enfoque centrado en el ser humano 
+para escalar 
+el IA generativa
+
+Las herramientas de IA generativa son intuitivas de usar, como se refleja en la adopción por parte de los consumidores.51 Mientras que se espera que la tecnología entregue ganancias de productividad, también hay inquietudes en torno a la creciente complejidad y deuda técnica.52 "El potencial de aumento de la deuda técnica y el código huérfano siempre es una preocupación cuando la entrega puede acelerarse", confirma Tracy Daniels, CDO en Truist, una organización de servicios financieros de EE. UU.53 A medida que el trabajo del programador se vuelve más fácil, los CIO deberán gobernar de manera efectiva. En general, las organizaciones deben enfocarse en un enfoque centrado en el ser humano y aumentado por el ser humano para escalar las iniciativas de IA generativa. Enfócate en el desarrollo sostenible 
+
+Como se ve en la Figura 26, las organizaciones son conscientes de la necesidad de implementar y escalar la IA generativa de manera sostenible. A partir de 2021, el sector de tecnologías de la información y la comunicación (TIC) representó del 1,8 al 3,9 por ciento de las emisiones de gases de efecto invernadero (GEI) globales.54 La IA y el ML son responsables solo de una fracción de estas emisiones. Sin embargo, a medida que los LLM ganan prominencia, la contribución de estos sistemas al huella sectorial aumentará significativamente. La capacitación de GPT-3 se estimó que había resultado en más de 550 Mt de CO2, y la Meta Open Pre-trained Transformer (OPT) había resultado en más de 75 Mt de emisiones.55 El modelo de acceso abierto BLOOM, que es del mismo tamaño que GPT-3, tiene una huella mucho más baja de 25 Mt de emisiones de CO2. Las industrias de alta tecnología y retail lideran en la implementación de iniciativas de IA generativa57Ya sea que decidan construir sus propios modelos o confíen en modelos pre-entrenados, las organizaciones deben hacer un esfuerzo concertado para ser más sostenibles. Los pasos para reducir la huella de carbono de los modelos de IA generativa incluyen:
+• Utilizar una arquitectura de modelo óptima
+• Explorar técnicas de compresión de modelos
+• Utilizar computación paralela y distribuida
+• Detención temprana
+• Aumentar el tamaño de lote
+• Utilizar hardware eficiente en energía
+• Utilizar centros de datos eficientes en energíaConstruir confianza y responsabilidad 
+en sistemas de IA 
+La IA generativa hereda ciertos desafíos de la IA. 
+Las preocupaciones en torno a la parcialidad y la incapacidad de explicar los resultados 
+son problemas significativos citados por los ejecutivos en nuestra 
+encuesta (ver Figura 28). En junio de 2023, el Parlamento Europeo aprobó la Ley de IA, que regula el 
+uso de la IA, acercándose un paso más a la legislación. Mientras que 
+la propuesta original de esta ley no contenía referencias a la IA generativa, con el advenimiento y creciente 
+popularidad de ChatGPT, el Consejo de la UE enmendó la ley para incluir la "IA de propósito general", "modelos de fundación" y 
+"IA generativa".56 Estas reglas requerirán que los desarrolladores de herramientas de IA generativa sometan sus sistemas a revisión 
+antes de lanzarlos comercialmente57 y publiquen qué datos con copyright se han utilizado para entrenar sus herramientas.58 Fig.28
+Las organizaciones están preocupadas por los conjuntos de datos subyacentes y posible parcialidad 
+Fuente: Instituto de Investigación de Capgemini, Encuesta Ejecutiva de IA Generativa, abril de 2023, N = 800 organizaciones. Nota: Por "resultados embarazosos" 
+queremos decir resultados indeseables o socialmente inaceptables. PORCENTAJE DE ORGANIZACIONES QUE DICEN QUE LOS SIGUIENTES SON DESAFÍOS 
+PARA IMPLEMENTAR IA GENERATIVA
+51%
+45%
+37%
+36%La parcialidad en los modelos de IA generativa conduce a resultados embarazosos cuando se utilizan con clientes/usuariosIncapacidad de explicar los resultados de los algoritmos de IA generativaFalta de confianza en que los programas de IA generativa sean justos (inclusivos de todos los grupos de población)Falta de claridad sobre los datos subyacentes utilizados para entrenar los programas de IA generativa59
+Instituto de Investigación de Capgemini 2023APROVECHANDO EL VALOR DE LA IA GENERATIVA: CASOS DE USO PRINCIPALES EN INDUSTRIASAdemás de estos desafíos, existen otros riesgos de los que las organizaciones deberían ser conscientes al utilizar modelos de IA generativa:
+• Riesgo heredado – Las organizaciones pueden no tener acceso a los conjuntos de datos utilizados para pre-entrenar modelos. En tales casos, estas organizaciones heredarán los riesgos asociados con estos conjuntos de datos de entrenamiento. Estos podrían ser riesgos legales o daño a la reputación debido a la salida sesgada.
+• Propiedad intelectual – Los conjuntos de datos entrenados en elementos con copyright también podrían generar problemas legales para los jugadores downstream.
+• Corrección – La IA generativa es conocida por producir "alucinaciones",59 con herramientas que suelen ser inquietantemente seguras de su precisión. En un ejemplo de EE. UU., un abogado confió en ChatGPT para preparar un escrito. La herramienta compartió múltiples precedentes, asegurando al abogado que las citas eran confiables; sin embargo, seis de estos casos resultaron ser alucinaciones inventadas por la herramienta y el abogado puede enfrentar sanciones.60
+• Fuga de datos – Los modelos de IA generativa desarrollados desde cero podrían filtrar datos confidenciales a través de prompts no filtrados.
+La figura 29 destaca las áreas clave que las organizaciones deben considerar al construir confianza y responsabilidad en los sistemas de IA.51%
+Citan la falta de claridad sobre los datos subyacentes utilizados para entrenar programas de IA generativa como un desafío60
+Instituto de Investigación de Capgemini 2023APROVECHANDO EL VALOR DE LA IA GENERATIVA: CASOS DE USO PRINCIPALES EN INDUSTRIASFig.29
+Construyendo confianza y responsabilidad en sistemas de IA
+Código de Ética de Capgemini para IA
+CÓDIGO DE ÉTICA
+PARA IA
+IA Transparente y Explicable
+Con resultados que pueden ser entendidos, rastreados y auditados según sea necesario
+IA Robusta y Segura
+Incluyendo planes de contingencia cuando sea necesario
+IA Controlable con responsabilidad clara
+Permitiendo a los humanos tomar decisiones más informadas y mantener la última palabra
+IA respetuosa con la privacidad y la protección de datos
+Considerando la privacidad y seguridad de los datos desde la fase de diseño, para un uso de datos seguro y legalmente compatible con las regulaciones de privacidad
+IA Sostenible
+Desarrollada siendo consciente de cada parte interesada, para beneciar al medio ambiente y a todos los miembros presentes y futuros de nuestro ecosistema, humanos y no humanos por igual, y para abordar desafíos urgentes como el cambio climático
+IA Justa
+Producida por equipos diversos utilizando datos sólidos para resultados imparciales y la inclusión de todos los individuos y grupos poblacionales
+IA con impacto cuidadosamente delimitado
+Diseñada para el benecio humano, con un propósito claramente definido que establece qué entregará la solución, a quién.61
+Instituto de Investigación de Capgemini 2023APROVECHANDO EL VALOR DE LA IA GENERATIVA: CASOS DE USO PRINCIPALES EN INDUSTRIAS"A medida que la tecnología madura, deberíamos ser capaces de encontrar formas más eficientes de abordar las inquietudes de sostenibilidad de las organizaciones relacionadas con la IA generativa."
+
+Louis DiCesari
+Jefe Global de Datos, 
+Análisis y IA en Levi 
+Strauss62
+Instituto de Investigación de Capgemini 2023APROVECHANDO EL VALOR DE LA IA GENERATIVA: CASOS DE USO PRINCIPALES EN DIFERENTES INDUSTRIASFig.30
+Las organizaciones están preocupadas por el posible sesgo de los conjuntos de datos subyacentes
+Fuente: Instituto de Investigación de Capgemini, Encuesta Ejecutiva de IA Generativa, abril de 2023, N = 800 organizaciones.PORCENTAJE DE ORGANIZACIONES QUE ESTÁN DE ACUERDO CON LAS DECLARACIONES
+68%
+68%
+10%Hemos prohibido/estamos considerando prohibir el uso de herramientas de IA generativa para fines laboralesEstamos estableciendo pautas y criterios para determinar cuándo utilizar IA generativa en lugar de alternativasEstamos estableciendo pautas y políticas para el uso apropiado de herramientas de IA generativa por parte de los empleados para asegurarnos de que se utilicen de manera ética, legal y en línea con los valores y la misión de la organizaciónEstablecer pautas para el uso de IA generativa en la organización
+Algunas organizaciones son cautelosas con las herramientas de IA generativa, especialmente aquellas sobre las que no tienen control. En nuestra investigación, el 10 por ciento de las organizaciones mencionó que han prohibido o están considerando prohibir el uso de tales herramientas para el trabajo (ver Figura 30); Samsung, Verizon y Northrop Grumman han impuesto una prohibición total.61
+Hay varias razones para dar este paso: por ejemplo, inquietudes sobre la fuga de datos a través de las solicitudes dadas a las herramientas, "alucinaciones" que causan errores que pueden pasar desapercibidos por los usuarios, y conjuntos de datos subyacentes que exhiben sesgos o incluso han sido obtenidos de manera no ética. 63
+Instituto de Investigación de Capgemini 2023APROVECHANDO EL VALOR DE LA IA GENERATIVA: CASOS DE USO PRINCIPALES EN DIFERENTES INDUSTRIASLa mayoría de las organizaciones (68 por ciento) en nuestra encuesta están considerando establecer pautas para los empleados sobre el uso de inteligencia artificial generativa, incluyendo capacitación sobre qué datos están permitidos para ser cargados en las herramientas y uso seguro, y validación de salidas para eliminar sesgos. Las organizaciones también necesitan establecer pautas de sostenibilidad, en particular en cuanto al huella de carbono de la capacitación de modelos de lenguaje grandes (altamente intensivos en carbono, aunque irregulares) y el uso general de inteligencia artificial generativa. Se estima que una sola consulta de inteligencia artificial generativa puede resultar en 4-5 veces más emisiones de carbono que una consulta de motor de búsqueda.62 Con ChatGPT solo registrando 173 millones de usuarios y 1.800 millones de visitas mensuales en abril de 2023,63 se puede imaginar la magnitud de las emisiones agregadas. La inteligencia artificial generativa no es la mejor solución para cada problema, y las organizaciones deberían proporcionar a los empleados un marco o lista de verificación para decidir si implementarla. Finalmente, el desarrollo interno bajo condiciones controladas podría evitar los tipos de problemas que han llevado a prohibiciones generales. Los reguladores deberían proteger los intereses del consumidor.
+
+El ritmo de cambio en la tecnología de inteligencia artificial generativa es tan rápido que los reguladores están luchando por mantener el ritmo. El número de aplicaciones que utilizan la tecnología y de consumidores que la adoptan está creciendo diariamente. La Oficina de Derechos de Autor de EE. UU., por ejemplo, inicialmente otorgó derechos de autor para un cómic que incluía imágenes generadas por IA. Sin embargo, más tarde, la agencia revisó su decisión y decidió que la escritura y los elementos originales del libro son elegibles para derechos de autor, pero no las imágenes, que son generadas por IA.64 Los reguladores en algunos países han comenzado a investigar OpenAI;65 a continuación, se presentan algunas sugerencias, como se destaca en nuestra investigación centrada en el consumidor sobre inteligencia artificial generativa.66
+• Solicitar divulgaciones
+• Redactar/revisar políticas
+• Establecer responsabilidad
+• Proporcionar más control a los usuarios
+• Participar en discusiones con desarrolladores y académicos64Conclusión
+
+La inteligencia artificial generativa ha conquistado el mundo y es, sin duda, un tema prioritario para los líderes en todas las industrias a nivel global. La velocidad a la que esta tecnología se ha vuelto mainstream es fascinante. La inteligencia artificial generativa tiene aplicaciones en diferentes funciones y sectores. Como resultado, hemos encontrado que muchas organizaciones están experimentando con diferentes casos de uso. Sin embargo, las organizaciones están encontrando algunos obstáculos. La falta de claridad sobre los datos subyacentes de los modelos pre-entrenados, los posibles sesgos y la falta de inclusividad plantean riesgos legales y reputacionales para las organizaciones, al igual que las "alucinaciones" y el potencial de fuga de datos, incluso con modelos internos personalizados. Las organizaciones también deben enfrentar el problema del huella de carbono. A medida que crece la adopción de la inteligencia artificial generativa, las emisiones de carbono se multiplicarán. ¿Están preparadas las organizaciones para actuar?
+
+Mientras que los desarrolladores como Open AI y Google, y otros jugadores, buscan soluciones alternativas, las organizaciones también deben encontrar respuestas a preguntas clave, siendo la principal si los modelos pre-entrenados o personalizados deberían tener prioridad. Ambos tienen pros y contras, pero cada uno requiere una arquitectura de alto nivel. También deben ser impulsados por un enfoque centrado en el ser humano en la implementación, incorporando supervisión humana y retroalimentación del usuario, y capacitación de empleados. También es aconsejable desarrollar un conjunto de pautas sobre cuándo utilizar la inteligencia artificial generativa y cómo utilizarla de manera segura. Construir confianza en los sistemas es crítico.
+
+A medida que la tecnología evoluciona, las expectativas de las organizaciones cambiarán. ¿Puede la inteligencia artificial generativa disruptar industrias? ¿Cuál será su impacto a largo plazo? ¿Los beneficios serán inferiores, igualarán o superarán las expectativas? ¿Cómo se pueden superar los desafíos relacionados con las alucinaciones, la fuga de datos, la sostenibilidad y los problemas legales y reputacionales? ¿Y qué papel jugarán los reguladores en este mercado en evolución? Todavía no está claro cómo se desarrollarán todos estos elementos. Lo que está claro es que la tecnología de inteligencia artificial generativa es parte del futuro y las organizaciones deberían empezar a prepararse para ella.Metodología de investigación
+
+10%
+10%
+15%
+10%
+6% 8%4%8%4%6%5%6%
+8%ORGANIZACIONES POR SEDE CENTRAL
+Alemania
+Francia
+EE. UU.
+Reino Unido
+ItaliaEspañaNoruegaPaíses BajosCanadáSueciaAustraliaSingapurJapónORGANIZACIONES POR INDUSTRIA
+15%
+10%
+5%
+10%15%10%5%
+5%10%
+15%Automotriz
+Productos de consumo
+Minorista
+Servicios financieros 
+(banca y seguros)TelecomEnergía y 
+servicios públicosAeroespacial y 
+defensaAlta tecnologíaFabricación industrialFarmacéutica y atención médica
+
+Realizamos una encuesta dirigida a 1,000 organizaciones. Todas estas organizaciones están interesadas en explorar la IA generativa. Además, el 80% ya ha comenzado a explorar la tecnología. La encuesta global tuvo lugar en abril de 2023. Además de la encuesta en línea, realizamos entrevistas en profundidad con 10 ejecutivos de la industria para comprender el potencial de la IA generativa, los desafíos que prevén y las capacidades necesarias para implementar la tecnología. Los hallazgos del estudio reflejan las opiniones de los encuestados en nuestra encuesta en línea y tienen como objetivo brindar orientación general. Por favor, póngase en contacto con uno de los expertos de Capgemini enumerados al final del informe para discutir las implicaciones específicas.
+
+Fuente: Instituto de Investigación de Capgemini, Encuesta Ejecutiva de IA Generativa, abril de 2023, N = 1,000 organizaciones.66
+Instituto de Investigación de Capgemini 2023APROVECHANDO EL VALOR DE LA IA GENERATIVA: CASOS DE USO PRINCIPALES EN DIVERSAS INDUSTRIASORGANIZACIONES POR INGRESOS ANUALES
+US $500 millones – $999 millones
+US $1 mil millones – $4.99 mil millones
+US $5 mil millones – $9.99 mil millones1%
+44%
+24%14%13%5%
+US $10 mil millones – $19.99 mil millones
+US $20 mil millones – $49.99 mil millones
+Más de US $50 mil millonesORGANIZACIONES POR ETAPA DE IMPLEMENTACIÓN DE IA GENERATIVA
+Aún no hemos comenzado a explorar las capacidades de IA generativa20%
+43%33%5%
+Hemos comenzado a trabajar en algunos pilotos de iniciativas de IA generativa
+Hemos empezado a explorar el potencial de la IA generativaHemos habilitado capacidades de IA generativa en algunas de nuestras ubicaciones/funcionesRESPONDENTES POR TÍTULO
+23%
+27%25%1%
+3%1%
+20%Director
+Director senior
+VP/AVPSVP/EVP/COO/CTO/CIO/CTIO/CDOJefe de IA
+Jefe de Investigación, IA
+Fuente: Instituto de Investigación de Capgemini, Encuesta Ejecutiva de IA Generativa, abril de 2023, N = 1,000 organizaciones. Fuente: Instituto de Investigación de Capgemini, Encuesta Ejecutiva de IA Generativa, abril de 2023, N = 1,000 organizaciones.67
+Instituto de Investigación de Capgemini 2023APROVECHANDO EL VALOR DE LA IA GENERATIVA: CASOS DE USO PRINCIPALES EN DIVERSAS INDUSTRIASReferencias
+
+1. Fortune, “7 CEOs comparten cómo la IA generativa está revolucionando los negocios – desde reservar viajes hasta escribir código”, 23 de mayo de 2023.
+2. OpenAI, “Morgan Stanley wealth management despliega GPT-4 para organizar su vasta base de conocimientos”, 14 de marzo de 2023.
+3. Instituto de Investigación de Capgemini, “Por qué los consumidores aman la IA generativa”, junio de 2023.
+4. Blog de Coursera, “Anunciando varios nuevos títulos y certificados, características de la plataforma de IA generativa y Coursera Hiring Solutions para servir mejor a la comunidad en todo el mundo”, 13 de abril de 2023.
+5. CNBC, “Estudio de Stanford y MIT: la IA aumentó la productividad laboral en un 14% – aquellos que la utilizan ‘reemplazarán a aquellos que no lo hacen’”, 25 de abril de 2023.
+6. NVidia, “No hay problemas con Hangul: KT entrena altavoces inteligentes y centros de llamadas con IA de NVIDIA”, 20 de septiembre de 2022.
+7. Tendencias de descubrimiento de fármacos, “Navegando la IA generativa en el descubrimiento de fármacos y análisis de datos: aprovechando la oportunidad y evitando trampas”, 9 de mayo de 2022.
+8. Conexiones de empaquetado, “IA para branding”, 27 de marzo de 2023.
+9. Autodesk, “Diseño generativo para la fabricación – 3 formas en que el diseño generativo está transformando los negocios”.
+10. Google, “Cómo utilizar un modelo de aprendizaje automático desde una hoja de cálculo de Google utilizando BigQuery ML”, 25 de febrero de 2021.
+11. Fortune, “7 CEOs comparten cómo la IA generativa está revolucionando los negocios – desde reservar viajes hasta escribir código”, 23 de mayo de 2023.
+12. Mostly AI. “¿Qué es datos sintéticos?” Accedido en junio de 2023. https://mostly.ai/synthetic-data/what-is-synthetic-data
+13. TechCrunch, “Parallel Domain dice que la conducción autónoma no se escalará sin datos sintéticos”, 16 de noviembre de 2022.
+14. Cision, “Outreach anuncia Asistente de correo electrónico inteligente, aprovechando la IA generativa para desbloquear nuevos niveles de productividad para equipos de ventas B2B”, 26 de enero de 2023.
+15. Latestly, “Chatbot de IA: la aplicación de chat empresarial Slack de Salesforce integra ChatGPT para ayudar a las empresas”, 8 de marzo de 2023.
+16. Computerworld, “Amazon está trabajando en infundir IA generativa en su aplicación de compras”, 16 de mayo de 2023.
+17. Gartner, “Más allá de ChatGPT: el futuro de la IA generativa para empresas”, 26 de enero de 2023.
+18. Harvard Business Review, “Cómo la IA generativa está cambiando el trabajo creativo”, 14 de noviembre de 2022.
+19. Adobe, “Adobe lanza Firefly, una familia de nuevas herramientas creativas de IA generativa”, marzo de 2023.
+20. NASA.gov, “La NASA se basa en la IA para diseñar hardware de misiones”, 9 de febrero de 2023.
+21. FinTech Global, “The Paladin Group y Dais Technology lanzan UnderwriteGPT”, 6 de febrero de 2023.
+22. Financial Times, “Allen & Overy introduce chatbot de IA para abogados en busca de eficiencias”, 15 de febrero de 2023.
+23. insideBIGDATA, “El auge de la generación de lenguaje natural en la industria de servicios financieros”, octubre de 2020.
+24. Zeisler, A. (2021, 8 de marzo). Uso estratégico de I+D en WSJ mercados. Medium. https://medium.com/the-wall-street-journal/using-r-d-strategically-in-wsj-markets-a9b6b1b01024
+25. Cision PR Newswire, “Inspectorio lanza el primer producto de gestión de cadena de suministro SaaS impulsado por IA generativa”, 20 de abril de 2023.
+26. Freightwaves, “La industria de la cadena de suministro obtiene nuevo software de IA generativa”, 28 de abril de 2023.
+27. Google Cloud, “En Google I/O, la IA generativa se pone a trabajar”, 11 de mayo de 2023.
+28. Futureflight, “Cómo la inteligencia artificial podría redefinir completamente los aviones del futuro”, 21 de mayo de 2023.
+29. Nvidia Developer, “Generar activos 3D para mundos virtuales con IA generativa”, enero de 2023.
+30. Sitio web corporativo de Nexttech3D.ai, “Nexttech3D.ai logra un avance importante en la IA generativa en la generación de materiales 3D a partir de texto”, mayo de 2023.
+
+Instituto de Investigación de Capgemini 2023 APROVECHANDO EL VALOR DE LA IA GENERATIVA: CASOS DE USO PRINCIPALES EN DIFERENTES INDUSTRIAS31. Analyticsindiamag.com, “Revelado: Los sistemas de IA y modelos de entrenamiento de Tesla, Waymo,” 15 de diciembre de 2022.
+32. TechMonitor, “GM lleva asistente similar a ChatGPT a sus coches,” marzo de 2023.
+33. Harvard Business Review, “Cómo el IA generativa está cambiando,” noviembre de 2022.
+34. Microsoft, “CarMax pone a los clientes en primer lugar con herramientas de investigación de coches impulsadas por Azure OpenAI Service,” 24 de mayo de 2022.
+35. Tech Monitor, “¿Cómo se puede utilizar datos sintéticos en servicios financieros,” febrero de 2023.
+36. Smart energy, “Cómo el IA generativa llega al sector energético,” 11 de abril de 2023.
+37. AIMutiple, “10 casos de uso de IA generativa en finanzas en 2023,” 17 de mayo de 2023.
+38. Nvidia, “Detección de fraude financiero utilizando GANs en Swedbank con Hopsworks y GPUs de NVIDIA,” 26 de marzo de 2021.
+39. Estudio de caso de PTC, “CUPRA optimiza el diseño y la fabricación de componentes de vehículos con PTC Creo.”
+40. Forbes, “Esta empresa está utilizando IA generativa para diseñar nuevos anticuerpos,” 10 de enero de 2023.
+41. Cisco, “Noticias de startup de IA de la semana: el IA generativa está explotando,” 27 de enero de 2023.
+42. Google Cloud, “En Google I/O, el IA generativa se pone a trabajar,” 11 de mayo de 2023.
+43. Universidad de Stanford, Informe del Índice de IA, 2023
+44. Wired, “La carrera de IA generativa tiene un secreto sucio,” 10 de febrero de 2023.
+45. Autodesk, "Autodesk y Airbus demuestran el impacto del diseño generativo en la fabricación y construcción," noviembre de 2019.
+46. Monitorear, informar y acelerar el rendimiento ESG con IA. C3 AI. (2023, 17 de mayo). https://c3.ai/products/c3-ai-esg/
+47. News in France, “IA: la francesa Ekimetrics lanza un ‘chatGPT’ dedicado al clima,” abril de 2023.
+48. Instituto de Investigación de Capgemini, “Por qué los consumidores aman el IA generativa,” junio de 2023.
+49. Instituto de Investigación de Capgemini, “La empresa impulsada por IA: desbloquear el potencial de IA a escala,” julio de 2021.
+50. The Verge, “ChatGPT regresa a Italia después de la prohibición,” 28 de abril de 2023.
+51. Instituto de Investigación de Capgemini, “Por qué los consumidores aman el IA generativa,” junio de 2023.
+52. CIO Journal, “El IA está escribiendo código ahora. Para las empresas, eso es bueno y malo,” mayo de 2023.
+53. Ibid.
+54. Charlotte Freitag, Mike Berners-Lee, Kelly Widdicks, Bran Knowles, Gordon S. Blair, Adrian Friday, “El impacto climático real y transformador de las TIC: una crítica a las estimaciones, tendencias y regulaciones,” Patrones, Volumen 2, Edición 9, 2021, 100340, ISSN 2666-3899,  
+https://doi.org/10.1016/j.patter.2021.100340
+55. MIT Technology Review, “Estamos obteniendo una idea mejor del huella de carbono real de IA,” 14 de noviembre de 2022.
+56. Stibbe, “Ley de IA de la UE y IA generativa – una actualización,” 14 de junio de 2023.
+57. CNBC, “Los legisladores de la UE aprueban regulación de IA pionera,” 14 de junio de 2023.
+58. The Washington Post, “Europa avanza en la regulación de IA, desafiando el poder de los gigantes tecnológicos,” 14 de junio de 2023.
+59. Instituto de Investigación de Capgemini, “Por qué los consumidores aman el IA generativa,” junio de 2023.
+60. Legal Dive, “Abogado cita casos falsos generados por ChatGPT en breve legal,” 30 de mayo de 2023.
+61. Techopedia, “Aquí está por qué las empresas están restringiendo el uso de herramientas de IA generativa para empleados,” junio de 2023.
+62. Euronews, “ChatGPT: ¿Cuál es la huella de carbono de los modelos de IA generativa?” mayo de 2023.
+63. Nerdy Nav, “Estadísticas y números de usuarios de ChatGPT en mayo de 2023,” mayo de 2023.
+64. ARTnews, “Oficina de Copyright de EE. UU.: las obras generadas por IA no son elegibles para el copyright,” marzo de 2023.
+65. The Verge, “ChatGPT regresa a Italia después de la prohibición,” 28 de abril de 2023.
+66. Instituto de Investigación de Capgemini, “Por qué los consumidores aman el IA generativa,” junio de 2023.
+69. Instituto de Investigación de Capgemini 2023 APROVECHANDO EL VALOR DE LA IA GENERATIVA: CASOS DE USO PRINCIPALES EN DIFERENTES INDUSTRIASContribuyentes clave
+
+Robert Engels
+Vicepresidente y Jefe del 
+Laboratorio de IA Generativa, 
+CTO NCE, 
+Insights y Datos, Capgemini 
+robert.engels@capgemini.com
+
+Andreas Markdalen
+Oficial Creativo en Jefe Global 
+& Vicepresidente frog, Parte de 
+Capgemini Invent
+andreas.markdalen@frog.co
+
+Mark Roberts
+Tecnólogo Principal, 
+Ingeniería Capgemini
+mark.roberts@capgemini.com
+
+Mark Oost
+Líder de Oferta Global de IA, 
+Análisis y Ciencia de Datos, 
+Insights y Datos, Capgemini
+mark.oost@capgemini.com
+
+Ron Tolido
+CTO, Línea de Negocios Global 
+de Insights y Datos
+ron.tolido@capgemini.com
+
+Steve Jones
+Vicepresidente Ejecutivo, 
+Negocios Impulsados por Datos, 
+Capgemini
+steve.g.jones@capgemini.com
+
+Valérie PERHIRIN 
+Directora General, Sostenibilidad 
+impulsada por Datos y IA, 
+Capgemini
+valerie.perhirin@capgemini.com  
+
+Jerome Buvat 
+Jefe del Instituto de Investigación 
+de Capgemini
+jerome.buvat@capgemini.com
+
+Marisa Slatter
+Directora, Instituto de Investigación 
+de Capgemini
+marisa.slatter@capgemini.com  
+
+Vaishnavee A
+Consultora, 
+Instituto de Investigación de Capgemini
+vaishnavee.a@capgemini.com 
+
+Manisha Dash
+Consultora Sénior, 
+Instituto de Investigación de Capgemini
+manisha.dash@capgemini.com
+
+Sumit Cherian 
+Gerente Sénior, 
+Instituto de Investigación de Capgemini
+sumit.cherian@capgemini.com
+
+Ramya Krishna Puttur
+Directora Asociada, 
+Instituto de Investigación de Capgemini
+ramya.puttur@capgemini.com
+70
+Instituto de Investigación de Capgemini 2023APROVECHANDO EL VALOR DE LA IA GENERATIVA: CASOS DE USO PRINCIPALES EN DIVERSAS INDUSTRIASLos autores desean agradecer especialmente a 
+Subrahmanyam KVJ y Amol Khadikar del Instituto de Investigación de Capgemini por sus contribuciones a esta investigación.
+
+Los autores también desean agradecer a Pascal Brier, Bob Schwartz, Nicolas Brunel, Kary Bheemaiah, Sofie Andersson, Marek Sowa, Vincent DE MONTALIVET, Alex Smith Bingham, Lorna Neville, Vishwanathan Venkataramanan, Baljeet Yadav, Joyal Dias, Doug Ross, Annette Klimczak, Myriam CHAVE, Susanna Östberg, Mollie Mellows, Victoire GRUX, Antara Nandy, Aparajita Paul, Rupali Chakraborty, Ashwani Kumar, Suparna Banerjee y Punam Chavan por su contribución a la investigación.
+
+Acerca del Instituto de Investigación de Capgemini
+
+El Instituto de Investigación de Capgemini es el think tank interno de Capgemini en todo lo relacionado con la digitalización. El Instituto publica investigaciones sobre el impacto de las tecnologías digitales en grandes empresas tradicionales. El equipo se basa en la red mundial de expertos de Capgemini y trabaja en estrecha colaboración con socios académicos y tecnológicos. El Instituto tiene centros de investigación dedicados en la India, Singapur, el Reino Unido y los Estados Unidos. Fue recientemente clasificado como número uno en el mundo por la calidad de su investigación por analistas independientes.
+
+Visite nuestro sitio web en 
+www.capgemini.com/researchinstitute/
+
+Laboratorio de IA Generativa de Capgemini para entregar 
+impacto empresarial concreto
+
+Capgemini ha estado trabajando con clientes en IA y IA generativa durante años para responder a sus necesidades empresariales específicas, particularmente en áreas como ciencias de la vida, productos de consumo y retail, y servicios financieros. A través de su Laboratorio de IA Generativa, Capgemini se centra en desarrollar soluciones personalizadas para clientes, permitiéndoles aprovechar el potencial de la IA generativa en un marco de confianza, seguridad y ética para entregar un impacto empresarial concreto.
+
+El Laboratorio de IA Generativa es un equipo de expertos especializados en inteligencia artificial de various equipos de Capgemini en todo el mundo que se centran en seguir las evoluciones de la tecnología, así como investigar y aplicar los casos de uso más relevantes de IA generativa para clientes. El Laboratorio de IA Generativa crea y entrega activos, educación y conciencia para enriquecer aún más la experiencia en crecimiento de Capgemini en este campo y el valor que entrega a sus clientes.
+
+Para obtener más información, visite  
+http://www.capgemini.com/aifutures71
+
+Instituto de Investigación de Capgemini 2023APROVECHANDO EL VALOR DE LA IA GENERATIVA: CASOS DE USO PRINCIPALES EN TODAS LAS INDUSTRIASCrear lo imposible
+
+Con IA generativa personalizada para empresas
+
+Según Gartner, se espera que la madurez total de la IA generativa se logre en 2-5 años, pero el mercado ya está cambiando para acercar la IA generativa a los casos de uso empresariales, ya que el 70% de las organizaciones globales actualmente explora la IA generativa.
+
+PERO… para los negocios, hay muchos problemas detrás de los modelos de lenguaje generativos de IA disponibles públicamente, ya que son:
+
+DEMASIADO DESCONECTADOS DE LA REALIDAD EMPRESARIAL
+Las herramientas de IA generativa traen tecnología, pero no responden a preguntas sobre cómo abordar nuevos requisitos para riesgos, privacidad y controles empresariales.
+
+DEMASIADO UNIVERSALES Y NO ESPECÍFICOS DE LA EMPRESA
+Son difíciles de ajustar para escenarios empresariales reales a gran escala. No tienen conocimientos empresariales ni contexto cultural.
+
+DEMASIADO INCONTROLABLES
+Sin capacitación, no puedes controlar la calidad y idoneidad de la salida.
+
+DEMASIADO RIESGOSOS PARA LOS DATOS Y LA PRIVACIDAD
+Muchas herramientas disponibles tienen licencias complejas o cláusulas y condiciones de uso que permiten a terceros leer y aprender de tus datos, o incluso prohíben el uso comercial.
+
+DEMASIADO DIFÍCILES DE ADOPTAR Y ESCALAR
+Tanto las herramientas de código cerrado como ChatGPT como las alternativas de código abierto no tienen una pila tecnológica lista para la empresa y escalable.
+
+72
+Instituto de Investigación de Capgemini 2023APROVECHANDO EL VALOR DE LA IA GENERATIVA: CASOS DE USO PRINCIPALES EN INDUSTRIASCÓMO COMENZAR
+Talleres de dedicación
+Habilitando su estrategia, modelo operativo y hoja de ruta de caso de uso
+CONSTRUYA EL KIT DE HERRAMIENTAS ADECUADO
+Utilice el marco de trabajo de IA generativa de Capgemini para construir una solución lista para la empresa
+
+OBTENGA BENEFICIOS A ESCALA
+Escale a través de casos de uso con plantillas de CXO de IA generativa dedicadas
+
+ESTABLEZCA LA FUNDACIÓN ORGANIZATIVA
+Impulse la agenda de IA generativa con privacidad y confiabilidad en el núcleo
+
+Por lo tanto, los CXOs necesitan entender cómo aprovechar la IA generativa de manera segura, segura y controlada para adaptarse a su realidad empresarial.
+
+Te ayudamos a cambiar el ADN de tu trabajo a través de la IA generativa.
+
+Con IA Generativa Personalizada para la Empresa, te ayudamos a los CXOs a pasar de un uso estándar y arriesgado de modelos de lenguaje público grandes a una solución personalizada y confiable basada en el uso de sus datos y conocimientos de la empresa, con salidas confiables que generan resultados tangibles significativos.
+
+Utilizamos nuestro marco de trabajo comprobado para construir soluciones generativas seguras, protectoras de la privacidad y confiables a gran escala.
+
+La IA Generativa Personalizada para la Empresa actúa como una "tienda de una parada" para datos empresariales, herramientas y casos de uso listos para la empresa para abordar necesidades empresariales y tecnológicas y compartir un kit de herramientas generativas reutilizables, seguras y aprobadas por la empresa.
+
+Capgemini te ayuda a impulsar y entregar con éxito tus iniciativas de IA generativa a través de cuatro bloques de construcción:Proyectos y compromisos seleccionados de clientes
+
+Hemos estado trabajando con clientes en IA Generativa durante los últimos 3 años para responder a sus necesidades empresariales específicas, en particular en áreas como Ciencias de la Vida, Productos de Consumo y Minorista, y Servicios Financieros. Hemos trabajado con clientes de diversas industrias (bienes de consumo, atención médica/farmacéutica, tecnología/IT, etc.) en casos de uso como personalización de contenido a gran escala, gestión del conocimiento y búsqueda, asistentes de experiencia del cliente, así como asistentes de desarrollo de software.
+
+Entre los casos de uso recientes:
+
+• En ciencias de la vida: en 2020, entregamos un proyecto de cliente sobre resecuenciación de ADN con la ayuda de IA Generativa y Aprendizaje Profundo.
+• ADA (Amplificador de Datos Artificiales): utilizando IA Generativa para crear datos sintéticos (Sogeti), utilizados en particular por la Agencia de Seguridad Social Sueca.
+• Hemos apoyado a varios bancos en la conversión de código en combinación con proyectos de migración de software: utilizando IA Generativa para proponer traducciones de software de lenguajes "antiguos" a lenguajes modernos.
+• Trabajamos en el análisis de Blueprint de Producto con IA Generativa para un cliente que gestiona toda la documentación para productos de ingeniería complejos.
+• Entregamos el "Asistente de Consulta de Documentos Inteligente" para una empresa de seguros líder ubicada en más de 50 países, permitiendo a los ejecutivos no técnicos hacer preguntas en lenguaje natural y obtener respuestas precisas mucho más rápido.
+• Actualmente estamos trabajando con un gran grupo de productos de consumo en un motor de creación de contenido de IA Generativa. Genera automáticamente varias opciones para Nombre, Características y Descripción (optimizadas para búsqueda), lo que facilita lograr la completitud y calidad del contenido.
+
+Para obtener más información, visite:
+https://www.capgemini.com/solutions/custom-generative-ai-for-enterprise/
+74
+Instituto de Investigación de Capgemini 2023APROVECHANDO EL VALOR DE LA IA GENERATIVA: CASOS DE USO PRINCIPALES EN DIVERSAS INDUSTRIASMarc Oost
+IA, Análisis y 
+Líder Global de Ciencia de Datos, Capgemini 
+mark.oost@capgemini.com EUROPA DEL NORTE Y CENTRAL
+Wei Wei Feng 
+Experto en IA General, Insights & Data, Capgemini 
+weiwei.feng@capgemini.com APAC 
+Aruna Pattam  
+Jefa del Centro de Excelencia de IA, 
+Análisis y Ciencia de Datos, 
+Insights & Data, Capgemini 
+aruna.pattam@capgemini.com EUROPA DEL SUR Y CENTRAL 
+Tiziano Borrelli 
+Subdirector Técnico I&D Insights & Data,  
+Europa del Sur y Central, Capgemini  
+tiziano.borrelli@capgemini.comNORTEAMÉRICA  
+Ajay Mohan  
+Jefe del Centro de Excelencia de IA, 
+Análisis y Ciencia de Datos, 
+Insights & Data, América del Norte, Capgemini 
+ajay.mohan@capgemini.com Robert Engels
+Jefe del Laboratorio de IA Generativa, Capgemini 
+robert.engels@capgemini.com
+Steve Jones 
+Liderazgo de Datos y IA Confiables, 
+Ecosistemas de Datos Colaborativos 
+steve.g.jones@capgemini.comMarek Sowa 
+Jefe de Automatización de Procesos Inteligentes, 
+Capgemini 
+marek.a.sowa@capgemini.com
+Bikash Dash
+Gerente de Programa, Ciencia de Datos y 
+Análisis, Experto en IA General, Insights & 
+Data, Capgemini 
+bikash.ranjan-dash@capgemini.com Contactos globales Contactos locales  Para obtener más información, por favor póngase en contacto:75
+Instituto de Investigación de Capgemini 2023APROVECHANDO EL VALOR DE LA IA GENERATIVA: CASOS DE USO PRINCIPALES EN DIVERSAS INDUSTRIASMás Capgemini 
+Instituto de Investigación Publicaciones
+Por qué los consumidores aman 
+el AI generativo
+El poder de las mentes abiertas: cómo la innovación abierta ofrece beneficios para todos
+Reflejando la realidad: Gemelos digitales en aeroespacial y defensa
+Un Mundo en Equilibrio: Por qué la Ambición de Sostenibilidad no se traduce en Acción
+Educación lista para el futuro: 
+Empoderar a los estudiantes de escuela secundaria con habilidades digitales
+Datos para Net Zero  76
+Instituto de Investigación de Capgemini 2023APROVECHANDO EL VALOR DEL AI GENERATIVO: CASOS DE USO PRINCIPALES EN DIVERSAS INDUSTRIASSuscríbete a la investigación más reciente de 
+Instituto de Investigación de Capgemini
+Nombre
+Apellido
+Correo electrónico Campos marcados con    son obligatorios  Instituto de Investigación de Capgemini
+Al enviar este formulario, entiendo que mis datos serán procesados por Capgemini como se indica arriba y 
+descritos en los Términos de uso. 
+EnviarReciba copias de nuestros informes escaneando el código QR o visitando
+https://www.capgemini.com/insights/research-institute/subscribe/77
+Instituto de Investigación de Capgemini 2023APROVECHANDO EL VALOR DE LA IA GENERATIVA: CASOS DE USO PRINCIPALES EN DIFERENTES INDUSTRIASNotas78
+Instituto de Investigación de Capgemini 2023APROVECHANDO EL VALOR DE LA INTELIGENCIA ARTIFICIAL GENERATIVA: CASOS DE USO PRINCIPALES EN DIVERSAS INDUSTRIASNotas79
+Instituto de Investigación de Capgemini 2023APROVECHANDO EL VALOR DE LA INTELIGENCIA ARTIFICIAL GENERATIVA: CASOS DE USO PRINCIPALES EN DIVERSAS INDUSTRIASDerechos de autor © 2023 Capgemini. Todos los derechos reservados.Acerca de Capgemini
+
+Capgemini es un líder global en asociarse con empresas para transformar y administrar sus negocios aprovechando el poder de la tecnología. El Grupo se guía todos los días por su propósito de liberar la energía humana a través de la tecnología para un futuro inclusivo y sostenible. Es una organización responsable y diversa de 360,000 miembros del equipo en más de 50 países. Con su sólida herencia de 55 años y su profunda experiencia en la industria, Capgemini es confiada por sus clientes para abordar toda la amplitud de sus necesidades empresariales, desde la estrategia y el diseño hasta las operaciones, impulsadas por el mundo en constante evolución y innovador de la nube, los datos, la IA, la conectividad, el software, la ingeniería digital y las plataformas. El Grupo informó en 2022 ingresos globales de 22.000 millones de euros.
+
+Obtenga el futuro que desea | www.capgemini.com

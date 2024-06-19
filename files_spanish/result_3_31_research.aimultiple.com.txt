@@ -1,0 +1,680 @@
+Top 100+ Aplicaciones de IA Generativa / Casos de Uso en 2024
+GenIA
+Actualizado el 12 de mayo
+24 minutos de lectura
+Top 100+ Aplicaciones de IA Generativa / Casos de Uso en 2024
+IA Generativa
+las aplicaciones de IA generativa producen contenido visual, textual y animado novedoso y realista en cuestión de minutos.
+Como puede ver arriba, el interés en IA generativa explotó desde octubre de 2022 gracias al lanzamiento de ChatGPT.
+Gartner predice que para 2025, el porcentaje de datos generados por IA generativa será del 10% de todos los datos generados.
+1
+Hasta 2025, AIMultiple espera que la IA generativa sea responsable de una parte significativa de los datos generados por máquina y utilizada en algún grado en la mayoría de los datos generados por humanos.
+Como una de las tendencias tecnológicas estratégicas más importantes de 2023, esta rama de la inteligencia artificial (IA) tiene una amplia variedad de aplicaciones que son útiles para diferentes industrias y funciones empresariales.
+Hemos reunido las 100+ aplicaciones generales y específicas de la industria de IA generativa, incluyendo casos de uso empresariales y para pequeñas empresas. Nos enfocamos en aplicaciones del mundo real con ejemplos, pero dado que esta tecnología es tan novedosa, algunas de estas son casos de uso potenciales. Para otras aplicaciones de IA para solicitudes donde hay una respuesta correcta única (por ejemplo, predicción o clasificación), lea nuestra lista de aplicaciones de IA.
+Aplicaciones Generales de IA Generativa
+> Aplicaciones de Video
+1. Generación de Video
+La capacidad de generación de video de OpenAI's Sora atrajo una atención significativa.
+2. Predicción de Video
+Un sistema de predicción de video basado en GAN:
+Comprende tanto elementos temporales como espaciales de un video
+Genera la próxima secuencia basada en ese conocimiento (Vea la figura a continuación)
+Distingue entre secuencias probables y no probables
+Las predicciones de video basadas en GAN pueden ayudar a detectar anomalías necesarias en una amplia gama de sectores, como seguridad y vigilancia.
+Fuente: "Revisión de FutureGAN"
+> Aplicaciones de Imagen
+3. Generación de Imagen
+Con IA generativa, los usuarios pueden transformar texto en imágenes y generar imágenes realistas basadas en un entorno, sujeto, estilo o ubicación que especifiquen. Por lo tanto, es posible generar el material visual necesario rápidamente y de manera sencilla.
+También es posible utilizar estos materiales visuales para fines comerciales que hacen que la creación de imágenes generadas por IA sea un elemento útil en medios, diseño, publicidad, marketing, educación, etc. Por ejemplo, un generador de imágenes puede ayudar a un diseñador gráfico a crear cualquier imagen que desee.
+
+Escrito por Cem Dilmegani
+Buscar investigación, soluciones, productos, etc.Necesidad (Ver la figura a continuación).
+
+La generación de imágenes es una de las aplicaciones más populares entre las aplicaciones de inteligencia artificial generativa.
+Esta imagen generada por IA fue producida con base en la descripción de texto de "Osos de peluche comprando comestibles en estilo ukiyo-e".
+Fuente:
+OpenAI Dall-E
+
+4. Traducción de Imagen Semántica a Foto
+Basada en una imagen semántica o boceto, es posible producir una versión realista de una imagen. Debido a su papel facilitador en la toma de diagnósticos, esta aplicación es útil para el sector de la atención médica.
+La inteligencia artificial generativa se utiliza para convertir bocetos en imágenes realistas.
+
+Fuente 4: "Generación de distribuciones de probabilidad de asignación de espacio sintéticas basadas en Conditional-GANs entrenados"
+
+5. Conversión de Imagen a Imagen
+Implica transformar los elementos externos de una imagen, como su color, medio o forma, mientras se preserva sus elementos constitutivos.
+Un ejemplo de esta conversión sería convertir una imagen diurna en una imagen nocturna. Este tipo de conversión también se puede utilizar para manipular los atributos fundamentales de una imagen (como una cara, ver la figura a continuación), colorearlos o cambiar su estilo.
+El retoque de fotos es otro ejemplo de aplicaciones de IA generativa visual.
+
+Fuente 5: "FAE-GAN: edición de atributos faciales con normalización de atención multiscale"
+
+6. Aumento de Resolución de Imagen (Super-Resolución)
+La IA generativa utiliza varios métodos para crear nuevo contenido basado en el contenido existente. Las redes generativas adversariales (GANs) son uno de estos métodos. Un GAN consta de un generador y un discriminador que crea nuevo datos y asegura que sea realista. El método basado en GAN permite crear una versión de alta resolución de una imagen a través de GANs de super-resolución. Este método es útil para producir versiones de alta calidad de materiales de archivo y/o materiales médicos que son económicamente inviables de guardar en formato de alta resolución. Otro caso de uso es para fines de vigilancia.
+
+7. Generación de Formas 3D
+En este área, la investigación sigue en curso para crear versiones 3D de alta calidad de objetos. Utilizando la generación de formas basada en GAN, se pueden lograr formas mejores en términos de su parecido con la fuente original. Además, se pueden generar y manipular formas detalladas para crear la forma deseada.
+La generación de formas 3D es una de las aplicaciones de IA generativa.
+
+Fuente 6: "SP-GAN: Generación y Manipulación de Formas 3D Guiada por Esfera"
+
+> Aplicaciones de Audio
+
+8. Generador de Voz a partir de Texto
+Las GAN permiten la producción de audios de voz realistas. Para lograr resultados realistas, los discriminadores actúan como entrenadores que acentúan, tonifican y/o modulan la voz.
+La generación de voz a partir de texto tiene múltiples aplicaciones empresariales, como educación, marketing, podcasting, publicidad, etc. Por ejemplo, un educador puede convertir sus notas de clase en materiales de audio para hacerlos más atractivos, y el mismo método también puede ser útil para crear materiales educativos para personas con discapacidad visual. Además de eliminar el gasto de artistas de voz y equipo, la generación de voz a partir de texto también proporciona a las empresas muchas opciones en términos de idioma y repertorio vocal.
+Utilizando esta tecnología, miles de libros han sido convertidos en audiolibros.
+
+7 Aprende más sobre las capacidades de los modelos de lenguaje grande en la generación de texto.9. Conversión de Voz a Voz
+
+Una aplicación de audio relacionada con la IA generativa implica la generación de voz utilizando fuentes de voz existentes. Con la conversión de voz a voz, los doblajes de voz pueden crearse fácil y rápidamente, lo que es ventajoso para industrias como el juego y el cine. Con estas herramientas, es posible generar doblajes de voz para un documental, un anuncio o un juego sin necesidad de contratar a un artista de doblaje.
+
+10. Generación de Música
+
+La IA generativa también es útil en la producción de música. Las herramientas de generación de música pueden utilizarse para generar materiales musicales novedosos para anuncios o otros propósitos creativos. Sin embargo, en este contexto, sigue siendo un obstáculo importante por superar, a saber, la infracción de derechos de autor causada por la inclusión de obras artísticas con derechos de autor en los datos de entrenamiento.
+
+Aprende más sobre la ética de la IA en nuestro artículo exhaustivo.
+
+> Aplicaciones basadas en texto
+
+11. Generación de Ideas
+
+La salida de LLM puede no ser adecuada para su publicación debido a problemas de alucinación, derechos de autor, etc. Sin embargo, la generación de ideas es posiblemente el caso de uso más común para la generación de texto. Trabajar con máquinas en la ideación permite a los usuarios escanear rápidamente el espacio de soluciones.
+
+Es sorprendente obtener ayuda de una máquina para ser más creativo como ser humano. Esto es posible porque las capacidades de la IA generativa son bastante diferentes (por ejemplo, más flexibles, menos confiables) de cómo pensamos típicamente sobre las capacidades de las máquinas.
+
+12. Generación de Texto
+
+Los investigadores recurrieron a GANs para ofrecer alternativas a las deficiencias de los algoritmos de aprendizaje automático del estado del arte. Los GANs se están entrenando actualmente para ser útiles en la generación de texto, a pesar de su uso inicial para fines visuales. Crear diálogos, titulares o anuncios a través de la IA generativa es común en marketing, juegos y comunicación. Estas herramientas pueden utilizarse en cajas de chat en vivo para conversaciones en tiempo real con clientes o para crear descripciones de productos, artículos y contenido de redes sociales.
+
+Explora más ejemplos de modelos de lenguaje grandes y aplicaciones como la generación de texto.
+
+13. Creación de Contenido Personalizado
+
+Puede utilizarse para generar contenido personalizado para individuos basado en sus preferencias personales, intereses o recuerdos. Este contenido podría ser en forma de texto, imágenes, música u otros medios, y podría utilizarse para:
+
+Publicaciones en redes sociales
+Artículos de blog
+Recomendaciones de productos
+La creación de contenido personalizado con IA generativa tiene el potencial de proporcionar contenido altamente personalizado y relevante.
+
+14. Análisis de Sentimiento / Clasificación de Texto
+
+El análisis de sentimiento, también llamado minería de opinión, utiliza el procesamiento de lenguaje natural y la minería de texto para descifrar el contexto emocional de los materiales escritos.
+
+La IA generativa puede utilizarse en el análisis de sentimiento al generar datos de texto sintéticos etiquetados con sentimientos variados (por ejemplo, positivo, negativo, neutro). Estos datos sintéticos pueden luego utilizarse para entrenar modelos de aprendizaje profundo para realizar análisis de sentimiento en datos de texto del mundo real.
+
+También puede utilizarse para generar texto diseñado específicamente para tener un sentimiento determinado. Por ejemplo, un sistema de IA generativa podría utilizarse para generar publicaciones en redes sociales que son intencionalmente positivas o negativas para influir en la opinión pública o dar forma al sentimiento de una conversación en particular.
+
+Estas pueden ser útiles para mitigar el problema de desequilibrio de datos para el análisis de sentimiento de las opiniones de los usuarios en muchos contextos, como la educación, los servicios al cliente, etc.Fuente
+9
+:	“El	Impacto	de ла	Generación	de	Texto	Sintético	en	el	Análisis	de	Sentimiento	Utilizando	Modelos	basados	en	GAN”
+>	Apliaciones	basadas	en	código
+15.	Generación	de	código
+Otra	aplicación	de	las	IA	generativas	es	en	el	desarrollo	de	software	due	a	su	capacidad	de	producir	código	sin	la	necesidad	de	codificación	manual.
+Desarrollar	código	es	posible	a través	de	esta	cualidad	no	sólo	para	profesionales	sino	también	para	personas	no	técnicas.
+La	generación	de	código	es	una	de	las	aplicaciones	generativas	de	IA	más	fundamentales
+Generando	un	formulario	HTML	y	código	de	envío	de	JavaScript	con	OpenAI’s	
+ChatGPT
+16.	Completar	código
+Uno	de	los	usos	más	directos	de	las	IA	generativas	para	codificar	es	sugerir	completar	código	a medida	que	los	desarrolladores	escriben. Esto	puede	ahorrar	tiempo	y	reducir	errores,	especialmente	para	tareas	repetitivas	o	tediosas.
+17.	Revisión	de	código
+Las	IA	generativas	también	pueden	ser	utilizadas	para	realizar	comprobaciones	de	cualidad	del	código	existente	y	optimizarlo	either	sugiriendo	mejoras	o	generando	implementaciones	alternativas	más	eficientes	o	fáciles	de	leer.
+18.	Corregir	errores
+Puede	ayudar	a	identificar	y	arreglar	errores	en	el	código	generado	al	analizar	patrones	de	código,	identificar	posibles	problemas	y	sugerir	arreglos.
+19.	Reestructuración	de	código
+Las	IA	generativas	pueden	ser	utilizadas	para	automatizar	el	proceso	de	reestructuración	de	código,	haciéndolo	más	fácil	de	mantener	y	actualizar	con	el	tiempo.
+20.	Verificación	de_estilo_de_código
+Las	IA	generativas	pueden	analizar	el	código	para	verificar	su	adherencia	a	las	guías	de_estilo_de_código,	garantizando	la	consistencia	y	legibilidad	en	todo	el	código.
+Obtenga	más	insights	sobre	el uso	de	las	IA	generativas	en	la	automatización	del	desarrollo	de	software.
+AUTOMATIZACIÓN_DE_PRUEBAS
+21.	Generación	de	casos_de_prueba
+Herramientas	like	ChatGPT	pueden	ayudar	a	generar	casos_de_prueba	basados	en	requisitos	del	usuario	o	historias	del	usuario,	proporcionar	una	descripción	clara	de	la	funcionalidad	de_la	aplicación	y	generar	múltiples	escenarios	y	casos_de_prueba	para	cubrir	varios	aspectos	de_la	aplicación.
+22.	Generación_de_código_de_prueba
+Herramientas	like	ChatGPT	pueden	convertir	descripciones	en	lenguaje	natural	en	script_de_prueba	automatizados.	Entendiendo	los	requisitos	descritos	en	lenguaje	claro	puede	traducirlos	en	comandos	específicos	o	snippets_de_código	en	el	lenguaje_de_programación	o	marco_de_prueba	deseado.
+La	generación_de_código_de_prueba	es	una	de	las	aplicaciones	generativas	de	IA	más	enfocadas	en	codificación
+NLP	a	script_de_prueba	via	ChatGPT-4
+23.	Mantenimiento_de_script_de_prueba
+Como	modelo_de_lenguaje_de_IA,	ChatGPT	puede	asistir	en	el	mantenimiento	de	script_de_prueba	identificando	código	obsoleto	o	redundante,	sugiriendo	mejoras	y	even	actualizando	automáticamente	script_cuando	se	proporcionan	nuevos	requisitos	o	cambios	en_la_aplicación.
+24.	Documentación_de_pruebaModelos de IA generativos pueden generar datos de prueba realistas basados en los parámetros de entrada, como crear direcciones de correo electrónico válidas, nombres, ubicaciones y otros datos de prueba que se ajustan a patrones o requisitos específicos.
+
+25. Análisis de resultados de prueba
+ChatGPT y otras herramientas similares pueden analizar los resultados de las pruebas y proporcionar un resumen, incluyendo el número de pruebas pasadas/fracasadas, cobertura de pruebas y posibles problemas.
+Para más información sobre casos de uso y desafíos de automatización de pruebas, consulte nuestro artículo.
+
+> Otras aplicaciones
+26. IA conversacional
+Otro caso de uso de IA generativa implica generar respuestas a la entrada del usuario en forma de lenguaje natural. Este tipo es comúnmente utilizado en chatbots y asistentes virtuales, diseñados para proporcionar información, responder preguntas o realizar tareas para los usuarios a través de interfaces conversacionales, como ventanas de chat o asistentes de voz.
+ChatGPT es un ejemplo popular de IA conversacional. Ofrece una conversación altamente informativa y integrada con los usuarios, como discusiones filosóficas. Por ejemplo, puede verificar una conversación con ChatGPT a continuación.
+Una conversación con ChatGPT
+Comprenda las distinciones entre IA conversacional y IA generativa. Navegue a través de las sutilezas en este artículo sobre IA conversacional vs. IA generativa.
+
+27. Síntesis de datos
+Los sistemas de IA generativa pueden crear datos sintéticos que son similares en propiedades estadísticas a los datos del mundo real, pero no necesariamente se basan en puntos de datos del mundo real específicos. Los datos sintetizados se pueden utilizar para varios propósitos:
+entrenamiento de modelos de aprendizaje automático
+mantenimiento de la privacidad de los datos al crear nuevos datos a partir de los datos de entrada de los clientes
+alimentación de procesamiento de lenguaje natural de algoritmos de IA generativa para lograr un discurso similar al humano
+
+28. Visualización de datos
+Algunos modelos generativos como ChatGPT pueden realizar visualización de datos, lo que es útil para muchas áreas. Puede cargar conjuntos de datos, realizar transformaciones y analizar datos utilizando bibliotecas de Python como pandas, numpy y matplotlib. Puede pedirle a ChatGPT Code Interpreter que realice tareas de análisis específicas y escribirá y ejecutará el código de Python apropiado. También puede pedirle al modelo que visualice sus datos en un formato preferido.
+Análisis de datos con ChatGPT Code Interpreter
+Aprenda qué es ChatGPT Code Interpreter y sus casos de uso en nuestro artículo.
+
+29. Conversión de archivos
+ChatGPT Code Interpreter puede convertir archivos entre diferentes formatos, siempre que las bibliotecas necesarias estén disponibles y la operación pueda realizarse utilizando código de Python.
+
+30. Resolución de problemas matemáticos
+En general, los modelos de lenguaje grandes son capaces de entender preguntas matemáticas y resolverlas. Esto incluye problemas básicos, pero también complejos, dependiendo del modelo. A continuación, se muestra un ejemplo de las capacidades de ChatGPT en este sentido.
+Fuente: OpenAIAplicaciones específicas de la industria de la inteligencia artificial generativa
+
+> Aplicaciones en la atención médica
+
+31. Descubrimiento y desarrollo de medicamentos más rápidos
+Aprovechando el poder de los algoritmos de inteligencia artificial generativa para encontrar candidatos a medicamentos potenciales y probar su eficacia con simulaciones por computadora, se podría acelerar significativamente el proceso de descubrimiento de nuevos medicamentos, desde ensayos preclínicos en animales hasta pruebas clínicas en humanos.
+
+32. Medicina personalizada
+Los modelos de inteligencia artificial generativa pueden servir como chatbots médicos para comprender los síntomas de los pacientes y producir diagnósticos con precisión creciente basados en las declaraciones de los pacientes y los resultados de las pruebas. Luego, estos modelos pueden crear planes de tratamiento individualizados específicamente para la historia médica, los síntomas y más del paciente.
+
+33. Mejora de la imagen médica
+Combinando el poder del aprendizaje automático con tecnologías de imagen médica, como tomografías computarizadas y resonancia magnética, los algoritmos de inteligencia artificial generativa pueden acelerar la precisión en la imagen médica con resultados mejorados.
+
+14 horas de salida progresiva de un modelo de inteligencia artificial generativa para producir radiografías de tórax sintéticas (es decir, artificiales).
+
+Fuente: Revista de Atención Médica del Futuro
+
+34. Gestión de la salud poblacional
+El uso de inteligencia artificial generativa en la atención médica también puede llevar a una mejor gestión de la salud a nivel poblacional, permitiendo a los responsables de políticas acceder a información demográfica más detallada y diseñar iniciativas de salud pública dirigidas a comunidades desatendidas.
+
+Para más información sobre estos casos de uso de inteligencia artificial generativa en la atención médica, consulte nuestro artículo sobre inteligencia artificial generativa en la atención médica.
+
+> Aplicaciones en la educación
+
+35. Lecciones personalizadas
+Aprovechando la inteligencia artificial generativa, los planes de lecciones personalizados pueden brindar a los estudiantes la educación más efectiva y personalizada posible. Estos planes se crean analizando los datos de los estudiantes, como su rendimiento pasado, habilidades y cualquier retroalimentación que hayan proporcionado sobre el contenido del currículum. Esto ayuda a asegurar que cada estudiante, especialmente aquellos con discapacidades, reciba una experiencia individualizada diseñada para maximizar el éxito.
+
+36. Diseño de cursos
+Desde la creación de planes de estudio y evaluaciones hasta la personalización de materiales de curso según las necesidades individuales de los estudiantes, la inteligencia artificial generativa puede ayudar a hacer que la enseñanza sea más eficiente y efectiva. Además, cuando se combina con tecnología de realidad virtual, puede crear simulaciones realistas que involucren a los estudiantes en el proceso.
+
+37. Creación de contenido para cursos
+La inteligencia artificial generativa ofrece a los maestros una forma práctica y efectiva de desarrollar grandes cantidades de material único rápidamente. Ya sea que se trate de preguntas de examen, revisiones de conceptos o explicaciones, esta tecnología puede generar contenido nuevo a partir de información existente para ayudar a los educadores a crear materiales de enseñanza diversificados para sus clases.
+
+Además, la IA puede generar guiones para conferencias en video o podcasts, simplificando la creación de contenido multimedia para cursos en línea (ver la figura a continuación).Un ejemplo de contenido de curso generado por IA.
+
+Fuente: NOLEJ
+
+38. Tutoría
+La tutoría generada por IA es otro caso de uso de IA generativa. Permite a los estudiantes interactuar con un tutor virtual y recibir retroalimentación en tiempo real en la comodidad de sus hogares. Esto la convierte en una solución ideal para aquellos niños que no tienen acceso a educación presencial tradicional.
+
+39. Protección de la privacidad de datos para modelos analíticos
+Una ventaja de utilizar IA generativa para crear conjuntos de datos de entrenamiento es que puede ayudar a proteger la privacidad de los estudiantes. Un incidente de violación de datos o hacking puede revelar datos del mundo real que contienen información personal sobre niños en edad escolar.
+Utilizar datos sintéticos, que son creados por modelos de IA que han aprendido de datos del mundo real, puede proporcionar anonimato y proteger la información personal de los estudiantes. Los conjuntos de datos sintéticos producidos por modelos generativos son efectivos y útiles para entrenar otros algoritmos, mientras que son seguros y seguros de usar.
+
+40. Restauración de materiales de aprendizaje antiguos
+La IA generativa puede mejorar la calidad de materiales de aprendizaje desactualizados o de baja calidad, como documentos históricos, fotografías y películas. Al utilizar la IA para mejorar la resolución de estos materiales, pueden ser actualizados a estándares modernos y ser más atractivos para los estudiantes que están acostumbrados a medios de alta calidad.
+
+Para más información sobre los casos de uso de IA generativa en educación, consulte nuestro artículo sobre casos de uso de IA generativa en educación.
+
+> Aplicaciones de moda
+
+41. Diseño creativo para diseñadores de moda
+La IA generativa es una herramienta valiosa que puede dar nueva vida a los diseños de moda. Desde crear estilos innovadores hasta refinar y optimizar looks existentes, la tecnología ayuda a los diseñadores a mantenerse al día con las últimas tendencias mientras mantienen su creatividad en el proceso. Esto se puede lograr mediante una variedad de técnicas, como diseño generativo único o transferencia de estilo de otras fuentes.Ropa generada por ClothingGAN.
+
+Fuente: Hacia la Ciencia de Datos
+
+42. Convirtiendo bocetos en imágenes a color
+Utilizando IA generativa, la industria de la moda puede ahorrar tanto tiempo precioso como recursos al transformar rápidamente bocetos en imágenes vibrantes. Esta tecnología permite a diseñadores y artistas experimentar sus creaciones en tiempo real con un esfuerzo mínimo, brindándoles también más oportunidades para experimentar sin obstáculos.
+
+43. Generando modelos de moda representativos
+Al aprovechar la IA generativa para crear una variedad de modelos de moda, las empresas de moda pueden servir mejor a su diversa base de clientes y mostrar sus productos de manera más auténtica. Pueden utilizar tales modelos para opciones de prueba virtual para clientes o renderizado 3D de una prenda.
+
+44. Análisis de tendencias y marketing para marcas de moda
+La IA generativa puede ayudar en el análisis de tendencias en la moda mediante:
+Combinar diversas técnicas, como aprendizaje automático y programación probabilística. Estas técnicas permiten modelos generativos poderosos que consideran los deseos de los clientes en el negocio de la moda.Generando opciones personalizadas profundamente para deseos específicos del consumidor que van más allá de lo que pueden hacer los algoritmos de análisis tradicionales y demanda del cliente.
+
+También mejora las capacidades de marketing de moda al:
+
+Utilizar análisis de datos, procesamiento de lenguaje natural y aprendizaje automático para crear una gama de productos altamente personalizados y adaptados para la audiencia objetivo.
+
+Diseñar correos electrónicos, páginas web, subtítulos y anuncios adaptados a los intereses y preferencias específicas de una persona para involucrarlos.
+
+Crear contenido de marketing y anuncios creativos y auténticos que probablemente aparezcan en los resultados de búsqueda.
+
+Para más información sobre cómo se utiliza el AI generativo en la industria de la moda, consulte nuestro artículo sobre los casos de uso del AI generativo en la moda.
+
+> Aplicaciones bancarias
+
+45. Detección de fraude
+El AI generativo proporciona a los bancos una herramienta poderosa para detectar transacciones sospechosas o fraudulentas, mejorando la capacidad para combatir el delito financiero. Entrenar GANs para la detección de fraude, utilizando un conjunto de entrenamiento de transacciones fraudulentas, ayuda a identificar transacciones subrepresentadas.
+
+46. Gestión de riesgos
+Al aprovechar GANs, es posible calcular estimaciones de valor en riesgo que muestran la cantidad potencial de pérdida en períodos específicos o construir escenarios económicos para predecir mercados financieros. Además, GANs ayuda a comprender la volatilidad al generar nuevas situaciones asumidas libres de suposiciones basadas en tendencias de datos históricos.
+
+47. Generando explicaciones amigables para la denegación de préstamos
+Los tomadores de decisiones y los solicitantes de préstamos necesitan entender las explicaciones de las decisiones basadas en IA, incluyendo por qué se denegaron las solicitudes de préstamo. Un GAN condicional es una herramienta útil para crear explicaciones de denegación amigables para los solicitantes, como se muestra a continuación.
+Explicaciones de denegación de préstamos generadas por IA.
+
+Fuente: "Generando explicaciones amigables para la denegación de préstamos utilizando redes adversarias generativas"
+
+48. Protección de la privacidad de los datos
+El uso de datos sintéticos generados por IA tiene el potencial de superar los desafíos que enfrenta la industria bancaria, particularmente en el contexto de la privacidad de los datos. Los datos sintéticos pueden ser utilizados para crear datos compartibles en lugar de datos del cliente que no pueden ser compartidos debido a preocupaciones de privacidad y leyes de protección de datos. Además, los datos del cliente sintéticos son ideales para entrenar modelos de ML para ayudar a los bancos a determinar si un cliente es elegible para un préstamo o hipoteca, y cuánto se puede ofrecer.
+
+Para más información, puede consultar nuestros artículos sobre los casos de uso del AI generativo en banca y aplicaciones del AI generativo en servicios financieros.
+
+> Aplicaciones de juegos
+49. Generación de contenido procedimental
+El AI generativo puede generar contenido de juego, como niveles, mapas y misiones, basado en reglas y criterios predefinidos. Esto puede ayudar a los desarrolladores de juegos a crear experiencias de juego más variadas e interesantes.
+
+50. Análisis del comportamiento del jugador
+Puede ser utilizado para analizar datos del jugador, como patrones de juego y preferencias, para proporcionar experiencias de juego personalizadas. Esto puede ayudar a los desarrolladores de juegos a crear experiencias de juego más atractivas y atractivas.Desarrolladores de juegos para aumentar la participación y retención del jugador.
+
+51. Comportamiento de personajes no jugadores (NPC)
+El IA generativa puede crear un comportamiento realista y dinámico de NPC, como IA enemiga y interacciones de NPC. Esto puede ayudar a los desarrolladores de juegos a crear mundos de juego más inmersivos y desafiantes.
+
+52. Diseño de interfaz de usuario
+El IA generativa puede diseñar interfaces de usuario intuitivas y amigables con el usuario. Esto puede ayudar a los desarrolladores de juegos a mejorar la experiencia del jugador y aumentar la participación del jugador.
+
+53. Pruebas de juego
+Las herramientas de programación generativa pueden utilizarse para automatizar las pruebas de juego, como identificar errores y glitches, y proporcionar retroalimentación sobre el equilibrio del juego. Esto puede ayudar a los desarrolladores de juegos a reducir el tiempo y los costos de prueba, y mejorar la calidad general de sus juegos.
+
+> Aplicaciones de viajes
+
+54. Verificación de identidad
+La utilización del IA generativa en sistemas de identificación y verificación facial en aeropuertos puede ayudar a identificar y autenticar a los pasajeros. Esto se logra generando una imagen completa de la cara de un pasajero utilizando fotografías capturadas desde varios ángulos, simplificando el proceso de identificación y confirmación de la identidad de los viajeros.
+
+55. Recomendaciones personalizadas de viajes y destinos
+El IA generativa puede analizar datos de clientes, como reservas pasadas y preferencias, para proporcionar recomendaciones personalizadas de destinos de viaje, alojamientos y actividades.
+
+> Aplicaciones minoristas
+
+56. Diseño de productos y exhibición
+El IA generativa puede crear nuevos diseños de productos basados en el análisis de tendencias del mercado, preferencias del consumidor y datos de ventas históricas. El modelo de IA puede generar múltiples variaciones, permitiendo a las empresas seleccionar las opciones más atractivas.
+Por ejemplo, crear diseños para ropa, muebles o electrónica puede ser una opción. O personalizar las opciones de exhibición según la elección del cliente es otra opción.
+
+57. Generación automática de contenido minorista
+Los minoristas pueden utilizar el IA para crear descripciones de productos, contenido promocional para las redes sociales, entradas de blog y otro contenido que mejora el SEO y impulsa la participación del cliente.
+
+58. Recomendaciones de productos
+Utilizando modelos generativos, el IA puede sugerir nuevos o productos alternativos a los clientes que podrían estar interesados, basándose en su historial de compras y preferencias. También puede anticipar sus necesidades y preferencias futuras, mejorando la experiencia de compra.
+
+59. Gestión de inventario y optimización de la cadena de suministro
+El IA generativa puede ayudar a predecir la demanda de productos, generando predicciones basadas en datos de ventas históricas, tendencias, estacionalidad y otros factores. Esto puede mejorar la gestión del inventario, reducir las instancias de sobreestock o desabastecimiento.
+
+60. Asistentes de compras virtuales
+El IA generativa puede impulsar asistentes virtuales conversacionales que ayudan a los clientes en su viaje de compra, generando respuestas a sus consultas.y	guiándolos	a	través	del	proceso	de	compra.
+
+Para	más,	consulta	nuestro	artículo	sobre	el	usoy	ejemplos	de	IA	generativa	en	la	industriaMinorista.
+
+>	Apliaciones	de	Seguros
+
+61.	Documentación	de	pólizas
+Las	herramientas	de	IA	generativa	pueden	ayudar	a	generar	documentos	de	pólizas	basados	en	detalles	específicos	del	usuario.	Puede	completar	automáticamente	la	información	donde sea	necesario,	acelerando	el	proceso	de	creación	de	estos	documentos.
+
+62.	Evaluación	de	riesgos	y	cálculo	de	prima
+La	IA	generativa	puede	ser	utilizada	para	simular	diferentes	escenarios	de	riesgo	basados	en	datos	históricos	y	calcular	laprimary	según	corresponda.	Por	ejemplo,	al	aprender	de	datos	de	clientes	anteriores,	los	modelos	generativos	pueden	producir	simulaciones	de	datos	de	clientes	potenciales	futuros	y	sus	riesgos	potenciales.	Estas	simulaciones	pueden	ser	utilizadas	para	entrenar	modelos	predictivos	para	estimar	mejor	el	riesgo	y	fijar	primas	de	seguros.
+
+63.	Detección	de	fraude
+La	IA	generativa	puede	generar	ejemplos	de	reclamaciones	fraudulentas	y	no	fraudulentas	que	pueden	ser	utilizadas	para	entrenar	modelos	de	aprendizaje	automático	para	detectar	fraude.	Estos	modelos	pueden	predicir	si	una	nueva	reclamación	tiene	un	alto	riesgo	de	ser	fraudulenta,	ahorrando	así	dinero	a	la	compañía.
+
+Para	más,	consulta	nuestro	artículo	sobre	las	5	tecnologías	mejorando	la	detección	de	fraude	en	seguros.
+
+64.	Perfiling	de	clientes
+La	IA	generativa	puede	ser	utilizada	para	generar	perfiles	de	clientes	sintéticos	que	ayudan	en	el	desarrollo	y	pruebas	de	modelos	para	segmentación	de	clientes,	predicción	de	comportamiento	y	marketing	personalizado	sin	violación	de	normas	de	privacidad.
+
+65.	Procesamiento	de	reclamaciones
+Los	modelos	de	IA	generativa	pueden	ser	empleado	para	agilizar	el	proceso	a	menudo	complejo	de	gestión	de	reclamaciones.	Pueden	generar	respuestas	automatizadas	para	consultas	básicas	de	reclamaciones,	acelerando	el	proceso	de	asentamiento	de	reclamaciones	y	reduciendo	el	tiempo	de	procesamiento	de	reclamaciones	de	seguros.
+
+66.	Generación	de	pólizas
+Los	modelos	de	IA	generativa	pueden	generar	pólizas	de	seguros	personalizadas	basadas	en	las	necesidades	y	circunstancias	específicas	de	cada	cliente.	Basándose	en	datos	sobre	el	cliente,	como	edad,	historial	médico,	ubicación	y	más,	el	sistema	de	IA	puede	generar	una	póliza	que	se	ajusta	a	esas	características	individuales,	en lugar	de	ofrecer	una	póliza	única	para	todos.
+
+67.	Análisis	predictivo	y	modelado	de	escenarios
+Los	modelos	de	IA	generativa	pueden	generar	miles	de	escenarios	potenciales	a	partir	de	tendencias	históricas	y	datos.	Las	compañías	de	seguros	pueden	utilizar	estos	escenarios	para	entender	resultados	potenciales	futuros	y	tomar	mejores	decisiones.
+
+Para	más	detalles	sobre	estos	casos	de	usos,	consulta	nuestro	artículo	sobre	IA	generativa	en	seguros.
+
+>	Apliaciones	de	Fabricación
+
+68.	Mantenimiento	predictivo
+Al	utilizar	algoritmos	de	aprendizaje	automático,	los	fabricantes	pueden	predicir	fallas	de	equipo	y	mantener	sus	equipos	de	forma	proactiva.	Estos	modelos	pueden	ser	entrenados	con	datos	desde	las	máquinas	mismas,	como	temperatura,	vibración,	sonido,	etc.	A medida que	estos	modelos	aprenden	estos	datos,	pueden	generar	predicciones	sobre	posibles	fallas,	permitiendo	el	mantenimiento	preventivo	y	reduciendo	el	tiempo	de	inactividad.
+
+69.	Control	de_calidad
+La	IA	puede	ayudar	a	mejarar	los	procesos	de	control	de	calidad	en	fabricación.	Al	aprender	de	imágenes	de	productos	en	el	pasado	y	identificar	aquellos	que	eran	defectuosos,	las	herramientas	de	IA	generativa	pueden	generar	un	modelo	para	predicir	si	un	nuevo producto	fabricado	es	probablemente	defectuoso.70.	Planificación	de	producción	y	gestión	de	inventario
+Los	modelos	de	IA	generativos	pueden	simular	varias	escenarios	de	producción,	predecir	la	demanda	y	ayudar	a.optimizar	los	niveles	de	inventario.	Pueden	utilizar	datos	históricos	de	clientes	para	predecir	la	demanda,	lo	que	permite	programar	producción	más	precisa	y	niveles	de	inventario	óptimos.
+Para	más	información	sobre	estos	y	otros	casos	de	usos	de	IA	generativa	en	fabricación,	consulte	nuestro.artículo.
+Aplicaciones	específicas	de	funciones	de	negocios	de	IA	generativa
+>	Apliaciones	de	servicio	al	cliente
+71.	Soporte	al	cliente	multilingüe
+El	Soporte	multilingüe	ofrecido	por	herramientas	de	IA	generativa	como	ChatGPT	para	el	servicio	al	cliente	involucra	el uso	de	las	capacidades	del	modelo	de	lenguaje	grande	del	sistema	para	brindar	Soporte	a	clientes	que	hablan	diferentes	idomas.	Las	herramientas	de	IA	conversacional	pueden	ser	entrenadas	en	varias	idomas	y	pueden	traducir	mensajes	de	una	idoma	a	otra	en	tiempo	real.
+Una	respuesta	multilingüe	del	cliente	generada	por	ChatGPT.
+Descubra	las	diversas	aplicaciones	comerciales	de	ChatGPT	en	este.artículo	insightful	sobre	ChatGPT	para	negocios.
+72. Respuestas	personalizadas	al	cliente
+Las	herramientas	de	IA	conversacional	pueden	ser	entrenadas	en	datos	de	clientes,	como:
+Compras	anteriores
+Historial	de	charla
+Retroalimentación	del	cliente
+para	crear	un	perfil	personalizado	para	cada	cliente.	Cuando	un	cliente	envía	un	mensaje,	ChatGPT	o	otras	herramientas	similares	pueden	utilizar	este	perfil	para	brindar	respuestas	relevantes	personalizadas	según	las	necesidades	y	preferencias	específicas	del	cliente.
+73. Respuestas	rápidas	a	consultas	y	reclamos	del	cliente
+Las	herramientas	conversacionales	pueden	ser	entrenadas	para	reconocer	y	respnder	a	reclamos	comunes	del	cliente,	como	problemas	con	la	calidad	del	producto,	retrasos	en	el	envío	o errores	de	facturación.	Cuando	un	cliente	envía	un	mensaje	con	un	reclamo,	la	herramienta	puede	análizar	el	mensaje	y	brindar	una	respuesta	que	aborda	las	preocupaciones	del	cliente	y	ofrece	soluciones	potenciales.
+74. Creación	de correos	electrónicos	al	cliente
+Herramientas	como	ChatGPT	pueden	crear	plantillas	de	correos	electrónicos	personalizadas	para	clientes	individuales	con	información	del	cliente.	Cuando	la	empresa	quiere	enviar	un	correo	electrónico	a	un	cliente,	ChatGPT	puede	utilizar	una	plantilla	para	generar	un	correo	electrónico	personalizado	según	las	preferencias	y	necesidades	individuales	del	cliente.
+ChatGPT	proporciona	una	plantilla	de	correo	electrónico	para	un	problema	específico	del	cliente.
+75. Respuestas	a	comentarios	del	cliente
+Cuando	un	cliente	deja	un	comentario	o	reseña	en	platadormas	de	reseñas	en	línea	o	en	el	sitio	web	de	la	empresa,	ChatGPT	o	otras	herramientas	pueden	ser	utilizadas	para	generar	una	respuesta	que	aborda	las	preocupaciones	del	cliente	y	ofrece	soluciones	potenciales	o	asistencia.
+76. Respuestas	a	preguntas	frecuentes
+Por	ejemplo,	ChatGPT	puede	ser	entrenado	en	una	página	de	preguntas	frecuentes	de	la	empresa	o	en	una	base	de	conocimientos	para	reconocer	y	respnder	a	preguntas	comunes	de	clientes.	Cuando	un	cliente	envía	un	mensaje	con	una	pregunta,	ChatGPT	puede	análizar	el	mensaje	y	brindar	una	respuesta	que	contesta	la	pregunta	del	cliente	o	lo	dirige	a	recursos	adicionales.Finanzas	Apliaciones
+
+Los equipos de finanzas tratan con datos semi-estructurados que pueden ser consultados utilizando soluciones de IA generativas:
+Automatización de AP
+/ 
+Procesamiento de facturas
+: Las soluciones de IA generativas van más allá de extraer pares clave-valor de documentos y permiten a los usuarios consultar documentos de manera flexible, lo que ayuda a desbloquear la automatización para documentos más complejos.
+La pregunta sobre la factura es respondida por el modelo de IA generativa
+Procesamiento de facturas con IA generativa
+14
+Los equipos de AP no necesitan cambiar sus sistemas de registro, como ERP, para aprovechar estas tecnologías, su ERP puede ser enriquecido a través de plugins, como se describe en estos artículos:
+Automatización de AP de Blackbaud
+Automatización de AP de Dynamics
+Automatización de AP de NetSuite
+Automatización de AP de SAGE
+Para más información, consulte
+Aplicaciones de IA en cuentas por pagar
+.
+
+> Aplicaciones de Marketing
+
+77. Creación de contenido para marketing
+Creación de contenido
+, generación de texto en específico, utilizando modelos generativos como ChatGPT, puede ser una herramienta poderosa para el marketing. Estos textos generados por IA
+pueden ser utilizados para una variedad de propósitos, además de generar ideas, como:
+Creación de contenido para
+marketing de contenido
+en formas de correos electrónicos, publicaciones en redes sociales, artículos de blog, etc.
+Escritura de guiones y narrativa para publicidad de bienes y servicios (ver la figura a continuación)
+Un ejemplo de contenido generado por IA para publicitar un nuevo modelo de coche eléctrico utilizando ChatGPT.
+Explore cómo utilizar IA generativa en la creación de contenido, específicamente en la redacción publicitaria. Explore sus aplicaciones en este artículo sobre
+redacción publicitaria generativa
+.
+78. Experiencia del cliente personalizada
+ChatGPT y otras herramientas generativas similares con su procesamiento de lenguaje natural (NLP) pueden generar contenido personalizado para sus clientes según sus preferencias, comportamiento pasado y demográficos. Esto puede ayudar a crear contenido dirigido que resuene con su audiencia, lo que puede llevar a tasas de engagement y conversión más altas.
+Eleve su estrategia de ventas con la integración de IA conversacional. Descubra cómo mejora las interacciones con los clientes en este artículo sobre
+IA conversacional para ventas
+.
+79. Investigación de audiencia
+La IA generativa puede ser utilizada para analizar datos de clientes, como:
+Consultas de búsqueda
+Interacciones en redes sociales
+Compras pasadas para identificar patrones y tendencias en el comportamiento del cliente.
+Al analizar estos datos, las herramientas de IA generativa pueden ayudar a identificar las preferencias, intereses y puntos débiles de su audiencia objetivo, lo que puede informar su mensaje de marketing, contenido y desarrollo de productos.
+80. Escritura de descripciones de productos
+Las descripciones de productos son una parte crucial del marketing, ya que proporcionan a los clientes potenciales información sobre las características, beneficios y valor de un producto. Las herramientas generativas como ChatGPT pueden ayudar a crear descripciones de productos atractivas e informativas que resuenen con su audiencia objetivo.81. Crear encuestas a clientes
+Las encuestas son una forma efectiva de recopilar retroalimentación y conocimientos de los clientes, lo que puede ayudar a los mercadólogos a mejorar sus productos, servicios y estrategias de marketing. A continuación, se presentan algunas formas en que el IA generativa puede ayudar a crear encuestas a clientes:
+Generación de preguntas
+Organización de la estructura de la encuesta
+Hacer que las encuestas sean multilingües con su capacidad de traducción
+Análisis de la encuesta
+
+82. Generar anuncios de video o demos de productos
+La aplicación de IA generativa para la generación de video puede ser útil para el marketing en:
+Anuncios de video:
+Con IA generativa, las empresas pueden crear anuncios de video de alta calidad que se pueden utilizar en varias plataformas, incluyendo redes sociales y sitios de compartir videos. Esto puede ayudar a aumentar la conciencia de la marca y impulsar las conversiones.
+Demos de productos:
+La generación de video también se puede utilizar para crear demos de productos. Al utilizar IA generativa para crear estos videos, las empresas pueden mostrar sus productos de manera atractiva visualmente, lo que puede ayudar a aumentar la participación y las ventas.
+El video a continuación es generado por IA y muestra su potencial visual para ser utilizado con fines de marketing.
+
+Campañas de marketing por correo electrónico
+El uso de IA generativa para campañas de marketing por correo electrónico apoya los procesos de marketing al automatizar, personalizar y generar contenido atractivo.
+Las herramientas de IA generativa se pueden utilizar para generar:
+83. Texto de correo electrónico personalizado
+84. Líneas de asunto
+85. Imágenes dentro del cuerpo del correo electrónico
+86. Acciones de llamada (CTA).
+
+Otros casos de uso dentro del marketing por correo electrónico incluyen:
+87. Automatización de respuestas por correo electrónico
+88. Selección de audiencia objetivo
+89. Optimización de tiempos de entrega de correos electrónicos
+
+Aplicaciones de SEO90. Generación de ideas de temas para escritura de contenido
+Herramientas generativas como ChatGPT pueden utilizarse para generar ideas de temas para escritura de contenido SEO al aprovechar sus capacidades de procesamiento de lenguaje para:
+producir palabras clave y frases relevantes
+analizar el contenido de los competidores para identificar brechas en la cobertura
+sugerir temas basados en tendencias actuales y consultas de búsqueda de usuarios
+
+91. Realizar investigación de palabras clave
+El proceso de incluir palabras clave relacionadas en un contenido es crucial para una estrategia SEO exitosa, ya que ayuda a determinar los términos y frases que los clientes potenciales utilizan al buscar productos o servicios relacionados con las ofertas del sitio web.
+Herramientas generativas como ChatGPT pueden realizar funciones en la optimización de búsqueda de palabras clave, como:
+Generar palabras clave:
+Puede generar una lista de palabras clave relevantes para un tema o tema al analizar el contexto y el lenguaje utilizado en la información proporcionada.
+Identificar tendencias de palabras clave:
+Puede analizar datos de búsqueda para identificar tendencias actuales de palabras clave y sugerir términos que probablemente sean populares en el futuro cercano.
+Generar ideas de palabras clave para contenido de marketing B2B con ChatGPT.
+
+92. Encontrar los títulos adecuados
+Herramientas generativas como ChatGPT pueden generar títulos SEO-amigables asegurándose de que los títulos sean:
+descriptivos y transmitan claramente el tema del contenido
+capaces de incorporar palabras clave relevantes relacionadas con el tema
+concisos y directos, generalmente dentro del límite de 60-70 caracteres para una visualización óptima en las páginas de resultados de los motores de búsqueda.
+llamativos y probablemente atractivos para los clics, lo que puede ayudar a mejorar la tasa de clics (CTR) y, en última instancia, el SEO.
+
+93. Agrupar intención de búsqueda
+Comprender la intención detrás de una consulta es crucial para crear contenido que aborda efectivamente las necesidades de los clientes, lo que puede llevar a una mayor participación y conversiones.
+Herramientas como ChatGPT pueden ayudar en la agrupación de intención de búsqueda al analizar consultas de búsqueda y categorizarlas según el objetivo o propósito del usuario, gracias a los métodos de procesamiento de lenguaje natural (NLP). Esto puede ayudar a las empresas y marketers a comprender la intención detrás de términos de búsqueda específicos y optimizar su contenido y estrategias para satisfacer mejor las necesidades y expectativas de su audiencia objetivo.
+
+94. Crear estructura de contenido
+Herramientas como ChatGPT pueden ayudar a crear estructuras de contenido al generar esquemas y sugerencias de organización para un tema determinado. Esto puede ser útil para la maximización del SEO, ya que un contenido bien estructurado y organizado no solo proporciona una mejor experiencia del usuario, sino que también ayuda a los motores de búsqueda a entender el contexto y la relevancia del contenido.
+ChatGPT crea la estructura de un contenido.
+
+95. Generar descripciones meta
+Una descripción meta es un atributo HTML que proporciona un resumen breve del contenido de una página web. La descripción meta sirve como un anuncio para la página, animando a los usuarios a hacer clic en el enlace y visitar la página. Por lo tanto, las descripciones meta son un elemento importante en el SEO.
+ChatGPT puede utilizarse para crear descripciones meta efectivas al generar resúmenes del contenido que describen con precisión y concisión el tema principal de una página.96. Crear códigos de mapa del sitio
+Un mapa del sitio es un código que lista todas las páginas y contenido de un sitio web en un formato estructurado. Es un tipo de archivo XML que ayuda a los motores de búsqueda a entender la estructura y organización de un sitio web. El código de mapa del sitio proporciona información sobre cada página de un sitio web, como su URL, la fecha en que se modificó por última vez y su prioridad relativa con respecto a otras páginas del sitio.
+ChatGPT se puede utilizar para generar códigos de mapa del sitio, produciendo un archivo XML que lista todas las páginas y contenido de un sitio web.
+Para más información sobre los casos de uso y beneficios de la IA generativa para la maximización del SEO, consulte nuestro artículo sobre la puntuación de SEO de ChatGPT.
+
+> Aplicaciones de Recursos Humanos
+97. Crear preguntas de entrevista
+Los departamentos de recursos humanos a menudo necesitan crear un conjunto de preguntas para hacer a los candidatos durante el proceso de entrevista, y esto puede ser una tarea que consume tiempo. La IA se puede utilizar para generar preguntas de entrevista relevantes para la posición laboral y que evalúen las calificaciones, habilidades y experiencia del candidato.
+ChatGPT crea un conjunto de preguntas de entrevista para una posición laboral.
+
+98. Generar materiales de incorporación
+La IA se puede utilizar para generar materiales de incorporación para nuevos empleados, como videos de capacitación, manuales y otra documentación.
+
+99. Generación de descripciones de trabajo
+La IA generativa se puede utilizar para crear descripciones de trabajo que reflejen con precisión las habilidades y calificaciones requeridas para una posición particular.
+
+> Aplicaciones de Cadena de Suministro y Adquisiciones
+100. Pronóstico de demanda y gestión de la cadena de suministro
+La IA generativa puede ayudar a las empresas a predecir la demanda de productos y servicios específicos para optimizar sus operaciones de cadena de suministro en consecuencia.
+Esto puede ayudar a las empresas a reducir costos de inventario, mejorar los tiempos de cumplimiento de pedidos y reducir desperdicio y sobreestocamiento.
+Explore cómo la IA generativa transforma las operaciones de cadena de suministro al predecir la demanda y optimizar procesos. Sumérjase en los detalles con este artículo sobre la IA generativa en la cadena de suministro.
+
+> Aplicaciones Legales
+101. Generación de contratos
+La IA generativa se puede utilizar para generar contratos basados en plantillas y criterios predefinidos. Esto puede ahorrar tiempo y esfuerzo para los departamentos de adquisiciones y ayudar a asegurar la consistencia y precisión en el lenguaje de los contratos.
+
+102. Cumplimiento de contratos
+Las empresas tienen miles de contratos con términos negociados. Las aplicaciones de IA con capacidades de comprensión del lenguaje pueden:
+Clasificar contratos
+Identificar términos comunes
+Destacar términos únicos o raros
+
+> Aplicaciones de Ventas
+103. Entrenamiento de ventas
+La IA generativa se puede utilizar para proporcionar entrenamiento de ventas personalizado a representantes de ventas individuales, basado en sus datos de rendimiento y estilo de aprendizaje.Esto puede ayudar a los equipos de ventas a mejorar sus habilidades y rendimiento, y aumentar la productividad de las ventas.
+
+104. Previsión de ventas y optimización de pipeline
+La IA generativa puede analizar datos históricos de ventas y generar predicciones para ventas futuras. De esta manera, los equipos de ventas pueden optimizar su pipeline de ventas y asignar recursos de manera más efectiva.
+
+105. Identificación y calificación de leads
+La IA puede ser utilizada para identificar posibles leads de ventas basados en datos de clientes y comportamiento, y calificar leads según su probabilidad de conversión. Además, puede generar tácticas de ventas personalizadas y campañas para generar leads.
+
+106. Generación de videos de ventas
+La IA generativa puede ser utilizada para crear videos de ventas personalizados adaptados específicamente a las necesidades y expectativas de los clientes respetados. Estos videos de ventas personalizados permiten a los representantes de ventas abordar objetivos de ventas individualmente, aumentar las relaciones personales con los clientes y generar más leads. Consulte el software de video de ventas para aprender más sobre la generación de videos de ventas.
+
+Explore las perspectivas estadísticas derivadas de aplicaciones de IA generativa en various funciones empresariales. Lea más sobre esto en el artículo sobre estadísticas de IA generativa.
+
+> Aplicaciones de auditoría
+
+107. Automatización de informes de auditoría
+Los procesos manuales, como la presentación de informes, pueden ser consumidores de tiempo y propensos a errores. Los modelos generativos como ChatGPT pueden ayudar a los auditores a automatizar tareas repetitivas, como la documentación y los informes. En particular, puede producir informes estandarizados (como se muestra en la figura a continuación) que ofrecen consistencia en la presentación de hallazgos.
+
+108. Análisis de datos de documentos
+Los programas de auditoría implican el análisis frecuente de grandes cantidades de datos financieros y operativos. ChatGPT puede automatizar algunas de estas tareas de análisis de datos, como:
+Realizar cálculos
+Realizar agregaciones
+Comparaciones de conjuntos de datos
+
+109. Monitoreo de riesgos en tiempo real
+Las herramientas de IA generativa también pueden ser útiles para el monitoreo de riesgos en tiempo real. Los auditores pueden interactuar con el modelo para discutir las actividades de la organización, sistemas de control y entorno empresarial. Por ejemplo, ChatGPT puede ayudar a los auditores a evaluar los niveles de riesgo, identificar áreas prioritarias para una mayor investigación y obtener información sobre posibles peligros.
+
+110. Reconocimiento de patrones y detección de anomalías
+La IA generativa puede ayudar a los auditores a detectar y marcar anomalías de auditoría para un examen más a fondo. Cuando se combina con la evaluación humana correcta, las herramientas de IA generativa pueden ser útiles para identificar posibles fraudes y mejorar las funciones de auditoría interna.
+Los auditores pueden utilizar las capacidades de procesamiento de lenguaje natural de los modelos de IA generativa para revelar posibles riesgos que podrían ser difíciles de identificar manualmente, alimentándolos con datos relevantes y pidiéndoles que busquen patrones extraños o inesperados.
+
+111. Capacitación de auditores
+ChatGPT se utiliza ampliamente en la educación para ayudar a estudiantes, maestros e investigadores.
+En la auditoría, puede capacitar a los auditores ofreciéndoles experticia, explicaciones y ejemplos relevantes para sus trabajos. Puede ofrecer materiales educativos como:Conocimientos conceptuales
+Estudios de casos
+Para obtener más información sobre el uso de la IA generativa para auditoría, consulte nuestro artículo.
+Nuestra guía integral puede ayudarte a aprender más sobre las herramientas de IA generativa y sus aplicaciones específicas.
+Preguntas frecuentes
+¿Qué es la IA generativa?
+La IA generativa se refiere a algoritmos de inteligencia artificial diseñados para crear nuevo contenido o datos que sean similares a los ejemplos generados por humanos.
+Esto puede incluir texto, imágenes, música y otros tipos de medios. Estos sistemas de IA aprenden de un conjunto grande de datos existentes y luego utilizan ese conocimiento para generar nuevo contenido original que se asemeja al material aprendido.
+¿Cuáles son los productos de IA generativa populares?
+GPT de OpenAI:
+Esta es una serie de modelos de lenguaje avanzados conocidos por su capacidad para generar texto coherente y contextualmente relevante basado en prompts dados. Se utiliza en aplicaciones como chatbots, creación de contenido y traducción de lenguajes.
+DALL-E de OpenAI:
+Un AI especializado en generar imágenes a partir de descripciones textuales, DALL-E es conocido por su creatividad y capacidad para crear imágenes complejas y detalladas basadas en prompts específicos.
+AlphaFold de DeepMind:
+Este sistema de IA se utiliza para predecir estructuras de proteínas con una precisión notable, lo que es un avance significativo en la investigación biológica y el descubrimiento de fármacos.
+Google BERT:
+Aunque principalmente es un modelo de comprensión del lenguaje, BERT ha mejorado significativamente la forma en que el motor de búsqueda de Google entiende y procesa consultas de lenguaje natural.
+¿Cuál es la diferencia entre ChatGPT y la IA generativa?
+ChatGPT es un tipo específico de IA generativa. Mientras que la IA generativa se refiere ampliamente a sistemas de IA que crean nuevo contenido, como texto, imágenes o música, ChatGPT se centra específicamente en generar texto similar al humano basado en la entrada que recibe, a menudo utilizado para conversaciones, responder preguntas y tareas de lenguaje similares.
+Si tienes otras preguntas o necesitas ayuda para encontrar proveedores, podemos ayudarte:
+Encontrar los proveedores adecuados
+Enlaces externos
+1.	
+"Tendencias tecnológicas estratégicas para 2022" (PDF). Gartner. 2021. Recuperado el 1 de noviembre de 2022.
+2.	
+"Crear video a partir de texto". OpenAI. Accedido el 20 de febrero de 2024.
+3.	
+"Revisión de FutureGAN: Predicción de frames de video futuras utilizando Redes Adversarias Generativas (GANs)". Medium, 13 de agosto de 2021. Accedido el 15 de marzo de 2023.
+4.	"Generación de layouts de probabilidad de asignación de espacio sintéticos basados en Conditional-GANs entrenados". Applied Artificial Intelligence. 33. 1-17.
+5.	"FAE-GAN: edición de atributos faciales con normalización de atención multi-escala". Machine Vision and Applications. 32, 97 (2021).
+6.	"SP-GAN: generación y manipulación de formas 3D guiadas por esferas". ACM Trans. Graph. 40, 4, Artículo 151 (agosto de 2021).
+7.	Walsh B.; Hamilton M.; Newby G.; Wang X.; Ruan S.; Zhao S.; He L.; Zhang S.; Dettinger E.; Freeman W. T.; Weimer M. (7 de septiembre de 2023) "Creación automática de audiolibros a gran escala".
+8.	
+Informe de AI Now: Los 100 casos de uso más populares para la IA generativa. Filtered. Recuperado el 18 de abril de 2024.
+9.	"Impacto de la generación de texto sintético en el análisis de sentimiento utilizando modelos basados en GAN". Egyptian Informatics Journal, https://www.sciencedirect.com/science/article/pii/S1110866522000342. Accedido el 27 de febrero de 2023.
+10.	"Complementos de ChatGPT". OpenAI, 23 de marzo de 2023, https://openai.com/blog/chatgpt-plugins#code-interpreter. Accedido el 24 de julio de 2023.
+11.	"AMIE: Un sistema de IA de investigación para razonamiento médico diagnóstico y conversaciones". Google. 12 de enero de 2024. Recuperado el 15 de enero de 2024.
+12.	"Redes adversarias generativas y datos de pacientes sintéticos: desafíos actuales y perspectivas futuras". NCBI. Accedido el 18 de diciembre de 2022.Here is the translation:
+
+13.	“Generación	de	explicaciones	amigables	al	usuario	para	denegaciones	de	préstamos	utilizando	redes	adversarias	generativas.”
+
+Fujitsu,
+https://www.fujitsu.com/global/documents/about/resources/publications/technicalreview/2020-01/article04.pdf.	Accedido	el	15	de	marzo	de	2023.
+
+14.	“Procesamiento	de	facturas	con	IDP	de	IA	generativa”.
+
+Youtube.
+14	de	julio	de	2023,	recuperado	el	12	de	mayo	de	2024
+
+Cem	Dilmegani
+Analista	principal
+Cem	es	el	analista	principal	en	AIMultiple	desde	2017.	AIMultiple	informa	a	cientos	de	miles	de	empresas	(según	Similarweb)
+incluyendo	el	60%	de	Fortune	500	cada	mes.
+
+El	trabajo	de	Cem	ha	sido	citado	por	publicaciones	globales	líderes	como	Business	Insider,	Forbes,	Washington	Post,	empresas	globales	como
+Deloitte,	HPE,	ONG	como	Foro	Económico	Mundial	y	organizaciones	supranacionales	como	Comisión	Europea.	Puedes	ver	más
+empresas	y	medios	de	comunicación	reputados
+	que	hacen	referencia	a	AIMultiple.
+
+A	lo	largo	de	su	carrera,	Cem	se_desempeñó	como	consultor	técnico,	comprador	técnico	y	emprendedor	técnico.	Aconsejó	a	empresas	sobre	sus	decisiones	técnicas	en	McKinsey	&	Company	y	Altman	Solon	durante	más	de	una	década.	También	publicó	un	informe	de	McKinsey	sobre	digitalización.
+
+Lideró	la	estrategia	técnica	y	adquisiciones	de_una	operadora	de	teléfonos	mientras	informaba	al	CEO.	También	lideró	el	crecimiento	comercial	de_la	empresa	de	tecnología	profunda	Hypatos	que	alcanzó_un_ingreso	anual	reincidente	de	siete	dígitos	y_una_valuación_de nueve	dígitos	desde	cero	dentro	de	dos	años.	El	trabajo	de	Cem	en	Hypatos	fue	cubierto	por	publicaciones	técnicas	líderes	como	TechCrunch	y	Business	Insider.
+
+Cem	habla	regularmente	en	conferencias	técnicas	internacionales.	Se	graduó	de_la_Universidad	de	Bogazici	como	ingeniero	en	computación	y	tiene_un	MBA	de_la	Escuela	de	Negocios	de	Columbia.
+
+Fuentes:
+AIMultiple.com	Análisis	de_tráfico,	ranking	y	audiencia,
+Similarweb.
+¿Por	qué	Microsoft,	IBM	y	Google	están	aumentando	esfuerzos	en	ética	de_IA
+,	Business	Insider.
+Microsoft	invierte	$1.000	millones	en	OpenAI	para	pursuir	la	inteligencia	artificial	que	es	más	inteligente	que	nosotros
+,	Washington	Post.
+Barreras	de_gestión_de_datos_para	el_éxito_de_IA
+,	Deloitte.
+Liderazgo	de_IA:	Herramienta_de_IA_para_la_dirigencia
+,	Foro	Económico	Mundial.
+Ciencia,	investigación	y	innovación	en	el_desempeño	de_la	UE
+,	Comisión	Europea.
+Digitalización	del_sector_público:	el_desafío_de_un_billón_de_dólares
+,	McKinsey	&	Company.
+Hypatos	obtiene	$11.8	millones	para_un_enfoque	de_aprendizaje	profundo_para_procesamiento_de_documentos
+,	TechCrunch.
+Obtuvimos_una	mirada_exclusiva_al_pitch_deck_que_la.Startup_de_IA	Hypatos	usó_para_recaudar	$11	millones
+,	Business	Insider.
+
+Para	mantenerse	al	día	sobre	tecnología	B2B	y	acelerar	su	empresa:
+Siga	en
+Siguiente	para	leer
+Automatización_de_la_empresa	con	GenAI:	4	principios	y_mejores_prácticas
+12	de	enero
+5	min	de_lectura
+10+	Casos_de_uso_de_IA_generativa_en_finanzas	en	2024
+2	de	enero
+6	min	de_lectura
+Ética_de_IA_generativa_en	2024:	6	preocupaciones_principales
+2	de	enero
+5	min	de_lectura
+Comentarios
+Su	dirección	de_correo_electrónico	no_será_publicada.	Todos	los	campos	son	obligatorios.
+4
+Comentarios
+Nombre	APELLIDOPublicación Comentario
+Ankit Bishnoi
+31 ene 2024 a las 09:34
+Los ejemplos son reales.
+Responder
+Udugula Mohan
+26 sep 2023 a las 09:29
+Los ejemplos eran bastante realistas.
+Responder
+Ishpal Chadha
+25 ago 2023 a las 01:43
+Esto es exhaustivo y útil, Cem, gracias por documentar esto.
+Responder
+Shubham
+21 ago 2023 a las 02:29
+Los ejemplos eran bastante realistas
+Responder
+Investigación relacionada
+Compare los 15+ mejores softwares de IA legales: Características clave y precios en '24
+Nombre Apellido
+Dirección de correo electrónico
+Escribe tu comentario...Comparar	Top	15+	Software	de	IA	Legal:	Características	clave	y	Precios	en	el	'24
+Abr	23
+12	min	de	lectura
+11	Casos	de_uso	de_IA	en	Servicio_al_Cliente:	Guía_detallada	en	el	2024
+11	Casos_de_uso_de_IA_en_Servicio_al_Cliente:	Guía_detallada_en	el	2024
+Mar	22
+3	min	de_lectura
+AIMultiple
+Soluciones
+Para	Usuarios	Técnicos
+Proveedores
+Inversionistas
+Las	empresas	utilizan	AIMultiple	para_identificar	nuevos	software	y	servicios,	sus	casos_de_uso,	ventajas,	mejores_prácticas	y_estudios_de_caso.	AIMultiple	comparte	perspectivas	basadas_en_datos	sobre	cómo
+soluciones	en	IA	/	IA_generativa	/	aprendizaje_automático	/	ciencia_de_datos,	nube	/	GPUs_de_nube,	seguridad_cibernética	/	seguridad_de_aplicaciones	/	seguridad_de_red	/	microsegmentación,	recopilación_de_datos
+/	datos_web	/	software_de_encuestas,	IoT,	minería_de_procesos,	RPA	/	automatización_de_AP	/	automatización_de_carga_de_trabajo	/	MFT	pueden	transformar_negocios.
+Análisis_de_la_industria_de_nuevas_tecnologías	basado_en_datos,	transparente	y	práctico
+Derechos_de_autor	©
+
+	2024	AIMultiple	|	Todos_los_derechos_reservados	|
+	
+Términos	y	Condiciones
+	
+|
+	
+Política_de_privacidad

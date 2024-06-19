@@ -1,0 +1,187 @@
+Inteligencia Artificial Generativa, o inteligencia artificial, puede generar resultados únicos de texto o imagen basados en grandes conjuntos de datos de entrenamiento en respuesta a prompts humanos. La tecnología sigue siendo una tendencia muy debatida, en parte debido a la innovación a velocidad de luz que la industria está demostrando. El salto en la capacidad de la inteligencia artificial generativa desde principios de 2022 hasta finales de 2023 es notable y ha sido impulsado por la competencia entre empresas para ofrecer la mejor solución de inteligencia artificial generativa.
+
+Pero, ¿qué es la inteligencia artificial generativa, y qué ejemplos hay de cómo las empresas la utilizan en el mundo real? Continúe leyendo para descubrir siete ejemplos diferentes de casos de uso de inteligencia artificial generativa.
+
+¿Qué es la inteligencia artificial generativa?
+La inteligencia artificial generativa es una forma de inteligencia artificial que puede crear nuevo contenido de texto, imagen o audio en respuesta a prompts escritos. Por ejemplo, podrías pedir a una inteligencia artificial generativa que te escriba un ensayo, cree un menú o proporcione una ilustración.
+
+La tecnología funciona con aprendizaje automático utilizando métodos de aprendizaje no supervisado. Los ingenieros entrenan a la inteligencia artificial generativa con un conjunto de datos masivo para ayudarla a entender conexiones y hacer predicciones. Podemos utilizar lenguaje natural para hacer solicitudes, llamadas prompts. La inteligencia artificial entenderá lo que el usuario está buscando y devolverá un resultado nuevo que se parece a otros ejemplos de inteligencia artificial en sus materiales de entrenamiento.
+
+Datos
+IA y Aprendizaje Automático
+7 Casos de Uso de IA Generativa
+Escrito por el personal de Coursera •
+Actualizado el
+11 de abril de 2024
+Descubra siete ejemplos de casos de uso de inteligencia artificial generativa para proporcionar un mejor servicio al cliente, alcanzar objetivos empresariales y administrar el crecimiento, incluyendo a Wendy's, CarMax, SixFlags, Electrodomésticos GE y más.
+7 Casos de Uso de IA Generativa¿Quién utiliza la IA generativa?
+Las empresas y organizaciones de diversas industrias están explorando las posibilidades de la IA generativa en su sector. Según Gartner, el 38 por ciento de los ejecutivos encuestados utilizan la IA generativa para mejorar la experiencia del cliente, el 26 por ciento para impulsar el crecimiento de los ingresos, el 17 por ciento para optimizar costos y el 7 por ciento para apoyar la continuidad del negocio [1].
+
+Experiencia del cliente
+: Los chatbots y asistentes digitales de clientes pueden brindar servicio al cliente a gran escala en cualquier momento del día, ofreciendo servicio personalizado a los clientes y reduciendo significativamente el número de agentes de servicio al cliente necesarios para realizar el mismo trabajo.
+
+Crecimiento de ingresos
+: Puede utilizar la IA generativa para analizar el mercado y identificar oportunidades de crecimiento o para ayudar a posicionar su empresa para crecer más rápido. Por ejemplo, podría utilizar la IA generativa para aumentar los ingresos a través del desarrollo de productos más rápido.
+
+Optimización de costos
+: La IA generativa puede ayudar a reducir los gastos empresariales sin sacrificar valor. Puede automatizar y refinar procesos con la IA generativa, reduciendo gastos al reducir la mano de obra.
+
+Continuidad del negocio
+: Puede utilizar la IA generativa para planificar un futuro impredecible, planificar la gestión de riesgos y construir sistemas resistentes que puedan soportar cualquier tormenta, metafóricamente o no.
+
+Casos de uso de la IA generativa
+Cómo específicas empresas implementan esta nueva tecnología en sus operaciones empresariales puede ayudar a entender cómo las empresas utilizan la IA generativa para la experiencia del cliente, la gestión de riesgos, el crecimiento de ingresos y la optimización de costos. A continuación, encontrará ejemplos de GA Telesis, Wendy's, CarMax, Six Flags, GE Appliances, Amgen y Proyecto Gutenberg para demostrar cómo organizaciones con objetivos y modelos de negocio diferentes pueden utilizar la IA generativa en su beneficio.
+
+1. GA Telesis
+GA Telesis es una empresa de aviación comercial que suministra partes y servicios a transportistas aéreos comerciales. A medida que la empresa crecía, comenzó a experimentar un número mucho mayor de solicitudes de asistencia y cotizaciones de clientes. Para mejorar su capacidad para responder a los clientes y brindar atención personalizada, como crear cotizaciones para servicios o responder a solicitudes de piezas de aviones, GA Telesis implementó Gen AI de Google Cloud.
+
+Las solicitudes que recibe GA Telesis no son estándar y requieren investigación para determinar las mejores opciones para avanzar. La inteligencia artificial generativa puede determinar las necesidades exactas del cliente y desarrollar un plan de acción personalizado según el tipo de aeronave, condición preferida, ubicación donde se necesita la pieza y logística para entregar la pieza en el lugar y en el momento adecuado. Con herramientas de IA generativa a la vanguardia, GA Telesis puede continuar enfocándose en el crecimiento sin sacrificar la atención personalizada al cliente.
+
+2. Wendy's
+La cadena de comida rápida Wendy's estima que entre el 70 y el 80 por ciento de sus clientes utilizan el carril de pedidos para ordenar comida [2]. Enfrentan un desafío para brindar un excelente servicio al cliente a pesar de las complejidades del sistema de pedidos en el carril, como ruidos de fondo y...A través de la ventana para ordenar comida [2]. Enfrentan un desafío para brindar un excelente servicio al cliente a pesar de las complejidades del sistema de pedidos en la ventana, como ruidos de fondo y la cantidad de opciones de menú disponibles, lo que hace que sea difícil confiar en una tarea tan complicada como los pedidos en la ventana a un chatbot. Con nuevos avances en IA generativa, Wendy's puede integrar esta tecnología en la experiencia de la ventana para aumentar la velocidad y la precisión para los clientes que utilizan este método de pedido de comida.
+
+La IA generativa puede entender que cuando un cliente ordena un "milkshake", quieren ordenar un "Frosty" y completará automáticamente el pedido. El objetivo de Wendy's es que los clientes se sientan como si estuvieran interactuando con un asociado real. Wendy's llama al sistema FreshAI, y espera expandir el programa a nuevos canales para restaurantes, como pedidos móviles o integración con dispositivos inteligentes para el hogar.
+
+3. CarMax
+
+CarMax, uno de los mayores minoristas de autos usados en los Estados Unidos, tiene una reputación por innovar y personalizar la experiencia de compra de autos. CarMax ha estado invirtiendo en tecnología de IA desde al menos 2021, y sus equipos están activamente buscando formas de implementar la nueva tecnología mientras se mantienen en línea con los objetivos y valores de la empresa.
+
+Uno de los casos de uso de IA generativa que CarMax implementó fue utilizar ChatGPT para crear contenido del sitio web sobre los vehículos que ofrecen para la venta. Esto incluye generar resúmenes sobre el estado de los vehículos, resúmenes de reseñas de clientes o comparaciones entre diferentes años de modelo. La empresa informó que la tarea de completar este contenido del sitio web, que podría haber llevado a un equipo de escritores de contenido meses o años para completar, tomó solo unas horas para la IA generativa.
+
+CarMax también utiliza IA generativa para escanear y crear imágenes de su inventario para ventas en línea, donde imágenes honestas y de alta calidad pueden hacer una gran diferencia en cómo la empresa y sus clientes completan la venta.
+
+4. Six Flags
+
+Six Flags Entertainment Company opera y gestiona parques temáticos Six Flags en todo Estados Unidos, México y Canadá. Six Flags comenzará a utilizar IA generativa a través de Vertex AI Conversation de Google Cloud para supercargar su servicio al cliente. Responderá a preguntas de los clientes, ofrecerá recomendaciones personalizadas y proporcionará información sobre comidas, atracciones y alojamientos según las preferencias de los clientes.
+
+Según un comunicado de prensa de Six Flags, abrazar la IA generativa es parte de la necesidad de la empresa de modernizar sus operaciones y mejorar la experiencia general de los huéspedes.
+
+5. GE Appliances
+
+GE Appliances ofrece productos para el hogar inteligentes, electrodomésticos que proporcionan funcionalidades adicionales debido a su capacidad para conectarse a Internet. Para actuar como un centro de actividad de electrodomésticos inteligentes, GE desarrolló una aplicación llamada SmartHQ. GE encontró otras formas de utilizar IA generativa para agregar aún más características para los clientes. Por ejemplo, Flavorly AI es una nueva característica que puede ayudar a los clientes a brainstorm recetas para la cena según los ingredientes presentes en su cocina.
+
+La tecnología de IA generativa también puede ayudar a los clientes a monitorear y anticipar el mantenimiento de sus dispositivos conectados. Por ejemplo, un refrigerador inteligente enviará una alerta cuando sea hora de reemplazar el filtro de aire o agua. La IA generativa ofrecida en SmartHQ va más allá de esa alerta y permite a los usuarios charlar conversacionalmente sobre el reemplazo del filtro. GE Appliances está aplicando IA generativa para ayudar a entregar experiencias de cliente más personalizadas y útiles.6. Amgen
+
+Amgen	es	una	compañía	de	biotecnología	que	trabaja	para	generar	nuevas	soluciones	y	crear	nuevos
+medicamentos.	Una	nueva	forma	de	investigación,	llamada	biología	generativa,	añade	el	poder	de
+la	inteligencia	artificial	predictiva	y	generativa	al	desarrollo	de	fármacos	para	hacer	el proceso	mucho	más	rápido.
+
+El proceso	de	investigación	y	desarrollo	de	Amgen	implica	buscar	y	diseñar	moléculas	complejas	que	puedan	unirse	a	enfermedades	y	reducir	sus	efectos.	En lugar	de	realizar	este proceso	intrincado	a	mano,	la	IA	generativa	puede	hacer	recomendaciones	para	diseñar	la	molécula.	A	su	vez,	tiene	el	potencial	de	reducir	sustancialmente	el	tiempo	requerido	para	el proceso	de	desarrollo.	Amgen	también	utiliza	la	IA	generativa	para	ayudar	a	planificar	y	ejecutar	ensayos	clínicos,	completar	trámites	regulatorios	y	mejorar	el	mantenimiento	y	operación	de	fabricación	farmacéutica.
+
+7. Proyecto Gutenberg
+
+Proyecto	Gutenberg	es	una	organización	dedicada	a	proporcionar	libros	electrónicos	gratuitos.	Michael	Stern	Hart	fundó	la	organización	y	es	acreditado	con	inventar	el	libro	electrónico.	Por	lo	tanto,	para	fomentar	su	misión	de	“fomentar	la	creación	y	distribución	de	libros	electrónicos”,	Proyecto	Gutenberg	está	implementando	la	IA	generativa	para	crear	libros	de	audio	a	partir	de	material	escrito	[3].
+
+La	organización	se	basa	en	voluntarios	que	ofrecen	su	tiempo	y	servicios	de	forma	gratuita	para	crear	libros	electrónicos	y	de	audio.	La	IA	generativa	ofrece	una	solución	para	creargrabaciones	de_alta_calidad	más	allá	de	las	capacidades	de	tiempo	y	equipamiento	del equipo	de_voluntarios.	Lasgrabaciones	de_audio	también	fomentan	la	misión	de	Proyecto	Gutenberg	al	hacer_que	los	libros	electrónicos	estén	más	accesibles	para	personas	que	preferirían	escuchar	un	libro	en lugar	de_leerlo	o	para	personas	con	discapacidades	visuales.
+
+Aprende	más	con	Coursera.
+
+Para	aprender	más	sobre	cómo	puedes	aplicar	casos	de_uso_de_IA_generativa	a_tu_industria_o_organización,	considera	dar	el	siguiente	paso_con_un_curso_en_Coursera.	Por	ejemplo,	puedes_inscribirte	en	el_curso	de_la_Universidad_de_Vanderbilt	
+Ingeniería_de_preguntas_para_ChatGPT
+.	Entiende	cómo	escribir	preguntas_eficaces	para	obtener	las	respuestas_que_buscas	desde	modelos_de_IA_generativa_con_este_curso_de_nivel_inicial	—	tarda_unas	18_horas_en_completarse.
+
+Fuentes_de_artículos
+1.	
+Gartner.	“
+IA	generativa:	¿Qué	es,	herramientas,	modelos,	aplicaciones
+,	https://www.gartner.com/es/topics/generative-ai.”	Accedido	el	19_de_diciembre_de_2023.		
+	
+Ver	todas	las	fuentesCursos de IA Populares
+Curso de Ingeniería de Preguntas para ChatGPT
+Especialización en Aprendizaje Automático
+Certificado Profesional de Gerente de Producto de IA de IBM
+Curso de IA para Todos
+Curso de IA Generativa con LLMs
+Curso de Aprendizaje Automático Supervisado
+Especialización en Aprendizaje Profundo
+Curso de Introducción a IA Generativa
+Certificado Profesional Aplicado en IA
+Especialización en Gestión de Producto de IA
+Actualizado el 11 de abril de 2024
+Escrito por:
+C
+Equipo Editorial de Coursera
+El equipo editorial de Coursera está compuesto por editores, escritores y verificadores de hechos altamente experimentados.
+Este contenido ha sido puesto a disposición con fines informativos solamente. Se aconseja a los estudiantes que realicen investigaciones adicionales para asegurarse de que los cursos y otros títulos que persigan se ajusten a sus objetivos personales, profesionales y financieros.
+Continúe leyendoCertificado Profesional de Ingeniería en IA
+
+Explorar Cursos de Gen IA
+Explorar Cursos de IA
+Habilidades Populares
+Mercadotecnia Digital
+Seguridad Cibernética
+Gestión de Proyectos
+Python
+Análisis de Datos
+Excel
+SQL
+Power BI
+Ciencia de Datos
+RRHH
+Contabilidad
+Gestión de Productos
+Explorar Todos los Cursos
+Certificados Populares
+Certificado Profesional de Análisis de Datos de Google
+Certificado Profesional de Gestión de Proyectos de Google
+Certificado Profesional de Seguridad Cibernética de Google
+Certificado Profesional de Diseño UX de Google
+Certificado Profesional de Soporte Técnico de Google
+Certificado Profesional de Mercadotecnia Digital y Comercio Electrónico de Google
+Certificado Profesional de Contabilidad de Intuit Academy
+Certificado Profesional de Analista de Datos de IBM
+Especialización en Diseño UI / UX
+Especialización en Python para Todos
+Certificado Profesional de Desarrollador Front-End de Meta
+Certificado Profesional de Ciencia de Datos de IBM
+Programas Populares de Marcas de Confianza
+Google
+Meta
+IBM
+DeepLearningAI
+AWS
+Google Cloud
+Salesforce
+Yale
+StanfordIllinois
+Duque
+UMich
+Penn
+Coursera
+Acerca de
+Lo que Ofrecemos
+Liderazgo
+Carreras
+Catálogo
+Coursera Plus
+Certificados Profesionales
+Certificados MasterTrack
+Títulos
+Para Empresa
+Para Gobierno
+Para Campus
+Conviértete en Socio
+Impacto Social
+Explora Cursos Gratis
+Hub de Educación Profesional
+Comunidad
+Aprendices
+Socios
+Beta testers
+Blog
+El Podcast de Coursera
+Blog de Tecnología
+Centro de Enseñanza
+Más
+Prensa
+Inversionistas
+Términos
+Privacidad
+Ayuda
+Accesibilidad
+Contacto
+Artículos
+Directorio
+AfiliadosDeclaración de Esclavitud Moderna
+Administrar Preferencias de Cookies
+Aprende en Cualquier Lugar© 2024 Coursera Inc. Todos los derechos reservados.

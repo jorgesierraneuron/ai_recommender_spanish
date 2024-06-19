@@ -1,0 +1,218 @@
+Inicio
+	
+>
+Implementación de ERP
+ERP
+10 casos de uso de IA en manufactura
+Las empresas manufactureras están recurriendo a la IA para racionalizar la forma en que realizan negocios y aumentar la eficiencia. A continuación, se presentan 10 casos de uso comunes.
+
+CARACTERÍSTICA
+Lindsay Moore
+Publicado:	
+10 oct 2023
+Una fábrica llena de trabajadores robots alguna vez parecía una escena de una película de ciencia ficción, pero hoy en día, es solo un escenario real que refleja el uso de la inteligencia artificial por parte de los fabricantes.
+
+Los fabricantes pueden beneficiarse de las implementaciones de IA de varias maneras. A continuación, se presentan 10 ejemplos de casos de uso de IA en manufactura que los líderes empresariales deberían explorar ahora y considerar en el futuro.
+
+Robots colaborativos, también llamados "cobot", trabajan frecuentemente junto a trabajadores humanos, funcionando como un conjunto adicional de manos.
+
+Mientras que los robots autónomos están programados para realizar una tarea específica repetidamente, los cobot pueden aprender varias tareas. También pueden detectar y evitar obstáculos, y esta agilidad y conciencia espacial les permite trabajar junto a - y con - trabajadores humanos.
+
+Los fabricantes suelen dirigir a los cobot a trabajar en tareas que requieren levantamiento pesado o en líneas de ensamblaje de fábricas. Por ejemplo, los cobot que trabajan en fábricas automotrices pueden levantar piezas pesadas de automóviles y sostenerlas en su lugar mientras los trabajadores humanos las aseguran.
+
+Los cobot también pueden localizar y recuperar artículos en grandes almacenes.
+
+Este artículo es parte de
+Una guía de inteligencia artificial en la empresa
+Que también incluye:
+10 tendencias principales de IA y aprendizaje automático para 2024
+10 certificaciones y cursos de inteligencia artificial principales para 2024
+El futuro de la IA: ¿Qué esperar en los próximos 5 años
+1. Los cobot trabajan con humanos
+Una guía de inteligencia artificial en la empresa
+Acelerador de tecnologíaMientras las empresas manufactureras utilizan cobots en la línea de producción, el software de automatización de procesos robóticos (RPA) es más útil en la oficina posterior. El software RPA es capaz de manejar tareas de alta volumen o repetitivas, transferir datos entre sistemas, consultas, cálculos y mantenimiento de registros.
+
+El software RPA automatiza funciones como el procesamiento de pedidos, de manera que las personas no necesitan ingresar datos manualmente, y en consecuencia, no necesitan gastar tiempo buscando errores de entrada. De esta manera, RPA tiene el potencial de ahorrar tiempo y mano de obra. RPA también es conocido por ser capaz de manejar problemas de servidor y tiempo de inactividad. En caso de complicaciones de este tipo, RPA puede reiniciar y reconfigurar servidores, lo que conduce a menores costos operativos de TI.
+
+Componentes de IA
+Los fabricantes están incorporando cada vez más componentes de IA en sus procesos para mejorar la eficiencia y reducir costos. Las empresas pueden utilizar gemelos digitales para comprender mejor el funcionamiento interno de máquinas complicadas. Un gemelo digital es un modelo virtual de un objeto físico que recibe información sobre su contraparte física a través de sensores inteligentes. Utilizando IA y otras tecnologías, el gemelo digital ayuda a entregar una comprensión más profunda sobre el objeto.
+
+Las empresas pueden monitorear un objeto a lo largo de su ciclo de vida y recibir notificaciones críticas, como alertas para inspección y mantenimiento. Por ejemplo, los sensores adjuntos a un motor de avión transmiten datos al gemelo digital del motor cada vez que el avión despega o aterriza, proporcionando información crítica sobre el rendimiento del motor a la aerolínea y al fabricante. Una aerolínea puede utilizar esta información para realizar simulaciones y anticipar problemas.
+
+Las plantas manufactureras, ferrocarriles y otros usuarios de equipo pesado están recurriendo cada vez más a la mantenimiento predictiva basada en IA (PdM) para anticipar necesidades de servicio. Si el equipo no se mantiene oportunamente, las empresas corren el riesgo de perder tiempo y dinero valiosos. Por un lado, desperdician dinero y recursos si realizan mantenimiento de máquinas demasiado pronto. Por otro lado, esperar demasiado tiempo puede causar desgaste y daño a la máquina, lo que también puede exponer a los trabajadores a riesgos de seguridad.
+
+Los sistemas PdM también pueden ayudar a las empresas a predecir qué piezas de repuesto se necesitarán y cuándo.
+
+Un caso de uso de IA en manufactura que aún es raro pero tiene potencial es la fábrica sin luces. Utilizando IA, robots y otras tecnologías de próxima generación, una fábrica sin luces opera con una fuerza laboral completamente robótica y se ejecuta con interacción humana mínima.
+
+Los fabricantes pueden ahorrar dinero con fábricas sin luces porque los trabajadores robóticos no tienen las mismas necesidades que sus contrapartes humanas. Por ejemplo, una fábrica llena de trabajadores robóticos no requiere iluminación y otros controles ambientales, como aire acondicionado y calefacción. Los fabricantes pueden economizar ajustando estos servicios.
+
+Los trabajadores robóticos pueden operar 24/7 sin sucumbir a la fatiga o la enfermedad y tienen el potencial de producir más productos que sus contrapartes humanas, con posiblemente menos errores.
+
+Los sistemas de IA que utilizan algoritmos de aprendizaje automático pueden detectar patrones de compra en el comportamiento humano y brindar información a los fabricantes.
+
+Por ejemplo, ciertos algoritmos de aprendizaje automático detectan patrones de compra que desencadenan a los fabricantes a aumentar la producción de un artículo determinado. Esta capacidad para predecir el comportamiento de compra ayuda a asegurar que los fabricantes produzcan inventario de alta demanda antes de que las tiendas lo necesiten.
+
+2. RPA aborda tareas tediosas
+3. Gemelos digitales mejoran el rendimiento
+4. Mantenimiento predictivo mejora la seguridad y reduce costos
+5. Fábricas sin luces ahorran dinero
+6. Algoritmos de aprendizaje automático predicen la demandaAlgunas empresas manufactureras están recurriendo a sistemas de IA para administrar mejor sus necesidades de inventario.
+Los sistemas de IA pueden rastrear suministros y enviar alertas cuando es necesario reabastecerlos. Los fabricantes incluso pueden programar a la IA para identificar cuellos de botella en la cadena de suministro de la industria.
+Por ejemplo, una empresa farmacéutica podría utilizar un ingrediente que tiene una vida útil corta. Los sistemas de IA pueden predecir si ese ingrediente llegará a tiempo o, si se retrasa, cómo afectará la producción.
+Un caso de uso fuerte de IA en la manufactura es la gestión de la cadena de suministro. Los grandes fabricantes suelen tener cadenas de suministro con millones de pedidos, compras, materiales o ingredientes para procesar. Manejar estos procesos manualmente es un drenaje significativo del tiempo y los recursos de las personas, y más empresas han comenzado a complementar sus procesos de cadena de suministro con IA.
+Por ejemplo, un fabricante de automóviles podría recibir tuercas y pernos de dos proveedores separados. Si uno de los proveedores entrega un lote defectuoso de tuercas y pernos, el fabricante de automóviles necesitará saber qué vehículos se fabricaron con esos pernos y tuercas específicos. Un sistema de IA puede ayudar a rastrear qué vehículos se fabricaron con hardware defectuoso, lo que facilita la tarea de los fabricantes para retirarlos de los concesionarios.
+Los fabricantes pueden utilizar herramientas de inspección visual automatizadas para buscar defectos en las líneas de producción. El equipo de inspección visual, como cámaras de visión artificial, puede detectar fallos en tiempo real, a menudo más rápido y con mayor precisión que el ojo humano.
+Por ejemplo, las cámaras de inspección visual pueden encontrar fácilmente un defecto en un artículo pequeño y complejo, como un teléfono celular. El sistema de IA adjunto puede alertar a los trabajadores humanos del defecto antes de que el artículo llegue a manos de un consumidor insatisfecho.
+Algunos fabricantes están recurriendo a sistemas de IA para ayudar en el desarrollo de productos más rápidos, como es el caso de los fabricantes de medicamentos. La IA puede analizar datos de experimentación o procesos de manufactura. Los fabricantes pueden utilizar el conocimiento ganado del análisis de datos para reducir el tiempo que se tarda en crear fármacos, reducir costos y simplificar métodos de replicación.
+
+Pasos para implementar la IA en su negocio
+Ventajas y desventajas de la IA
+7. La gestión de inventario previene cuellos de botella
+8. La IA impulsa la gestión de la cadena de suministro
+9. Los sistemas de IA detectan errores
+10. Los sistemas de IA ayudan a acelerar el desarrollo de productos
+Próximos pasosEjemplos exitosos de IA generativa que merecen mencionarse
+El papel de los parámetros de IA en la empresa
+Regulación de IA: Lo que las empresas necesitan saber
+economía de robots
+Por:
+Scott Robinson
+robótica
+Por:
+Kinza Yasar
+robot colaborativo (cobot)
+Cómo SAP S/4HANA impulsa la transformación digital ERP
+–TierPoint
+Guía de 5 pasos para la implementación internacional de ERP
+–Be-Terna
+Desarriesga tu transformación de vuelta a la normalidad para tener un mayor impacto en tu...
+–Unit4
+Cómo tener éxito con tus implementaciones de ERP internacionales
+–Be-Terna
+Recursos relacionados
+Profundiza más en la implementación de ERPÚltimos recursos de TechTarget
+
+Oracle
+Gestión de datos
+SAP
+Análisis empresarial
+Gestión de contenido
+Software de recursos humanos
+Buscar
+Oracle
+
+Oracle fija un ambicioso objetivo de historia clínica electrónica nacional con la adquisición de Cerner
+Con su adquisición de Cerner, Oracle tiene como objetivo crear una base de datos de pacientes anonimizados a nivel nacional, un camino lleno de...
+
+Con Cerner, la infraestructura en la nube de Oracle recibe un impulso
+Oracle planea adquirir Cerner en un trato valorado en unos 30.000 millones de dólares. El segundo proveedor de registros electrónicos de salud más grande de EE. UU. podría inyectar nueva vida...
+
+La Corte Suprema se pone del lado de Google en la demanda de copyright de Oracle API
+La Corte Suprema dictaminó 6-2 que las API de Java utilizadas en teléfonos Android no están sujetas a la ley de copyright estadounidense, poniendo fin a una...
+
+Gestión de datos
+
+DBT Labs lanza asistente de IA, más herramientas para transformar datos
+La última actualización del especialista en transformación de datos incluye nuevas capacidades de gobernanza y gestión de metadatos, así como un...
+
+Alation agrega automatización para lidiar con el creciente volumen de datos
+Noticias patrocinadas
+Impulsando el éxito de TI desde el borde hasta la nube y hasta el fondo
+–HPE
+Optimización de la orquestación de Kubernetes en entornos de nube híbrida y multicloud
+–Dell Technologies
+El poder de Dell OEM para sus operaciones de borde
+–Dell Technologies e Intel
+Ver más
+Contenido relacionado
+Aplicaciones de robots autónomos lideran en...
+–Enterprise AI
+El uso de IA en procesos de manufactura mejora la calidad...
+–Enterprise AI
+Ciencia ficción vs. realidad: Una industria de...
+–Enterprise AI
+Por:
+Kinza Yasar
+Cómo impulsar el 2023 con sistemas de automatización efectivosEl especialista en catálogo de datos de Workflow Automation proporciona a los clientes con bots y flujos de trabajo preconstruidos que ayudan a la gestión de datos...
+
+Perfiling de datos vs. minería de datos: ¿Por qué necesitas ambos
+La minería de datos y el perfiling de datos tienen roles diferentes. Utilizar uno sin el otro no es una opción para operaciones de gestión de datos...
+
+Buscar
+SAP
+
+Los ingresos de SAP en el T1 indican un crecimiento fuerte en la nube
+Los ingresos de la nube de SAP en el primer trimestre de 2024 indican un crecimiento saludable y establecen el escenario para que los clientes planifiquen migraciones a la nube...
+
+El oficial de IA jefe de SAP: Esperar a la IA es la estrategia equivocada
+El primer oficial de IA jefe de SAP, Philipp Herzig, describe la nueva organización enfocada en IA de la empresa y destaca por qué las empresas no deben esperar para implementar la IA...
+
+SAP y Nvidia se asocian para impulsar el desarrollo de IA empresarial
+SAP y Nvidia trabajan juntas para combinar plataformas y servicios que ayudan a los clientes a construir IA generativa empresarial específica...
+
+Negocios
+
+Análisis
+
+La diferenciación es clave mientras Sigma Computing recauda 200 millones de dólares
+El intento del proveedor de ampliar el uso de BI dentro de las organizaciones con una interfaz de hoja de cálculo sin código hace que sus herramientas se sientan familiares...
+
+Alteryx lanza asistente de IA destinado a mejorar la eficiencia
+El asistente GenAI, ahora en vista previa, tiene como objetivo proporcionar a los usuarios del proveedor de gestión de datos con las mejores prácticas y otra asistencia...
+
+La adopción de IA generativa supera a todas las demás formas de IA
+Una encuesta reciente de la firma de investigación y asesoramiento encontró que la implementación de inteligencia artificial generativa ha explotado después de...
+
+Gestión de Contenido
+
+SharePoint vs. Box: ¿Cuál es la diferencia?
+SharePoint y Box ambos ayudan a los usuarios a administrar y almacenar contenido. Sin embargo, para elegir la herramienta adecuada, las organizaciones deben considerar primero...
+
+5 casos de uso reales para la búsqueda empresarial
+Es posible construir una estrategia de búsqueda empresarial exitosa que ayuda a los empleados a encontrar datos críticos rápidamente. Echa un vistazo a estos...
+
+9 mejores prácticas de SharePoint
+La amplitud de las características de SharePoint puede hacer que sea una herramienta desafiante de implementar y mantener. Estas mejores prácticas pueden mantener...
+
+Software de RH
+
+Los CEOs ven el caso de negocio para crear ejecutivos principales impulsados por IA
+Los CEOs consideran a los ejecutivos virtuales impulsados por IA para manejar tareas rutinarias y proporcionar retroalimentación, lo que mejora la eficiencia y apoya la estrategia...
+
+9 claves para una estrategia de marketing de reclutamiento asesina
+En un mercado de contratación que presenta desafíos sin precedentes, cada equipo de RH y reclutamiento necesita desarrollar una estrategia de marketing para...
+
+Los proveedores de RH dan a los gerentes más control sobre la capacitación
+Nuevas herramientas de Oracle y ServiceNow se centran en dar a los líderes empresariales más control sobre la capacitación y la recalificación en un esfuerzo por...
+
+Acerca de nosotros
+Política de ética editorial
+Conoce a los editores
+Contáctenos
+Anunciantes
+Asociate con nosotros
+Kit de mediosTodos los derechos reservados,
+Derechos de autor 2017 - 2024,
+TechTarget
+
+Política de privacidad
+
+Preferencias de cookies
+No venda ni comparta mi información personal
+Cerrar
+Sitio corporativo
+Colaboradores
+Reimpresiones
+Respuestas
+Definiciones
+Productos electrónicos
+Eventos
+Características
+Guías
+Opiniones
+Historias de fotos
+Cuestionarios
+Consejos
+Tutoriales
+Vídeos

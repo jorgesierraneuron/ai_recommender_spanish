@@ -1,0 +1,379 @@
+Productos
+Soluciones
+ Capacitación y servicios
+Recursos
+Socios
+Acerca de
+Explora más
+Productos de la plataforma
+Red Hat Enterprise Linux
+Un sistema operativo flexible y estable para apoyar la innovación en la nube híbrida.
+Red Hat OpenShift
+Una plataforma de contenedores para construir, modernizar y implementar aplicaciones a escala.
+Red Hat Ansible Automation Platform
+Una base para implementar la automatización en toda la empresa.
+Prueba y compra
+Inicia una prueba
+Evalúa un producto con una prueba sin costo.
+Compra en línea
+Compra productos y servicios seleccionados en la tienda de Red Hat.
+Integración con proveedores de nube importantes
+Compra soluciones de Red Hat utilizando el gasto comprometido de los proveedores, incluyendo:
+Destacados
+Red Hat Enterprise Linux AI
+Red Hat OpenShift AI
+Red Hat OpenShift Virtualización
+Red Hat OpenShift Servicio en AWS
+Microsoft Azure Red Hat OpenShift
+Ver todos
+productos
+Por categoría
+Plataforma de aplicaciones
+Inteligencia artificial
+Computación perimetralHere is the translation:
+
+ Automatización de TI
+Linux
+estandarización
+Por tipo de organización
+Automotriz
+Servicios financieros
+Sanidad
+Sector industrial
+Medios y entretenimiento
+Sector público
+Telecomunicaciones
+Por cliente
+Británico
+Ejército
+Edenor
+HCA
+Sanidad
+Macquarie
+Banco
+Tata Consultoría de Servicios
+UPS
+Buscar todas las historias de éxito
+Explorar
+soluciones
+Servicios
+Consultoría
+Laboratorios de Innovación Abierta
+Gestión de Cuenta Técnica
+Capacitación y certificaciónTodos los cursos y exámenes
+Todas las certificaciones
+Verificar una certificación
+Evaluación de habilidades
+Aprendizaje
+Suscripción de aprendizaje
+Comunidad de aprendizaje
+Academia de Red Hat
+Preguntas frecuentes
+Conecta con expertos en aprendizaje
+Destacado
+Ansible Básicos: Visión general técnica de automatización (DO007) [Sin costo]
+Contenedores, Kubernetes y visión general técnica de Red Hat OpenShift (DO080) [Sin costo]
+Visión general técnica de Red Hat Enterprise Linux (RH024) [Sin costo]
+Examen de Red Hat Certified System Administrator (RHCSA)
+Administración de sistemas de Red Hat I (RH124)
+Explora servicios
+Temas
+IA
+Modernización de aplicaciones
+Automatización
+Computación en la nube
+Aplicaciones nativas en la nube
+ContenedoresDevOps
+Computación	periférica
+Linux
+Virtualización
+Ver	todos	los	temas
+Artículos
+¿Qué	es	InstructLab?
+¿Qué	son	servicios	en	la	nube?
+¿Qué	es	computación	periférica?
+¿Qué	es	nube	híbrida?
+¿Por	qué	construir	una	nube	de	Red	Hat?
+Nube	vs.
+periférica
+Red	Hat	OpenShift	vs.
+Kubernetes
+Aprendiendo	los	conceptos	básicos	de	Ansible
+¿Qué	es	Linux?
+Más	para	explorar
+Blog
+Historias	de	éxito	de	clientes
+Eventos	y	webinarios
+Sala	de	prensa
+Podcasts	y	series	de	vídeo
+Documentación
+Biblioteca	de	recursos
+Capacitación	y	certificaciónExplora
+recursos
+Para clientes
+Nuestros socios
+Ecosistema Red Hat
+Catálogo
+Encuentra un socio
+Para socios
+Conecta con socios
+Conviértete en socio
+Capacitación
+Soporte
+Accede al portal de socios
+Acerca de nosotros
+Nuestra empresa
+Cómo trabajamos
+Nuestro impacto social
+Modelo de desarrollo
+Modelo de suscripción
+Soporte de productos
+Código abierto
+Compromisos de código abierto
+Cómo contribuimos
+Red Hat en GitHub
+Detalles de la empresa
+Relaciones con analistas
+BlogUbicaciones
+Sala de prensa
+Comunidades
+Ansible
+Para administradores de sistemas
+Para arquitectos
+Defensa del cliente
+Explora Red Hat
+Contáctanos
+Para clientes
+Soporte al cliente
+Gestión de suscripciones
+Casos de soporte
+Ecosistema de Red Hat
+Catálogo
+Encuentra un socio
+Para socios
+Portal de socios
+Soporte para socios
+Conviértete en socio
+Prueba, compra y vende
+Tienda de Red Hat
+Tienda en línea de Red Hat
+Contacta con ventas
+Inicia una prueba
+Recursos de aprendizajeDocumentación
+ Capacitación y certificación
+ Centro de aprendizaje de nube híbrida
+Interactive
+laboratorios
+Comunidad de aprendizaje
+Red Hat
+TV
+Comunidades de código abierto
+Ansible
+Para administradores de sistemas
+Para arquitectos
+Saltar a sección
+Publicado el 23 de octubre de 2023 
+•
+Copiar URL
+Temas 
+ 
+Entendiendo la computación en la nube 
+ 
+Entendiendo casos de uso de IA/ML
+Entendiendo casos de uso de IA/ML
+Visión general
+La inteligencia artificial (IA) se refiere generalmente a procesos y algoritmos que pueden simular la inteligencia humana, incluyendo la simulación de funciones cognitivas como la percepción, el aprendizaje y la resolución de problemas.
+El aprendizaje automático (ML) y el aprendizaje profundo (DL) son subconjuntos de la IA que utilizan algoritmos para identificar patrones y hacer predicciones dentro de un conjunto de datos. En condiciones ideales, el aprendizaje automático permite a los humanos interpretar los datos más rápido y con mayor precisión de lo que podríamos hacer por nuestra cuenta.
+La IA/ML está transformando rápidamente la forma en que operan las empresas, con aplicaciones amplias en various industrias y dentro de las organizaciones. Es importante entender los beneficios y prepararse para los desafíos de la IA/ML que son específicos de sus procesos empresariales y cargas de trabajo.
+Ponga la IA a trabajar para usted
+Menú
+	
+Iniciar sesiónVentajas y desafíos comerciales
+
+La IA/ML se está utilizando cada vez más para simplificar, mejorar y escalar una variedad de funciones empresariales, incluyendo:
+
+Datos y análisis.
+La IA/ML puede automatizar la entrada de datos, el almacenamiento y la seguridad, mientras que también recopila análisis predictivos de negocios.
+
+Apoyo al cliente.
+Los chatbots y los sistemas de clasificación de llamadas utilizan el procesamiento del lenguaje natural (NLP) para servir a los clientes rápidamente y elevar solicitudes complejas a los canales correctos.
+
+Operaciones.
+La automatización de procesos robóticos (RPA) es el uso de robots de software para realizar tareas repetitivas previamente realizadas por humanos. Cuando se utiliza junto con la IA, puede analizar conjuntos de datos no estructurados con una velocidad y precisión que los procesos manuales no pueden igualar.
+
+Mercadotecnia y ventas.
+Los algoritmos de aprendizaje profundo pueden ayudar a los mercadólogos a recopilar análisis sobre los consumidores para informar la estrategia y personalizar las campañas de marketing. Para los vendedores, la IA puede procesar información para desarrollar rápidamente oportunidades.
+
+Recursos humanos.
+Los bots entrenados en modelos de IA fundamentales pueden ser útiles al revisar perfiles de candidatos durante el proceso de contratación. Las encuestas de satisfacción de los empleados también pueden recopilarse y analizarse utilizando redes neuronales artificiales, para que se puedan implementar cambios positivos rápidamente.
+
+Al implementar estas soluciones y otras, es importante mitigar los desafíos comunes enfrentados con la IA/ML, incluyendo el sesgo y la "caja negra" de la IA. Estos defectos pueden ser especialmente problemáticos en industrias reguladas como la atención médica, la justicia penal y las finanzas. A medida que las organizaciones despliegan programas de IA/ML para mejorar la productividad y el rendimiento, es crítico que se implementen estrategias para minimizar el sesgo y aumentar la transparencia. Esto comienza con la reentrenamiento y el mantenimiento frecuentes, así como procesos de diseño inclusivos y consideración cuidadosa de la diversidad representativa en los datos recopilados.
+
+IA/ML para la atención médica
+
+Los nuevos avances en la IA pueden mejorar los resultados de los pacientes ayudando a los médicos y otros profesionales médicos a realizar diagnósticos y planes de tratamiento más precisos. Algunas de las formas en que la IA en la atención médica puede beneficiar a los pacientes, los proveedores y los administradores incluyen:
+
+Diagnóstico más rápido.
+Las perspectivas de datos procesadas por algoritmos de IA y análisis predictivos en tiempo real pueden utilizarse para acelerar el diagnóstico, lo que significa que los pacientes reciben atención más rápido.
+
+Acceso ampliado a los servicios de atención médica.
+El diagnóstico asistido por IA puede ampliar los grupos de pacientes que reciben servicios. Por ejemplo, el diagnóstico asistido por IA y la imagen médica podrían permitir que un mayor número de profesionales interpreten ultrasonidos, lo que reduciría la bottleneck en un puñado de especialistas y ampliaría el número de pacientes que tienen acceso a la tecnología.
+
+Descubrimiento de fármacos y investigación clínica.
+Las herramientas de IA computacional pueden mejorar los enfoques tradicionales de ensayo y error en los estudios clínicos y el desarrollo de fármacos, y permitir modelos más rápidos y eficientes para monitorear todo el proceso.
+
+IA/ML para las telecomunicaciones
+Crear un entorno de producción listo para IA/ML
+HCA Healthcare utiliza una plataforma de datos innovadora para salvar vidasLa IA/ML se está utilizando cada vez más para optimizar diferentes partes de la industria de las telecomunicaciones, como la optimización del rendimiento de la red 5G y la mejora de la calidad de los productos y servicios de telecomunicaciones.
+
+Aplicaciones incluyen:
+
+Calidad del servicio.
+La IA se utiliza para la optimización del rendimiento de la red, tomando los datos recopilados por un proveedor de telecomunicaciones y analizando el volumen de tráfico, ralentizaciones y cortes. Luego, puede utilizar estos datos para recomendar acciones necesarias.
+
+Mejoras audiovisuales.
+El procesamiento del lenguaje natural y la visión por computadora pueden mejorar la claridad de video y voz para mejorar la calidad de las llamadas.
+
+Prevención de pérdida de clientes.
+La tecnología de reconocimiento de voz puede escuchar llamadas con clientes actuales y prospectivos y realizar análisis de sentimiento para entender el comportamiento que conduce a la cancelación o renovación. Esto también se puede aplicar a otras industrias.
+
+IA/ML para la manufactura
+La automatización inteligente está transformando la forma en que las empresas manufacturan sus productos, desde la planta de producción hasta los almacenes y rutas de envío.
+
+Robots.
+Los robots industriales se están instalando en fábricas y centros de manufactura para reducir la carga de tareas repetitivas o peligrosas para los trabajadores humanos, como la clasificación de paquetes y el manejo de maquinaria pesada. Esto reduce el riesgo de error humano.
+
+Gestión de la cadena de suministro.
+El aprendizaje automático puede revisar la logística de la cadena de suministro y realizar la gestión de inventario para predecir los mejores momentos para el envío y el almacenamiento.
+
+Análisis industriales.
+Los análisis industriales pueden confiar en algoritmos de IA/ML para evaluar el rendimiento de la manufactura desde el principio hasta el final para identificar cuellos de botella y implementar flujos de trabajo más efectivos.
+
+IA/ML para el gobierno
+La inteligencia artificial y el aprendizaje automático están ayudando a las agencias gubernamentales en todo el mundo a resolver desafíos críticos y servir a los intereses del público.
+
+Servicios públicos mejorados.
+Las herramientas de IA/ML pueden recopilar datos sobre el uso y la eficacia de los servicios públicos, como el transporte, la sanidad y los servicios sociales, y utilizar esos datos para informar nuevas ofertas y mejorar las existentes.
+
+Gestión de datos.
+El procesamiento del lenguaje natural es una herramienta útil para clasificar y administrar registros públicos, reduciendo la cantidad de tiempo y esfuerzo requeridos para entender datos cualitativos. Las soluciones de ciberseguridad basadas en IA también pueden mitigar la exposición a amenazas y acelerar la respuesta a incidentes para proteger mejor los datos públicos.
+
+Toma de decisiones informada por datos.
+Las capacidades predictivas de la inteligencia artificial y el aprendizaje automático hacen posible informar la política pública con predicciones informadas por datos y soluciones basadas en evidencia.
+
+Turkcell apoya la innovación impulsada por IA con Red Hat OpenShift
+Red Hat y Guise AI en inspección visual de IA en el bordeIA/ML para comercio minorista y comercio electrónico
+
+Las personas interactúan con la IA/ML todos los días en sitios web de comercio minorista y comercio electrónico. Aquí hay cómo se manifiesta mientras compramos:
+
+Recomendaciones personalizadas.
+La IA/ML rastrea el comportamiento del cliente en línea y utiliza esa información para proporcionar recomendaciones personalizadas a través de publicidad digital o interacciones en el sitio.
+
+Chatbots.
+Los chatbots pueden ser herramientas de experiencia del cliente útiles, pero también pueden actuar como asociados de ventas automatizados. Los chatbots utilizan el procesamiento del lenguaje natural para entender las necesidades del usuario y ayudarlos a encontrar lo que buscan.
+
+Checkout automatizado.
+Algunas empresas utilizan tecnología de IA para agilizar aún más el checkout automático, escaneando visualmente los artículos y enrutar los cargos correctos a la cuenta del cliente.
+
+IA/ML para vehículos autónomos
+
+A medida que los vehículos eléctricos y autónomos han crecido en popularidad, también lo ha hecho la necesidad de programación segura y innovadora para llevar a las personas a donde necesitan ir.
+
+Percepción del vehículo y asistentes de conducción.
+Herramientas de visión por computadora como detectores de punto ciego y sistemas de frenado inteligentes ayudan a los conductores a detectar y reaccionar a objetos alrededor de ellos, como otros vehículos, peatones y obstáculos en el camino.
+
+Vehículos autónomos.
+Las tecnologías de IA/ML son esenciales para hacer que los vehículos autónomos sean seguros para los conductores y aquellos a su alrededor, desde el control de crucero adaptativo y la navegación hasta los sistemas de partida de carril y frenado automático.
+
+Mantenimiento predictivo.
+Los algoritmos de aprendizaje automático recopilan datos del vehículo para predecir qué componentes son más propensos a fallar y recomendar el mantenimiento adecuado con anticipación.
+
+IA/ML para la educación
+
+Las tecnologías de NLP como ChatGPT son populares para la escritura académica y la investigación, pero la IA/ML tiene muchas más aplicaciones que apoyan el aprendizaje.
+
+Diseño de cursos inteligentes.
+La IA generativa puede apoyar a los educadores en la investigación y organización de los elementos necesarios de un curso. También puede generar contenido del curso y tareas.
+
+Asistentes de investigación.
+Cuando se realiza una investigación, las herramientas de IA pueden actuar como asistentes virtuales para ayudar a buscar en Internet y bases de datos materiales de aprendizaje relevantes y extraer áreas específicas de interés.
+
+Tutoría.
+La IA/ML puede aumentar el acceso a la tutoría para los estudiantes que necesitan apoyo creando materiales de estudio y verificaciones de conocimientos personalizados.
+
+Aprenda cómo la NASA confía en las plataformas de IA de Red Hat
+
+Red Hat OpenShift ayuda a los fabricantes de automóviles a mantenerse competitivos
+Red Hat OpenShift AI apoya herramientas educativas en la Universidad de BostonIA/ML para finanzas
+
+Las organizaciones de servicios financieros de hoy en día utilizan IA/ML para desarrollar aplicaciones que entregan resultados medibles como la satisfacción del cliente, ofertas de servicios diversificadas y mayor automatización empresarial.
+
+Detección de fraude.
+Los bancos confían en el aprendizaje automático para detectar transacciones fraudulentas y no seguras y alertar a los clientes en tiempo real. La autenticación de voz aprende los patrones vocales únicos del usuario para proteger las cuentas y otorgar acceso solo a las personas adecuadas.
+
+Facturación.
+La IA automatiza tareas administrativas y de facturación repetitivas para reducir costos y errores.
+
+Inversiones.
+Las firmas de inversiones están utilizando el aprendizaje profundo para investigar oportunidades de inversión y mejorar sus algoritmos para una predicción más precisa.
+
+Red Hat y IA/ML
+
+Diferentes industrias se beneficiarán de diferentes aplicaciones de IA/ML, pero todas se beneficiarán de la fundación adecuada.
+
+Red Hat OpenShift es una plataforma unificada para construir, modernizar y implementar aplicaciones a escala. Proporciona una fundación para acelerar los ciclos de vida de IA y ML y la entrega de aplicaciones inteligentes, brindando a los científicos de datos la agilidad, flexibilidad, portabilidad y escalabilidad necesarias para entrenar, probar y implementar modelos en producción.
+
+Red Hat® OpenShift® AI proporciona un entorno flexible para que los científicos de datos, ingenieros y desarrolladores construyan, implementen e integren proyectos más rápido y de manera más eficiente, con beneficios que incluyen seguridad integrada y integración del ciclo de vida del operador.
+
+El ecosistema de socios certificados de Red Hat le permite integrar sus herramientas de desarrollo de aplicaciones y IA/ML de elección en esta arquitectura, lo que le permite adoptar con éxito la IA/ML para aplicaciones inteligentes con mejores resultados empresariales.
+
+Explora nuestro ecosistema de socios de IA
+Ver cómo las empresas reales están utilizando las soluciones de Red Hat para impulsar sus cargas de trabajo de IA/ML, desde la atención médica y la educación hasta la automoción y las telecomunicaciones.
+
+Explora historias de éxito
+
+Acelera la adopción de inteligencia artificial en servicios financieros
+
+Presentamos
+InstructLab
+
+InstructLab es un proyecto de código abierto para mejorar los grandes modelos de lenguaje (LLMs).Aprende
+más
+Continúa leyendo
+El IA generativo se basa en modelos de aprendizaje profundo entrenados en grandes conjuntos de datos para crear contenido nuevo.
+ARTÍCULO
+¿Qué es el IA generativo?
+Aprende más
+El aprendizaje automático es la técnica de entrenar a una computadora para encontrar patrones, hacer predicciones y aprender de la experiencia sin ser programada explícitamente.
+ARTÍCULO
+¿Qué es el aprendizaje automático?
+Aprende más
+Un modelo de fundación es un tipo de modelo de aprendizaje automático (ML) que se entrena previamente para realizar una variedad de tareas.
+ARTÍCULO
+¿Qué son los modelos de fundación?
+Aprende más
+Productos
+Más sobre IA/ML
+NuevoArtículos relacionados
+
+Una plataforma de modelos de fundación utilizada para desarrollar, probar y ejecutar LLMs de la familia Granite de manera continua para aplicaciones empresariales.
+
+Aprende más
+
+Un portafolio enfocado en IA que proporciona herramientas para entrenar, ajustar, servir, monitorear y administrar experimentos y modelos de IA/ML en Red Hat OpenShift.
+
+Aprende más
+
+Una plataforma de aplicaciones empresariales con un conjunto unificado de servicios probados para llevar aplicaciones al mercado en la infraestructura de su elección.
+
+Aprende más
+
+Red Hat Ansible Lightspeed con asistente de código Watsonx de IBM es un servicio de IA generativa diseñado por y para automatizadores, operadores y desarrolladores de Ansible.
+
+Aprende más
+
+¿Qué es IA generativa?
+¿Qué es aprendizaje profundo?
+¿Qué son modelos de lenguaje grandes?
+¿Qué son modelos de fundación?
+Infraestructura de IA explicada

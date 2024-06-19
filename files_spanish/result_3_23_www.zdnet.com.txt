@@ -1,0 +1,98 @@
+Inicio
+
+Innovación
+
+Inteligencia Artificial
+
+Los 8 casos de uso más populares de IA este año, y lo que los profesionales de tecnología necesitan para apoyarlos
+
+Las empresas invierten dinero en iniciativas de IA y los profesionales se enfocan en lo básico.
+
+pixdeluxe/Getty Images
+
+Las tareas orientadas al conocimiento, como la búsqueda inteligente y la digitalización de documentos, están encabezando los proyectos empresariales de inteligencia artificial (IA) de este año, según una encuesta a 1,420 profesionales de TI realizada por Rackspace Technology y Amazon Web Services en enero y febrero de 2024.
+
+La encuesta también mostró que el gasto en IA en 2024 se proyecta que más que duplique en comparación con 2023, lo que equivale a un
+
+Escrito por
+
+Joe McKendrick,
+Escritor colaborador
+
+28 de marzo de 2024 a las 4:16 a.m. PT
+más popularPromedio de $2.5 millones por empresa. El gasto varió desde $500,000 hasta $5 millones entre la mayoría de las empresas encuestadas.
+
+También:
+
+Cómo ChatGPT se convirtió en mi asistente virtual para un proyecto de datos
+
+La IA está en una etapa práctica. Los casos de uso prominentes que ganan más tracción incluyen búsqueda inteligente, procesamiento de documentos, detección de fraude y 
+compromiso con el cliente
+. Más de la mitad de los encuestados citaron estas áreas como actividades prioritarias.
+
+"Los usuarios de IA buscan innovación visionaria y la capacidad de tomar mejores decisiones. Sin embargo, los proyectos de IA actuales se centran más en mejorar productos, servicios y procesos existentes que en crear avances", dijeron los autores de la encuesta. A continuación, se presentan los principales casos de uso, según los profesionales de TI encuestados:
+
+Búsqueda inteligente - 62% 
+Procesamiento de documentos (OCR, clasificación de documentos, extracción, digitalización) - 61% 
+Detección de fraude y ciberseguridad - 56% 
+Compromiso con el cliente (CRM, chatbots, centros de llamadas, afinidad del cliente) - 54% 
+Análisis de ventas y marketing - 46% 
+Generación de contenido - 43% 
+Reconocimiento y clasificación de imágenes y videos - 40% 
+Mantenimiento predictivo - 34% 
+
+La encuesta también exploró los principales tipos de inversiones tecnológicas y habilidades destinadas a apoyar las iniciativas de IA. La mayoría de las compras tecnológicas se centrarán en impulsar el aprendizaje automático y el análisis predictivo (57%), apoyar el Internet de las cosas (51%) y supercargar la 
+automatización de procesos robóticos
+ (45%). Casi un tercio (31%) de las compras buscan instalar IA en robots físicos, y el 27% busca habilitar más aplicaciones de AR/VR.
+
+Las organizaciones necesitan personas con las habilidades para diseñar, construir, implementar, asegurar y mantener tales aplicaciones -- y el 46% de los encuestados dijo que necesitan más de estas personas. Esa demanda incluye 
+desarrolladores de software con experiencia en IA
+ (44%), ingenieros de aprendizaje automático (42%), analistas de datos (41%), ingenieros de datos (41%) y especialistas en gobernanza y seguridad de datos (40%).
+
+También:
+
+4 herramientas de IA generativa que su empresa puede aprovechar para impulsar la productividad
+
+Las habilidades en demanda incluyen la competencia en 
+lenguajes de programación como R y Python
+, que encabezó la lista con un 49%, seguida de cerca por la necesidad de científicos de datos, especialistas en gobernanza y seguridad de datos, y datos.ingenieros, todos al 46%.
+La seguridad de las aplicaciones de IA y los grandes modelos de lenguaje también presenta desafíos únicos. Más de la mitad (58%) de los encuestados vieron la ciberseguridad como la principal preocupación, y solo el 51% de los profesionales dijo que se adhiere a políticas de datos formalizadas para cumplir con la normativa.
+"La complejidad de los modelos de IA y las grandes cantidades de datos que procesan pueden crear desafíos de seguridad significativos, lo que requiere protocolos de seguridad avanzados y detección de amenazas", dijeron los autores de la encuesta.
+También:
+6 formas en que ChatGPT puede hacer que su vida diaria sea más fácil
+Asegurar que la IA no alucina o produce información errónea preocupa al 30% de los gerentes de TI. "Las consecuencias de las salidas de IA inexactas pueden variar desde inconvenientes menores hasta errores graves con implicaciones de gran alcance, lo que destaca la necesidad de procesos de prueba y validación rigurosos", dijeron los autores.
+En resumen: la IA es la próxima etapa en la computación, lo que requiere ajustes en las mezclas de habilidades, perfiles de seguridad y prioridades presupuestarias corporativas. Mientras que muchos se emocionan con las perspectivas de innovación, la IA avanzará una aplicación básica a la vez.
+inteligencia artificial
+Estándares editoriales
+La transparencia falta gravemente en medio del creciente interés por la IA
+¿Qué es un Oficial de IA Jefe, y cómo se puede llegar a ser uno?
+Cómo Adobe maneja las inquietudes éticas de la IA mientras fomenta la creatividad
+6 formas en que OpenAI acaba de supercargar ChatGPT para usuarios gratuitosmostramos comentarios
+
+le brindamos las herramientas para aprovechar el poder de la innovación disruptiva, en el trabajo y en casa.
+
+temas
+galerías
+videos
+no venda ni comparta mi información personal
+acerca de
+ZDNET
+conoce al
+equipo
+mapa del sitio
+política de reimpresión
+únete
+ | 
+iniciar sesión
+boletines informativos
+asistencia del sitio
+licenciamiento
+© 2024 ZDNET, una empresa de Red Ventures. Todos los derechos reservados.
+Política de privacidad
+ | 
+| 
+Configuración de cookies
+ | 
+Anuncie
+ | 
+Términos de uso

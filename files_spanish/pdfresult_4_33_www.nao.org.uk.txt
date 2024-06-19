@@ -1,0 +1,1004 @@
+Una imagen del logotipo de la Oficina Nacional de Auditoría
+
+SESSION 2023-24  
+15 MARZO 2024  
+HC 612Uso de inteligencia artificial 
+en el gobierno
+Oficina del Gabinete
+Departamento de Ciencia, Innovación y TecnologíaINFORMELa Oficina Nacional de Auditoría (NAO) examina el gasto público 
+para el Parlamento y es independiente del gobierno y la función 
+pública. Ayudamos al Parlamento a mantener al gobierno bajo 
+cuenta y utilizamos nuestras perspectivas para ayudar a las 
+personas que gestionan y gobiernan cuerpos públicos a mejorar 
+los servicios públicos.
+
+El Contralor y Auditor General (C&AG), Gareth Davies, es un 
+funcionario de la Cámara de los Comunes y lidera la NAO. 
+Auditoriamos las cuentas financieras de los departamentos y 
+otros cuerpos públicos. También examinamos y informamos 
+sobre el valor por dinero de cómo se ha gastado el dinero 
+público.
+
+En 2022, el trabajo de la NAO llevó a un impacto financiero 
+positivo a través de costos reducidos, entrega de servicios 
+mejorada o otros beneficios para los ciudadanos, de £572 
+millones. Somos el perro guardián independiente del gasto 
+público del Reino Unido. Apoyamos al Parlamento en mantener 
+al gobierno bajo cuenta y ayudamos a mejorar los servicios 
+públicos a través de nuestras auditorías de alta calidad.Informe del Contralor y Auditor General
+Ordenado por la Cámara de los Comunes
+para ser impreso el 13 de marzo de 2024
+
+Este informe ha sido preparado bajo la Sección 6 de la 
+Ley de Auditoría Nacional de 1983 para presentación a la Cámara 
+de los Comunes de acuerdo con la Sección 9 de la Ley
+
+Gareth Davies  
+Contralor y Auditor General  
+Oficina de Auditoría Nacional
+12 de marzo de 2024
+HC 612 | £10.00Uso de inteligencia artificial 
+en el gobierno
+Oficina del Gabinete
+Departamento de Ciencia, Innovación y TecnologíaEl material presentado en este documento está sujeto a los derechos de autor de la Oficina Nacional de Auditoría (NAO). El material puede ser copiado o reproducido solo para fines no comerciales, es decir, para reproducción con fines de investigación, estudio privado o para circulación interna limitada dentro de una organización con fines de revisión.
+
+La copia para fines no comerciales está sujeta a que el material esté acompañado de un reconocimiento suficiente, reproducido con precisión y no utilizado en un contexto engañoso. Para reproducir material con derechos de autor de la NAO para cualquier otro uso, debe ponerse en contacto con copyright@nao.org.uk. Por favor, indique quién es usted, la organización que representa (si corresponde) y cómo y por qué desea utilizar nuestro material. Por favor, incluya sus datos de contacto completos: nombre, dirección, número de teléfono y correo electrónico.
+
+Tenga en cuenta que el material presentado en este documento no puede ser reproducido para obtener ganancias comerciales sin el permiso expreso y directo de la NAO, y que la NAO se reserva el derecho de iniciar procedimientos por infracción de derechos de autor contra individuos o empresas que reproduzcan material para obtener ganancias comerciales sin nuestro permiso.
+
+Los enlaces a sitios web externos eran válidos en el momento de la publicación de este informe. La Oficina Nacional de Auditoría no es responsable de la validez futura de los enlaces.
+
+012429 03/24 NAOInformes de valor por dinero
+Nuestros informes de valor por dinero examinan el gasto del gobierno para formar un juicio sobre si se ha logrado el valor por dinero. También hacemos recomendaciones a los organismos públicos sobre cómo mejorar los servicios públicos.
+© Oficina Nacional de Auditoría 2024Contenido
+Hechos clave 4
+Resumen  5
+Parte Uno
+Estrategia y gobernanza  14
+Parte Dos
+Uso de inteligencia artificial en el gobierno y oportunidades futuras  22
+Parte Tres
+Apoyo para la adopción y escalada de inteligencia artificial  31
+Apéndice Uno
+Nuestro enfoque de auditoría  47
+Si está leyendo este documento con un lector de pantalla, puede desear utilizar la opción de marcadores para navegar por las partes. Si necesita alguno de los gráficos en otro formato, podemos proporcionarlo bajo solicitud. Por favor, envíenos un correo electrónico a www.nao.org.uk/contact-us
+El equipo de estudio de la Oficina Nacional de Auditoría estaba compuesto por:
+Phil Bradburn, Alan Brown, 
+Meg Callanan, Ryan Hill, 
+Anna McManus, Caroline Murray, 
+Hisham Taj y Alex Wan, 
+bajo la dirección de Ruth Kelly. Este informe se puede encontrar en el sitio web de la Oficina Nacional de Auditoría en 
+www.nao.org.uk
+Si necesita una versión de este informe en un formato alternativo por razones de accesibilidad, o alguno de los gráficos en un formato diferente, póngase en contacto con la NAO en 
+enquiries@nao.org.uk
+Para obtener más información sobre la Oficina Nacional de Auditoría, póngase en contacto con:
+Oficina Nacional de Auditoría  
+Oficina de Prensa  
+157 –197 Buckingham Palace Road  
+Victoria  
+Londres  
+SW1W 9SP
+020 7798 7400
+www.nao.org.uk
+@NAOorgukHechos clave 4
+Uso de inteligencia artificial en el gobierno
+
+Hechos clave
+2018
+Lanzamiento del Acuerdo de Sector de IA del gobierno para promover
+el uso de IA (inteligencia artificial) en el Reino Unido,
+incluyendo dentro del sector público74
+número de casos de uso de IA ya desplegados según informan
+los organismos gubernamentales que respondieron a nuestra encuesta
+£101 mn
+estimación del Incubador de Inteligencia Artificial de su requisito
+de financiamiento de cinco años hasta 2028-29 (antes de la inflación)
+37% proporción de organismos gubernamentales que respondieron a nuestra encuesta
+que habían desplegado IA
+37% proporción de organismos gubernamentales que respondieron a nuestra encuesta
+que no habían desplegado IA pero estaban pilotando o planeando IA
+junio de 2024 objetivo para que los departamentos gubernamentales centrales
+tengan planes de adopción de IA costeados y revisados en su lugar
+21% proporción de organismos gubernamentales que respondieron a nuestra encuesta
+que tenían una estrategia para IA en su organización, mientras que un 61% adicional
+tenían planes para desarrollar una
+70% proporción de organismos gubernamentales que respondieron a nuestra encuesta
+que informaron que las habilidades eran una barrera para la adopción de IA en
+su organizaciónUso de inteligencia artificial en el gobierno 
+Resumen 
+5 
+Resumen
+Introducción
+1 El uso de la inteligencia artificial (IA) ha estado expandiéndose rápidamente en toda la sociedad, particularmente con el desarrollo de la IA generativa. La IA tiene el potencial de transformar los servicios públicos, pero también presenta riesgos y preocupaciones. Puede ser utilizada en el sector público para una variedad de propósitos, incluyendo mejorar procesos internos; apoyar la toma de decisiones operativas; apoyar la investigación y el monitoreo; y para interactuar directamente con el público o brindar servicios. El gobierno anunció en la Declaración de otoño de 2023 que el uso de la IA ofrecía beneficios de productividad potenciales valorados en miles de millones en el sector público. En el Presupuesto de primavera de 2024, el gobierno anunció financiamiento para varias iniciativas que involucran la IA como parte de su Programa de Productividad del Sector Público.
+2 El gobierno ha fomentado el uso de la IA durante varios años. En 2018, lanzó el Acuerdo de Sector de IA para estimular el uso de la IA, y en 2019, concluyó una revisión de adopción de IA transversal al gobierno. En 2021, el gobierno lanzó su Estrategia Nacional de IA, que reconoció que la IA ofrece el potencial de transformación en toda la economía, incluyendo en el sector público. La estrategia incluyó un objetivo de que el sector público debía establecer un ejemplo en la implementación segura y ética de la IA.
+3 En 2023, la Oficina Central de Digital y Datos del Gabinete (CDDO) comenzó a trabajar con el Departamento de Ciencia, Innovación y Tecnología (DSIT) y el Tesoro HM para desarrollar una estrategia para la adopción de la IA en el sector público. La estrategia borrador establece cuatro objetivos.
+• El sector público del Reino Unido será líder mundial en el uso seguro, responsable y transparente de la IA para mejorar los servicios públicos y los resultados.
+• El público se beneficiará de servicios que han sido transformados por la IA y tendrá confianza en que el uso de la IA por parte del gobierno es responsable.
+• Los funcionarios públicos y civiles tendrán las herramientas, la información y las habilidades que necesitan para utilizar la IA para entregar mejores resultados.
+• Todas las organizaciones públicas serán más eficientes y productivas a través de la adopción de la IA y tendrán las bases para innovar con la próxima ola de tecnologías.6 Resumen
+Uso de inteligencia artificial en el gobierno
+Alcance del informe
+4 Este informe examina cómo el gobierno se ha preparado para maximizar las oportunidades y mitigar los riesgos del uso de la inteligencia artificial (IA) en la prestación de servicios públicos. Nuestro enfoque principal en este informe es el papel de la Oficina del Gabinete y DSIT en el apoyo a la adopción de la IA en el sector público. En particular, el informe analiza:
+• la estrategia y gobernanza del gobierno para el uso de la IA en los servicios públicos (Parte Uno);
+• cómo los organismos gubernamentales están utilizando la IA y cómo el gobierno entiende las oportunidades (Parte Dos); y
+• los planes del gobierno central para apoyar la prueba, pilotaje y escalada de la IA; y el progreso en la dirección de las barreras para la adopción de la IA (Parte Tres).
+5 Nos centramos en la IA que utiliza el aprendizaje automático para tareas que incluyen el procesamiento del lenguaje, análisis predictivos y reconocimiento de imágenes o voz. En nuestra encuesta, preguntamos a los organismos gubernamentales (departamentos y organismos autónomos) sobre sus casos de uso desplegados, pilotados o planificados. Excluimos la automatización basada en reglas simples y el uso de la IA incrustada en herramientas preexistentes proporcionadas por defecto (por ejemplo, filtros de correo electrónico de spam automáticos o respuestas inteligentes de correo electrónico), así como el uso ad hoc de la IA por parte de individuos. No abarcamos la regulación de la IA en la economía más amplia ni cómo el despliegue de la IA puede cambiar las demandas de los servicios públicos.
+6 Reconocemos que el desarrollo y despliegue de la IA en los organismos gubernamentales está en una etapa temprana y hay actividad en curso para desarrollar estrategias, planes y gobernanza. Para maximizar las oportunidades de la IA, el gobierno deberá implementar y adoptar la IA a gran escala en todo el sector público. Nuestro trabajo previo ha identificado los desafíos involucrados en la transformación digital y las iniciativas interdepartamentales de este tipo. Por lo tanto, este informe es una oportunidad para informar sobre el progreso temprano y identificar áreas para mejorar mientras el gobierno desarrolla sus planes más adelante.
+7 El Apéndice Uno describe nuestro enfoque de auditoría y base de evidencia.Uso de inteligencia artificial en el gobierno  Resumen  7 
+
+Hallazgos clave
+Estrategia y gobernanza
+8 El gobierno carecía de un plan coherente para apoyar la adopción de IA en el sector público como parte de su Estrategia Nacional de IA de 2021. Uno de los objetivos de la Estrategia Nacional de IA es que el sector público se convierta en un ejemplo de despliegue seguro y ético de IA. Las actividades para lograr este objetivo se encuentran dispersas en muchos organismos y no han sido respaldadas por acuerdos de gobernanza, responsabilidades claras, un plan de implementación o métricas de rendimiento para rastrear el progreso. La Estrategia Nacional de IA - Plan de Acción de IA publicada en julio de 2022 resumió la actividad, pero no estableció medidas de resultado ni planes de implementación detallados para apoyar el objetivo de que el sector público se convierta en un ejemplo. Inicialmente, se estableció un Grupo de Entrega de Estrategia de IA intergubernamental por la Oficina de Inteligencia Artificial para supervisar la entrega, pero este fue disuelto en marzo de 2022. En 2023, DSIT reestructuró la gobernanza de la Estrategia Nacional de IA. Estableció un nuevo Consejo de Directores de Política de IA en octubre de 2023 para supervisar la entrega de la estrategia, con representación de CDDO en la Oficina del Gabinete (párrafo 1.6 y Figura 1).
+9 DSIT y la Oficina del Gabinete tienen responsabilidades en IA. La estrategia borrador para la adopción de IA en el sector público no establece qué departamento tiene la propiedad y responsabilidad general para su entrega. CDDO y el Incubador de Inteligencia Artificial (i.AI) (dentro de la Oficina del Gabinete), y DSIT tienen roles en la adopción de IA en el sector público, y por lo tanto hay potencial para la superposición. Por ejemplo, CDDO es responsable de establecer la dirección estratégica para el gobierno en lo digital, datos y tecnología, mientras que i.AI tiene un papel en la entrega de infraestructura de datos y IA compartida. DSIT es responsable de desarrollar marcos de gobernanza, orientación y estándares para IA y datos en la economía más amplia, y lidera la innovación en el sector público. La estrategia borrador del gobierno tiene como objetivo que el Reino Unido lidere el mundo en el uso responsable y seguro de IA que mejora los servicios públicos y tiene la confianza del público. La estrategia borrador incluye actividades y cronogramas de alto nivel, incluyendo una ambición para que todos los departamentos gubernamentales centrales tengan planes de adopción de IA costeados y revisados para junio de 2024. Sin embargo, está en una etapa temprana y no establece un plan de implementación con métricas de rendimiento, financiamiento o propiedad y responsabilidad general para la entrega (párrafos 1.4, 1.7, 3.7 y 3.8, y Figura 2).Resumen 8
+Uso de inteligencia artificial en el gobierno
+
+10 Hay una integración limitada de los acuerdos de gobernanza para la adopción de IA en el sector público y aquellos para la política de IA más amplia del Reino Unido. CDDO planea administrar el programa de trabajo para apoyar la adopción de IA en el sector público a través de los acuerdos de gobernanza digital y de datos existentes en todo el gobierno. Trabajar a través de estructuras existentes ayudará a asegurar que haya coordinación con otros programas, como la hoja de ruta para la digitalización y los datos de 2022-2025. Aunque la estrategia tiene como objetivo ser de alcance público amplio, estas estructuras de gobernanza no incluyen representación del sector público más allá del gobierno central, como escuelas, policía y el sector de la salud más amplio. La gobernanza propuesta de la estrategia también es en gran medida separada de la estructura de gobernanza cruzada del gobierno establecida para supervisar la entrega de la política de IA liderada por DSIT, lo que podría perder los beneficios de un enfoque coordinado y aumentar los riesgos de entrega. CDDO reconoce que hay valor en una mayor integración y está explorando cómo lograrlo. A marzo de 2024, el gobierno está revisando los acuerdos de gobernanza de IA y ha establecido ministros de IA líderes en todos los departamentos para apoyar la coordinación (párrafo 1.8 y Figura 3).
+
+11 Los departamentos están en una etapa temprana de desarrollo de sus propias estrategias de IA y acuerdos de gobernanza. Solo el 21% de 87 cuerpos gubernamentales que respondieron a nuestra encuesta dijo tener una estrategia de IA. Sin embargo, un 61% adicional tiene planes para desarrollar una. Los acuerdos de supervisión y gobernanza también están en una etapa temprana de desarrollo. Mientras que 24 de los 32 cuerpos con IA desplegada que respondieron a la encuesta siempre o usualmente tenían un propietario responsable designado para sus casos de uso de IA, menos de la mitad de los cuerpos con IA desplegada (15 de 32) dijeron que los casos de uso de IA se identificaban siempre o usualmente a nivel organizacional antes de la implementación. Encontramos ejemplos de cuerpos gubernamentales que establecían acuerdos de gobernanza, como una junta directiva de IA, una autoridad de diseño, un panel de consulta y utilizando un ético de datos para proporcionar supervisión y seguimiento de los casos de uso de IA (párrafos 1.9 a 1.11, y Figura 4).
+
+Uso de IA en el gobierno
+
+12 A partir del otoño de 2023, la IA no se utilizaba ampliamente en todo el gobierno, pero los cuerpos gubernamentales están explorando oportunidades. Solo un poco más de un tercio (37%) de los 87 cuerpos gubernamentales que respondieron a nuestra encuesta habían desplegado IA, con típicamente uno o dos casos de uso en cada uno. Más de dos tercios (70%) están pilotando o planeando IA, con una mediana de cuatro casos de uso explorados por cuerpo. Los propósitos más comunes de la IA desplegada son apoyar la toma de decisiones operativas o mejorar procesos internos. Encontramos temas comunes en los tipos de IA que se están pilotando o planeando en los cuerpos gubernamentales. Esto sugiere que hay oportunidades para compartir conocimientos y trabajar juntos en formas comunes de funcionalidad, por ejemplo, casos de uso de IA que apoyan procesos empresariales comunes. Ejemplos de la encuesta incluyen el uso de IA para analizar imágenes digitales para extraer información de documentos o identificar y clasificar objetos, el uso de procesamiento de lenguaje natural para resumir o redactar texto, y el uso de IA para evaluar tendencias y patrones y monitorear datos en vivo (párrafos 2.2 a 2.6, y Figuras 5, 6 y 7).Uso de inteligencia artificial en el gobierno  Resumen  9 
+
+13 El centro de gobierno ha identificado el potencial para ganancias de productividad a gran escala mediante el uso de IA en el sector público, pero aún no ha evaluado la viabilidad o el costo de entregar estas mejoras. En 2023, CDDO realizó un análisis indicativo para identificar posibles ganancias de productividad en todo el servicio civil y el sector público más amplio. Identificó que casi un tercio de las tareas en el servicio civil (aquellas que definió como rutinarias) podrían automatizarse. No examinó la viabilidad de entregar estas ganancias de productividad, ni realizó una evaluación del costo. Para avanzar en esto, CDDO reconoce que se requiere una mayor revisión y recopilación de evidencia, junto con una inversión sustancial (párrafos 2.7 y 2.8).
+
+Apoyo para la adopción de IA
+
+14 CDDO necesita hacer más para reunir sistemáticamente y construir sobre la visión y el aprendizaje de la actividad de IA existente en todo el gobierno. Además de la actividad de pilotaje en curso en various organismos gubernamentales, hay programas liderados o financiados por el gobierno que apoyan el desarrollo y la adopción de IA. Estos incluyen, por ejemplo, programas financiados por UK Research and Innovation (UKRI) y el Laboratorio de IA del NHS. Casi tres cuartos (74%) de los organismos que respondieron a nuestra encuesta nos dijeron que el apoyo para el intercambio de conocimientos era muy importante, la respuesta más alta para cualquier área de apoyo. CDDO es responsable de reunir sistemáticamente y construir sobre esta visión y aprendizaje. Reconoce que necesita hacer más, particularmente en respuesta al crecimiento de la IA generativa. A fines de 2023, comenzó a establecer un equipo de IA dentro de CDDO para avanzar en esto. Por separado, el i.AI, como centro de excelencia, tiene como objetivo ofrecer experticia técnica, incluyendo el intercambio de infraestructura y recursos de IA en todo el gobierno (párrafos 3.2 a 3.6 y Figura 10).
+
+15 La implementación exitosa de la estrategia de adopción de IA del sector público del gobierno dependerá de aprender lecciones de programas de transformación complejos y transversales en el gobierno. Nuestro trabajo previo (tanto en la transformación digital en el gobierno como en la buena práctica en el trabajo transversal en el gobierno) ha identificado lecciones esenciales para que el gobierno las tenga en cuenta desde el principio si los programas de transformación a gran escala han de ser exitosos. Estas lecciones incluyen la importancia de entender la necesidad empresarial, asegurarse de un liderazgo fuerte y responsabilidades claras, claridad en los resultados y medidas de rendimiento, evaluar los impactos en la fuerza laboral, abordar los sistemas y acceso a datos heredados y la calidad, y tener las habilidades adecuadas en su lugar (párrafos 3.7 y 3.8).Resumen 10 Uso de inteligencia artificial en el gobierno
+
+16 La actualización de sistemas heredados y la mejora de la calidad y acceso a los datos es fundamental para aprovechar las oportunidades de IA, pero tomará tiempo implementar. Se necesitan cimientos digitales y de datos adecuados para respaldar los beneficios transformacionales de la IA. Cantidades grandes de datos de alta calidad son importantes para entrenar, probar y desplegar modelos de IA. Nuestra encuesta encontró que el acceso limitado a datos de alta calidad era una barrera para implementar la IA y que el apoyo del gobierno central era importante para abordar esto. El gobierno reconoce que se necesita más acción para abordar los problemas heredados y mejorar el acceso y la calidad de los datos para evitar limitar la adopción de la IA en el sector público. La hoja de ruta digital y de datos del gobierno para 2022-2025 establece sus planes para abordar estos problemas en los próximos años. Por ejemplo, se espera que CDDO tenga planes de remediación acordados para abordar los sistemas de TI heredados con los niveles de riesgo más altos para 2025, pero abordar completamente estos problemas de sistemas heredados tomará más tiempo. La identificación de datos estratégicamente importantes en departamentos no se espera hasta la primavera de 2024 y las evaluaciones de madurez de datos a nivel departamental diseñadas para construir una imagen de las fortalezas y debilidades de los datos en todo el gobierno no se esperan hasta el otoño de 2024 (párrafos 3.9 a 3.15 y figuras 9 y 10).
+
+17 Los estándares y orientaciones del gobierno para apoyar la adopción responsable y segura de la IA todavía están en desarrollo. El Estándar de Registro de Transparencia Algorítmica (ATRS), desarrollado para mejorar la transparencia y proporcionar información sobre las herramientas algorítmicas utilizadas en el gobierno, no se utiliza ampliamente. En febrero de 2024, DSIT anunció que haría que ATRS fuera un requisito obligatorio para todos los departamentos del gobierno. DSIT, que también lidera la estrategia y el compromiso del gobierno en estándares técnicos digitales globales (incluyendo la IA), nos dijo que hay oportunidades para trabajar más colaborativamente en todo el gobierno para asegurarse de que los estándares del gobierno para la IA tengan en cuenta los estándares globales a medida que se desarrollan. Algunos organismos gubernamentales que entrevistamos describieron encontrar difícil navegar la gama de orientaciones disponibles y no estar claros sobre dónde ir para obtener una visión definitiva de lo que necesitan considerar. Alrededor de dos tercios de los encuestados respondieron que el apoyo del centro era muy importante para abordar los riesgos legales (70%) y los riesgos para la privacidad o la protección de datos, o las violaciones de seguridad cibernética (63%). CDDO publicó orientación sobre el uso de IA generativa en el gobierno en enero de 2024 y tiene planes para publicar orientación más amplia sobre el uso de la IA en el gobierno para el verano de 2024. La Función de Análisis del Gobierno también está revisando su orientación para tener en cuenta la IA, incluyendo la actualización del Libro de Agua, su orientación sobre la producción de análisis de calidad (párrafos 3.16 a 3.23 y figuras 10 y 11).Uso de inteligencia artificial en el gobierno  Resumen  11 
+
+18 El CDDO está desarrollando sus controles de gasto digital y tecnológico para mejorar 
+la seguridad en casos de uso de alta riesgo de IA. El CDDO es responsable de la supervisión y 
+aseguramiento del gasto digital y tecnológico en todo el gobierno. Como parte de estos controles, 
+los departamentos deben cumplir con el Código de Práctica Tecnológica, que incluye requisitos de 
+privacidad, seguridad y protección de datos, así como requisitos para cumplir con la guía ética en 
+casos de toma de decisiones automatizadas. En 2024, el CDDO espera implementar un nuevo proceso 
+en todo el gobierno para mejorar la identificación del gasto digital y tecnológico que tiene un componente 
+de IA sustancial o de alto riesgo, para asegurarse de que estos casos reciban la debida atención 
+(párrafos 3.24 y 3.25).
+
+19 La seguridad de la IA dentro de los organismos gubernamentales es variable y aún está en desarrollo. 
+Reflejando la etapa temprana en que se encuentran los organismos gubernamentales al adoptar la IA, 
+solo el 30% de todos los encuestados informó que tenían procesos de riesgo y aseguramiento de calidad 
+que incorporaban explícitamente los riesgos de IA, aunque un 46% adicionales tenían planes para 
+implementarlos. El DSIT está desarrollando herramientas para integrar la seguridad de la IA en los marcos 
+de contratación pública. El CDDO también está considerando cómo apoyar mejor a los organismos del sector 
+público para asegurar técnicamente los productos de IA que han adquirido (párrafos 3.26 a 3.28 y Figura 12).
+
+20 Los departamentos identificaron la falta de habilidades en IA como una barrera clave para la adopción de IA en el gobierno. 
+Nuestra encuesta encontró que las dificultades para reclutar o retener personal con habilidades en IA era una de las barreras más comunes para la adopción de IA, identificada por el 70% de los encuestados. Nuestro trabajo previo en 2023 encontró que los niveles salariales en el sector público no atraen el talento requerido para la escala de transformación digital necesaria en el Reino Unido, y había más de 4,000 vacantes digitales, de datos y tecnológicas en el gobierno hasta octubre de 2022. El CDDO reconoce que la falta de habilidades es un desafío importante para la adopción exitosa de IA, notando que hay una capacidad limitada en el sistema para explotar y escalar las oportunidades presentadas por la IA. Los organismos gubernamentales pueden abordar las escasez de habilidades a través del uso de contratistas, trabajadores temporales y personal temporal, con un estimado de un tercio de profesionales digitales y de datos en la función pública compuesto por estos grupos. El gobierno se ha comprometido a reducir la dependencia del servicio civil en mano de obra contingente de este tipo para reducir costos y crecer la capacidad a largo plazo. El CDDO ha establecido planes para desarrollar habilidades en IA y ampliar la conciencia en el sector público. El i.AI ha sido establecido para impulsar habilidades técnicas y experticia en IA y también tiene un papel que jugar en la capacitación del servicio civil más amplio (párrafos 3.29 a 3.32 y Figura 9).Resumen 12
+Uso de inteligencia artificial en el gobierno
+Conclusión
+21 La IA ofrece al gobierno oportunidades para transformar los servicios públicos. 
+El centro de gobierno ha identificado el potencial para grandes ganancias de productividad 
+a partir de la adopción de la IA en todo el sector público. La responsabilidad de la IA recae 
+en DSIT y la Oficina del Gabinete, y aunque el gobierno está trabajando en un borrador 
+de estrategia para la adopción de la IA en el sector público, aún no la ha finalizado ni 
+publicado un plan de implementación. Nuestra encuesta entre los organismos gubernamentales 
+encontró que la IA no se utilizaba aún ampliamente en todo el gobierno, pero el 70% de los 
+encuestados estaban pilotando y planeando casos de uso de la IA. Los departamentos gubernamentales 
+deben crear planes de adopción de la IA para junio de 2024.
+22 Hay riesgos para el valor del dinero si el gobierno no establece qué departamento tiene 
+la propiedad y responsabilidad general para la entrega de la estrategia para la adopción de la IA 
+en el sector público y establece roles y responsabilidades adecuados para aquellos que necesitan 
+contribuir. Lograr beneficios a gran escala probablemente requerirá no solo la adopción de nueva 
+tecnología, sino también cambios significativos en los procesos empresariales y cambios correspondientes 
+en la fuerza laboral. Para entregar los beneficios transformacionales de la IA, el gobierno necesita 
+asegurarse de que su programa general para la adopción de la IA sea ambicioso y respaldado por un 
+plan realista para las habilidades, la financiación y los habilitadores más amplios necesarios. 
+El gobierno también debe mantener el enfoque en abordar otras barreras fundamentales para la adopción 
+de la IA, como los sistemas heredados y el acceso y compartir datos, que de otra manera limitarán 
+la medida en que puede explotar el potencial futuro de la IA.
+
+Recomendaciones
+a Para entregar su estrategia para la adopción de la IA en el sector público, la Oficina del Gabinete 
+debe:
+• Desarrollar un plan de implementación integrado y factible que se base en planes de adopción de la IA 
+departamentales individuales y que identifique aplicaciones comunes y escalables. Debe evaluar la capacidad 
+del plan integrado para entregar las grandes ganancias de productividad que ha identificado.
+• Identificar y publicar métricas de rendimiento y acuerdos de seguimiento que reflejen los resultados 
+deseados de la estrategia para promover la transparencia y la responsabilidad para la entrega.
+• En colaboración con DSIT, evaluar la nueva estrategia y los acuerdos de gobernanza para asegurarse 
+de que sean adecuados para el propósito y asegurar la coordinación efectiva con la política de IA de DSIT 
+para la economía más amplia, y revisarlos dentro de un año de implementación, haciendo cualquier cambio 
+necesario.Uso de inteligencia artificial en el gobierno  Resumen  13 
+
+b La Oficina del Gabinete debería establecer cómo el gobierno puede reunir y compartir insights accesibles de la actividad transgubernamental para identificar, priorizar y probar oportunidades escalables de IA en el sector público, incluyendo trabajar con DSIT para aprovechar el paisaje de investigación más amplio, como los programas de UKRI.
+
+c La CDDO debería continuar priorizando la hoja de ruta para digital y datos 2022-2025, para abordar la infraestructura de TI heredada y los obstáculos de acceso y calidad de datos que impiden la adopción de IA, y asegurarse de que los planes futuros mantengan un enfoque continuo en abordar los riesgos que estos problemas plantean para la implementación sostenible de IA.
+
+d La CDDO debería trabajar con las funciones gubernamentales para revisar la guía existente, los estándares gubernamentales y los procesos de aseguramiento para asegurarse de que aborden adecuadamente las oportunidades y riesgos del uso de IA y proporcionen suficientes palancas para promover el uso seguro y responsable de IA en todo el gobierno, incluyendo:
+• los controles de aseguramiento para el gasto en tecnología y digital;
+• los acuerdos para proporcionar aseguramiento técnico independiente para la IA adquirida;
+• en colaboración con la Función de Análisis del Gobierno, cómo las actualizaciones propuestas para la guía sobre aseguramiento de la calidad y uso de IA en el análisis pueden ser alineadas con la guía más amplia de la CDDO sobre el uso de IA;
+• en colaboración con DSIT, la alineación de los estándares gubernamentales con los estándares globales de IA cuando sea apropiado; y
+• en colaboración con DSIT, el cumplimiento con el Estándar de Transparencia de Registro Algorítmico. Esto debería incluir evaluar su impacto y considerar si se necesitan palancas adicionales para apoyar su implementación.Parte Uno
+Uso de inteligencia artificial en el gobierno
+
+1.1 Esta parte cubre:
+• los objetivos del gobierno para la inteligencia artificial (IA) en el sector público;
+• roles y responsabilidades;
+• progreso en la creación de una estrategia transgubernamental y gobernanza;
+• y el desarrollo de estrategias de IA en organismos gubernamentales.
+
+Objetivos del gobierno para IA en el sector público
+1.2 Fomentar el uso de IA en el sector público ha sido un objetivo político del gobierno durante varios años. En 2018, el Acuerdo de Sector de IA tenía como objetivo promover el uso de IA, incluyendo en el sector público. En 2019, el gobierno concluyó una revisión de cómo podía utilizar IA, automatización y datos para impulsar la productividad del sector público y beneficios económicos más amplios. Esto fue seguido en 2021 por la Estrategia Nacional de IA, que reconoció que la IA ofrece el potencial para la transformación en toda la economía, incluyendo en el sector público, y estableció una ambición para que el sector público estableciera un ejemplo en la implementación segura y ética de la IA. En 2023, el Marco de Ciencia y Tecnología del Reino Unido identificó a la IA como una de las cinco tecnologías críticas para el Reino Unido, y un sector público innovador como uno de los diez ejes de actividad necesarios para que el Reino Unido se convirtiera en una superpotencia científica y tecnológica para 2030. Este eje de actividad incluyó coordinar iniciativas para asegurar que los servicios públicos se beneficien de las capacidades de IA generativa. La Declaración de Autonomía de 2023 estableció el potencial de beneficios de productividad valorados en miles de millones al aplicar IA a tareas rutinarias en el sector público. En el Presupuesto de Primavera de 2024, el gobierno anunció financiamiento para varias iniciativas que involucran IA como parte de su Programa de Productividad del Sector Público (Figura 1).Uso de inteligencia artificial en el gobierno  Parte Uno  15 Figura 1
+Cronología de desarrollos políticos para la adopción de inteligencia artificial (IA) en el sector público, abril de 2018 a marzo de 2024
+Fomentar la IA en el sector público ha sido un objetivo político del gobierno durante varios años
+Fuente: Revisión de la Oficina Nacional de Auditoría de fuentes públicamente disponiblesAbr 2018
+Publicación del Acuerdo de Sector de IA destinado a 
+estimular la adopción de IA, incluyendo dentro del sector público.
+Oct 2018
+En el presupuesto de 2018, el gobierno se comprometió a revisar su 
+uso de IA, automatización y datos para impulsar la productividad del sector público y beneficios económicos más amplios.Jun 2019
+Publicación de 
+guía para construir y utilizar IA en el 
+sector público.
+Mar 2023
+Publicación del Marco de Ciencia y Tecnología del Reino Unido, identificando a la IA y un sector público innovador como importantes para la estrategia científica y tecnológica del Reino Unido.Ene 2024
+Publicación del Marco de IA Generativa para el Gobierno HM, 
+proporcionando consideraciones prácticas para cualquier persona que planifique o desarrolle una solución de IA generativa.Abr 2019
+El gobierno 
+concluyó su revisión sobre la adopción de IA en todo el gobierno 
+para identificar las oportunidades más significativas para la IA.
+Sep 2021
+Publicación de la Estrategia Nacional de IA, incluyendo una ambición 
+para que el gobierno establezca un ejemplo en la implementación segura y ética de la IA.Nov 2023
+Creación del Incubador de Inteligencia Artificial (i.AI) para ayudar 
+a los departamentos a aprovechar el potencial de la IA para mejorar la productividad y la entrega de servicios públicos.Mar 2024
+Iniciativas y financiamiento de IA anunciados en el Presupuesto de Primavera 
+como parte del Programa de Productividad del Sector Público del gobierno.
+2018 2019 2020 2021 2022 2023 2024Parte Uno  Uso de inteligencia artificial en el gobierno
+Roles y responsabilidades
+1.3 La adopción de inteligencia artificial en el sector público tiene el potencial de mejorar significativamente los servicios públicos y generar eficiencias, pero lograr estos beneficios es un desafío. Lograr beneficios a gran escala probablemente requerirá no solo la adopción de nueva tecnología, sino también un cambio significativo en las prácticas comerciales. La implementación exitosa también depende de que el gobierno establezca las bases adecuadas, incluyendo acceso a habilidades, infraestructura y datos de alta calidad.
+1.4 La responsabilidad de la IA se encuentra distribuida entre el Departamento de Ciencia, Innovación y Tecnología (DSIT) y la Oficina del Gabinete. Por lo tanto, existe el potencial de confusión y superposición entre departamentos en el apoyo a la adopción de IA en el sector público. Nuestra comprensión de los roles y responsabilidades actuales se establece en la Figura 2 en las páginas 17 y 18.
+Estrategia gubernamental cruzada para la adopción de IA en el sector público
+1.5 En programas de transformación gubernamentales complejos de la índole requerida para la adopción de IA a gran escala, una estrategia con responsabilidades claras y arreglos de gobernanza es esencial para el éxito.
+1.6 La acción gubernamental para apoyar la adopción de IA en el sector público después de la publicación de la Estrategia Nacional de IA de 2021 carecía de una estrategia coherente o arreglos de gobernanza. Las actividades mencionadas en la estrategia para apoyar su objetivo de que el sector público se convierta en un ejemplo de despliegue seguro y ético de IA se encuentran dispersas en muchos organismos y no han sido respaldadas por estructuras de supervisión robustas con responsabilidades claras, un plan de implementación o medidas de rendimiento para rastrear el progreso. El Plan de Acción de IA de julio de 2022 resumió la actividad, pero no estableció medidas de resultado ni planes de implementación detallados. Inicialmente, se estableció un Grupo de Entrega de la Estrategia de IA para supervisar la entrega, pero se disolvió en marzo de 2022. En 2023, el DSIT reestructuró la gobernanza de la Estrategia Nacional de IA. Estableció un nuevo Consejo de Directores de Política de IA en octubre de 2023 para supervisar la entrega de la estrategia, con representación de la Oficina Central de Digital y Datos (CDDO) de la Oficina del Gabinete.Uso de inteligencia artificial en el gobierno  Parte Uno  17 
+
+Figura 2
+Roles y responsabilidades en el gobierno para inteligencia artificial (IA)
+La responsabilidad de IA se encuentra distribuida entre la Oficina del Gabinete y el Departamento de Ciencia, Innovación y Tecnología
+
+Departamento Roles y responsabilidades
+Oficina del Gabinete La Oficina Central de Digital y Datos lidera la función de Digital y Datos del gobierno. 
+Sus responsabilidades incluyen:
+Establecer la dirección estratégica para el gobierno en cuanto a digital, datos y tecnología.
+Establecer estándares digitales, de datos y tecnología del gobierno, incluyendo para IA, como el Código de Práctica de Tecnología, el Estándar de Servicio y Estándares Abiertos.
+Habilitar la adopción del sector público de IA.
+Mejorar la capacidad de utilizar IA a gran escala en todo el gobierno.
+El Incubador de Inteligencia Artificial (i.AI) se anunció en noviembre de 2023. Se encuentra dentro de la Oficina del Gabinete y reporta al director del equipo de Ciencia de Datos del Número 10. Fue establecido para ayudar a los departamentos a aprovechar el potencial de IA para mejorar la productividad y la entrega de servicios públicos. 
+El incubador tendrá aproximadamente 70 empleados. Requerirá un estimado de £101 millones en fondos durante cinco años entre 2024-25 y 2028-29 (antes de la inflación). Sus responsabilidades incluyen:
+Trabajar en todo el sector público para identificar oportunidades para transformar servicios y proporcionar expertos técnicos para apoyar el diseño, pilotaje y escalada de IA.
+Entregar infraestructura de datos y IA compartida.
+Apoyar la capacitación de funcionarios públicos en programación, ingeniería, ciencia de datos y aprendizaje automático.
+El Servicio de Digital del Gobierno es responsable de construir productos, plataformas y servicios digitales comunes. Su papel en apoyar la adopción de IA es en escalar la capacidad digital compartida en todo el gobierno y apoyar la implementación en la plataforma digital GOV.UK.
+
+Departamento de Ciencia, Innovación y Tecnología
+La Dirección de Política de Inteligencia Artificial (anteriormente la Oficina de Inteligencia Artificial) es responsable de supervisar la implementación de la Estrategia Nacional de IA. Sus responsabilidades incluyen:
+Invertir en y planificar las necesidades a largo plazo del ecosistema de IA.
+Apoyar la transición a una economía habilitada por IA, capturar los beneficios de la innovación en el Reino Unido y asegurarse de que IA beneficie a todos los sectores y regiones.
+Asegurarse de que el Reino Unido tenga la gobernanza nacional e internacional de las tecnologías de IA correcta para fomentar la innovación y la inversión, y proteger al público y los valores del Reino Unido.
+
+El equipo de Estándares Digitales y Gobernanza de Internet lidera la política, estrategia y participación del gobierno en estándares digitales globales, incluyendo aquellos para IA. Su papel incluye:
+Liderar la estrategia del gobierno en estándares digitales globales, establecer políticas y liderar la participación.
+Apoyar la adopción de estándares digitales globales para apoyar la política pública cuando sea apropiado.
+Apoyar a la industria del Reino Unido, el gobierno y otros expertos para participar en el desarrollo de estándares digitales globales.
+
+La Unidad de Adopción de Tecnología Responsable (anteriormente conocida como el Centro de Ética de Datos e Innovación) lidera la habilitación de innovación confiable utilizando datos y IA. Su programa incluye proyectos que:
+Desarrollan herramientas para dar a las organizaciones la confianza de que la IA y la tecnología impulsada por datos funcionan como se espera.
+Desarrollan marcos de gobernanza, orientación y estándares que permiten a las organizaciones utilizar IA y datos de manera que construya la confianza pública.
+Demuestran usos positivos de datos y IA para abordar problemas globales.
+Realizan investigaciones sobre actitudes públicas para informar y dar forma a las intervenciones de política de IA.Parte Uno  Uso de inteligencia artificial en el gobierno
+
+1.7 En 2023, CDDO, DSIT y HM Treasury comenzaron a trabajar juntos en una estrategia para la adopción de IA en el sector público, pero esto está en una etapa temprana. La estrategia borrador establece cuatro objetivos.
+
+• El sector público del Reino Unido será líder mundial en el uso seguro, responsable y transparente de la IA para mejorar los servicios públicos y los resultados.
+• El público se beneficiará de servicios que han sido transformados por la IA y tendrá confianza en que el uso de la IA por parte del gobierno es responsable.
+• Los funcionarios públicos y civiles tendrán las herramientas, la información y las habilidades que necesitan para utilizar la IA para entregar mejores resultados.
+• Todas las organizaciones públicas serán más eficientes y productivas a través de la adopción de la IA y tendrán las bases para innovar con la próxima ola de tecnologías.
+
+La estrategia borrador establece actividades y calendarios de alto nivel, con implementación que será liderada conjuntamente por CDDO, DSIT y el Incubador de Inteligencia Artificial (i.AI). Sin embargo, no establece qué departamento tiene la propiedad total de la estrategia y la responsabilidad de su entrega, ni cómo se financiará y se dotará de recursos. Las medidas de rendimiento también están por determinarse.
+
+Roles y responsabilidades del departamento
+
+Departamento de Ciencia, Innovación y Tecnología
+
+El Asesor Nacional de Tecnología:
+Lidera el trabajo del Departamento en la visión del Marco de Ciencia y Tecnología del Reino Unido para un sector público innovador.
+
+El Instituto de Seguridad de la Inteligencia Artificial fue establecido en 2023 con la misión de minimizar la sorpresa al Reino Unido y la humanidad debido a los avances rápidos e inesperados en la IA. Su papel incluye:
+
+Desarrollar y realizar evaluaciones de seguridad en sistemas de IA avanzados.
+Impulsar la investigación fundamental sobre la seguridad de la IA.
+Facilitar el intercambio de información entre el Instituto y otros actores nacionales e internacionales para responder efectivamente al progreso rápido en la IA.
+
+Figura 2 continuación
+Roles y responsabilidades en el gobierno para la inteligencia artificial (IA)
+
+Nota
+1 La Estrategia Nacional de IA establece cómo el gobierno planea utilizar la IA para aumentar la resiliencia, la productividad, el crecimiento y la innovación en los sectores público y privado.
+
+Fuente: Revisión de la Oficina Nacional de Auditoría de fuentes públicamente disponibles y documentación de la Oficina del Gabinete
+
+Estrategia
+Normas y aseguramiento
+Pruebas y despliegue
+Habilidades y capacidadUso de inteligencia artificial en el gobierno  Parte Uno  19 
+
+1.8 La OCDD planea gestionar el programa de trabajo para apoyar la adopción de IA en el sector público a través de los acuerdos de gobernanza digital y de datos existentes entre los gobiernos (Figura 3). Nuestro informe de 2023, Lecciones aprendidas: Trabajo intergubernamental, enfatizó la importancia de acuerdos de gobernanza sólidos en programas intergubernamentales para reducir el riesgo de duplicación, evitar la fragmentación y lograr eficiencias.1 Trabajando a través de estructuras existentes ayudará a asegurar que haya coordinación con otros programas de trabajo, incluyendo el roadmap para un futuro digital: 2022-2025 para digital y datos (roadmap 2022-2025 para digital y datos). Aunque la estrategia tiene como objetivo ser de alcance público amplio, estas estructuras de gobernanza no incluyen representación del sector público más allá del gobierno central, como escuelas, policía y el sector de la salud más amplio. La gobernanza propuesta de la estrategia también es en gran medida separada de la estructura de gobernanza intergubernamental establecida para supervisar la entrega de la Estrategia Nacional de IA. Liderada por DSIT, esta estructura de gobernanza es responsable de supervisar la entrega de la Estrategia Nacional de IA y incluye grupos de trabajo sobre capacidad de IA, riesgos y estrategia para la economía más amplia. Aunque ambas estructuras de gobernanza incluyen representación de OCDD y DSIT, estos arreglos en gran medida separados pueden aumentar el riesgo de fragmentación y aumentar los riesgos para la entrega. OCDD reconoce que hay valor en una mayor integración y está explorando cómo lograrlo. A partir de marzo de 2024, el gobierno está revisando los acuerdos de gobernanza de IA y ha establecido ministros líderes de IA en todos los departamentos para apoyar la coordinación.
+
+1 Comptroller y Auditor General, Lecciones aprendidas: Trabajo intergubernamental, Sesión 2022-23, HC 1659, julio de 2023.
+
+Junta del Servicio Civil
+Junta de Digital y Datos
+Grupo de Liderazgo Funcional Digital y Datos
+Consejo de Oficiales de Datos Principales
+Consejo de Oficiales de Tecnología Principales
+Fuente: Revisión de la Oficina Nacional de Auditoría de la documentación de la Oficina Central de Digital y Datos
+
+Figura 3
+Estructura de gobernanza digital y de datos intergubernamental
+
+La Oficina Central de Digital y Datos planea gestionar el programa de trabajo para apoyar la adopción de inteligencia artificial (IA) en el sector público a través de los acuerdos de gobernanza digital y de datos existentes entre los gobiernos.Parte Uno
+Uso de inteligencia artificial en el gobierno
+Estrategia y supervisión de IA en organismos gubernamentales
+1.9 Los organismos gubernamentales se encuentran en una etapa temprana en el desarrollo de sus propias estrategias de IA. 
+Solo el 21% de los 87 organismos que respondieron a nuestra encuesta dijeron tener una estrategia de IA. 
+Sin embargo, un 61% adicional tenía planes para desarrollar una (Figura 4).
+1.10 Los acuerdos de supervisión en los organismos gubernamentales también están en desarrollo. 
+Mientras que 24 de los 32 organismos con IA desplegada nos dijeron que sus casos de uso de IA siempre o usualmente tenían un propietario responsable nombrado, solo 15 organismos con IA desplegada informaron que los casos de uso de IA siempre o usualmente se identificaban a nivel organizacional antes de la implementación. A medida que aumenta la actividad de IA, la falta de visibilidad central del uso de IA puede aumentar el riesgo de aseguramiento incompleto.
+1.11 La evidencia de nuestros estudios de caso y entrevistas con departamentos gubernamentales respalda el hallazgo de la encuesta de que las estrategias para el uso de IA y los acuerdos de gobernanza relacionados están en una etapa temprana de desarrollo. Por ejemplo:
+• El Departamento de Trabajo y Pensiones está en el proceso de desarrollar una estrategia de IA como parte de su estrategia digital y de datos más amplia. En el verano de 2023, estableció una junta directiva de IA para establecer la dirección estratégica para IA y supervisar el uso de IA en el departamento. Para proporcionar una mayor supervisión de la implementación de IA, estableció un grupo de asesoramiento y aseguramiento separado (que incluye representantes internos de asuntos legales, gestión de riesgos y políticas) para examinar los casos de uso de IA propuestos. El grupo de asesoramiento y aseguramiento proporciona asesoramiento independiente a la Junta Directiva, que informa a su Junta Digital. También está estableciendo un inventario de proyectos de IA para asegurarse de que los proyectos de IA sean visibles y puedan ser rastreados.
+• El Ministerio de Justicia (MoJ) ha establecido un grupo de dirección de IA. Tiene planes para desarrollar esto aún más para incluir una autoridad de diseño técnico para revisar los casos de uso de IA individuales y una cirugía de soluciones para identificar soluciones integrales para necesidades empresariales. MoJ espera que los proyectos de IA se comprometan con estos grupos de gobernanza en various stages del desarrollo del proyecto. 
+En un caso por caso, MoJ también utiliza paneles de consulta de algoritmos, que incluyen a usuarios finales y un ético de datos, para proporcionar una supervisión adicional de los casos de uso de IA antes de que sean aprobados para la implementación.Uso de inteligencia artificial en el gobierno  Parte Uno  21 
+
+Total
+Con IA desplegada 7 (8%) 21 (24%) 3 (3%) 1 (1%) 32 (37%)
+Con IA piloteada o planificada pero no desplegada 9 (10%) 20 (23%) 2 (2%) 1 (1%) 32 (37%)
+Sin IA 2 (2%) 12 (14%) 8 (9%) 1 (1%) 23 (26%)
+Total 18 (21%) 53 (61%) 13 (15%) 3 (3%) 87 (100%)
+
+Notas
+1 En otoño de 2023, encuestamos a 89 organismos gubernamentales, incluyendo los departamentos gubernamentales principales y la mayoría de los organismos autónomos con gasto operativo anual de aproximadamente £83 millones. La tasa de respuesta fue del 98% (o 87 cuerpos). Por favor, consulte el Apéndice Uno para más detalles.
+2 La pregunta relevante de la encuesta fue: "¿Tiene su organización una estrategia o plan de IA? Por estrategia o plan de IA, nos referimos a un documento publicado o interno que establece las prioridades de IA de su organización para el futuro" (87 cuerpos respondientes), con las siguientes opciones de respuesta.
+•  Sí, hay una estrategia de IA: "Sí, hay una estrategia de IA independiente" o "Sí, la IA se considera sustancialmente dentro de nuestra estrategia de datos más amplia". También incluimos instancias donde los cuerpos dijeron que la IA se considera sustancialmente dentro de una estrategia digital más amplia.
+•  No, pero hay planes para desarrollar una: "No hay estrategia de IA, pero hay planes para desarrollar una".
+•  No, no hay planes: "No hay planes actuales para desarrollar una".
+•  Otro: "Otro (por favor, especifique)".
+3 Los encuestados se agruparon según su respuesta a la pregunta de la encuesta "¿Cómo describiría el despliegue de IA en su organización?" como sigue:
+•  Con IA desplegada: aquellos que respondieron, "Al menos un caso de uso de IA está completamente desplegado".
+•  Con IA piloteada o planificada pero no desplegada: aquellos que respondieron, "No hay casos de uso de IA completamente desplegados, pero al menos un piloto está en progreso o completo", o "No hay casos de uso de IA completamente desplegados o en piloto, pero se ha iniciado la planificación para al menos un caso de uso de IA".
+•  Sin IA: aquellos que respondieron, "No hay planes aún para ningún caso de uso de IA, pero se están explorando oportunidades", o "No hay planes aún para ningún caso de uso de IA".
+4 Las cifras pueden no sumar debido al redondeo.
+
+Fuente: Encuesta de la Oficina de Auditoría Nacional sobre el uso de inteligencia artificial en el gobiernoFigura 4
+Estrategias de inteligencia artificial (IA) en organismos gubernamentales, otoño de 2023
+Un poco más de una quinta parte (21%) de los organismos gubernamentales en nuestra encuesta tenía una estrategia de IA
+010203040506070
+Sí, hay una estrategia de IANo, pero hay planes para desarrollar unaNo, no hay planesOtrosOrganismos gubernamentales (%)
+¿Hay una estrategia de IA?
+102
+82314
+24
+2
+1119
+37Parte Dos
+Uso de inteligencia artificial en el gobierno
+y oportunidades futuras
+
+2.1 Esta parte considera cómo los organismos gubernamentales están utilizando la inteligencia artificial (IA) y cómo el gobierno entiende las oportunidades presentadas por la IA. Establece:
+• cómo los organismos gubernamentales están utilizando actualmente la IA para proporcionar servicios públicos; y
+• las oportunidades que el gobierno ha identificado para el uso futuro de la IA.
+
+Niveles de uso de IA
+2.2 A partir del otoño de 2023, la IA no se utilizaba ampliamente en todo el gobierno. En general, el 37% de los 87 organismos gubernamentales que respondieron a nuestra encuesta habían desplegado casos de uso de IA, informando 74 casos de uso de IA desplegados en todo el gobierno (Figura 5). De los organismos que informaron sobre el despliegue de IA, cada uno tenía típicamente uno o dos casos de uso.
+
+2.3 Entre aquellos que estaban pilotando o planeando el uso de IA en su organización, había una mediana de cuatro casos de uso que se exploraban, y el 82% de estos 61 organismos esperaban desplegar el primer caso de uso dentro de los próximos 12 meses.
+
+Propósito del uso de inteligencia artificial
+2.4 Las respuestas a nuestra encuesta mostraron que mejorar los procesos internos y apoyar la toma de decisiones operativas (por ejemplo, para informar la priorización, la elegibilidad y las decisiones de aplicación) eran los propósitos más comunes de los casos de uso de IA desplegados, pilotados o planificados. Los casos de uso de IA que proporcionaban directamente un servicio público o interactuaban con el público eran menos comunes, con solo seis de los 32 organismos que respondieron con IA desplegada (y el 30% de los 61 organismos con IA pilotada o planificada) informando este propósito (Figura 6 en las páginas 24 y 25).Uso de inteligencia artificial en el gobierno  Parte Dos  23 
+37
+25
+1123
+3
+0510152025303540
+Desplegado Piloto Planificación Exploración NingunoFigura 5
+Niveles de uso de inteligencia artificial (IA) en el gobierno, otoño de 2023
+Cuerpos gubernamentales (%)Un poco más de un tercio (37%) de los cuerpos respondientes estaban utilizando activamente la IA, y un 37% más estaban pilotando (25%) o planificando (11%) el uso de la IA3
+Notas
+1 En el otoño de 2023, encuestamos a 89 cuerpos gubernamentales, incluyendo los departamentos gubernamentales principales y la mayoría de los organismos autónomos con gasto operativo anual superior a aproximadamente £83 millones. La tasa de respuesta fue del 98% (o 87 cuerpos). Por favor, consulte el Apéndice Uno para más detalles.
+2 La pregunta relevante de la encuesta fue, "¿Cómo describiría el despliegue de IA en su organización?" (87 respondientes) con las siguientes opciones de respuesta.
+   Desplegado: "Al menos un caso de uso de IA está completamente desplegado."
+   Piloto: "Ningún caso de uso de IA está completamente desplegado, pero al menos un piloto está en progreso o completo."
+   Planificación: "Ningún caso de uso de IA está completamente desplegado o en piloto, pero se ha iniciado la planificación para al menos un caso de uso de IA."
+   Exploración: "No hay planes aún para ningún caso de uso de IA, pero se están explorando oportunidades."
+   Ninguno: "No hay planes aún para ningún caso de uso de IA."
+3 Las cifras pueden no sumar debido al redondeo.
+Fuente: Encuesta de la Oficina de Auditoría Nacional sobre el uso de inteligencia artificial en el gobiernoNivel de despliegue de IA24 Parte Dos  Uso de inteligencia artificial en el gobierno
+Figura 6
+Propósitos de la inteligencia artificial (IA) en el gobierno, otoño de 2023
+Cuerpos gubernamentales (%)
+El propósito más común de la IA desplegada en los cuerpos gubernamentales que respondieron a nuestra encuesta fue apoyar la toma de decisiones operativas, y para la IA piloteada o planificada, el propósito más común fue mejorar los procesos internos.
+
+0405060708090100
+Para apoyar 
+la toma de 
+decisiones 
+operativas 66 75
+Propósitos de la IA 10 20 30
+Para apoyar 
+la investigación 
+o monitoreo 59
+52
+Para proporcionar 
+directamente un 
+servicio público o 
+interactuar con el 
+público 19 30
+Otros 3
+0
+Para mejorar 
+los procesos 
+internos 59 87
+Número de cuerpos con IA desplegada 21 (66%) 19 (59%) 19 (59%) 6 (19%) 1 (3%)
+(de 32)
+
+Número de cuerpos con IA piloteada o planificada 46 (75%) 32 (52%) 53 (87%) 18 (30%) 0 (0%)
+(de 61)Uso de inteligencia artificial en el gobierno  Parte Dos  25 
+2.5 Nuestra encuesta ilustró la variedad de IA que se utiliza actualmente. Ejemplos de IA en uso en todo el gobierno incluyen los siguientes.
+• Asistente digital para proporcionar un servicio público directo: HM Revenue & Customs está utilizando IA para ayudar automáticamente a los clientes a completar tareas o encontrar la información que buscan. Si no puede ayudar, enlaza a los clientes con un asesor a través de chat en la web. Este caso de uso no utiliza IA generativa.
+• Comparación de documentos: HM Land Registry desarrolló una herramienta de IA para apoyar a los trabajadores de casos al identificar automáticamente las diferencias entre formularios de solicitud y otros documentos de registro. Su objetivo es ahorrar tiempo valioso de los trabajadores de casos reduciendo las verificaciones manuales. La herramienta integra un servicio de IA comercialmente disponible para extraer texto de documentos.
+• Reconocimiento de imágenes y análisis espacial: Natural England utiliza IA para crear un mapa de hábitat de Inglaterra llamado 'Inglaterra Viva', para ayudar a informar la toma de decisiones de política ambiental. Utiliza aprendizaje automático y imágenes satelitales, registros de datos de campo y otros datos geoespaciales para predecir hábitats alineados con un sistema de clasificación de hábitats del Reino Unido, sin la necesidad de realizar un estudio completo del país.
+
+Notas
+1 En otoño de 2023, encuestamos a 89 organismos gubernamentales, incluyendo los departamentos gubernamentales principales y la mayoría de los cuerpos con brazos largos con gasto operativo anual de aproximadamente £83 millones. La tasa de respuesta fue del 98% (o 87 cuerpos). Consulte el Apéndice Uno para más detalles.
+2 Esta datos combina dos preguntas de la encuesta:
+• "¿Cuáles son los propósitos de este caso de uso de IA? Seleccione todos los que apliquen." (32 respondientes)
+• "Pensando en los casos de uso de IA que se están planificando o piloteando, ¿cuáles son sus propósitos? Seleccione todos los que apliquen." (61 respondientes, de los cuales 32 estaban piloteando o planificando solo y 29 también tenían IA desplegada)
+Donde las organizaciones tenían múltiples casos de uso de IA desplegados, necesitaban informar un propósito solo una vez para que se incluyera en esta categoría. Las opciones de respuesta fueron las mismas en ambas preguntas:
+• "Para apoyar la toma de decisiones operativas, como priorización, elegibilidad y aplicación (por ejemplo, un caso de uso de IA que predice a los usuarios del servicio en riesgo de resultados pobres para ayudar a dirigir el apoyo de manera más efectiva)"
+• "Para apoyar la investigación o el monitoreo (por ejemplo, casos de uso de IA que estiman volúmenes de tráfico de carreteras desde imágenes satelitales, o casos de uso de IA que utilizan aprendizaje automático para predecir la eficiencia energética de las propiedades)"
+• "Para mejorar procesos internos (por ejemplo, casos de uso de IA que facilitan la recuperación de información o síntesis)"
+• "Para proporcionar un servicio público directo o interactuar con el público (por ejemplo, un chatbot de IA que genera respuestas personalizadas a consultas de los usuarios del servicio)"
+• "Otro (por favor, especifique)"
+3 Las dos categorías de "con IA desplegada" y "con IA piloteada o planificada" no son mutuamente excluyentes. Los respondientes se agruparon según su respuesta a la pregunta de la encuesta, "¿Cómo describiría el despliegue de IA de su organización?" como sigue:
+• Con IA desplegada: aquellos que respondieron, "Al menos un caso de uso de IA está completamente desplegado".
+• Con IA piloteada o planificada: aquellos que respondieron, "Ningún caso de uso de IA está completamente desplegado, pero al menos un piloto está en progreso o completo", o "Ningún caso de uso de IA está completamente desplegado o en piloto, pero se ha iniciado la planificación para al menos un caso de uso de IA". También incluimos a aquellos que respondieron, "Al menos un caso de uso de IA está completamente desplegado", y también informaron al menos un caso de uso de IA piloteado o planificado.
+
+Fuente: Oficina de Auditoría Nacional, encuesta sobre el uso de inteligencia artificial en el gobiernoFigura 6 continuada
+Propósitos de la inteligencia artificial (IA) en el gobierno, otoño de 2023Parte Dos  Uso de inteligencia artificial en el gobierno
+
+2.6 En todo el gobierno, encontramos temas comunes en los tipos de IA que se están piloteando o planificando. Ejemplos de la encuesta incluyen el uso de IA para analizar imágenes digitales para extraer información de documentos o identificar y clasificar objetos, y el uso de IA para evaluar tendencias y patrones y monitorear datos en vivo. Nuestro análisis indica que entre 35 y 45 de los 87 encuestados estaban piloteando o planeando casos de uso de IA generativa. Esto sugiere que hay oportunidades para que los organismos gubernamentales compartan conocimientos y trabajen juntos en formas comunes de funcionalidad, por ejemplo, casos de uso de IA que respaldan procesos empresariales comunes. La Figura 7 en las páginas 27 y 28 ilustra algunos tipos comunes de casos de uso de IA que se están piloteando o planificando en todo el gobierno, según se informa en nuestra encuesta.
+
+Identificando oportunidades para el uso de IA
+
+2.7 En 2019, el gobierno concluyó una revisión que exploró el potencial de adopción de IA en todo el gobierno. Liderada por el Servicio Digital del Gobierno (GDS) y la Oficina de Inteligencia Artificial (OAI), llevó a cabo una revisión para cartografiar el paisaje del uso de IA y identificar las oportunidades más significativas y el alcance para la fertilización cruzada y el aprendizaje en todo el gobierno. La Oficina Central de Digital y Datos (CDDO) nos dijo que no se tomaron acciones específicas ni se proporcionó financiamiento adicional para los siete proyectos de IA identificados por la revisión como oportunidades para mejorar la efectividad, eficiencia y productividad de los servicios públicos clave. Sin embargo, estos proyectos pueden haber sido adelantados por departamentos. La revisión llevó a la publicación en 2019 de orientación para el uso de IA en el sector público con el fin de proporcionar a los líderes del sector público una mejor comprensión de la tecnología y orientación sobre las diferentes consideraciones para proyectos con componentes de IA.
+
+2.8 En otoño de 2023, CDDO realizó un análisis indicativo para identificar las ganancias potenciales de productividad a gran escala de la adopción de IA en todo el servicio civil y sector público más amplio. Estimó la oportunidad de ganancias de productividad al analizar los tipos de tareas en las que los funcionarios civiles pasan su tiempo y cuantificando las eficiencias si las tareas rutinarias fueran automatizadas por IA. El análisis identificó ganancias potenciales de productividad a gran escala valoradas en miles de millones, estimando que casi un tercio de las tareas en el servicio civil podrían ser automatizadas. Sin embargo, este análisis no examinó la viabilidad de entregar estas ganancias de productividad ni realizó una evaluación de costos. Para avanzar en esto, CDDO es consciente de que se requiere un examen y recopilación de evidencia adicionales y una inversión sustancial.Uso de inteligencia artificial en el gobierno  Parte Dos  27 
+Figura 7
+Ejemplos de casos de uso de inteligencia artificial (IA) que se están pilotando o planificando, otoño de 2023
+Los organismos gubernamentales están pilotando o planificando el uso de IA para apoyar una variedad de usos
+Tipo de IA Resumen de técnica Ejemplos de casos de uso que se están pilotando o planificando
+Visión por computadora – 
+recuperación de información 
+La visión por computadora se puede utilizar para 
+extraer información de documentos que tienen un formato específico, como 
+una factura. La información es típicamente texto o números.• Extraer texto de formularios y documentos y copiar la 
+información en sistemas de gestión de casos más accesibles.
+• Comparar documentos para 
+identificar discrepancias.
+Visión por computadora – 
+identificación y clasificación de imágenes 
+La visión por computadora se puede utilizar para 
+identificar y clasificar objetos físicos específicos. El tipo de objeto que se puede detectar dependerá de 
+los datos en los que se ha entrenado el modelo.• Analizar imágenes de CCTV para monitorear el flujo de tráfico y 
+accidentes de tráfico en carreteras.
+• Uso de tecnología de reconocimiento facial para detectar fraude de impersonación 
+en pruebas.
+• Uso de herramientas de teledetección (por ejemplo, imágenes satelitales) para monitorear 
+operaciones agrícolas.
+Asistencia de codificación 
+La IA se puede utilizar para escribir código para propósitos de programación. Este software puede evaluar el código que se está escribiendo y actuar como una herramienta de "autocompletar", sugiriendo posibles líneas de código en tiempo real. Otros sistemas convierten programas de un lenguaje de computadora a otro.• Traducir código de un lenguaje de computadora a otro.
+• Herramientas de codificación de IA para apoyar a los desarrolladores, con la intención de 
+mejorar su eficiencia.
+• Uso de herramientas de IA para mejorar la documentación del código.
+Detección de fraude y error 
+Los modelos de aprendizaje automático se pueden entrenar para identificar anomalías en conjuntos de datos, lo que puede indicar errores o fraude potenciales.• Aprendizaje automático para ayudar a identificar organizaciones que pueden ser fraudulentas, para informar 
+evaluaciones de riesgo.
+• Analizar facturas a lo largo del tiempo para detectar tendencias y patrones.
+Asistentes virtuales 
+Un asistente virtual es un programa de computadora diseñado para realizar tareas y proporcionar información basada en comandos del usuario. Utiliza procesamiento de lenguaje natural para entender y responder a la entrada del usuario.• Apoyar la generación de correos electrónicos, presentaciones, documentos y hojas de cálculo basadas en 
+solicitudes del usuario.
+Generación de texto 
+Uso del procesamiento de lenguaje natural para producir declaraciones y documentos escritos, ya sea después de una solicitud del usuario o modificando un texto existente.• Analizar reseñas de clientes para resumir la opinión del consumidor sobre un tema específico.
+• Crear versiones de informes de tribunal para hacerlos comprensibles para los niños involucrados en casos.Parte Dos  Uso de inteligencia artificial en el gobierno
+2.9 Los organismos gubernamentales están utilizando cada vez más la IA con el objetivo de mejorar los servicios existentes, en lugar de rediseñar o crear nuevos servicios. Las respuestas a nuestra encuesta sugieren que los organismos con IA desplegada han implementado, hasta la fecha, principalmente IA que anticipan que mejorará la calidad de los servicios existentes (28 de 32 organismos), hará que los servicios sean más eficientes (22 organismos) y más rápidos (20 organismos). Menos organismos han desplegado IA con el objetivo de desarrollar nuevos servicios (12 organismos), personalizar servicios (cinco organismos) o rediseñar sustancialmente los servicios (cinco organismos). De aquellos que pilotean o planean IA, una proporción más alta está buscando lograr un rediseño sustancial de los servicios (36% de 61 organismos), lo que sugiere que los organismos gubernamentales pueden ver más oportunidades por delante para el uso transformador de la IA (Figura 8 en las páginas 29 y 30).Figura 7 continuada
+Ejemplos de casos de uso de inteligencia artificial (IA) que se encuentran en fase de prueba o planificación, otoño de 2023
+Tipo de IA Resumen de técnica Ejemplos de casos de uso que se encuentran en fase de prueba o planificación
+Investigación y 
+monitoreoUso del aprendizaje automático para evaluar 
+tendencias y patrones dentro de conjuntos de datos. 
+Con el tiempo, el modelo puede predecir 
+resultados probables, lo que lo hace útil para 
+monitorear datos en vivo.•  Análisis de datos de captura de carbono para 
+monitorear y evaluar tendencias.
+•  Monitoreo de mercados para identificar 
+tendencias y problemas que podrían llevar 
+a daños al consumidor.
+Gestión de 
+operacionesUso del aprendizaje automático para monitorear 
+métricas empresariales internas, o para 
+automatizar ciertos procesos.•  Apoyo a la asignación de casos mediante 
+la consideración del empleado óptimo 
+para el papel según varios factores.
+•  Evaluación de factores relevantes para 
+un caso determinado y proporcionar 
+una recomendación sobre si se requieren 
+verificaciones de terceros.
+•  Automatización de verificaciones rutinarias 
+como parte de un proceso de solicitud.
+•  Triaje de correspondencia para asegurarse 
+de que se asigne al equipo correcto.
+
+Notas
+1 La visión por computadora es un campo de inteligencia artificial que se centra en interpretar y comprender imágenes y video.
+2 En otoño de 2023, encuestamos a 89 organismos gubernamentales, incluyendo los principales departamentos gubernamentales y la mayoría de los organismos con gasto operativo anual superior a aproximadamente £83 millones. La tasa de respuesta fue del 98% (o 87 organismos). Vea el Apéndice Uno para más detalles.
+3 Los ejemplos se han extraído de las respuestas abiertas a la pregunta de la encuesta, "Por favor, proporcione un resumen breve de tres ejemplos de casos de uso de IA que se encuentran en fase de prueba o planificación (o menos si solo se están planificando uno o dos casos de uso)".
+Fuente: Oficina de Auditoría Nacional, encuesta sobre el uso de inteligencia artificial en el gobierno.Uso de inteligencia artificial en el gobierno  Parte Dos  29 
+Figura 8
+Impactos esperados de la inteligencia artificial (IA), otoño de 2023  
+Cuerpos gubernamentales (%) Los cuerpos gubernamentales que respondieron a nuestra encuesta se centraron más comúnmente en cómo la IA puede mejorar los servicios existentes en lugar de desarrollar nuevos servicios
+Mejora 
+de la calidad 
+del servicio Mejora 
+de la velocidad 
+del servicio Reducción 
+del costo 
+del servicio 
+(incluyendo liberar 
+recursos para 
+otras tareas) Otro Desarrollo 
+de nuevos 
+serviciosPersonalización 
+de serviciosReforma 
+sustancial o 
+transformación 
+de un servicio0405060708090100
+8892
+6989
+6384
+38
+33
+1625
+1636
+16
+3
+Impactos esperados de la IA102030
+ Número de cuerpos con  28 (88%) 22 (69%) 20 (63%) 12 (38%) 5 (16%) 5 (16%) 5 (16%)
+ IA desplegada (de 32) 
+ Número de cuerpos con   56 (92%) 54 (89%) 51 (84%) 20 (33%) 15 (25%) 22 (36%) 2 (3%)
+ IA piloteada o planificada
+ (de 61)30 Parte Dos  Uso de inteligencia artificial en el gobierno
+Notas
+1 En otoño de 2023, encuestamos a 89 organismos gubernamentales, incluyendo los principales departamentos gubernamentales y la mayoría de los organismos autónomos con gasto operativo anual superior a aproximadamente £83 millones. La tasa de respuesta fue del 98% (o 87 organismos). Véase el Apéndice Uno para más detalles.
+2 Estos datos combinan dos preguntas de la encuesta:
+• “¿Cuál de los siguientes impactos espera lograr con este caso de uso de IA [desplegado]? Seleccione todos los que apliquen.” (32 respondientes)
+• “Al pensar en los casos de uso de IA que actualmente se encuentran en fase de prueba o planificación, ¿cuáles de los siguientes impactos están tratando de lograr? Seleccione todos los que apliquen.” (61 respondientes, de los cuales 32 solo estaban en fase de prueba o planificación y 29 también tenían IA desplegada)
+Donde las organizaciones tenían múltiples casos de uso de IA desplegados, solo necesitaban informar un impacto una vez para que se incluyera en esta categoría.
+3 Las dos categorías de “con IA desplegada” y “con IA en prueba o planificada” no son mutuamente excluyentes. Los respondientes se agruparon según su respuesta a la pregunta de la encuesta, “¿Cómo describiría el despliegue de IA de su organización?” como sigue:
+• Con IA desplegada: aquellos que respondieron, “Al menos un caso de uso de IA está completamente desplegado.”
+• Con IA en prueba o planificada: aquellos que respondieron, “Ningún caso de uso de IA está completamente desplegado, pero al menos un piloto está en progreso o completo,” o “Ningún caso de uso de IA está completamente desplegado o en prueba, pero se ha iniciado la planificación para al menos un caso de uso de IA.” También incluimos a aquellos que respondieron, “Al menos un caso de uso de IA está completamente desplegado,” y también informaron al menos un caso de uso de IA en prueba o planificada.
+Fuente: Encuesta de la Oficina de Auditoría Nacional sobre el uso de inteligencia artificial en el gobiernoFigura 8 continuación
+Impactos esperados de la inteligencia artificial (IA), otoño de 2023Uso de inteligencia artificial en el gobierno 
+Parte Tres 
+31 
+Parte Tres 
+Apoyo para la adopción y escalada de inteligencia artificial 
+3.1 Esta parte examina los planes del gobierno para apoyar la adopción de inteligencia artificial (IA) para que entregue mejoras a los servicios públicos. Consideramos:
+• los planes del gobierno central para apoyar la prueba, pilotaje y escalada de la IA; y
+• el progreso en la eliminación de barreras para la adopción de IA.
+
+Prueba y pilotaje de IA
+3.2 El gobierno necesita fomentar el pilotaje y la experimentación para identificar las tecnologías y casos de uso más prometedores y aprender cómo implementarlos de manera efectiva. Nuestros hallazgos de la encuesta indican que un gran número de organismos gubernamentales (70% de 87 organismos) están pilotando y planeando la IA.
+
+3.3 También hay programas liderados o financiados por el gobierno que apoyan el desarrollo y adopción de IA. Ejemplos incluyen los siguientes.
+• Programas de UK Research and Innovation (UKRI): UKRI es el mayor financiador público de investigación e innovación en el Reino Unido. Apoya un número de programas que fomentan la investigación y la innovación en IA, incluyendo los siguientes.
+• El Instituto Alan Turing: El Instituto Alan Turing es el instituto nacional para la ciencia de datos y la inteligencia artificial. Parcialmente financiado por el Consejo de Investigación en Ciencias Físicas y de Ingeniería de UKRI, los objetivos del Turing son avanzar en la investigación y aplicarla a desafíos nacionales y globales, construir habilidades en ciencia de datos y IA a través de la capacitación, y impulsar una conversación pública informada. Su Programa de Política Pública tiene como objetivo trabajar con los responsables de políticas para desarrollar soluciones innovadoras y basadas en datos para problemas de política pública, y desarrollar marcos éticos para el uso de IA. En asociación con la Institución Británica de Normas y el Laboratorio Nacional de Física, y con el apoyo del Departamento de Ciencia, Innovación y Tecnología (DSIT), también co-lidera el trabajo en el Centro de Estándares de IA, que se ha establecido para apoyar a los partes interesados a entender y participar en la estandarización de IA y fortalecer las prácticas de gobernanza de IA a nivel nacional e internacional.Tercera parte  Uso de inteligencia artificial en el gobierno
+
+• Innovate UK, BridgeAI: Un programa de inversión de £100 millones destinado a apoyar la adopción de IA y aprendizaje automático en sectores prioritarios como la agricultura, la construcción, el transporte y las industrias creativas.
+
+• Fondo de desafío UKRI, Inteligencia artificial y economía de datos: Los fondos de desafío UKRI están diseñados para abordar grandes desafíos sociales. El programa incluye financiamiento para la investigación y la innovación en IA y análisis de datos en una variedad de sectores, incluyendo el sector creativo, el sector de servicios y la seguridad.
+
+• Desafío de innovación de equidad: Entregado en asociación con Innovate UK y DSIT, las organizaciones pueden solicitar una parte de hasta £400,000 de financiamiento de DSIT para proyectos destinados a encontrar nuevas soluciones para abordar el sesgo y la discriminación en los sistemas de IA.
+
+• Red de catapultas: La red de catapultas está compuesta por nueve centros de tecnología e innovación. Establecida por y trabajando en asociación con Innovate UK, la red tiene como objetivo apoyar la innovación y cerrar la brecha entre la investigación y los negocios mediante la provisión de infraestructura de investigación y desarrollo, experticia especializada y construcción de asociaciones. La red incluye a Digital Catapult, que ha apoyado proyectos de IA con infraestructura y experticia.
+
+• Programa de infraestructura de investigación digital: Este programa tiene como objetivo establecer una infraestructura de investigación digital nacional, incluyendo el desarrollo de instalaciones de computación a gran escala que apoyen la adopción de IA. El programa recibirá £129 millones en financiamiento del gobierno entre 2022 y 2025.
+
+• El Premio de Manchester: Una iniciativa de DSIT que otorgará £1 millón cada año durante 10 años a innovadores con la solución de IA más vanguardista para el bien público. El primer premio (que se llevará a cabo desde diciembre de 2023 hasta marzo de 2025) otorgará financiamiento a proyectos de IA destinados a superar desafíos en los campos de la energía, el medio ambiente y la infraestructura.
+
+• El Campus de Ciencia de Datos de la Oficina de Estadísticas Nacionales (ONS): El Campus de Ciencia de Datos se estableció en 2017 y tiene como objetivo construir la capacidad de ciencia de datos y investigar el uso de nuevas fuentes de datos para el bien público. Ha trabajado con una variedad de organismos del sector público para desarrollar y pilotar casos de uso de IA.Uso de inteligencia artificial en el gobierno  Parte Tres  33 
+
+• El Laboratorio de IA del NHS: El Laboratorio de IA del NHS se estableció en 2019 para acelerar la adopción segura, ética y efectiva de la IA en la salud y la atención social. Sus programas incluyen: el Premio de IA en Atención Médica, que busca acelerar la prueba y evaluación de tecnologías de IA en el sector de la salud y la atención; el establecimiento de un servicio de consulta única para proporcionar asesoramiento sobre requisitos regulatorios a organizaciones que desarrollan o adoptan tecnologías de IA y digitales; y una iniciativa para apoyar la investigación que fortalece la adopción ética de tecnologías impulsadas por IA en la salud y la atención.
+
+• Infraestructura de cómputo: Desde el Presupuesto de Primavera de 2023, el gobierno ha anunciado una inversión de más de 1.500 millones de libras en infraestructura de cómputo para apoyar la investigación y la innovación en IA.3
+
+3.4 La Oficina Central de Digital y Datos (CDDO) es responsable de reunir y construir sobre la visión y el aprendizaje de la actividad existente en todo el gobierno para fomentar la experimentación y la innovación. Reconoce que necesita hacer más, especialmente en respuesta al crecimiento de la IA generativa. A fines de 2023, comenzó a establecer un equipo de IA dentro de la CDDO para llevar esto adelante. Por separado, el Incubador de Inteligencia Artificial (i.AI), como centro de excelencia, busca identificar oportunidades para transformar servicios y ofrecer experticia técnica para apoyar el diseño, la prueba y la escalada de IA. Esto incluye el intercambio de infraestructura y recursos de IA en todo el gobierno.
+
+3.5 El intercambio de conocimientos es clave para fomentar la innovación, promover estándares consistentes y evitar la duplicación de esfuerzos en la adopción de IA en todo el gobierno. En nuestra encuesta, preguntamos sobre la importancia del apoyo del centro del gobierno. Casi tres cuartos (74%) de los cuerpos respondientes nos dijeron que el apoyo para el intercambio de conocimientos era muy importante (Figura 10), la respuesta más alta para cualquier área de apoyo. Se han establecido varios grupos de trabajo intergubernamentales para compartir el aprendizaje y coordinar en áreas específicas. Por ejemplo, estos incluyen un grupo de trabajo intergubernamental establecido para compartir el aprendizaje sobre una prueba piloto de una herramienta de IA generativa, una junta de IA establecida por la Función de Análisis del Gobierno para examinar cómo se está utilizando la IA en el análisis, y un grupo de trabajo intergubernamental de IA liderado por DSIT. También hay un foro digital informal intergubernamental sobre IA para profesionales digitales y de datos. Sin embargo, actualmente no hay una diseminación sistemática de conocimientos sobre oportunidades y adopción de IA en todo el gobierno.
+
+3.6 La guía del gobierno anima a los departamentos a incluir la evaluación en sus actividades para que puedan aprender de los fracasos y impulsar la mejora continua. Al probar soluciones de IA para el sector público, el gobierno debería esperar fracasos y se necesitan mecanismos para asegurarse de que las percepciones de los pilotos se diseminen y se utilicen para mejorar futuros pilotos.
+
+3 ‘Infraestructura de cómputo’ se refiere a sistemas informáticos con la capacidad de abordar tareas computacionales más allá de las capacidades de las computadoras cotidianas.Parte Tres  Uso de inteligencia artificial en el gobierno
+Implementación y escalabilidad de la IA
+3.7 Para lograr los posibles aumentos de productividad identificados en el análisis indicativo del CDDO (expuesto en el párrafo 2.8), el gobierno debe adoptar la IA a gran escala en todo el sector público. La estrategia borrador para la adopción de IA en el sector público compromete a todos los departamentos gubernamentales centrales (y otras organizaciones del sector público en el ámbito) a crear planes de adopción de IA costeados y revisados para junio de 2024. También establece un plan para identificar capacidades comunes que puedan ser utilizadas por múltiples organizaciones y construidas a gran escala una vez probadas. Los planes de adopción que sean lo suficientemente ambiciosos para entregar los beneficios de transformación a gran escala previstos requerirán cambios tanto en la tecnología como en los procesos empresariales y los cambios correspondientes en la fuerza laboral.
+
+3.8 Nuestro trabajo previo ha identificado lecciones para que el gobierno tenga en cuenta desde el principio si los programas de transformación a gran escala han de ser exitosos. Estas incluyen lo siguiente.
+
+• Entender la necesidad empresarial: El gobierno debe identificar y entender la necesidad empresarial antes de determinar la mejor solución para el problema. Sin una consideración cuidadosa al principio de las complejidades y interdependencias involucradas, el riesgo de fracaso del programa aumenta. Nuestros estudios de caso reiteraron la importancia de evaluar la necesidad empresarial antes de determinar qué solución (incluyendo qué tecnología de IA) podría ser necesaria.
+
+• Claridad en la responsabilidad y liderazgo senior: Se necesitan estructuras de responsabilidad claras para asegurar que los líderes senior puedan ser responsabilizados por la entrega. En programas gubernamentales cruzados, como la adopción de IA en el sector público, es importante nombrar un departamento líder para supervisar la entrega y también es necesaria la patrocinio y liderazgo senior. La estrategia borrador para la adopción de IA en el sector público no establece un departamento líder con responsabilidad general.
+
+• Identificar resultados deseados y medidas de rendimiento: Es importante tener claridad sobre los resultados que el programa busca lograr, incluyendo los beneficios que espera realizar. Los indicadores clave de rendimiento deben ser rastreados, incluyendo el establecimiento de medidas de línea de base al principio contra las cuales evaluar el progreso. Estos no se han establecido aún para la estrategia de adopción de IA en el sector público.
+
+• Evaluar los impactos en la fuerza laboral: Lograr los beneficios de la adopción a gran escala de IA requerirá cambios en los roles de los funcionarios civiles. Las implicaciones para la composición general de la fuerza laboral y las habilidades requeridas no se han considerado en detalle en la estrategia de adopción de IA en el sector público.
+
+4 Contralor y Auditor General, Transformación digital en el NHS, Sesión 2019-2021, HC 317, Oficina Nacional de Auditoría, mayo de 2020; Contralor y Auditor General, Los desafíos en la implementación del cambio digital, Sesión 2021-22, HC 575, Oficina Nacional de Auditoría, julio de 2021; Contralor y Auditor General, Trabajo cruzado del gobierno: buena práctica, Oficina Nacional de Auditoría, julio de 2023.Uso de inteligencia artificial en el gobierno  Parte Tres  35 
+
+• Abordar sistemas heredados y datos: El gobierno se basa en sistemas heredados (con problemas de calidad y consistencia de datos asociados) para muchos servicios importantes. Escuchamos en estudios de caso la importancia de considerar las dependencias entre los planes de adopción de IA y los programas de transformación digital más amplios para asegurar que los planes sean factibles y se basen en programas de modernización existentes.
+
+• Asegurar la mezcla adecuada de capacidad: La implementación exitosa de programas de IA depende de tener las habilidades adecuadas en su lugar. Los estudios de caso notaron que el acceso a habilidades analíticas era importante para entender oportunidades y diseñar y ingeniar casos de uso de IA. También se necesitaba capacidad digital y tecnológica para implementar soluciones de IA. Un estudio de caso con experiencia en probar IA también notó la importancia de la capacidad dentro de los equipos operativos para probar casos de uso de IA y apoyar la adopción.
+
+Abordar la infraestructura y los habilitadores digitales
+
+3.9 La entrega de los beneficios transformacionales de IA depende de establecer la infraestructura y los habilitadores digitales fundamentales. La hoja de ruta digital y de datos del gobierno para 2022-2025 establece seis misiones transgubernamentales para abordar problemas como la infraestructura heredada, así como desafíos de calidad y compartición de datos. Los planes de adopción de IA deberán considerar este contexto más amplio y asegurarse de que se entiendan las dependencias con estrategias transgubernamentales como la hoja de ruta digital y de datos 2022-2025.
+
+Abordar la infraestructura de TI heredada
+
+3.10 El gobierno enfrenta desafíos con arquitecturas no estándar, ineficiencias en la oficina posterior y soluciones manuales. Las decisiones sobre cómo cambiar o construir nuevos sistemas necesitan una buena comprensión de estos sistemas de TI y sus dependencias. Construir herramientas de IA sobre sistemas existentes sin abordar estos problemas fundamentales limitará la medida en que el gobierno puede explotar el potencial de IA.
+
+3.11 El gobierno reconoce que la deuda de infraestructura de TI heredada se ha acumulado con el tiempo. Estos sistemas heredados son riesgosos, ineficientes y costosos de ejecutar y son un obstáculo para entregar servicios mejores. Como parte de la hoja de ruta digital y de datos del gobierno para 2022-2025, las organizaciones están utilizando el marco de evaluación de riesgos de TI heredada para evaluar los riesgos asociados con sistemas de TI desactualizados. Informamos en 2023 que CDDO espera tener planes de remediación acordados en lugar para 2025 para los sistemas más riesgosos, pero abordar completamente estos problemas heredados tomará algún tiempo.5
+
+5 Contralor y Auditor General, Transformación digital en el gobierno: abordar las barreras para la eficiencia, Sesión 2022-23, HC 1171, Oficina Nacional de Auditoría, marzo de 2023.Tercera parte: Uso de inteligencia artificial en el gobierno
+Abordar el acceso y la calidad de los datos
+
+3.12 Nuestro trabajo previo sobre la transformación digital en el gobierno encontró que los problemas de calidad significativos en los datos operativos obstaculizan la transformación dentro de los departamentos y el intercambio de datos entre ellos.6 Nuestro informe sobre el trabajo transgubernamental identificó desafíos comunes como datos de mala calidad, falta de datos consistentes y acuerdos de intercambio de datos imprácticos.7
+
+3.13 Abordar los problemas de calidad y acceso a los datos en todo el gobierno sigue siendo lento y difícil. El acceso a datos de buena calidad se identificó como una barrera para implementar la IA en el 62% de los 87 organismos gubernamentales que respondieron a nuestra encuesta. El apoyo para mejorar el acceso y la calidad de los datos fue muy importante para la mitad de los encuestados (51%).
+
+3.14 El gobierno reconoce que el acceso y la calidad de los datos son fundamentales para la adopción exitosa de la IA en el sector público. Grandes volúmenes de datos de buena calidad son importantes para entrenar, probar y desplegar modelos de IA. La hoja de ruta del gobierno para la digitalización y los datos 2022-2025 establece la ambición de mejorar la gobernanza de los datos, así como la calidad y el acceso. Incluye las siguientes iniciativas.
+
+• Desarrollar evaluaciones de madurez de datos: CDDO está trabajando con los departamentos para realizar evaluaciones de madurez de datos. Estas evaluaciones están diseñadas para construir una imagen de las fortalezas y debilidades de los datos en todo el gobierno y ayudar a guiar futuras intervenciones. Las evaluaciones iniciales se han centrado en áreas de negocio específicas, y no se esperan evaluaciones de madurez de datos completas en todos los departamentos hasta el otoño de 2024.
+
+• Crear un centro en línea centralizado para el descubrimiento y el intercambio de datos: CDDO está creando un centro en línea centralizado para facilitar el descubrimiento y el intercambio de datos en todo el gobierno. Este "mercado" se está piloteando en la primavera de 2024.
+
+• Establecer activos de datos compartidos esenciales: CDDO lidera el trabajo transgubernamental para identificar datos estratégicamente importantes para las operaciones transgubernamentales. Para finales de abril de 2024, espera que todos los departamentos gubernamentales identifiquen sus activos de datos compartidos esenciales, con el objetivo de hacerlos más accesibles a través de un catálogo de datos como parte del centro en línea centralizado.
+
+3.15 DSIT es responsable de establecer las condiciones para hacer que los datos sean adecuadamente utilizables, accesibles y disponibles en toda la economía. CDDO está trabajando con DSIT para investigar cómo el mercado de datos que está desarrollando podría expandirse. Esto es para hacer que más datos del sector público estén disponibles más allá del gobierno para apoyar la investigación y la innovación y mejorar los servicios públicos, mientras se protegen los derechos de datos de las personas y la propiedad intelectual de las empresas privadas.Uso de inteligencia artificial en el gobierno 
+Parte Tres 
+37 
+Estándares y aseguramiento 
+3.16 Junto con el potencial de beneficio público, la IA también trae consigo una serie de riesgos 
+que deben abordarse. Estos riesgos se establecen en el documento blanco del gobierno 
+Un enfoque pro-innovación para la regulación de la IA, y incluyen riesgos para la equidad, seguridad, 
+derechos humanos, seguridad, privacidad y bienestar social. Estos riesgos deben gestionarse 
+eficazmente para apoyar la adopción de la IA y mantener la confianza pública (identificada como una barrera 
+para la adopción de la IA por el 43% de los 87 cuerpos que respondieron a nuestra encuesta).
+3.17 En nuestra encuesta, encontramos que los organismos gubernamentales identificaron una serie de riesgos de la IA 
+como barreras para implementar la IA en sus organizaciones. Estos incluyeron riesgos legales, 
+como la falta de comprensión o claridad sobre la responsabilidad legal (67% de los 87 cuerpos que respondieron); 
+riesgos de salidas inexactas (por ejemplo, debido a la parcialidad, discriminación o desinformación) (57%); 
+y riesgos de seguridad, incluyendo riesgos para la privacidad, protección de datos y violaciones de seguridad cibernética (56%) (Figura 9 en la página siguiente). También mostró que había una clara apetencia de ayuda del centro del gobierno en estos asuntos. 
+Aproximadamente dos tercios de los encuestados sintieron que el apoyo del centro era muy importante para abordar los riesgos legales (70%) y los riesgos para la privacidad o protección de datos, o violaciones de seguridad cibernética (63%). Más de la mitad sintieron que el apoyo para abordar los riesgos para la precisión de las salidas (por ejemplo, debido a la parcialidad, discriminación y desinformación) era muy importante (56%) (Figura 10 en la página 39).
+Estándares 
+3.18 El gobierno establece estándares para promover la consistencia y proporcionar una base para la gestión de riesgos, aseguramiento y mejora continua. CDDO es responsable de los estándares transgubernamentales para la digitalización, datos y tecnología, incluyendo:
+• El Estándar de Servicio, que establece estándares para cómo los organismos gubernamentales crean y ejecutan servicios digitales para el público; y
+• El Código de Práctica Tecnológica, que establece estándares para cómo los organismos gubernamentales diseñan, construyen y compran tecnología.
+Estos estándares incluyen requisitos para abordar los riesgos de seguridad, privacidad y protección de datos. El Código de Práctica Tecnológica también requiere que la nueva tecnología que implica toma de decisiones automatizadas cumpla con la guía ética sobre equidad, transparencia y responsabilidad.8
+8 Oficina del Gabinete y Departamento de Ciencia, Innovación y Tecnología, Marco de Ética, Transparencia y Responsabilidad para la Toma de Decisiones Automatizadas, acceso en febrero de 2024.38 Parte Tres Uso de inteligencia artificial en el gobierno
+Figura 9
+Barreras para implementar inteligencia artificial (IA), otoño de 2023
+Las habilidades, la financiación y las preocupaciones legales fueron las barreras más comúnmente identificadas para la implementación de IA por parte de los organismos gubernamentales que respondieron a nuestra encuesta.
+
+Barreras para implementar IA
+
+Notas:
+1. En el otoño de 2023, encuestamos a 89 organismos gubernamentales, incluyendo los departamentos gubernamentales principales y la mayoría de los organismos autónomos con gastos operativos anuales superiores a aproximadamente £83 millones. La tasa de respuesta fue del 98% (o 87 organismos). Véase el Apéndice Uno para más detalles.
+2. La pregunta relevante de la encuesta fue: "¿En qué medida está de acuerdo o en desacuerdo en que los siguientes son barreras para implementar casos de uso de IA en su organización?" (87 respondientes).
+3. Los organismos gubernamentales que respondieron "estoy muy de acuerdo" o "estoy de acuerdo" se combinaron y se informaron como "estoy de acuerdo". Los organismos gubernamentales que respondieron "estoy muy en desacuerdo" o "estoy en desacuerdo" se combinaron y se informaron como "estoy en desacuerdo".
+4. Las cifras pueden no sumar debido al redondeo.
+
+Fuente: Encuesta de la Oficina de Auditoría Nacional sobre el uso de inteligencia artificial en el gobierno.
+
+15233137404349565762677070
+24113717133033222517231523
+6166324647281722172110157
+02 04 06 08 01 00
+Demanda: Falta de demanda de líderes seniors
+Oportunidad: Ausencia de oportunidades claras para el uso de IA
+Adquisición: Dificultades para adquirir servicios y/o sistemas de IA
+Conocimiento: Falta de conciencia sobre oportunidades claras para el uso de IA
+Infraestructura: Infraestructura digital no suficiente para el uso de IA
+Confianza: Falta de confianza pública en IA
+Guía: Falta de orientación para apoyar el desarrollo o implementación de IA
+Seguridad: Riesgo de violaciones de privacidad/protección de datos y seguridad cibernética
+Exactitud: Riesgo de salidas inexactas o no confiables
+Datos: Falta de datos disponibles y/o de buena calidad
+Legal: Falta de comprensión/clarity sobre la responsabilidad legal para los casos de uso de IA
+Financiamiento: Falta de financiamiento para el desarrollo y/o implementación de IA
+Habilidades: Dificultades para reclutar o retener personal con habilidades en IA
+
+Organismos gubernamentales (%)
+Estoy de acuerdo Ni estoy de acuerdo ni en desacuerdo Estoy en desacuerdoUso de inteligencia artificial en el gobierno  Parte Tres  39 
+2639395156636367677074
+6241433839303432293025
+112018115721501
+02 04 06 08 01 00Adquisición de servicios y/o sistemas de IABuilding infraestructura para IAEncouraging demand from senior leadersMejora del acceso y calidad de datosGestión de riesgos para la precisión o confiabilidad de salidasFinanciamiento para el desarrollo de IAGestión de riesgos de privacidad/protección de datos y violaciones de seguridad cibernéticaDesarrollo de habilidades en IAFomento de la confianza pública en IAFomento de la comprensión de consideraciones legales, incluyendo responsabilidad legalCompartir conocimientos y aprendizaje sobre el uso de IA en todo el gobiernoFigura 10
+Importancia del apoyo desde el centro del gobierno para la adopción de inteligencia artificial (IA), otoño 2023  
+El apoyo desde el centro del gobierno para compartir conocimientos fue identificado como muy importante por el 74% de los organismos gubernamentales que respondieron a nuestra encuesta
+Apoyo desde el centro del gobierno
+Notas
+1 En otoño de 2023, encuestamos a 89 organismos gubernamentales, incluyendo los departamentos gubernamentales principales y la mayoría de los organismos autónomos con gasto operativo anual superior a aproximadamente £83 millones. La tasa de respuesta fue del 98% (o 87 cuerpos). Vea el Apéndice Uno para más detalles.
+2 La pregunta relevante de la encuesta fue, "Al pensar en las oportunidades futuras para el uso de IA en su organización, ¿cuán importante es el apoyo desde el centro del gobierno en lo siguiente?" (87 respondientes).
+3 Las cifras pueden no sumar debido al redondeo.
+Fuente: Encuesta de la Oficina Nacional de Auditoría sobre el uso de inteligencia artificial en el gobiernoCuerpos gubernamentales (%)
+Muy importante Algo importante No importante40 Parte Tres Uso de inteligencia artificial en el gobierno
+
+3.19 DSIT lidera la estrategia y el compromiso del gobierno en cuanto a estándares técnicos digitales globales. Estos son acuerdos voluntarios sobre estándares técnicos que se utilizan para promover métodos, procesos y prácticas consistentes. DSIT nos dijo que hay oportunidades para trabajar de manera más colaborativa en todo el gobierno para asegurar que los estándares del gobierno para la IA tengan en cuenta los estándares globales a medida que se desarrollan. Por ejemplo, DSIT está desarrollando una herramienta de autoevaluación para apoyar a las organizaciones del sector privado a implementar prácticas de IA éticas y responsables, que se basará en un estándar internacional para sistemas de gestión de IA (párrafo 3.27).
+
+3.20 El Estándar de Registro de Transparencia Algorítmica (ATRS), desarrollado para apoyar a los organismos del sector público a mejorar la transparencia y proporcionar información sobre las herramientas algorítmicas que están utilizando, no se utiliza ampliamente. El enfoque, desarrollado en 2021 por DSIT en colaboración con CDDO, fue validado como estándar del gobierno en septiembre de 2022 y el gobierno fomenta su uso. El estándar está destinado a ser utilizado cuando un algoritmo tiene una influencia significativa en un proceso de toma de decisiones con efecto público directo o indirecto o cuando interactúa directamente con el público. Ocho de 32 organizaciones que respondieron a nuestra encuesta y habían desplegado IA dijeron que siempre o usualmente cumplían con el estándar (Figura 11). En febrero de 2024, DSIT anunció que tiene la intención de hacer que el ATRS sea un requisito obligatorio para todos los departamentos del gobierno durante 2024 y expandir su uso al sector público más amplio con el tiempo.
+
+Orientación
+3.21 Encontramos en nuestras respuestas de la encuesta que la mitad de los organismos gubernamentales (49%) identificó la falta de orientación para apoyar el desarrollo o implementación de la IA como una barrera. Algunos organismos gubernamentales que entrevistamos describieron encontrar difícil navegar la gama de orientación disponible y no estar claros sobre dónde ir para obtener una visión definitiva de lo que necesitan considerar. Los organismos gubernamentales necesitan orientación oportuna y clara para minimizar la duplicación de esfuerzos y asegurarse de que tienen el apoyo que necesitan para aprovechar las oportunidades de la IA, mientras mitigaban los riesgos.Uso de inteligencia artificial en el gobierno  Parte Tres  41 
+
+Total
+Número de organismos 
+con IA desplegada4 
+(13%)4 
+(13%)11 
+(34%)1 
+(3%)12 
+(38%)32 
+(100%)
+
+Notas
+1 El Estándar de Registro de Transparencia Algorítmica se desarrolló para apoyar a los organismos del sector público a mejorar la transparencia y proporcionar información sobre las herramientas algorítmicas que están utilizando.
+2 En otoño de 2023, encuestamos a 89 organismos gubernamentales, incluyendo los departamentos gubernamentales principales y la mayoría de los organismos con autonomía con gastos operativos anuales superiores a aproximadamente £83 millones. La tasa de respuesta fue del 98% (o 87 organismos). Consulte el Apéndice Uno para más detalles.
+3 La pregunta relevante de la encuesta fue, "¿En qué medida los casos de uso de IA desplegados en su organización son compatibles con el Estándar de Registro de Transparencia Algorítmica?" (32 respondientes).
+4 Las cifras pueden no sumar debido al redondeo.
+Fuente: Encuesta de la Oficina de Auditoría Nacional sobre el uso de inteligencia artificial en el gobiernoFigura 11
+Cumplimiento del Estándar de Registro de Transparencia Algorítmica, otoño de 2023
+Ocho de 32 organismos gubernamentales con inteligencia artificial (IA) desplegada dijeron que siempre o usualmente cumplían con el Estándar de Registro de Transparencia Algorítmica
+Organismos gubernamentales con IA desplegada (%)
+Cumplimiento del Estándar de Transparencia Algorítmica0510152025303540
+Siempre Usualmente A veces Rara vez Nunca13 133438Tercera parte  Uso de inteligencia artificial en el gobierno
+
+3.22 La CDDO es responsable de brindar orientación a los organismos gubernamentales sobre temas digitales, datos y tecnología. Publicó una guía en enero de 2024 sobre el uso de inteligencia artificial generativa en el gobierno (que no había sido publicada en el momento de nuestra encuesta). La guía establece 10 principios para el uso seguro, responsable y efectivo de la inteligencia artificial generativa y ofrece recomendaciones prácticas para las organizaciones.10 La CDDO tiene planes para ampliar esto y publicar una guía más amplia sobre el uso de la IA en el gobierno para el verano de 2024 para apoyar al sector público a utilizar la IA de manera segura y responsable. También está llevando a cabo una revisión de la guía de ética de datos disponible para identificar brechas, mejorar el acceso y brindar un mejor apoyo a los usuarios. En noviembre de 2023, el Centro Nacional de Seguridad Cibernética, junto con socios internacionales, publicó directrices para el desarrollo seguro de sistemas de IA.11
+
+3.23 La Función de Análisis del Gobierno está revisando su guía para tener en cuenta la IA. Para el otoño de 2024, tiene como objetivo publicar un libro de agua revisado (su guía sobre la producción de análisis de calidad), que incluirá actualizaciones para asegurarse de que sea relevante para la IA. También planea desarrollar una guía separada sobre el uso de la IA en el análisis.
+
+Garantía
+3.24 Una vez establecidos los estándares, los procesos de garantía ayudan a asegurar que se cumplan los requisitos. Nuestros informes pasados sobre evaluación y garantía de la calidad de los modelos han destacado cómo las debilidades en la supervisión y garantía de los requisitos habían contribuido a la variación en el rendimiento en los departamentos.12
+
+3.25 La CDDO es responsable de la supervisión y garantía del gasto digital y tecnológico en todo el gobierno. Como parte de estos controles, los departamentos deben cumplir con el Código de Práctica Tecnológica, como se establece en el párrafo 3.18. La CDDO está desarrollando sus controles de gasto digital y tecnológico para mejorar cómo identifica los casos de uso de IA de alto riesgo para asegurarse de que estos casos reciban la debida atención. Está probando un nuevo proceso, que espera implementar en todo el gobierno durante 2024. Esto busca mejorar cómo la CDDO identifica el gasto digital y tecnológico que tiene un componente de IA sustancial o de alto riesgo (por ejemplo, tecnología que utiliza la IA como parte significativa de la toma de decisiones, o requiere capacitación con datos gubernamentales) para informar su evaluación de riesgos.Uso de inteligencia artificial en el gobierno 
+Parte Tres 
+43 
+3.26 Incorporar garantías en la compra pública de IA es otra forma de mitigar los riesgos de IA. De los casos de uso de IA actualmente desplegados por los organismos gubernamentales que respondieron a nuestra encuesta, el 39% (29 casos de uso) se desarrollaron en colaboración con proveedores comerciales o socios del sector no público, mientras que un 7% adicional (cinco casos de uso) se adquirieron comercialmente "fuera de la estantería". En 2020, el Servicio Comercial de la Corona lanzó un Sistema de Compra Dinámica de Inteligencia Artificial (AI DPS) para apoyar la compra de IA. El AI DPS incluye algunas medidas de garantía básicas, como acuerdos contractuales estándar sobre protección de datos y derechos de propiedad intelectual, y compromisos de los proveedores con estándares éticos y directrices cuando sea requerido por el comprador. Se brinda orientación a los compradores que utilizan el DPS sobre la inclusión de preguntas de screening ético en documentos de licitación, como preguntas relacionadas con la equidad, el sesgo y la explicabilidad.
+
+3.27 CDDO y DSIT están explorando formas de incorporar aún más la garantía de IA en los marcos de compra pública. DSIT está desarrollando una herramienta de autoevaluación para apoyar a las organizaciones del sector privado a incorporar prácticas de IA éticas y responsables. El objetivo de DSIT es incluir esta herramienta en los marcos de compra pública para crear un requisito básico para los proveedores de productos y servicios de IA del gobierno. CDDO también está considerando cómo apoyar mejor a los organismos del sector público para asegurar técnicamente los productos de IA que han adquirido.
+
+3.28 Los organismos gubernamentales están en una etapa temprana de adopción de IA y todavía están desarrollando sus procesos de garantía. Casi la mitad de los 32 organismos con casos de uso de IA desplegados que respondieron a nuestra encuesta no mantenían un registro de casos de uso de IA en vivo (15 organismos), lo que puede reflejar los bajos niveles de IA actualmente desplegados en cada organismo (típicamente uno o dos casos de uso). Solo el 30% de todos los 87 encuestados informó que tenían procesos de riesgo y garantía de calidad que incorporaban explícitamente los riesgos de IA, aunque un 46% adicional tenía planes para implementarlos (Figura 12 en las páginas 44 y 45).
+
+Habilidades
+3.29 El gobierno reconoce la necesidad de atraer y retener la capacidad digital para apoyar la adopción de IA. Se han anunciado una serie de iniciativas con el objetivo de mejorar las habilidades de la fuerza laboral existente y construir conocimientos y capacidad. Por ejemplo, Una Gran Cosa (una iniciativa anual de aprendizaje y desarrollo para funcionarios para tomar medidas compartidas en torno a una prioridad) seleccionó mejorar las habilidades de datos y la confianza en toda la función pública como su enfoque en 2023.44 Parte Tres Uso de inteligencia artificial en el gobierno
+
+Total
+Con IA desplegada 15 (17%) 12 (14%) 2 (2%) 3 (3%) 32 (37%)
+Con IA pilotada o planificada pero ninguna desplegada 9 (10%) 18 (21%) 4 (5%) 1 (1%) 32 (37%)
+Sin IA 2 (2%) 10 (11%) 11 (13%) 0 (0%) 23 (26%)
+Total 26 (30%) 40 (46%) 17 (20%) 4 (5%) 87 (100%)
+
+Figura 12
+Inteligencia artificial (IA) y procesos de aseguramiento de riesgos y calidad, otoño de 2023
+Los organismos gubernamentales se encuentran en una etapa temprana de desarrollo de procesos de aseguramiento para IA
+
+05101520253035404550
+Sí, hay procesos de 
+aseguramiento de 
+riesgos y calidad 
+para IANo, pero hay 
+planes para 
+desarrollarlosNo, no hay 
+planesOtros2111
+14102
+17
+5113
+23Cuerpos gubernamentales (%)
+¿Hay un proceso de aseguramiento de riesgos y calidad específico para IA?Uso de inteligencia artificial en el gobierno  Parte Tres  45 
+
+3.30 Nuestros encuestados informaron dificultades para reclutar o retener personal con habilidades en IA como uno de los obstáculos más comunes (identificado por el 70% de 87 encuestados) para la adopción de IA. Las personas con habilidades digitales tienen un valor premium en el mercado. Nuestro informe de 2023 sobre Transformación digital en el gobierno encontró que los niveles salariales en el sector público no atraen el talento requerido para la escala de transformación necesaria en el Reino Unido.13 En abril de 2022, había 3,900 vacantes digitales, de datos y tecnología, lo que aumentó un 7% a 4,100 en octubre de 2022. El informe concluyó que el gobierno puede necesitar revisar qué actividades podría lograr realistamente si las escasez de habilidades persisten. La CDDO ha establecido su progreso contra compromisos para impulsar habilidades digitales y de datos en la actualización de septiembre de 2023 de su hoja de ruta para digital y datos 2022-2025.14
+
+13 Contralor y Auditor General, Transformación digital en el gobierno: abordar los obstáculos para la eficiencia, Sesión 2022-23, HC 1171, Oficina Nacional de Auditoría, marzo de 2023.
+
+14 Oficina Central de Digital y Datos, Transformando para un futuro digital: hoja de ruta para digital y datos 2022-2025 – actualizada septiembre 2023, accedido febrero 2024.
+
+Notas
+1 En otoño de 2023, encuestamos a 89 organismos gubernamentales, incluyendo los departamentos gubernamentales principales y la mayoría de los cuerpos con gasto operativo anual de aproximadamente £83 millones. La tasa de respuesta fue del 98% (o 87 cuerpos). Vea el Apéndice Uno para más detalles.
+
+2 La pregunta relevante de la encuesta fue, "¿Tiene su organización procesos de aseguramiento de riesgos y calidad para mitigar los riesgos asociados con el uso de IA?" (87 encuestados), con las siguientes opciones de respuesta.
+
+• Sí, hay procesos de aseguramiento de riesgos y calidad para IA: "Sí, hay un proceso de aseguramiento de riesgos y calidad específico para IA", o "Sí, los riesgos de IA se identifican y manejan explícitamente dentro de los procesos de aseguramiento de riesgos y calidad existentes (por ejemplo, evaluaciones de impacto de protección de datos, evaluaciones de impacto de igualdad, registros de riesgos digitales)".
+• No, pero hay planes para desarrollarlos: "No, pero hay planes para incorporar riesgos de IA en nuestros procesos de aseguramiento de riesgos y calidad".
+• No, no hay planes: "No, y no hay planes para incorporar riesgos de IA en nuestros procesos de aseguramiento de riesgos y calidad".
+• Otro: "Otro (por favor, especifique)".
+
+3 Los encuestados se agruparon según su respuesta a la pregunta de la encuesta, "¿Cómo describiría la implementación de IA en su organización?" como sigue:
+• Con IA desplegada: aquellos que respondieron, "Al menos un caso de uso de IA está completamente desplegado".
+• Con IA piloteada o planificada sin desplegar: aquellos que respondieron, "No hay casos de uso de IA completamente desplegados, pero al menos un piloto está en progreso o completo", o "No hay casos de uso de IA completamente desplegados o en piloto, pero se ha iniciado la planificación para al menos un caso de uso de IA".
+• Sin IA: aquellos que respondieron, "No hay planes aún para ningún caso de uso de IA, pero se están explorando oportunidades" o "No hay planes aún para ningún caso de uso de IA".
+
+4 Las cifras pueden no sumar debido al redondeo.
+Fuente: Encuesta de la Oficina Nacional de Auditoría sobre el uso de inteligencia artificial en el gobierno Figura 12 continuada
+Procesos de aseguramiento de riesgos y calidad de inteligencia artificial, otoño de 202346 Parte Tres Uso de inteligencia artificial en el gobierno
+
+3.31 La CDDO reconoce que la falta de habilidades es un desafío importante para la adopción exitosa de la IA, destacando que hay una capacidad limitada dentro del sistema para explotar y escalar las oportunidades presentadas por la IA. Se ha establecido la i.AI para impulsar las habilidades técnicas y la experiencia en IA y también tiene un papel que jugar en la capacitación del servicio civil más amplio. La i.AI está reclutando un equipo central con experiencia técnica en IA, utilizando excepciones salariales caso por caso para ofrecer salarios por encima de los niveles típicamente pagados a profesionales digitales y de datos en el servicio civil. Sin embargo, las carencias de habilidades más amplias establecidas en nuestro informe de 2023 indican que abordar la cuestión de las habilidades sigue siendo un desafío. Una forma en que los organismos gubernamentales abordan esta carencia de habilidades es mediante el uso de contratistas, trabajadores de agencia y personal temporal, con estimaciones de otoño de 2023 que indican que aproximadamente un tercio de los profesionales digitales y de datos en el servicio civil se componen de estos grupos. El gobierno se ha comprometido a reducir la dependencia del servicio civil de la mano de obra contingente de este tipo para reducir costos y crecer la capacidad a largo plazo.
+
+3.32 La CDDO ha identificado habilidades relacionadas con la IA con cobertura limitada en el Marco de Capacidad de la Profesión Digital y de Datos del Gobierno, que establece las habilidades requeridas para roles digitales, de datos y tecnológicos en todo el gobierno. Está trabajando para actualizar el marco de capacidad, incluyendo trabajar con la Función de Análisis del Gobierno para actualizar el papel de científico de datos. En la estrategia de adopción de IA para el sector público, la CDDO ha establecido planes para construir habilidades de IA, incluyendo el establecimiento de un programa de desarrollo de IA para especialistas en IA en el sector público para abril de 2024; la implementación de capacitación en conciencia sobre IA para todos los funcionarios civiles para finales de 2024; y la capacitación de un 90 por ciento de los funcionarios civiles superiores en el uso de la IA para abril de 2025.Uso de inteligencia artificial en el gobierno 
+Apéndice Uno 
+47 
+Apéndice Uno
+Nuestro enfoque de auditoría
+Nuestro alcance
+1 Este informe considera cómo el gobierno se prepara para maximizar las oportunidades y mitigar los riesgos de la inteligencia artificial (IA) en la provisión de servicios públicos. Nuestro enfoque principal para este informe son los organismos gubernamentales, y en particular el papel de la Oficina del Gabinete y el Departamento de Ciencia, Innovación y Tecnología (DSIT) en el apoyo a la adopción de IA en el sector público. 
+Específicamente, el informe examina:
+• la estrategia y gobernanza del gobierno para el uso de IA en servicios públicos;
+• cómo los organismos gubernamentales están utilizando IA y cómo el gobierno entiende las oportunidades; y
+• los planes del gobierno central para apoyar la prueba, pilotaje y escalada de IA; 
+y el progreso en la dirección de las barreras para la adopción de IA.
+2 Para los fines de este informe, definimos IA como sistemas informáticos que utilizan alguna forma de aprendizaje automático para tareas. Con esto, nos referimos a IA que aprende de los datos cómo realizar tareas en lugar de ser programados explícitamente. Ejemplos incluyen IA que utiliza aprendizaje automático para el procesamiento del lenguaje, análisis predictivos y reconocimiento de imágenes o voz. Excluimos la automatización basada en reglas simples y el uso de IA incrustada en herramientas preexistentes proporcionadas por defecto (por ejemplo, filtros de correo electrónico spam automáticos o respuestas inteligentes de correo electrónico). También no capturamos el uso ad hoc de IA disponible públicamente por parte de los empleados de los organismos gubernamentales.
+3 En este informe no examinamos la regulación de IA en la economía más amplia ni cómo el despliegue de IA puede cambiar las demandas de los servicios públicos.
+4 Al formar nuestras conclusiones, nos basamos en una variedad de métodos de estudio y fuentes de evidencia, como se describe en los párrafos a continuación. Recopilamos y analizamos la evidencia que obtuvimos y la evaluamos en función de nuestras preguntas de auditoría y criterios evaluativos.Apendice Uno  Uso de inteligencia artificial en el gobierno
+Nuestra base de evidencia
+Discusiones de alcance con partes interesadas
+5 Mientras diseñábamos el estudio, celebramos reuniones de alcance con una variedad de partes interesadas para ayudar a refinar nuestro alcance y informar nuestra metodología. Las discusiones tuvieron lugar entre febrero y junio de 2023 e incluyeron reuniones con otras instituciones de auditoría, consultores tecnológicos y organismos gubernamentales, como la Oficina de Estadísticas Nacionales (ONS) Campus de Ciencia de Datos y el Centro Nacional de Ciberseguridad. También hablamos con el Dr. Jonathan Bright, Jefe de IA para Servicios Públicos y Jefe de Seguridad en Línea en el Instituto Alan Turing, para aprovechar perspectivas expertas sobre el desarrollo y uso de la IA en el gobierno.
+
+Trabajo de campo
+6 El trabajo de campo tuvo lugar entre septiembre de 2023 y febrero de 2024, e involucró entrevistas con departamentos gubernamentales y partes interesadas más amplias, revisión de documentos, estudios de caso y una encuesta a organismos gubernamentales.
+
+Entrevistas
+7 Realizamos entrevistas semiestructuradas con una variedad de partes interesadas. Las entrevistas típicamente duraron una hora, y se tomaron notas detalladas. Se proporciona más información sobre el rango de entrevistas realizadas a continuación.
+
+Departamentos gubernamentales
+8 Realizamos 14 entrevistas con representantes de la Oficina Digital y de Datos Centrales (CDDO), DSIT y el Incubador de Inteligencia Artificial (i.AI) para informar nuestra auditoría. Las entrevistas incluyeron discusiones sobre:
+• roles y responsabilidades;
+• estrategia y gobernanza de IA;
+• gestión de riesgos y ética;
+• acceso y calidad de datos;
+• estándares, orientación y aseguramiento de IA;
+• análisis de oportunidades de IA; y
+• habilidades y capacidad de IA.Uso de inteligencia artificial en el gobierno Apéndice Uno 49
+
+9 Realizamos ocho entrevistas con representantes de otros organismos gubernamentales para discutir aspectos de la adopción de IA en el sector público. Estos incluyeron:
+• El Servicio Comercial de la Corona para discutir la adquisición de IA;
+• El Departamento para Nivelar, Vivienda y Comunidades; el Departamento de Transporte y Ofgem para discutir sus experiencias de adopción de IA;
+• La Función de Análisis del Gobierno para discutir su papel en el apoyo a la adopción de IA;
+• El Departamento Jurídico del Gobierno sobre su papel en la provisión de asesoramiento jurídico en materia de IA;
+• La Oficina del Comisionado de Información sobre su trabajo en IA y protección de datos; y
+• Innovación y Investigación del Reino Unido para discutir su programa de trabajo de IA.
+
+Entrevistas con partes interesadas más amplias
+10 Realizamos cinco entrevistas con partes interesadas tecnológicas más amplias para explorar sus perspectivas sobre el uso de IA en el gobierno. Estas entrevistas se centraron en sus perspectivas sobre las barreras para la adopción de IA en el gobierno y cómo podrían abordarse.
+
+Enfoque de análisis
+11 Analizamos los datos de las entrevistas de manera temática y utilizamos los datos para informar nuestros hallazgos de auditoría y triangulamos la evidencia de otras fuentes, incluyendo nuestra encuesta sobre el uso de IA en el gobierno, estudios de caso y revisión de documentos.
+
+Estudios de caso departamentales
+12 Realizamos cuatro estudios de caso con organismos gubernamentales que han desplegado casos de uso de IA, para entender su enfoque y explorar sus perspectivas sobre las oportunidades de IA y las barreras para la adopción.
+
+Enfoque de muestreo
+13 Los cuatro estudios de caso se seleccionaron porque estos organismos habían experimentado la implementación o pilotaje de casos de uso de IA y podrían ofrecer insights sobre cómo habían experimentado barreras para el uso de IA. En el caso del Laboratorio de IA del NHS, se seleccionó debido a su papel en el apoyo a la adopción de IA en todo el NHS y las perspectivas que podría ofrecer sobre este papel. Dibujamos insights de datos públicamente disponibles y informes de la Agencia de Auditoría Interna del Gobierno para ayudar a seleccionar nuestros estudios de caso. Los cuatro estudios de caso fueron:
+• Departamento de Trabajo y Pensiones;
+• Ministerio de Justicia;
+• Inglaterra Natural; y
+• Laboratorio de IA del NHS.50 Apéndice Uno Uso de inteligencia artificial en el gobierno
+
+Trabajo de campo
+
+14 Realizamos 15 entrevistas en los cuatro estudios de caso. Estas incluyeron 
+entrevistas con personal sobre los siguientes temas:
+• Estrategia de IA, gobernanza y gestión de riesgos;
+• Casos de uso de IA planificados y desplegados;
+• Perspectivas sobre las barreras para el uso de IA en el sector público; y
+• Perspectivas sobre el apoyo transgubernamental para el uso de IA.
+
+También revisamos documentos de los organismos de estudio de caso relacionados con 
+los acuerdos de gobernanza y programas de trabajo.
+
+Análisis
+
+15 Analizamos los datos de los estudios de caso de manera temática y los utilizamos 
+para informar nuestros hallazgos de auditoría y triangulamos la evidencia de otras 
+fuentes, incluyendo entrevistas y nuestra encuesta.
+
+Limitaciones de nuestros estudios de caso
+
+16 Los estudios de caso tienen fines ilustrativos solo y no fueron seleccionados 
+para ser representativos de todos los organismos gubernamentales. Fueron diseñados 
+para ser relativamente ligeras en naturaleza para capturar las opiniones y 
+experiencias de pilotaje y despliegue de IA, y no involucraron auditorías de 
+casos de uso de IA individuales.
+
+Revisión de documentos
+
+17 Revisamos una variedad de documentos publicados y no publicados del Gabinete 
+y del Departamento de Ciencia, Innovación y Tecnología (DSIT), incluyendo 
+documentos relacionados con:
+• estrategia y gobernanza;
+• adquisición de IA;
+• análisis de oportunidades de IA;
+• orientación de IA;
+• planes de adopción de IA; y
+• estándares y aseguramiento.
+
+Encuesta sobre el uso de IA en el gobierno
+
+18 Realizamos una encuesta a los departamentos gubernamentales y organismos 
+autónomos para capturar una instantánea del uso de IA en el gobierno, y para 
+identificar las barreras para el uso de IA y qué apoyo desean los organismos 
+gubernamentales del centro del gobierno. La encuesta preguntó sobre:
+• Casos de uso de IA actualmente desplegados;
+• Casos de uso de IA que se están pilotando o planificando;
+• Gobernanza y gestión de riesgos del uso de IA; y
+• Barreras para el uso de IA y necesidades de apoyo futuro.Uso de inteligencia artificial en el gobierno Apéndice Uno 51 
+Enfoque de muestreo
+19 Encuestamos a 89 organismos gubernamentales, incluyendo los ministerios principales y no ministeriales, y 52 organismos autónomos (Figura 13). Nos basamos en el conjunto de datos de Organismos Públicos 2020 de la Oficina del Gabinete para identificar nuestra muestra de organismos autónomos, y actualizamos esta lista según una lista revisada proporcionada por la Oficina del Gabinete para tener en cuenta los organismos autónomos que habían cerrado o abierto desde que se publicó la lista.16
+20 Nuestra muestra cubrió un grupo amplio de organismos gubernamentales con algunas exclusiones para hacer que la encuesta fuera práctica de administrar. La muestra incluyó 17 de los 24 ministerios y todos los 20 departamentos no ministeriales.17
+21 Nuestra muestra de 52 organismos autónomos representó aproximadamente el 98% del gasto operativo de los organismos autónomos según se establece en el conjunto de datos de Organismos Públicos 2020. Incluimos organismos autónomos con:
+• gasto operativo anual de aproximadamente £83 millones o más;
+• gasto operativo anual por debajo de £83 millones, pero con niveles de gasto administrado anualmente por encima de ese umbral; o
+• altos niveles de fondos o subvenciones bajo gestión.
+22 Excluimos organismos autónomos que:
+• habían cerrado desde la publicación del conjunto de datos de Organismos Públicos 2020;
+• no podrían responder nuestra encuesta por razones de seguridad nacional; o
+• no habían estado en operación durante un año completo a partir del otoño de 2023.
+16 Oficina del Gabinete, Organismos Públicos 2020, julio de 2021, accedido en febrero de 2024.
+17 La muestra no incluyó la Oficina de Irlanda del Norte, la Oficina del Secretario de Estado para Escocia, la Oficina del Secretario de Estado para Gales, la Oficina del Abogado General para Escocia, la Oficina del Líder de la Cámara de los Comunes, la Oficina del Líder de la Cámara de los Lores y la Oficina del Fiscal General.Figura 13
+Organismos gubernamentales muestreados para la encuesta de la Oficina Nacional de Auditoría sobre inteligencia artificial en el gobierno, otoño de 2023
+Encuestamos a 89 organismos gubernamentales
+Tipo de organismo gubernamental Número en la muestra de la encuesta
+Ministerios 17
+Departamentos no ministeriales 20
+Organismos autónomos (agencias ejecutivas, organismos públicos no departamentales) 52
+Total 89
+Fuente: Documentación de la Oficina Nacional de AuditoríaApéndice Uno  Uso de inteligencia artificial en el gobierno
+
+23 En cada organismo encuestado, pedimos que la encuesta fuera completada por alguien con la autoridad para responder a la encuesta en nombre de la organización. Sugirimos que esto podría ser el Director Digital y Oficial de Información (CDIO) o alguien en un papel equivalente, pero las organizaciones eran libres de determinar quién estaba mejor ubicado para completar la encuesta en su nombre.
+
+Enfoque de la encuesta
+24 La encuesta se realizó en línea y fue administrada por la Oficina de Auditoría Nacional (NAO) utilizando software de encuesta de terceros. La encuesta se pilotó con dos organismos gubernamentales en septiembre de 2023 para probar las preguntas de la encuesta y el software. La encuesta también se compartió con el Instituto Alan Turing, el Campus de Ciencia de Datos de la Oficina de Estadísticas Nacionales (ONS) y la Agencia de Auditoría Interna del Gobierno para comentarios sobre definiciones y claridad y cobertura de preguntas.
+
+25 Se recibieron respuestas entre el 3 de octubre y el 19 de diciembre de 2023, con la mayoría de las respuestas recibidas entre el 2 de octubre y el 31 de octubre de 2023. La encuesta fue completada por 87 de 89 organismos gubernamentales encuestados, una tasa de respuesta del 98%.
+
+Presentación de los resultados de la encuesta
+26 Para simplificar algunos gráficos, algunos grupos se combinaron y se informaron de manera agregada. Por ejemplo, los organismos gubernamentales que informaron que habían pilotado o planeado casos de uso de IA se informan juntos en algunas instancias. Cuando sea el caso, hemos incluido una nota en la figura.
+
+27 Revisamos las respuestas de texto abierto donde se seleccionó "otro, por favor especifique" por parte del organismo gubernamental en respuesta a preguntas de la encuesta. Cuando fue apropiado, recodificamos respuestas que se ajustaban a categorías existentes. Esta recodificación fue asegurada por un revisor de la NAO independiente del equipo de estudio.
+
+Limitaciones de la encuesta
+28 Los resultados de la encuesta fueron autoinformados, y no se realizó verificación independiente de las respuestas. Los resultados son una instantánea del uso de IA en el otoño de 2023 y no capturan la actividad en departamentos gubernamentales desde entonces.
+
+29 Pedimos detalles individuales sobre casos de uso de IA desplegados, pero información más agregada sobre casos de uso en prueba y planificados. Por ejemplo, para entender cuántos casos de uso de IA estaban siendo pilotados y planificados, pedimos a los encuestados que proporcionaran un número aproximado. Esto significa que los volúmenes de casos de uso planificados y pilotados informados en la encuesta son aproximados y no exactos.
+
+30 La encuesta no es un censo de todos los organismos gubernamentales y no debe interpretarse como tal. En particular, los cuerpos menores a distancia no fueron incluidos en la muestra, y se debe tener cuidado al generalizar los resultados de la encuesta, especialmente en relación con los organismos gubernamentales menores.
+
+31 La encuesta no cubre el uso de IA en el sector público más amplio, incluyendo el uso en el Servicio Nacional de Salud, autoridades locales o escuelas.Este informe ha sido impreso en Pro Digital Silk y contiene material procedente de bosques gestionados de manera responsable y sostenible certificados de acuerdo con el FSC (Consejo de Manejo Forestal). La pulpa de madera es completamente reciclable y libre de ácido. Nuestras impresoras también tienen la acreditación ambiental ISO 14001, lo que garantiza que tengan procedimientos efectivos en lugar para gestionar residuos y prácticas que puedan afectar el medio ambiente.Ha llegado al final de este documento
+Diseño y Producción por Equipo de Comunicaciones NAO
+Ref. DP: 012429-001
+£10.00
+ISBN: 978-1-78604-542-3

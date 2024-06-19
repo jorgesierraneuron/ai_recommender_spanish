@@ -1,0 +1,683 @@
+INTELIGENCIA ARTIFICIAL
+59 Ejemplos de Inteligencia Artificial
+Revolutionando Negocios a Través de
+Industrias
+Desde asistentes virtuales inteligentes y
+coches autónomos hasta tiendas de comestibles sin caja registradora,
+aquí hay ejemplos de cómo la IA innova industrias.
+Escrito por
+Sam Daley
+Imagen: Shutterstock
+ACTUALIZADO POR
+Rose Velázquez
+ | 17 de mayo de 2024
+La IA está en auge. Mientras que existen
+legítimas inquietudes sobre la tecnología en rápido avance,
+también hay numerosos ejemplos de inteligencia artificial que demuestran que está
+dando forma al futuro
+para mejor.
+Robots de manufactura
+Coches autónomos
+Asistentes inteligentes
+Gestión de atención médica
+Inversión financiera automatizada
+Agente de reserva de viajes virtual
+Monitoreo de redes sociales
+Chatbots de marketing
+La IA ya ha tenido un impacto positivo en una amplia gama de industrias. Puede
+automatizar procesos
+para liberar a los empleados de trabajo innecesario, ofrecer opciones de aprendizaje personalizado
+para estudiantes, permitir que las empresas de ciberseguridad desplieguen soluciones más rápidas y ayudar a las empresas de moda
+a diseñar ropa que se ajusta mejor.
+
+EJEMPLOS DE INTELIGENCIA ARTIFICIALropa para sus clientes. Incluso
+ChatGPT está aplicando
+aprendizaje profundo
+para detectar errores de codificación y
+producir respuestas escritas a preguntas.
+Y esto es solo el comienzo.
+Vamos a sumergirnos más profundamente en otros ejemplos de inteligencia artificial que demuestran aún más las diversas aplicaciones de la IA.
+
+Los robots impulsados por IA de hoy en día
+son capaces de resolver problemas y "pensar" en una capacidad limitada. Como resultado, la inteligencia artificial se encarga de realizar tareas cada vez más complejas. Desde trabajar en líneas de ensamblaje en Tesla hasta
+enseñar inglés a estudiantes japoneses,
+los ejemplos de IA en el campo de la robótica
+son abundantes.
+
+Ubicación:
+Louisville, Colorado
+AMP
+diseña, ingenia y manufactura sistemas robóticos para sitios de reciclaje. Debido a que los robots, que están impulsados por IA, pueden discernir rápidamente variaciones en materiales —como tipo de material, forma, textura, color y logotipos—, pueden digitalizar y procesar eficientemente cada objeto que pasa por una instalación de reciclaje, objetivo específico en cintas transportadoras según sea necesario.
+
+Ubicación:
+Bedford, Massachusetts
+iRobot
+es probablemente más conocido por desarrollar Roomba, la aspiradora inteligente que utiliza IA para escanear el tamaño de la habitación, identificar obstáculos y recordar las rutas más eficientes para limpiar. La Roomba autodesplegable también puede determinar cuánta limpieza hay que hacer según el tamaño de la habitación, y no necesita asistencia humana para limpiar los pisos.
+
+Robotica IA
+AMP
+Están contratando...
+
+|
+Ver 5 trabajos
+iRobot
+Están contratando...
+
+|
+Ver 1 trabajoUbicación:
+	Hong Kong, China
+Hanson Robotics
+está construyendo robots humanoides con inteligencia artificial para mercados comerciales y de consumo. El Sophia creado por Hanson es un robot de aprendizaje social increíblemente avanzado.
+A través de la IA, Sophia puede comunicarse de manera eficiente con lenguaje natural y utilizar expresiones faciales para transmitir emociones humanas similares.
+
+ARTÍCULO RELACIONADO
+35 empresas de robótica en la vanguardia de la innovación
+
+Ubicación:
+San Francisco, California
+Softbank Robotics
+desarrolló un robot humanoide conocido como Pepper, que está equipado con un "motor de emociones" que lo hace "capaz de reconocer caras y emociones humanas básicas". Con una altura de 4 pies, Pepper puede operar en más de una docena de idiomas y tiene una pantalla táctil adjunta para apoyar la comunicación. Softbank también desarrolló un robot bípedo llamado NAO, que se puede utilizar en entornos educativos y de investigación, así como una aspiradora autónoma llamada Whiz para manejar la limpieza comercial.
+
+Ubicación:
+Pasadena, California
+Miso Robotics
+construye asistentes de cocina robóticos. La empresa ha lanzado Flippy 2, la segunda generación de su robot equipado con IA que ayuda con la automatización de tareas de cocina como freír alimentos. La empresa también tiene su línea CookRight, con sistemas para monitorear la parrilla y la preparación de café. Además, Miso Robotics ha estado desarrollando un dispensador de bebidas que puede integrarse con el sistema de punto de venta de un establecimiento para simplificar y automatizar la preparación de pedidos de bebidas.
+
+Hanson Robotics
+Softbank Robotics
+Miso Robotics
+Están contratando...
+
+|
+Ver 15 trabajosSi alguna vez has pedido a Siri que te ayude a encontrar tus AirPods o has dicho a Amazon Alexa que apague las luces, entonces has interactuado con quizás una de las formas más comunes de inteligencia artificial que permea la vida cotidiana.
+
+La IA es la columna vertebral de los asistentes inteligentes, que pueden accederse a través de la mayoría de los teléfonos en el mercado hoy en día y también se están integrando en coches y dispositivos inteligentes para el hogar. A partir de 2022, más de 120 millones de adultos en EE. UU. utilizan un asistente inteligente al menos una vez al mes.
+
+Aquí hay algunas de las empresas que brindan a los consumidores asistentes inteligentes equipados con inteligencia artificial.
+
+Ubicación:
+Cupertino, California
+Siri, el asistente digital de Apple, ha estado disponible desde 2011, cuando se integró en el sistema operativo de la empresa como parte del lanzamiento del iPhone 4S. Apple lo describe como el "asistente digital más privado". Siri utiliza la IA para ayudar a los usuarios con cosas como establecer temporizadores y recordatorios, realizar llamadas telefónicas y completar búsquedas en línea.
+
+Ubicación:
+Redmond, Washington
+Microsoft se unió a la tendencia de los asistentes inteligentes en 2014 con el lanzamiento de Cortana para Windows Phone 8.1. Cortana ahora sirve como un "asistente de productividad personal" integrado en la suite de aplicaciones Microsoft 365. Por ejemplo, este asistente habilitado por IA tiene la capacidad de recordar a los usuarios de Microsoft sobre correos electrónicos que requieren seguimiento o de reconocer instrucciones de voz para unirse a una reunión a través de la aplicación Teams.
+
+IA y Asistentes Inteligentes
+Apple
+Están contratando...
+
+|
+Ver 981 trabajos
+Microsoft
+Están contratando...
+
+|
+Ver 389 trabajosUbicación:
+Suwon-Si, Corea del Sur
+Samsung
+presentó su asistente inteligente Bixby como parte del lanzamiento de sus modelos Galaxy S8 y S8+ en 2018. Funciona con comandos rápidos para abrir la cámara del teléfono o iniciar una lista de reproducción específica, pero Bixby también puede apagar luces a través de dispositivos inteligentes para el hogar o ayudar a localizar objetos como auriculares Bluetooth perdidos. Además de dispositivos portátiles como teléfonos y tabletas, Bixby también se puede acceder a través de ciertos electrodomésticos Samsung, como refrigeradores inteligentes.
+
+Ubicación:
+Santa Clara, California
+Las marcas pueden trabajar con
+SoundHound
+para desarrollar y personalizar asistentes inteligentes utilizando la plataforma de voz AI de la empresa. Netflix, Pandora y Mercedes-Benz se encuentran entre las empresas que han trabajado con SoundHound en soluciones habilitadas por voz. Basándose en su tecnología de Reconocimiento de Voz a Significado y Comprensión Profunda del Significado, SoundHound puede integrar reconocimiento de voz, inteligencia artificial conversacional y otros componentes en automóviles y dispositivos inteligentes para el hogar.
+
+Ubicación:
+Completamente Remoto
+Skillsoft
+es una empresa de edtech que produce software que las empresas utilizan para facilitar la capacitación y el desarrollo de habilidades de los empleados. Su simulador de conversación AI, conocido como CAISY, es una herramienta que permite a los usuarios practicar conversaciones empresariales y de liderazgo. Actúa como un entrenador que simula el otro lado de la conversación y brinda retroalimentación al usuario para guiar el desarrollo de sus habilidades conversacionales en various escenarios, como manejar una interacción de servicio al cliente difícil o comunicar una decisión sobre el lanzamiento de un producto.
+
+Samsung Electronics
+SoundHound
+Están contratando...
+
+|
+Ver 14 Trabajos
+SkillsoftUbicación:
+Chicago, Illinois
+Motorola Solutions
+ofrece productos de hardware y software que apoyan operaciones de seguridad y seguridad. La empresa construye tecnologías asistivas habilitadas por IA que informan la toma de decisiones humanas en entornos de seguridad pública. Por ejemplo, las ofertas de procesamiento de lenguaje natural y conversacional de Motorola Solutions pueden buscar bases de datos y proporcionar información útil basada en comandos de voz y transcribir llamadas de emergencia en tiempo real.
+
+La inteligencia artificial está demostrando ser un cambio de juego en la atención médica, mejorando prácticamente todos los aspectos de la industria, desde cirugías asistidas por robots hasta la protección de registros privados contra criminales cibernéticos. La atención médica ha sufrido durante mucho tiempo de costos médicos en constante aumento y procesos ineficientes. La inteligencia artificial está dando a la industria un cambio necesario.
+
+Los asistentes virtuales habilitados por IA están reduciendo visitas innecesarias al hospital y devolviendo a las enfermeras entre el 8 y el 16% de su tiempo; las empresas farmacéuticas están investigando medicinas que salvan vidas en una fracción del tiempo y costo que tradicionalmente toma; y la IA incluso se está utilizando para llevar atención médica avanzada a naciones que la necesitan.
+
+Aquí hay algunos ejemplos de cómo la inteligencia artificial está simplificando procesos y abriendo nuevas avenidas innovadoras para la industria de la atención médica.
+
+Ubicación:
+Tokio, Japón
+La empresa farmacéutica global Takeda
+centra sus esfuerzos de investigación y desarrollo en enfermedades gastrointestinales y inflamatorias, tratamiento de enfermedades raras, productos derivados del plasma...
+
+Están contratando...
+
+|
+Ver 16 empleos
+Motorola Solutions
+Están contratando...
+
+|
+Ver 242 empleos
+IA en la atención médica
+Takedaterapias,	oncología,	neurociencia	y	vacunas	para	mitigar	la	propagación	de	enfermedades	infecciosas	como	el	dengue	y	el	Zika.	Takeda	ha	estado	trabajando	para	incorporar	responsablemente	las	tecnologías	de	IA	en	sus	operaciones	para	aplicaciones	como	hacer	que	el	descubrimiento	de	fármacos	sea	más	eficiente.
+
+Ubicación:
+	Boston,	Massachusetts
+PathAI
+	crea	tecnología	potenciada	por	IA	para	patólogos.	Los	algoritmos	de	aprendizaje	automático	de	la	empresa	ayudan	a	los	patólogos	a	análizar	muestras	de	tejido	y	a	realizar	diagnósticos	más	precisos.	El	objetivo	es	no	sólo	mejorar	la	exactitud	diagnóstica,	sino	también	el	tratamiento.	Las	tecnologías	de	PathAI	también	pueden	identificar	a	los	participantes	óptimos	en	ensayos	clínicos.
+
+Ubicación:
+	Chapel	Hill,	Carolina	del	Norte
+Well
+	desarrolla	un	plan	de	salud	personalizado	para	cada	cliente	recopilando	datos	sobre	condiciones	preexistentes,	preocupaciones	de	salud	en curso	y	lagunas	en	el	conocimiento	de	salud	en général.	Basándose	en	datos	personales	y	externos	de	salud,	los	usuarios	reciben	entrenamiento,	consejos	y	recompensas	para	animarlos	a	continuar	mejorando	su	salud	individual.	A	lo	largo	del	camino	de	salud	de	cada	usuario,	Well	ofrece	orientación	para	exámenes,	cuestionarios,	recetas,	vacunaciones,	visitas	al	médico	y	condiciones	específicas.
+
+Ubicación:
+	San	Francisco,	California
+Están	contratando
+	
+|
+	Ver	82	trabajos
+PathAI
+Están	contratando
+	
+|
+	Ver	4	trabajos
+Well
+Están	contratando
+	
+|
+	Ver	2	trabajos
+AtomwiseAtomwise
+	está	utilizando	IA	y	aprendizaje	profundo	para	facilitar	el	descubrimiento	de	fármacos.	Utilizando
+tecnología	basada	en
+redes	neuronales	convolucionales
+	para	análizar	miles	de	millones	de	compuestos	y	identificar	áreas	para	el	descubrimiento	de	fármacos,	la	tecnología	de	la	empresa	está	acelerando	rápidamente	el	trabajo	de	los	químicos.	Los	algoritmos	de	Atomwise	han	ayudado	a	abordar	algunos	de	los	problemas	médicos	más	urgentes,	incluyendo	el	Ebola	y	esclerosis	múltiple.
+
+Ubicación:
+Nueva	York,	Nueva	York
+
+Covera	Health
+	combinando	compartir	datos	colaborativos	y	análisis	clínico	aplicado	para	reducir	el
+número	de	pacientes	mal	diagnosticados	en	todo	el	mundo.	La	tecnología	propiedad	de	la	empresa	utiliza	un	marco_que_combina	ciencia	de	datos	avanzada
+	y	IA	para	ordenar	a	través	de	diagnósticos	existentes	para	proporcionar	a	los	practicantes	datos	de	síntomas	más	precisos	al	tomar	una	decisión	que	tendrá	un	impacto	mayor	en	la	vida	de	un	paciente.
+
+Ubicación:
+Nueva	York,	Nueva	York
+
+Pager
+	utiliza	inteligencia	artificial	para	ayudar	a	los	pacientes	con	dolores,	problemas	y	enfermedades	menores.	La	empresa	despliega	aprendizaje	automático	para	análizar	datos	clínicos	y	de	reclamaciones	para	descubrir	brechas	en	el	tratamiento	médico	de	un	paciente.	Además	de	hacer	recomendaciones	de	atención	médica,	este	servicio	de	concierge	ayuda	a	los	pacientes	a	charlar	con	médicos	y	enfermeras,	programar	citas,	llenar	recetas	y	realizar	pagos.
+
+ARTÍCULO	RELACIONADO
+Blockchain	en	atención	médica:	17	ejemplos	que	debes	conocer
+
+La	inteligencia	artificial	está	literalmente	conduciendo	el	futuro	de	la
+industria	de	autos	autónomos
+. Estos
+	autos
+	están	cargados	de	sensores
+	que	están	constantemente	tomando	nota	de	todo	lo	que	sucede	alrededor	del	auto	y	utilizando
+Covera	Health
+	Están	contratando
+	
+|
+	Ver	2	trabajos
+Pager
+	Coches	AutónomosLa	IA	para	realizar	los	ajustes	correctos. Estos	sensores	capturan	miles	de	puntos	de	datos	cada	milisegundo	(como	velocidad	del	coche,	condiciones	del	camino,	ubicación	de	peatones,	tráfico,	etc.),	y	utilizan	la	IA	para	ayudar	a	interpretar	los	datos	y	actuar	en	consecuencia	—	todo	en	un	parpadeo	de	ojo.
+
+Aún	tiene	mucho	camino_por_recorrer	hasta_que	seamos	completamente	capaces	de	conducir	de_forma_autónoma,	pero	las	empresas	a_continuación	están_abriendo	el_camino_hacia_un_futuro_de_conducción_autónoma.
+
+Ubicación:
+San	Francisco,	California
+Cruise
+	es_la	primera_compañía_en_ofrecer	servicios_de_taxi_robótico	al_público_en_una_ciudad_importante,	utilizando	la	IA	para	liderar	el	camino.	Los	coches_autónomos_de_la_compañía	recopilan_un_petabyte_de_información_cada_día.	La	IA	utiliza	este_conjunto_de_datos_masivo_para_aprender_constantemente	sobre	las_medidas_de_seguridad_más_eficaces,	técnicas_de_conducción	y_rutas_más_eficientes_para_brindar_al_pasajero_la_seguridad_de_que_está_a_salvo.
+
+Ubicación:
+	Boston,	Massachusetts
+Motional
+	está_utilizando	tecnología_avanzada_construida_con	IA	y	aprendizaje_autónomo	para_hacer_que_los_vehículos_sin_conductor_sean	más_seguros,	confiables	y	accesibles.	Combinando	sensores_de_LiDAR_de_corta_y_larga_distancia,	radar,	colocación	estratégica_de_cámaras	y	tecnología_propietaria_en_desarrollo,	Motional	ha_provido_viajes_autónomos	a_través_de_sus_servicios_de_taxi_robótico	y	ha_ampliado_para_ofrecer_entrega_autónoma.
+
+Ubicación:
+	Mountain	View,	California
+Waymo
+	es	el_proyecto_de_coche_autónomo_de_Google.	La_compañía_construye	variedad_de_vehículos_autónomos
+
+Cruise
+	Están_contratando
+	
+|
+	Ver	35	trabajos
+Motional
+	Están_contratando
+	
+|
+	Ver	2	trabajos
+WaymoDiseñado para satisfacer las necesidades de los conductores, incluyendo a individuos, conductores de servicios de transporte compartido y grandes empresas de transporte. Con una suite avanzada de sensores, cada vehículo Waymo recopila datos y utiliza inteligencia artificial para descifrar qué sucederá a continuación. Gracias a la IA, los vehículos Waymo pueden analizar situaciones y hacer predicciones seguras para los próximos movimientos óptimos.
+
+Ubicación:
+Los Álamos, California
+
+Spartan
+ayuda a las empresas de coches autónomos a mejorar sus sensores ADAS con su software de sensor Ago. La sensibilidad es un rasgo fundamental del software Ago, lo que permite a los vehículos detectar objetos más rápido y agudizar sus tiempos de reacción durante la conducción en carretera, urbana y en situaciones de estacionamiento. Para mayor comodidad, la empresa entrega actualizaciones de software por aire para mantener su tecnología funcionando al máximo rendimiento.
+
+Ubicación:
+Austin, Texas
+
+Tesla
+tiene cuatro modelos de vehículos eléctricos en la carretera con capacidades de conducción autónoma. La empresa utiliza inteligencia artificial para desarrollar y mejorar la tecnología y el software que permiten a sus vehículos frenar automáticamente, cambiar de carril y estacionar. Tesla ha ampliado su programa de IA y robótica para experimentar con bots, redes neuronales y algoritmos de autonomía.
+
+Ubicación:
+Orlando, Florida
+
+Luminar
+está produciendo productos de visión de vehículos avanzados basados en LIDAR. Los sensores de la empresa utilizan...
+
+Están contratando...
+
+|
+Ver 45 empleos
+Spartan
+Están contratando...
+
+|
+Ver 3 empleos
+Tesla
+LuminarLáseres de fibra que brindan a un sistema de IA de un automóvil autónomo una visión detallada del mundo que lo rodea. La tecnología permite que los sistemas de software basados en IA vean personas, objetos, eventos y condiciones de la carretera desde más de 250 metros de distancia, por lo que un vehículo autónomo puede tener suficiente tiempo para analizar y reaccionar ante cualquier situación dada.
+
+IA y la industria financiera son un matrimonio hecho en el cielo. El sector financiero se basa en la precisión, la informática en tiempo real y el procesamiento de grandes volúmenes de datos cuantitativos para tomar decisiones — áreas en las que las máquinas inteligentes destacan.
+
+A medida que la industria toma nota de la eficiencia y precisión de la IA, está implementando rápidamente la automatización, chatbots, inteligencia adaptativa, defensas contra el fraude, comercio algorítmico y aprendizaje automático en los procesos financieros.
+
+Aquí hay algunos ejemplos de cómo la inteligencia artificial está cambiando la industria financiera.
+
+Ubicación:
+Completamente remoto
+Gradient AI desarrolla soluciones tecnológicas para la industria de seguros. Sus productos incluyen soluciones de automatización de reclamos y suscripciones que se basan en modelos de IA y aprendizaje automático para gestionar tareas rutinarias de manera eficiente, para que los usuarios puedan enfocar su experiencia en donde más se necesita. La empresa también ofrece soluciones de gestión de reclamos que hacen predicciones que pueden ahorrar tiempo y dinero a los aseguradores.
+
+Ubicación:
+Chicago, Illinois
+La familia de marcas y productos de fintech de Morningstar apoya a inversores a escala global. La IA impulsa...
+
+Están contratando...
+
+|
+Ver 15 empleos
+IA en finanzas
+Gradient AI
+
+Están contratando...
+
+|
+Ver 5 empleos
+MorningstarEl motor de inteligencia de Morningstar, diseñado para simplificar el proceso de búsqueda de información específica en medio de la abundancia de datos y contenido de inversiones de Morningstar. Un chatbot llamado Mo, que actúa como asistente de investigación digital, se construyó sobre el motor de inteligencia y se encuentra en la fase de prueba beta.
+
+Ubicación:
+Boston, Massachusetts
+
+Liberty Mutual es una empresa de seguros global que ha estado en el negocio durante más de un siglo. Su asociación de cinco años con el MIT se centra en la investigación de soluciones de IA para modernizar y superar los desafíos en la industria de los seguros, con el potencial de explorar temas que van desde aumentar la transparencia en algoritmos de toma de decisiones hasta explorar cómo la comprensión del lenguaje informático podría utilizarse para procesar reclamos de seguros más rápido.
+
+Ubicación:
+Nueva York, Nueva York
+
+PwC es una empresa global que asesora a clientes empresariales en soluciones tecnológicas en various áreas, incluyendo la IA. Por ejemplo, PwC trabajó con un proveedor de seguros de automóviles para integrar inteligencia artificial en su proceso para proporcionar estimaciones de reclamos a los clientes, lo que llevó a una mayor eficiencia operativa y una mejor experiencia del cliente. PwC ha invertido significativamente en continuar expandiendo sus capacidades de IA.
+
+Están contratando...
+
+|
+Ver 223 trabajos
+Seguros Liberty Mutual
+Están contratando...
+
+|
+Ver 19 trabajos
+PwC
+Están contratando...
+
+|
+Ver 4684 trabajos
+Northwestern MutualUbicación:
+Milwaukee, Wisconsin
+Mutual Northwestern tiene más de 150 años de experiencia ayudando a los clientes a planificar su jubilación, así como a administrar inversiones y encontrar los productos de seguro adecuados. Ahora, la empresa de servicios financieros está apostando fuerte por la IA para mejorar las experiencias de los clientes y aumentar la eficiencia en la gestión de datos en toda la organización.
+
+Ubicación:
+San Francisco, California
+La plataforma de pagos entre pares y fintech Cash App impulsa varias de sus características utilizando inteligencia artificial. Los usuarios pueden interactuar con chatbots de soporte al cliente desarrollados con técnicas de procesamiento de lenguaje natural complejas, o NLP. En cuanto a la seguridad, la empresa utiliza aprendizaje automático y IA para ayudar a mitigar el riesgo y prevenir el fraude en la plataforma.
+
+Ubicación:
+Nueva York, Nueva York
+AlphaSense creó un motor de búsqueda financiero impulsado por IA para ayudar a las firmas de inversión a obtener una ventaja informativa. Utilizando una combinación de búsqueda lingüística y procesamiento de lenguaje natural, el programa puede analizar puntos de datos clave en varias instituciones financieras. La capacidad del sistema para escanear millones de puntos de datos y generar informes accionables basados en datos financieros relevantes ahorra a los analistas horas de trabajo.
+
+Están contratando...
+
+|
+Ver 94 trabajos
+Cash App
+Están contratando...
+
+|
+Ver 63 trabajos
+AlphaSense
+Están contratando...
+
+|
+Ver 53 trabajos
+BettermentUbicación:
+Nueva York, Nueva York
+Betterment
+es una plataforma de inversión financiera automatizada y pionera en tecnología de asesoramiento robótico que utiliza inteligencia artificial para aprender sobre un inversor y construir un perfil personalizado basado en sus planes financieros. Los asesores robóticos de Betterment utilizan algoritmos para automatizar la cosecha de pérdidas fiscales, operaciones comerciales y gestión de cartera.
+
+Ubicación:
+San Francisco, California
+Numerai
+es un fondo de cobertura impulsado por inteligencia artificial que utiliza aprendizaje automático crowdsourced de miles de científicos de datos de todo el mundo. La empresa lanza datos financieros abstractos a su comunidad de científicos de datos, todos los cuales utilizan diferentes modelos de aprendizaje automático para predecir el mercado de valores. Los modelos se enfrentan entre sí en un torneo semanal donde los creadores compiten por Numeraire (NMR), la criptomoneda de la empresa. Las predicciones más precisas llegan a la cima de la tabla de clasificación y son recompensadas con más tokens.
+
+Ubicación:
+Completamente Remoto
+Silverwork Solutions
+combina automatización de procesos robóticos con inteligencia artificial para mejorar la eficiencia de las empresas hipotecarias y prestamistas. Los robots cognitivos trabajan junto a empleados humanos, rastreando reglas de cumplimiento, procesando grandes conjuntos de datos, tomando decisiones operativas y realizando otras tareas. Las fuerzas laborales humanas están entonces libres de enfocarse en atender a los clientes, creando una experiencia hipotecaria más suave para todas las partes involucradas.
+
+ARTÍCULO RELACIONADO
+81 Empresas y Startups de Fintech para Tener en la Manga
+
+Están Contratando
+
+|
+Ver 26 Trabajos
+Numerai
+Silverwork Solutions
+IA en Viajes y TransporteLa inteligencia artificial se está convirtiendo en una mega-tendencia en las industrias de viajes y transporte. Desde hacer arreglos de viaje hasta sugerir la ruta más eficiente hacia casa después del trabajo, la IA está haciendo que sea más fácil desplazarse.
+
+ Sectores avanzados como la IA están contribuyendo al crecimiento del mercado global de tecnologías de viaje, que está en camino de alcanzar los 12.500 millones de dólares para 2026. De hecho, la inteligencia artificial se ve como una herramienta que puede dar a las empresas de viajes una ventaja competitiva, por lo que los clientes pueden esperar interacciones más frecuentes con la IA durante sus próximos viajes.
+
+Los chatbots impulsados por IA están cambiando rápidamente la industria de viajes, facilitando interacciones humanas con los clientes para tiempos de respuesta más rápidos, mejores precios de reserva y incluso recomendaciones de viaje.
+
+A continuación, se presentan algunos ejemplos de cómo se está utilizando la inteligencia artificial en las industrias de viajes y transporte.
+
+Ubicación: Detroit, Míchigan
+General Motors
+General Motors fabrica coches y camiones. Con la IA volviéndose cada vez más relevante en la industria automotriz, la empresa ha implementado la IA en una amplia gama de aplicaciones. En el contexto de los deportes de motor, por ejemplo, GM combina aprendizaje automático, datos de rendimiento, datos de comportamiento del conductor y información sobre las condiciones de la pista para crear modelos que informan la estrategia de carrera.
+
+Ubicación: Remoto completo
+Motive
+Motive utiliza inteligencia artificial para respaldar su software de gestión de flotas, que se utiliza en empresas logísticas para habilitar el seguimiento GPS en vivo, cámaras de dash inteligentes, registros de combustible y mantenimiento, y otras soluciones destinadas a mejorar la seguridad y eficiencia operativa. La plataforma inteligente impulsada por IA puede detectar conducción peligrosa en tiempo real, y la empresa afirma que sus clientes han visto reducciones sustanciales en accidentes de conducción.
+
+General Motors
+Están contratando...
+
+|
+Ver 375 empleos
+
+Motive
+Están contratando...
+
+|
+Ver 46 empleosUbicación:
+Santa Mónica, California
+Metropolis es una empresa de IA que ofrece una plataforma de visión por computadora para procesos de pago automatizados. Su tecnología propiedad, conocida como Orion, permite a las instalaciones de estacionamiento aceptar pagos de los conductores sin requerir que se detengan y pasen por un proceso de checkout. Una vez que un conductor ha conectado su vehículo, puede simplemente conducir hacia adentro y hacia afuera.
+
+Ubicación:
+Mountain View, California
+Google utiliza IA en Google Maps para hacer que los viajes sean un poco más fáciles. Con mapeo habilitado por IA, la tecnología de la gigante de la búsqueda escanea información de carreteras y utiliza algoritmos para determinar la ruta óptima para tomar — ya sea a pie o en coche, bicicleta, autobús o tren. Google avanzó aún más la inteligencia artificial en la aplicación Maps al integrar su asistente de voz y crear mapas de realidad aumentada para guiar a los usuarios en tiempo real.
+
+Ubicación:
+Cambridge, Massachusetts
+SmarterTravel sirve como un hub de viajes que apoya el espíritu de aventura de los consumidores con consejos expertos, guías de viaje, recomendaciones de equipo de viaje, listados de hoteles y otras perspectivas de viaje. Al aplicar IA y aprendizaje automático, SmarterTravel proporciona recomendaciones personalizadas basadas en las búsquedas de los consumidores. Análisis impulsados por IA también permiten a SmarterTravel encontrar descuentos y otra información de viaje relevante para cada consumidor.
+
+Tecnologías Metropolis
+Están contratando...
+
+|
+Ver 26 trabajos
+Google
+Están contratando...
+
+|
+Ver 459 trabajos
+SmarterTravelUbicación:	
+Completamente	Remoto
+Hopper
+	utiliza	IA	para	predicir	cuándo	debe	ser	capaz	de	reservar	los	precios	más	bajos	para	vuelos,	hoteles,	alquileres	de	coches	y	alquileres	de	casas	de	vacaciones.	La	empresa	scanea	cientos	de	reservas	y	presenta	los	precios	más	actualizados.	Utilizando	datos	históricos	de	vuelos	y	hoteles,	Hopper	también	recomendará	al usuario	si	la	reserva	ha	alcanzado	su	punto	de	precio	más	bajo	o	si	el	usuario	debe	esperar	un	poco	más	para	que	el	precio	baje.
+
+Con	
+casi	4	mil	millones	de	usuarios
+	en	plataformas	como	Twitter,	Facebook	y	Snapchat,	
+los	medios	de	comunicación	social	están	en	una	batalla	constante	para	personalizar	y	cultivar	experiencias	valiosas	para	los	usuarios.
+La	inteligencia	artificial	podría	hacer	o	romper	el	futuro	de_la_industria.
+Con	su	capacidad	de.organizar	cantidades	masivas	de	datos,	reconocer	imágenes,	introducir	chatbots	y	predicir	cambios	en_la_cultura,	la	IA	es	altamente	valiosa	para	una_industria_con	miles_de_millones_de_usuarios	y	alrededor	de	
+$43
+mil	millones	en_ingresos_en_2022
+.
+
+Además,	el	aprendizaje	automático	avanzado	es	probable_que_se_demuestre	crítico	en_una_industria_que_está	bajo	presión	para	
+proteger	a	los	usuarios
+contra	noticias	falsas,	discursos_de_odio	y	otros	actores	maliciosos	en	tiempo	real.
+Aquí	hay	algunos	ejemplos	de	cómo	algunos_de_los_nombres_más_grandes_del_juego	están_utilizando_la_inteligencia_artificial.
+
+Ubicación:
+	Santa	Mónica,	California
+Snap	Inc.
+	es_una_compañía_de_tecnología_que_integra_la_fotografía_con_servicios_de_comunicación	y	medios_de_comunicación	social.	Su	aplicación	móvil	proporciona	a	los	usuarios	una	variedad_de_filtros_para_probar	y	también	les_permite_invitar_a_sus_contactos	a_la_aplicación.	Snap	Inc.’s	
+Mi	chatbot	de	IA
+	está	disponible	actualmente	para	los	usuarios_que_quieren
+responder	a	preguntas_de_trivia,	obtener	sugerencias_para_un_viaje_próximo	o	idear_regalos.
+
+Hopper
+	Están_contratando
+	
+|
+	Ver	64	trabajos
+IA en los Medios de Comunicación Social
+Snap	Inc.Ubicación:
+San Francisco, California
+X, anteriormente conocido como Twitter, tiene algoritmos que dirigen a los usuarios hacia personas para seguir, tweets y noticias basadas en las preferencias individuales de cada usuario. Además, X utiliza IA para monitorear y categorizar feeds de video según la materia. La herramienta de recorte de imágenes de la empresa también utiliza IA para determinar cómo recortar imágenes para enfocarse en la parte más interesante.
+
+Ubicación:
+San Francisco, California
+La IA de Slack utiliza una estructura de datos llamada "grafo de trabajo" para recopilar información sobre cómo cada empresa y sus empleados utilizan la herramienta y se interactúan entre sí. Los datos del grafo de trabajo pueden luego utilizarse para entrenar modelos de IA que hacen que Slack sea más amigable con el usuario. Slack también utiliza aprendizaje automático y procesamiento de lenguaje natural en una característica llamada "Destacados" para mover mensajes más relevantes hacia arriba.
+
+Ubicación:
+Menlo Park, California
+Ya sea que se trate de chatbots de Messenger, noticiasfeeds algorítmicas, sugerencias de etiquetado de fotos o targeting publicitario, la IA está profundamente integrada en la plataforma de Facebook de Meta. Facebook ya está utilizando una combinación de IA y moderación humana para combatir el spam y el abuso. Con avances en reconocimiento de imágenes y un aumento en la investigación de IA, Meta está contando con la inteligencia artificial para monitorear su plataforma de medios.
+
+Están contratando...
+
+|
+Ver 328 trabajos
+Corp. X
+Slack
+Meta¿Alguna vez has navegado por un sitio web solo para encontrar una imagen de la misma camisa que estabas viendo en otro sitio web? Puedes agradecer a la inteligencia artificial por eso.
+
+La implementación del aprendizaje automático en procesos de comercio electrónico y retail permite a las empresas construir relaciones personales con los clientes. Los algoritmos impulsados por IA personalizan la experiencia del usuario, aumentan las ventas y construyen relaciones leales y duraderas.
+
+Las empresas utilizan la inteligencia artificial para desplegar chatbots, predecir compras y recopilar datos para crear una experiencia de compra más centrada en el cliente. Aquí hay cómo algunos líderes del retail y el comercio electrónico están implementando la IA para impulsar las ventas y la lealtad.
+
+Ubicación:
+San Francisco, California
+Instacart
+construye software diseñado para innovar la experiencia de compra de comestibles. Los compradores pueden ordenar bienes horneados, productos frescos, alimentos congelados, productos lácteos, artículos de despensa y otros artículos a través de la plataforma de Instacart y luego programar un horario de entrega o recogida. La empresa utiliza la IA de varias maneras para mejorar tanto la experiencia de compra en línea como en persona. Por ejemplo, la tecnología de carrito Caper de Instacart facilita una experiencia de compra minorista inteligente en tienda, desplegando carritos de compras tecnológicos que pueden reconocer artículos, pesar productos frescos y aceptar pagos.
+
+Ubicación:
+Chicago, Illinois
+McDonald's
+es una cadena popular de restaurantes de servicio rápido que utiliza la tecnología para innovar su estrategia empresarial. Dos de las principales aplicaciones de la IA de la empresa son habilitar operaciones de drive-thru automatizadas y optimizar continuamente las pantallas de menú digitales según factores como la hora del día, el tráfico del restaurante y la popularidad de los artículos.
+
+IA en Retail
+Instacart
+Están contratando...
+
+|
+Ver 31 trabajos
+McDonald's Global Technology
+Están contratando...
+
+|
+Ver 77 trabajosUbicación:
+Austin, Texas
+Whole Foods ha confiado en la tecnología Just Walk Out de Amazon para dar a sus tiendas una ventaja competitiva. El sistema utiliza visión por computadora, fusión de sensores y aprendizaje profundo para rastrear cada artículo que los clientes colocan o sacan de su carrito y construir un carrito de compras virtual coincidente. Los clientes pueden conectar su método de pago cuando entran a la tienda y recibir un recibo digital después de salir sin necesidad de interactuar en la caja registradora.
+
+Ubicación:
+Completamente Remoto
+Las empresas pueden crear anuncios conversacionales con la tecnología de LivePerson, interactuando con consumidores en sitios web de la empresa, redes sociales y otros canales de terceros. En lugar de navegar a páginas de destino, los consumidores pueden acceder a interacciones personalizadas a través de su método preferido. La inteligencia artificial conversacional de LivePerson también da a los clientes la opción de enviar mensajes en lugar de llamar, reduciendo volúmenes de llamadas, tiempos de espera y costos.
+
+Ubicación:
+Seattle, Washington
+Amazon es el rey del comercio electrónico con inteligencia artificial. Ya sea que se trate de las recomendaciones de la empresa sobre qué productos comprar, los robots de almacén que recopilan, clasifican y envían productos, o los servicios web que alimentan el sitio web en sí, Amazon emplea la inteligencia artificial en casi todos los pasos de su proceso.
+
+Whole Foods Market
+LivePerson
+Están contratando...
+
+|
+Ver 28 Trabajos
+Amazon
+IA en MarketingLos marketeros están asignando cada vez más de sus presupuestos para la implementación de inteligencia artificial, ya que el aprendizaje automático tiene docenas de usos cuando se trata de administrar con éxito las campañas de marketing y publicidad.
+
+Otra razón para el aumento del presupuesto es que las herramientas impulsadas por IA, como tecnologías de búsqueda de palabras clave, chatbots y compra y colocación de anuncios automatizadas, ahora están ampliamente disponibles para pequeñas y medianas empresas.
+
+A continuación, se presentan algunos ejemplos de herramientas de marketing y publicidad impulsadas por IA:
+
+Ubicación:
+San Francisco, California
+La tecnología de Publica para la publicidad en televisión conectada, o CTV, está diseñada para impulsar la revenue publicitaria y apoyar una experiencia de visualización de alta calidad. Su solución Elea AI es una herramienta de frecuencia de capping que utiliza algoritmos de IA y aprendizaje automático para reconocer logotipos de marcas y optimizar los descansos publicitarios para que las audiencias no vean repetidamente contenido de los mismos anunciantes.
+
+Ubicación:
+Marina del Rey, California
+El equipo de System1, compuesto por ingenieros, gerentes de productos, científicos de datos y expertos en publicidad, construye soluciones que ayudan a las marcas a involucrar a clientes con alta intención. Su plataforma de marketing digital omnicanal está equipada con algoritmos de IA y aprendizaje automático patentados para facilitar la adquisición de clientes a través de una variedad de verticales publicitarias.
+
+Publica LLC
+Están contratando...
+
+|
+Ver 3 trabajos
+
+System1
+Están contratando...
+
+|
+Ver 19 trabajos
+DigibleUbicación:
+Englewood, Colorado
+Digible
+ofrece soluciones para el marketing de apartamentos que abarcan medios pagos, medios orgánicos, datos y análisis. La empresa ofrece un asistente virtual impulsado por IA llamado Fiona, diseñado para ayudar a los usuarios a crear planes de marketing y presupuestos basados en datos, por ejemplo, y monitorear violaciones de la Ley de Vivienda Justa.
+
+Ubicación:
+Helsinki, Finlandia
+Smartly
+es una empresa de tecnología publicitaria que utiliza IA para simplificar la creación y ejecución de campañas de medios optimizadas. Las marcas de todo el mundo utilizan la plataforma integral de Smartly para acceder a herramientas colaborativas para el desarrollo creativo y cambios de anuncios automatizados que se activan según el rendimiento de las campañas en Google, TikTok, YouTube, Facebook y otras plataformas.
+
+Ubicación:
+Nueva York, Nueva York
+Zeta Global
+es una empresa de tecnología de marketing con presencia internacional que se extiende desde Estados Unidos hasta Bélgica e India. Incorpora IA en su plataforma basada en la nube que reúne soluciones para apoyar estrategias de adquisición y retención de clientes. Por ejemplo, las capacidades predictivas de IA de Zeta Global ayudan a las empresas a targeting a los clientes adecuados y recomiendan acciones que fomenten relaciones con los clientes sólidas.
+
+Están contratando...
+
+|
+Ver 7 Empleos
+Smartly
+Están contratando...
+
+|
+Ver 11 Empleos
+Zeta Global
+Están contratando...
+
+|
+Ver 88 Empleos
+SpectrumUbicación:
+Stamford, Connecticut
+Compañía de conectividad
+Spectrum, que proporciona servicios de teléfono, televisión e internet, utiliza IA en múltiples niveles. Por ejemplo, Spectrum Reach, la rama publicitaria de la empresa, se asoció con el estudio de video Waymark para ofrecer un servicio de producción de anuncios de TV personalizados habilitados por IA para empresas. La empresa afirma que también ha estado utilizando tecnología de IA para mejorar la experiencia del cliente, "haciendo que sea más fácil y conveniente para los suscriptores administrar sus servicios de Spectrum".
+
+Ubicación:
+Chicago, Illinois
+Prosodica
+La tecnología de centro de contacto de Prosodica ofrece a los clientes un motor de voz y habla que proporciona información sobre las interacciones con los clientes. Utilizando IA para ayudar a las empresas a mejorar las experiencias de los clientes, Prosodica también suministra a los clientes visualizaciones de datos interactivas para identificar áreas de riesgo. Su solución empresarial de grado asiste a los clientes a identificar oportunidades de seguimiento y reducir el riesgo de llamadas fallidas.
+
+Ubicación:
+Nueva York, Nueva York
+EliseAI
+usa un asistente habilitado por IA para aliviar a los equipos de marketing de sus deberes de comunicación. Interactúa con prospectos y clientes a través de correo electrónico, formularios de contacto, mensajes de texto y llamadas telefónicas. Además, EliseAI también puede reprogramar reuniones, enviar mensajes de seguimiento y compartir instrucciones. Como resultado, los equipos de marketing pueden enfocarse en necesidades más urgentes mientras confían en EliseAI para mantener una comunicación constante con los principales prospectos y clientes.
+
+Están contratando...
+
+|
+Ver 298 trabajos
+Prosodica
+Están contratando...
+
+|
+Ver 2 trabajos
+EliseAI
+Están contratando...
+
+|
+Ver 18 trabajosUbicación:
+Nueva York, Nueva York
+RTB House
+va más allá de las campañas de marketing impulsadas por inteligencia artificial básica, informando cada campaña con algoritmos de aprendizaje profundo. Los equipos de marketing pueden compilar y organizar rápidamente datos complejos, segmentar y dirigirse a audiencias específicas y determinar las mejores plataformas para alcanzar a sus compradores ideales.
+RTB House también ofrece banners interactivos para entornos en línea, para que las empresas puedan colocar anuncios, recopilar retroalimentación y refinar sus tácticas de marketing.
+
+Ubicación:
+Completamente Remoto
+Drift
+usa chatbots, aprendizaje automático y procesamiento de lenguaje natural para ayudar a las empresas a programar más reuniones, asistir a clientes con preguntas sobre productos y hacer que el ciclo de ventas sea más eficiente. La tecnología puede automatizar tareas como responder a correos electrónicos, enrutar leads y actualizar información de contacto. Por ejemplo, una vez que un cliente está en un sitio web que utiliza Drift, un chatbot emergirá, hará preguntas y automáticamente los clasificará en una campaña si son leads.
+
+Ubicación:
+Completamente Remoto
+GumGum
+usa inteligencia artificial para optimizar y automatizar la publicidad. La plataforma de inteligencia contextual de la empresa, Verity, puede analizar video, audio, imagen y contenido escrito para asegurarse de que sea relevante para los clientes y determinar los lugares de anuncios ideales para maximizar el alcance basado en el contexto en lugar de confiar en datos de cookies de terceros.
+
+RTB House
+Están contratando...
+
+|
+Ver 2 Trabajos
+Drift
+GumGum
+Están contratando...
+
+|
+Ver 17 TrabajosConstruido En es la comunidad en línea para startups y empresas de tecnología. Encuentra empleos de startup, noticias de tecnología y eventos.
+
+Acerca de
+Nuestra Historia
+Carreras
+Nuestros Escritores del Personal
+Descripciones de Contenido
+Noticias de la Compañía
+Participa
+Recluta con Construido En
+Conviértete en un Colaborador Experto
+Envíanos una Pista de Noticia
+Recursos
+Soporte al Cliente
+Compartir Retroalimentación
+Grandes Compañías Necesitan Grandes Personas. 
+Eso es donde entramos.
+RECLUTA CON NOSOTROS
+Inteligencia Artificial
+Aprendizaje AutomáticoInforme	un	Error
+Tec	A-Z
+Buscar	Trabajos
+Centros	Tec
+Construido	en	Austin
+Construido	en	Boston
+Construido	en	Chicago
+Construido	en	Colorado
+Construido	en	Los	Ángeles
+Construido	en	Nueva	York
+Construido	en	San	Francisco
+Construido	en	Seattle
+Ver	Todos	Centros	Tec
+©	Construido	en	2024
+Laboratorio	de	Aprendizaje	Usuario
+Acuerdo
+Declaración	de	Accesibilidad
+Derechos	de	Autor
+Política
+Política	de	Privacidad
+Términos	de	Uso
+Sus	Opciones	de	Privacidad/Configuración	de	Cookies
+Aviso	de	Colección	de	California

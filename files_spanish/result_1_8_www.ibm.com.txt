@@ -1,0 +1,188 @@
+Los casos de uso más valiosos de IA para los negocios
+
+Cuando se piensa en casos de uso de inteligencia artificial (IA), la pregunta puede ser: ¿qué no podrá hacer la IA? La respuesta fácil es que la IA no realizará tareas manuales, aunque es probable que pronto la mayoría de las tareas manuales sean realizadas por dispositivos robóticos controlados por IA. Sin embargo, en este momento, la IA pura puede ser programada para realizar muchas tareas que requieren pensamiento y inteligencia, siempre y cuando esa inteligencia pueda ser recopilada digitalmente y utilizada para entrenar un sistema de IA. La IA no carga el lavavajillas después de la cena, pero puede ayudar a crear un informe legal, un nuevo diseño de producto o una carta a la abuela.
+
+Todos estamos asombrados por lo que puede hacer la IA. Pero la pregunta para aquellos de nosotros en el mundo empresarial es: ¿cuáles son los mejores usos comerciales? Crear una versión de la Mona Lisa en el estilo de Vincent van Gogh es divertido, pero ¿cuántas veces eso aumentará la línea de fondo? A continuación, se presentan 27 formas altamente productivas en que los casos de uso de IA pueden ayudar a las empresas a mejorar su línea de fondo.
+
+Casos de uso de IA orientados al cliente
+
+Proporcionar un servicio al cliente superior
+Las interacciones con los clientes pueden ser asistidas en tiempo real con IA conversacional. Las consultas basadas en voz utilizan procesamiento de lenguaje natural (NLP) y análisis de sentimiento para reconocimiento de voz, por lo que las conversaciones pueden comenzar de inmediato. Utilizando algoritmos de aprendizaje automático, la IA puede entender lo que los clientes están diciendo, así como su tono, y dirigirlos a agentes de servicio al cliente cuando sea necesario. Con texto a voz y NLP, la IA puede responder de inmediato a consultas y instrucciones por texto. No hay necesidad de hacer que los clientes esperen para obtener respuestas a preguntas frecuentes (FAQ) o para dar el próximo paso para realizar una compra. Y los agentes de servicio al cliente digitales pueden aumentar la satisfacción del cliente al ofrecer consejos y orientación a los agentes de servicio al cliente.
+
+Personalizar experiencias del cliente
+El uso de IA es efectivo para crear experiencias personalizadas a gran escala a través de chatbots, asistentes digitales e interfaces de cliente, brindando experiencias y anuncios dirigidos a clientes y usuarios finales. Por ejemplo, Amazon recuerda a los clientes que reordenen sus productos más comprados con frecuencia y les muestra productos relacionados o sugerencias. McDonald's está construyendo soluciones de IA para el cuidado del cliente con tecnología de IA de IBM Watson y NLP para acelerar el desarrollo de su tecnología de toma de pedidos automatizada (AOT). No solo ayudará a escalar la tecnología AOT en los mercados, sino que también ayudará a abordar integraciones, incluyendo idiomas, dialectos y variaciones de menú adicionales. En Spotify, sugieren un nuevo artista para el placer de escucha del cliente. YouTube entrega un feed de contenido curado adaptado a los intereses del cliente.
+
+Promocionar la venta cruzada y la venta adicional
+Los motores de recomendación utilizan datos de comportamiento del consumidor y algoritmos de IA para ayudar a descubrir tendencias de datos para desarrollar estrategias de venta cruzada y venta adicional más efectivas, lo que resulta en recomendaciones de add-on más útiles para los clientes durante el checkout en línea para minoristas en línea. Otros usos incluyen que Netflix ofrece recomendaciones de visualización impulsadas por modelos que procesan conjuntos de datos recopilados a partir de la historia de visualización; LinkedIn utiliza ML para filtrar elementos en una fuente de noticias, lo que hace que el empleo sea más relevante.recomendaciones y sugerencias sobre quién conectar; y Spotify utiliza modelos de ML para generar recomendaciones de canciones.
+
+Inteligencia en smartphones
+El reconocimiento facial activa los teléfonos inteligentes y asistentes de voz, impulsados por el aprendizaje automático, mientras que Siri de Apple, Alexa de Amazon, Asistente de Google y Copiloto de Microsoft utilizan NLP para reconocer lo que decimos y responder adecuadamente. Las empresas también aprovechan el ML en las cámaras de los teléfonos inteligentes para analizar y mejorar las fotos utilizando clasificadores de imágenes, detectar objetos (o caras) en las imágenes y incluso utilizar redes neuronales artificiales para mejorar o expandir una foto prediciendo lo que se encuentra más allá de sus bordes.
+
+Presentamos asistentes personales
+Asistentes virtuales o asistentes de voz, como Alexa de Amazon y Siri de Apple, están impulsados por la IA. Cuando alguien hace una pregunta mediante voz o texto, el ML busca la respuesta o recuerda preguntas similares que la persona ha hecho antes. La misma tecnología puede impulsar bots de mensajería, como los utilizados por Facebook Messenger y Slack, mientras que Asistente de Google, Cortana y Asistente de IBM Watson combinan NLP para entender preguntas y solicitudes, tomar acciones adecuadas y componer respuestas.
+
+Humanizar Recursos Humanos
+La IA puede atraer, desarrollar y retener una fuerza laboral centrada en habilidades. Una avalancha de solicitudes puede ser cribada, clasificada y pasada a miembros del equipo de recursos humanos con precisión. Las tareas de evaluación de promoción manual pueden ser automatizadas, lo que facilita obtener insights importantes de recursos humanos con una visión más clara, por ejemplo, de los empleados que están listos para una promoción y si han cumplido con los indicadores clave. Las preguntas rutinarias del personal pueden ser respondidas rápidamente utilizando IA.
+
+Casos de uso creativos de IA
+Crear con IA generativa
+Las herramientas de IA generativa, como ChatGPT, Bard y DeepAI, confían en capacidades de IA de memoria limitada para predecir la próxima palabra, frase o elemento visual dentro del contenido que se está generando. La IA generativa puede producir texto, imágenes y otro contenido de alta calidad basados en los datos utilizados para el entrenamiento.
+
+La investigación de IBM está trabajando para ayudar a sus clientes a utilizar modelos generativos para escribir código de software de alta calidad más rápido, descubrir nuevos moléculas y entrenar chatbots conversacionales confiables basados en datos empresariales. El equipo de IBM incluso está utilizando IA generativa para crear datos sintéticos para construir modelos de IA más robustos y confiables y para reemplazar datos del mundo real protegidos por leyes de privacidad y derechos de autor.
+
+Entregar nuevos insights
+Los sistemas expertos pueden ser entrenados en un corpus (metadatos utilizados para entrenar un modelo de aprendizaje automático) para emular el proceso de toma de decisiones humanas y aplicar esta experiencia para resolver problemas complejos. Estos sistemas pueden evaluar grandes cantidades de datos para descubrir tendencias y patrones, y tomar decisiones. También pueden ayudar a las empresas a predecir eventos futuros y entender por qué ocurrieron eventos pasados.
+
+Clarificar visión por computadora
+La visión por computadora impulsada por IA habilita la segmentación de imágenes, que tiene una amplia variedad de casos de uso, incluyendo ayudar en el diagnóstico en medicina.imágenes médicas, automatización del movimiento para robótica y coches autónomos, identificación de objetos de interés en imágenes satelitales y etiquetado de fotos en redes sociales. Funcionando en redes neuronales, la visión por computadora permite que los sistemas extraigan información significativa de imágenes digitales, videos y otros insumos visuales.
+
+Casos de uso técnicos de IA
+
+Acelere operaciones con AIOps
+Hay muchos beneficios al utilizar inteligencia artificial para operaciones de TI (AIOps). Al infundir IA en operaciones de TI, las empresas pueden aprovechar el considerable poder de NLP, grandes datos y modelos de ML para automatizar y simplificar flujos de trabajo operativos, y monitorear la correlación de eventos y determinación de causalidad. AIOps es una de las formas más rápidas de impulsar el ROI de las inversiones en transformación digital. La automatización de procesos se centra a menudo en esfuerzos para optimizar gastos, lograr mayor eficiencia operativa y incorporar nuevas tecnologías innovadoras, lo que a menudo se traduce en una mejor experiencia del cliente. Otros beneficios de IA incluyen la creación de un sistema de TI más sostenible y la mejora de las pipelines de entrega continua/integración continua (CI/CD).
+
+Automatice la codificación y la modernización de aplicaciones
+Las empresas líderes están utilizando ahora IA generativa para la modernización de aplicaciones y operaciones de TI empresariales, incluyendo la automatización de la codificación, la implementación y la escalabilidad. Para la codificación, los desarrolladores pueden ingresar un comando de codificación como una oración simple en inglés a través de una interfaz de lenguaje natural y obtener código generado automáticamente. Al utilizar IA generativa con capacidades de generación de código, también se puede habilitar a los desarrolladores de la nube híbrida de todos los niveles de experiencia para migrar y modernizar el código de aplicaciones heredadas a gran escala, a nuevas plataformas objetivo con consistencia de código, menos errores y velocidad.
+
+Mejore el rendimiento de las aplicaciones
+Asegurar que las aplicaciones funcionen consistentemente y constantemente, sin sobreaprovisionar y gastar en exceso, es un caso de uso crítico de operaciones de IA (AIOps). La automatización es clave para optimizar costos en la nube, y los equipos de TI, por habilidosos que sean, no siempre tienen la capacidad de determinar continuamente las configuraciones exactas de computación, almacenamiento y base de datos necesarias para entregar rendimiento al menor costo. El software de IA puede identificar cuándo y cómo se utilizan los recursos, y coincidir con la demanda real en tiempo real.
+
+Fortalezca la resistencia del sistema de extremo a extremo
+Para ayudar a asegurar la disponibilidad del servicio sin interrupciones, las organizaciones líderes utilizan capacidades de análisis de causa raíz en tiempo real impulsadas por IA y automatización inteligente. AIOps puede habilitar a los equipos de ITOps para identificar rápidamente las causas subyacentes de los incidentes y tomar medidas inmediatas para reducir tanto el tiempo medio entre fallas (MTBF) como el tiempo medio de reparación (MTTR) de incidentes. Las soluciones de plataforma AIOps también consolidan datos de múltiples fuentes y correlacionan eventos en incidentes, brindando visibilidad clara en todo el entorno de TI a través de visualizaciones de infraestructura dinámicas, capacidades de IA integradas y acciones de remediación sugeridas.
+
+Utilizando la gestión predictiva de TI, los equipos de TI pueden utilizar IA para automatizar operaciones de TI y redes para resolver incidentes rápidamente y de manera eficiente, y prevenir problemas antes de que ocurran, mejorar las experiencias del usuario y reducir el costo de tareas administrativas. Para ayudar a eliminar la dispersión de herramientas, una plataforma de AIOps de grado empresarial puede proporcionar una visión holística de las operaciones de TI en una sola pantalla de vidrio para monitoreo y administración.
+
+Bloquee la seguridad cibernéticaHay muchas formas en que la IA puede utilizar el aprendizaje automático para entregar ciberseguridad mejorada, incluyendo: reconocimiento facial para autenticación, detección de fraude, programas antivirus para detectar y bloquear malware, aprendizaje por refuerzo para entrenar modelos que identifiquen y respondan a ciberataques y detecten intrusiones, y algoritmos de clasificación que etiqueten eventos como anomalías o ataques de phishing.
+
+Gear up robotics
+La IA no se trata solo de pedir un haiku escrito por un gato. Los robots manejan y mueven objetos físicos. En entornos industriales, la IA estrecha puede realizar tareas rutinarias y repetitivas que implican manejo de materiales, ensamblaje y inspecciones de calidad. La IA puede asistir a cirujanos al monitorear signos vitales y detectar posibles problemas durante los procedimientos. Las máquinas agrícolas pueden participar en poda autónoma, movimiento, raleo, siembra y rociado. Los dispositivos inteligentes para el hogar, como el iRobot Roomba, pueden navegar por el interior de una casa utilizando visión computarizada y utilizar datos almacenados en memoria para entender su progreso. Y si la IA puede guiar un Roomba, también puede dirigir coches autónomos en la carretera y robots que mueven mercaderías en un centro de distribución o en patrulla para protocolos de seguridad y seguridad.
+
+Limpieza con mantenimiento predictivo
+La IA se puede utilizar para mantenimiento predictivo analizando datos directamente desde la maquinaria para identificar problemas y marcar mantenimiento requerido. La IA también se ha utilizado para mejorar la eficiencia mecánica y reducir emisiones de carbono en motores. Los horarios de mantenimiento pueden utilizar análisis predictivos impulsados por la IA para crear mayor eficiencia.
+
+Vea lo que está por venir
+La IA puede ayudar con la predicción. Por ejemplo, una función de cadena de suministro puede utilizar algoritmos para predecir necesidades futuras y el tiempo que se necesita para que los productos lleguen a destino. Esto puede ayudar a crear nuevas eficiencias, reducir sobreexistencias y ayudar a compensar errores de reordenamiento.
+
+Casos de uso de IA en la industria
+La IA puede impulsar tareas y herramientas para casi cualquier industria para mejorar la eficiencia y la productividad. La IA puede entregar automatización inteligente para simplificar procesos empresariales que eran tareas manuales o funcionaban en sistemas heredados, lo que puede ser intensivo en recursos, costoso y propenso a errores humanos. A continuación, se presentan algunas de las industrias que se benefician actualmente del poder adicional de la IA.
+
+Automotriz
+Con aplicaciones de IA, los fabricantes de automóviles pueden predecir y ajustar la producción para responder a cambios en la oferta y la demanda. Pueden simplificar flujos de trabajo para aumentar la eficiencia y reducir tareas que consumen tiempo y el riesgo de error en la producción, soporte, compras y otras áreas. Los robots ayudan a reducir la necesidad de mano de obra manual y mejorar la detección de defectos, proporcionando vehículos de alta calidad a los clientes a un costo más bajo para la empresa.
+
+Educación
+En la educación y capacitación, la IA puede personalizar materiales educativos para las necesidades individuales de cada estudiante. Los maestros y capacitadores pueden utilizar análisis de IA para ver dónde los estudiantes pueden necesitar ayuda adicional y atención. Para los estudiantes tentados a plagiarizar sus trabajos o tareas, la IA puede ayudar a detectar el contenido copiado. Las herramientas de traducción de lenguaje impulsadas por IA y los servicios de transcripción en tiempo real pueden ayudar a los hablantes no nativos a entender las lecciones.
+
+EnergíaLas empresas del sector energético pueden aumentar su competitividad en cuanto a costos al aprovechar el uso de IA y análisis de datos para la predicción de la demanda, conservación de energía, optimización de renovables y gestión inteligente de la red. Al introducir la IA en los procesos de generación, transmisión y distribución de energía, la IA también puede mejorar el soporte al cliente, liberando recursos para la innovación. Y para los clientes que utilizan IA basada en proveedores, pueden comprender mejor su consumo de energía y tomar medidas para reducir su potencia durante los períodos de demanda pico.
+
+Servicios financieros
+La plataforma de FinOps impulsada por IA (Finanzas + DevOps) ayuda a las instituciones financieras a operacionalizar decisiones de gasto en la nube basadas en datos para equilibrar con seguridad el costo y el rendimiento, minimizando la fatiga de alertas y el desperdicio de presupuesto. Las plataformas de IA pueden utilizar el aprendizaje automático y el aprendizaje profundo para detectar transacciones sospechosas o anómalas. Los bancos y otros prestamistas pueden utilizar algoritmos de clasificación de ML y modelos predictivos para sugerir decisiones de préstamo.
+
+Muchas transacciones bursátiles utilizan ML con décadas de datos del mercado de valores para predecir tendencias y, en última instancia, sugerir si comprar o vender. El ML también puede realizar operaciones de trading algorítmico sin intervención humana. Los algoritmos de ML pueden predecir patrones, mejorar la precisión, reducir costos y reducir el riesgo de error humano.
+
+Atención médica
+La industria de la atención médica está utilizando la automatización inteligente con NLP para proporcionar un enfoque consistente para el análisis de datos, diagnóstico y tratamiento. El uso de chatbots en citas médicas remotas requiere menos intervención humana y a menudo un tiempo más corto para el diagnóstico.
+
+En el sitio, el ML se puede utilizar en imágenes de radiología, con visión computarizada habilitada por IA a menudo utilizada para analizar mamografías y para la detección temprana del cáncer de pulmón. El ML también se puede entrenar para crear planes de tratamiento, clasificar tumores, encontrar fracturas óseas y detectar trastornos neurológicos.
+
+En la investigación genética, la modificación génica y la secuenciación del genoma, el ML se utiliza para identificar cómo los genes afectan la salud. El ML puede identificar marcadores genéticos y genes que responderán o no a un tratamiento o medicamento específico y pueden causar efectos secundarios significativos en ciertas personas.
+
+Seguros
+Con la IA, los proveedores de seguros pueden virtualmente eliminar la necesidad de cálculos de tasas manuales o pagos y pueden simplificar el procesamiento de reclamos y evaluaciones. La automatización inteligente también ayuda a las empresas de seguros a cumplir con las regulaciones de cumplimiento más fácilmente, asegurándose de que se cumplan los requisitos. De esta manera, también pueden calcular el riesgo de un individuo o entidad y calcular la tasa de seguro adecuada.
+
+Manufactura
+El avance de la IA con análisis puede ayudar a los fabricantes a crear perspectivas predictivas sobre tendencias del mercado. La IA generativa puede acelerar y optimizar el diseño de productos al ayudar a las empresas a crear múltiples opciones de diseño. La IA también puede asistir con sugerencias para mejorar la eficiencia de la producción. Utilizando datos históricos de producción, la IA generativa puede predecir o localizar fallas en el equipo en tiempo real y luego sugerir ajustes de equipo, opciones de reparación o piezas de repuesto necesarias.
+
+Farmacéuticos
+Para la industria de las ciencias de la vida, el descubrimiento y la producción de fármacos requieren una gran cantidad de recopilación, collación, procesamiento y análisis de datos. Un enfoque manual para el desarrollo y la prueba podría llevar a errores de cálculo y requerir un gran volumen de recursos.Recursos.
+
+Por	contraste,	la	producción	de	vacunas	contra	el	Covid-19	en	tiempo	récord	es	un	ejemplo	de	cómo	la	automatización	inteligente	habilita
+procesos	que	mejoran	la	velocidad	y	calidad	de	producción.
+
+Minorista
+
+La	IA	se	está	convirtiendo	en	el arma	secreta	para	los	comerciantes	al	detall	para	entender	y	atender	mejor	las	demandas	de	los	consumidores	en	aumento.	Con	compras	en	línea	personalizadas,	modelos	de	comercio	directo	al	consumidor	y	servicios	de	entrega	en	competencia	con	el	comercio	al	detall,	la	IA	generativa	puede	ayudar	a	los	comerciantes	y	las	empresas	de	comercio electrónico	a	mejorar	el	atención	al	cliente,	planificar	campañas	de	mercado	y	transformar	las	capacidades	de	sus	talentos	y	sus	aplicaciones.	Incluso	puede	ayudar	a.optimizar	la	gestión	de	inventario.
+
+La	IA	generativa	se	destaca	en	el	tratamiento	de	fuentes	de	datos	diversas	como	correos	electrónicos,	imágenes,	vídeos,	archivos	de	audio	y	contenido	de	medios	sociales.	Este	datos	no	estructurados	forman	la	columna	vertebral	para	crear	modelos	y	entrenar	continuamente	la	IA	generativa,	así	puede	permanecer	útil	con	el	tiempo.	Aprovechar	estos	datos	no	estructurados	puede	extender	beneficios	a	varios	aspectos	de	las-operaciones	comerciales,	incluyendo	mejarar	el	servicio	al	cliente	a través	de	chatbots	y	facilitar	rutas	de	correos	más	eficaces.	En	la	práctica,	esto	podría	significar	guía	a	los	usuarios	hacia	los	recursos	adecuados,	ya	sea	conectándolos	con	el	agente	adecuado	o	dirigiéndolos	a	guías	de	usuarios	y	FAQ.
+
+Transporte
+
+La	IA	informa	a	muchos	sistemas	de	transporte	en	la	actualidad.	Por	ejemplo,	Google	Maps	utiliza	algoritmos	de	ML	para	comprobar	las	condiciones	de	tráfico	actuales,	determinar	la	ruta	más	rápida,	sugerir	lugares	para	“explorar	cerca”	y	estimar	tiempo	de	llegada.
+
+Las	aplicaciones	de	compartir	viajes	como	Uber	y	Lyft	utilizan	ML	para	emparejar	a	conductores	y	pasajeros,	fijar	precios,	examinar	el	tráfico	y,	al igual	que	Google	Maps,	análisis	de	condiciones	de	tráfico	en	tiempo	real	para	optimizar	rutas	de	conducción	y	estimar	tiempo	de	llegada.
+
+La	vision_por_computadora	guía	a	los	coches_autónomos.	Un	algoritmo_de	ML_no_supervisado	permite	a	los	coches_autónomos	recopilar	datos	desde	cámaras	y	sensores	para	entender	lo_que	sucede	a	su	alrededor	y	tomar	decisiones	en	tiempo	real.
+
+Cumplir	con	la.promesa	de	la	IA
+
+Mucho	de	lo_que	la	IA	puede	hacer	parece	milagroso,	pero	mucho	de	lo_que	se	informa	en	los	medios	de	comunicación	es	divertido	o	justo	asustador.
+
+Lo_que	ahora	está	disponible	para	las	empresas	es	una	herramienta	remarkablemente	poderosa	que	puede	ayudar	a	muchas	industrias	y	funciones	a	dar	grandes	pasos.
+
+Las	empresas_que	no	explorarán	y	adopatarán	los	casos	de_uso	más	beneficiosos	de	la	IA	pronto	estarán	en	desventaja	competitiva	severa.
+
+Mantener	un	ojo	en	los	herramientas_de	IA	más	útiles,	como	IBM	watsonx.ai™,	y	dominarlos	ahora	pagarán	dividendos	great.
+
+Explora	IBM®	watsonx.ai™
+
+¿Este.artículo	fue	útil?
+Sí
+No
+
+Etiquetas
+inteligencia	artificial
+	|	
+seguridad	cibernética
+	|	
+experiencia	del	usuario
+	|	
+IA	para	atención	al	cliente
+
+Jim	Holdsworth
+Escritor
+®MÁS DE INTELIGENCIA ARTIFICIAL
+| 
+17 de mayo de 2024
+Una nueva era en BI: Superar la baja adopción para hacer que las decisiones inteligentes sean accesibles para todos
+5 minutos de lectura
+- 
+Las organizaciones de hoy en día están tanto empoderadas como abrumadas por los datos. Esta paradoja yace en el corazón de la estrategia empresarial moderna: aunque hay una cantidad sin precedentes de datos disponibles, desbloquear insights acciónables requiere más que acceso a números. El impulso para mejorar la productividad, utilizar recursos sabiamente y impulsar la sostenibilidad a través de la toma de decisiones basada en datos es más fuerte que nunca. Sin embargo, las tasas de adopción bajas de herramientas de inteligencia empresarial (BI) presentan un obstáculo significativo. Según Gartner, aunque el número de empleados que ...
+análisis y ...
+| 
+15 de mayo de 2024
+El poder de la ejecución remota de motores para tuberías de datos ETL/ELT
+5 minutos de lectura
+- 
+Los líderes empresariales arriesgan comprometer su ventaja competitiva si no implementan proactivamente la inteligencia artificial generativa (IA genérica). Sin embargo, las empresas que escalan la IA enfrentan barreras de entrada. Las organizaciones requieren datos confiables para modelos de IA robustos y insights precisos, pero el paisaje tecnológico actual presenta desafíos sin precedentes en cuanto a la calidad de los datos. Según la Corporación Internacional de Datos (IDC), los datos almacenados aumentarán un 250% para 2025, con datos que se propagan rápidamente en entornos locales y en la nube, aplicaciones y ubicaciones con calidad de datos comprometida. ...
+Esta situación exacerbará los silos de datos, aumentará los costos ...
+Tendencia
+INTELIGENCIA ARTIFICIAL 
+| 
+6 de mayo de 2024
+Redefinir ensayos clínicos: Adoptar IA para velocidad, volumen y diversidad
+8 minutos de lectura
+- 
+Al utilizar IA en su proceso de adquisición de talentos, puede reducir el tiempo de contratación, mejorar la calidad de los candidatos y aumentar la inclusión y la diversidad.
+INTELIGENCIA ARTIFICIAL 
+| 
+7 de mayo de 2024
+Revolutionar su estrategia de adquisición de talentos: Cómo la IA puede ayudarlo a encontrar a los candidatos adecuados más rápido
+2 minutos de lectura
+- 
+Nuestra solución de inteligencia artificial (IA) líder es diseñada para ayudarlo a encontrar a los candidatos adecuados más rápido y de manera más eficiente.
+SEGURIDAD 
+| 
+6 de mayo de 2024
+La mejor apuesta de las empresas para el futuro: Seguridad de la IA generativa
+4 minutos de lectura
+- 
+Mientras la IA transforma y redefine cómo las empresas operan y cómo los clientes interactúan con ellas, la confianza en la tecnología debe ser construida.14 de mayo de 2024
+¿Por dónde empezar?: 3 líderes de IBM ofrecen orientación a nuevos oficiales jefes de inteligencia artificial
+
+4 minutos de lectura
+
+El número de oficiales jefes de inteligencia artificial (CAIOs) ha aumentado casi tres veces en los últimos 5 años, según LinkedIn. Las empresas de diversas industrias están comprendiendo la necesidad de integrar la inteligencia artificial (IA) en sus estrategias centrales desde la cúpula para no quedarse atrás. Estos líderes de IA son responsables de desarrollar un plan para la adopción de IA y supervisar tanto en empresas como en el gobierno federal. Tras una reciente orden ejecutiva de la administración de Biden y un aumento meteórico en la adopción de IA en…
+
+Boletines de noticias de IBM
+Obtenga nuestros boletines y actualizaciones de temas que entregan el liderazgo de pensamiento y perspectivas sobre tendencias emergentes.
+Suscríbase ahora
+Más boletines

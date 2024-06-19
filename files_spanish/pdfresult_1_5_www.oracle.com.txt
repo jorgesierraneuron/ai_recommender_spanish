@@ -1,0 +1,257 @@
+10-puedes-hacerlo-hoy
+inteligencia artificial  
+casos de uso
+¿Necesitas mejorar la productividad de los trabajadores, detectar transacciones fraudulentas o aumentar las ventas— 
+sin inversiones masivas? 
+La IA puede ayudar. Hay soluciones disponibles ahora que pueden transcribir y resumir texto hablado, distinguir entre actividad legítima y maliciosa, e incluso escanear millones de publicaciones en redes sociales para detectar tendencias y realizar análisis de sentimiento en tiempo real.
+¿Listo para ver lo que la IA puede hacer por ti?Índice de contenidos
+
+¿Qué es IA? ................................................................................................................... 03
+IA generativa: lista para la hora de oro ...................................................................... 05
+¿Por qué es importante la IA? ................................................................................................. 06
+Cuatro casos de uso para consumidores ........................................................................... 07
+Tres casos de uso para industrias reguladas ....................................................................... 13
+Tres casos de uso para industrias críticas .......................................................................... 19
+¿Por qué tecnología de IA de Oracle? ........................................................................... 23
+2 10 casos de uso de inteligencia artificial que puedes hacer hoy mismoLa inteligencia artificial es una categoría amplia que abarca muchas tecnologías. 
+La IA entrega nuevas capacidades en aplicaciones que respaldan flujos de trabajo de procesos empresariales, como aquellos encontrados en finanzas, recursos humanos, ventas, servicio al cliente y compras. Estas capacidades de IA mejoran los flujos de trabajo automatizando tareas y generando insights para tomar decisiones más informadas. 
+Algunas funciones de IA necesitan cantidades vastas de potencia de computación en la nube; otras pueden ejecutarse en un smartphone típico o dispositivo embebido. Para muchas organizaciones, la IA ya es parte del flujo de trabajo, entregada como capacidades avanzadas integradas en software utilizado para finanzas, recursos humanos, ventas, servicio al cliente y compras. ¿Qué es la IA? 
+3 10 casos de uso de inteligencia artificial que puedes implementar hoy mismo.1
+2
+3
+4
+5
+Debido a que el campo es vasto y en evolución, no hay una lista definitiva de capacidades de IA. 
+Sin embargo, aquí hay cinco de las tecnologías de IA más comunes en uso hoy en día, ya sea como 
+características de software o integradas mediante API.
+
+Asistentes digitales aplican análisis semántico profundo utilizando procesamiento y comprensión del lenguaje natural, así como algoritmos personalizados para derivar intención y contexto precisos de conversaciones. Con asistentes digitales que entienden el vocabulario específico de la empresa, los empleados y clientes pueden comunicarse con aplicaciones utilizando comandos de voz.
+
+Sistemas de reconocimiento de voz crean transcripciones precisas y en tiempo real a partir de conversaciones naturales o convierten grabaciones de audio en datos de texto para analizar con servicios de IA. El reconocimiento de voz es cada vez más multilingüe, con la capacidad de traducir entre múltiples idiomas de manera instantánea.
+
+Servicios de lenguaje detectan y traducen idiomas en texto escrito y reconocen automáticamente tipos específicos de contenido, incluyendo nombres de personas, ubicaciones, productos y organizaciones. Estos servicios también pueden analizar el estado de ánimo o tono del texto como positivo, negativo o neutral con una puntuación de confianza y clasificar automáticamente el texto según palabras y frases clave.
+
+Reconocimiento de visión extrae información textual o visual de imágenes estáticas y en movimiento y utiliza esos datos para impulsar aplicaciones de análisis. Estas herramientas de IA pueden enriquecer archivos de imagen con etiquetas de metadatos, como descripciones de objetos; esas imágenes etiquetadas pueden ser indexadas para usos como búsqueda y recuperación inteligentes. Con la capacitación adecuada, el sistema también puede detectar anomalías en fotografías y videos, lo que es por qué el reconocimiento de visión se está utilizando actualmente en aplicaciones de manufactura como control de calidad automático.
+
+Comprensión de documentos extrae automáticamente texto y pares clave-valor de una variedad de archivos digitales o escaneados, incluyendo aquellos que están rotados, inclinados o incluso deteriorados. Esto puede ayudar con aplicaciones como el procesamiento de gastos, leyendo recibos, o logística, entendiendo facturas de carga. Estas herramientas también pueden identificar y extraer la estructura de tabla de documentos y clasificar documentos en categorías comunes.
+
+4 10 casos de uso de inteligencia artificial que puedes hacer hoy mismo.3 capacidades de IA generativa
+
+La IA generativa crea contenido nuevo en forma de imágenes, texto, audio o incluso código de software. 
+Ejemplos de sistemas de IA generativa incluyen ChatGPT, que puede responder a preguntas, 
+resumir texto o llevar a cabo instrucciones generando una respuesta escrita a una consulta, y 
+Dall-E, que genera imágenes en variedad de estilos basadas en comandos. 
+La IA generativa se está integrando en aplicaciones empresariales para trabajar con y aumentar otras 
+funcionalidades de IA, como generar automáticamente un borrador de trabajo o descripción de producto, 
+redactar una nota de alta médica o resumir concisamente un artículo para responder a una consulta de soporte al cliente.
+La IA generativa puede resumir documentos, información de bases de datos o otros datos en forma escrita y hacer que la salida de chatbots interactivos parezca más natural. (Un chatbot es un programa interactivo que puede conversar con un cliente o empleado en tiempo real utilizando texto escrito.)
+
+IA Generativa: Lista para el momento de la verdad
+
+• Autoría asistida  
+Las capacidades de IA generativa pueden crear contenido rápidamente, como descripciones de trabajo o producto, para revisión, revisión y aprobación, utilizando una breve solicitud.
+• Sugestiones  
+Guíe rápidamente a los usuarios hacia mejores resultados basados en el procesamiento del lenguaje natural y las mejores prácticas. 
+La IA generativa también puede ofrecer recomendaciones para preguntas de encuestas o consejos de desarrollo profesional para que los gerentes los brinden a los empleados. Por ejemplo, una aplicación de servicio al cliente puede sugerir un artículo de "cómo hacer" basado en la consulta del cliente.
+• Resumen  
+Aumente la eficiencia identificando los elementos clave de contenido de una o varias fuentes de datos. Las nuevas capacidades de IA generativa pueden explicar los elementos clave del contenido para una consumo simple e impactante. 
+Por ejemplo, un agente de servicio al cliente puede pedir un resumen de un artículo de base de conocimientos para resolver una consulta de servicio al cliente o entregar un resumen de texto conciso de una tabla o gráfico.
+
+5 10 casos de uso de inteligencia artificial que puedes hacer hoy mismoLos productos de IA orientados al consumidor están en todas las noticias, pero la IA tiene muchos usos prácticos en los negocios. Cada vez que utiliza un corrector de ortografía o gramática, eso es inteligencia artificial. ¿Su equipo de marketing hace recomendaciones de productos para aumentar las ventas adicionales? ¿Puede el departamento de finanzas procesar más facturas, con mayor precisión y con menos personal?
+Agradezca a la IA.
+
+De hecho, muchos de los mejores productos de IA para empresas no son productos en sí. Son características y funciones integradas en aplicaciones críticas para la misión, como la planificación de recursos empresariales (ERP), logística, contabilidad o gestión de recursos humanos.
+
+Estas nuevas características tienen una cosa en común: algoritmos de búsqueda de patrones sofisticados que, una vez entrenados, aplican patrones para ayudar a los humanos a realizar tareas o resolver problemas utilizando capacidades como el reconocimiento de voz, clasificación de imágenes y comprensión de documentos.
+
+Los conjuntos de datos utilizados por la IA para entrenar modelos precisos pueden ser enormes, y la cantidad de potencia de cálculo requerida para entrenar sistemas de IA puede ser sustancial. Las organizaciones pueden elegir utilizar sus propios datos, ya sean estructurados, como una base de datos, o semiestructurados/no estructurados, como texto, gráficos, audio o video, para crear modelos personalizados. ¿Por qué es importante la IA?
+6 casos de uso de inteligencia artificial que puede implementar hoy mismo.Cuatro casos de uso enfocados en el consumidor
+
+Los minoristas operan en un mundo complejo e interconectado de clientes, socios, proveedores, productos, servicios y mercados. La IA puede ayudar a maximizar la eficiencia mientras brinda una oportunidad a los empleados para deleitar a los clientes.
+
+Cliente: Una línea de ropa minorista con docenas de tiendas físicas.
+
+El problema: Mantener niveles de inventario adecuados en tiendas y almacenes regionales es crítico para los minoristas. Incluso problemas ocasionales con proveedores pueden llevar a agotamientos. En este negocio de baja margen, no tener un SKU popular es especialmente desafiante durante las ventas y promociones. Los gerentes quieren deleitar a los compradores y aumentar las ventas, pero sin comprar en exceso.
+
+1Optimización de la cadena de suministro
+7 10 casos de uso de inteligencia artificial que puedes implementar hoy mismoLa solución de IA: El minorista tiene múltiples fuentes de información, que van desde terminales de punto de venta hasta sistemas de inventario de almacén. También tiene conocimientos sobre los horarios de entrega de los proveedores a los almacenes y desde los almacenes a las tiendas.
+
+El sistema de planificación de recursos empresariales de la empresa registra datos históricos de ventas, que incluyen factores externos como la estacionalidad, patrones climáticos y resultados de campañas de marketing y promociones.
+
+Sistemas avanzados de gestión de datos integran esta información en un conjunto de datos masivo, que luego es modelado por científicos de datos y se introduce en un modelo de predicción que puede hacer predicciones, como un aumento en la demanda debido a un feriado o una promoción de marketing planificada, y determinar el tiempo requerido para adquirir y distribuir el inventario adicional.
+
+El modelo de IA puede ser proactivo: por ejemplo, puede alertar al minorista de que las ventas de ciertos artículos superan la capacidad de reabastecimiento en algunas ubicaciones y sugerir que se utilicen ofertas promocionales para redirigir a los clientes hacia otros productos.
+
+La mayoría de los sistemas de predicción basados en ERP pueden producir informes sofisticados. Un escritor de informes de IA generativa va más allá, creando resúmenes personalizados y en lenguaje claro de estos informes, adaptados para cada tienda, instruyendo a los gerentes sobre cómo maximizar las ventas de artículos bien surtidos mientras se mitiguen posibles escaseces.
+
+Oracle Cloud 
+Infraestructura  
+(OCI) Ciencia de datosOracle Cloud 
+Infraestructura 
+(OCI) IA Generativa 
+(próximamente)Soluciones de Oracle
+
+8 10 casos de uso de inteligencia artificial que puedes implementar hoy mismo2Hospitalidad
+Análisis de retroalimentación del cliente
+Cliente: Una cadena de hoteles que depende de las calificaciones positivas en las redes sociales y sitios web de reseñas.
+
+El problema: La cadena de hoteles no puede seguir el rastro de sus reseñas en línea. Hay demasiados mensajes, comentarios y menciones con hashtags para que el personal de atención al cliente los siga y analice, lo que conduce a oportunidades perdidas para interactuar con clientes insatisfechos que se quejan en las redes sociales. Los ejecutivos corporativos no pueden rastrear tendencias de sentimiento. Los gerentes de hoteles no saben lo que se está diciendo lo suficientemente rápido como para abordar problemas en tiempo real.
+
+La solución de IA: El hotel puede crear un gran conjunto de datos a partir de las decenas de miles de reseñas en línea publicadas previamente en sitios como Yelp, TripAdvisor, su propia página de Facebook, sitios web de reservas y comentarios recopilados de las redes sociales, examinando menciones y hashtags. Un sistema de lenguaje textual de IA puede realizar un análisis de sentimiento en todo ese conjunto de datos para determinar una línea base que se puede reevaluar periódicamente para detectar tendencias. Llevándolo un paso más allá, los científicos de datos podrían construir un modelo que correlacione esos mensajes textuales y sus sentimientos con ubicaciones de hoteles específicas, niveles de ocupación, personal en fechas específicas y otros factores como el clima. La IA puede determinar si hay señales que adviertan a los hoteles individuales de situaciones que pueden llevar a quejas, para que se puedan tomar medidas correctivas con anticipación.
+9 10 casos de uso de inteligencia artificial que puedes implementar hoy mismo.OCI Ciencia de Datos OCI Idioma Oracle Analytics OCI IA Generativa 
+(próximamente)Soluciones de OracleCon IA, el hotel puede recibir alertas en tiempo real sobre problemas al escanear las redes sociales y otros canales, 
+comparar los datos con el modelo y ejecutar un análisis de sentimiento. 
+La IA Generativa puede extraer sugerencias y insights valiosos tanto de comentarios positivos como negativos. 
+Quizás los clientes en una ubicación tienen problemas con el estacionamiento. Las habitaciones de huéspedes desactualizadas y las horas de desayuno inconvenientes 
+están generando revuelo en otra propiedad. El bufé en otra ubicación recibe muchos comentarios entusiastas. 
+La IA puede detectar esas tendencias, incluso si la fraseología no es idéntica. Este uso de la IA puede ir más allá del análisis de sentimiento para ofrecer orientación proactiva a los gerentes individuales y la sede corporativa, permitiéndole mejorar continuamente sus experiencias de huéspedes. 
+10 10 casos de uso de inteligencia artificial que puedes implementar hoy mismoCliente: Una empresa de alquiler de coches con una línea de reservas ocupada.
+
+El problema: El gerente del centro de llamadas quiere brindar una gran experiencia a cada cliente mientras minimiza el número de llamadas en espera o transferidas a supervisores. Pero las llamadas siguen llegando. La gente llama a la línea de ayuda por cualquier número de razones: para hacer reservas; preguntar por cambios, cancelaciones o un mejor precio; o para obtener ayuda para encontrar ubicaciones de recogida y entrega. Los clientes llaman cuando están en una crisis, como una llanta pinchada, o cuando simplemente no pueden descubrir cómo abrir el maletero.
+
+La solución de IA: En el centro de llamadas, varias tecnologías de IA se pueden combinar para actuar como un asistente invisible para los agentes, transcribiendo cada llamada en tiempo real, realizando análisis de sentimiento para descubrir el significado y asesorando a los agentes a través de pantallas de información y ventanas de chatbot. Por ejemplo, el reconocimiento de voz de IA puede detectar información esencial, como el nombre del cliente, la ciudad del coche de alquiler, el número de cuenta y el número de política de alquiler, y mostrar esta información al agente.
+
+Un sistema de IA generativa, respaldado por un gran modelo de lenguaje (LLM) y una base de conocimientos, puede entender muchas preguntas comunes y proporcionar respuestas a los agentes. ¿No puede encontrar el mostrador de alquiler? El IA puede proporcionar al agente un mapa y crear direcciones. ¿Ha habido un accidente? El IA puede desencadenar respuestas automáticas mientras pregunta al agente las preguntas esenciales.
+
+La tecnología de IA también puede ayudar al agente evaluando las respuestas emocionales del llamante, ya sea feliz, estresado, enojado o confundido. Puede ofrecer sugerencias para desescalar situaciones confrontativas y solicitar al agente que ofrezca descuentos, mejoras, puntos de frecuencia de alquiler o otras acomodaciones. Después de la llamada, el sistema de IA puede ayudar a evaluar la calidad de la llamada y la satisfacción del cliente, con retroalimentación para el agente y el gerente.Cliente: Un gran almacén y centro de envíos que contrata a cientos de empleados a tiempo completo, parcial y estacional cada año.
+
+El problema: El proceso de predecir las necesidades de contratación y plazos y generar las descripciones de trabajo puede ser consumidor de tiempo para el Departamento de Recursos Humanos (RRHH), creando un cuello de botella en el proceso de contratación. Los gerentes necesitan saber cuándo comenzar el proceso de reclutamiento porque algunos puestos son más difíciles de llenar que otros. Y aunque muchos de los trabajos parecen similares, hay suficientes diferencias para afectar las descripciones de trabajo y la escala salarial.
+
+La solución de IA: Utilizando su base de datos de empleados actuales y pasados, el Departamento de Recursos Humanos puede entrenar un modelo de IA para predecir cuánto tiempo es probable que los trabajadores permanezcan en un puesto. El modelo de IA tiene en cuenta los detalles de cada categoría de trabajo, así como la edad de los empleados, el salario inicial, el historial de aumentos y bonificaciones, y las temporadas típicas en que los trabajadores pueden dejar, como justo antes del comienzo del año escolar. Con esa información, el sistema de IA puede hacer predicciones razonables para estimar el número de vacantes y cuándo pueden ocurrir. Cuando se combina con datos históricos sobre fechas de inicio y publicidad, el modelo de IA puede aconsejar al Departamento de Recursos Humanos sobre cuándo comenzar a buscar a esos trabajadores.
+
+El Departamento de Recursos Humanos puede alimentar su base de datos de descripciones de trabajo en un modelo de datos (una representación visual de elementos de datos y sus conexiones) para generar listas de verificación para los gerentes de contratación y el personal de RRHH para utilizar cuando preparen para contratar roles específicos. Luego, la IA generativa puede tomar esas listas de verificación y crear borradores de texto de descripciones de trabajo y anuncios de trabajo formateados según los estilos de específicos sitios de trabajo y otros sitios de publicación.
+
+El resultado: Utilizando estos modelos predictivos, el Departamento de Recursos Humanos puede planificar con mayor precisión las necesidades de contratación a lo largo del año, minimizando tanto la escasez de personal como el tiempo invertido en preparar descripciones de trabajo y anuncios para puestos vacantes.Tres casos de uso en industrias reguladas
+
+Las organizaciones reguladas deben equilibrar cuidadosamente la atención a sus misiones principales mientras permanecen cumpliendo con las normas. La IA puede ayudarlas a mejorar sus servicios mientras aumenta la eficiencia.
+
+1Atención médica
+El viaje del paciente
+
+Cliente: Una práctica médica en rápido crecimiento que necesita ayuda con la programación de citas.
+
+El problema: La mecánica de las citas médicas puede ser frustrante para todos los involucrados: pacientes, recepcionistas, enfermeras y médicos. Hay muchos pasos consumidores de tiempo, incluyendo la programación, el registro, las interacciones con el médico, el pago y los seguimientos. El personal capacitado es difícil de contratar, y las reglas para el manejo de registros de pacientes dejan poco margen de error. Para obtener buenas calificaciones, las prácticas necesitan mejorar la satisfacción del paciente entregando tiempos de espera más cortos y menos burocracia. Los profesionales médicos también aprecian los avances en productividad que les permiten atender a más pacientes por día.
+
+13 10 casos de uso de inteligencia artificial que puedes implementar hoy mismoLa solución de IA: Los registros electrónicos de salud abren un mundo de beneficios potenciales. Utilizando visión por computadora y comprensión de documentos, por ejemplo, un sistema de diagnóstico puede analizar resultados de laboratorio según se presentan a la práctica, resumiéndolos para la revisión del médico como preparación para una visita del paciente. La IA puede interpretar formularios en papel, imágenes escaneadas y pruebas, como rayos X y tomografías computarizadas, así como datos estructurados para ofrecer una o más análisis posibles para el médico, considerando la investigación más reciente y la historia del paciente.
+
+La IA generativa puede resumir transcripciones de la visita, así como resultados de laboratorio y el diagnóstico del médico, y preparar un borrador de estos materiales para que el personal médico lo edite y apruebe, ahorrando tiempo. Si el médico recomienda un régimen de ejercicios específico, por ejemplo, el modelo de IA generativa puede preparar instrucciones que consideren factores como una reciente sustitución de rodilla o una preferencia por nadar sobre caminar.
+
+Con la IA generativa, las prácticas médicas pueden lograr resultados de salud positivos mientras atienden a la mayor cantidad de personas posible. Y en el proceso, las prácticas pueden reducir costos, mejorar ganancias y brindar experiencias centradas en el paciente para pacientes que reciben un tratamiento mejor y más rápido.
+
+Soluciones de Oracle
+OCI Ciencia de datos OCI Visión Oracle Cloud
+Infraestructura (OCI) Comprensión de documentos
+OCI IA Generativa (próximamente)
+
+14 10 casos de uso de inteligencia artificial que puedes hacer hoyServicios financieros
+Verificación del cliente y protección contra el fraude
+Cliente: Un banco regional necesita detectar el fraude de manera más rápida y efectiva.
+
+El problema: Desafortunadamente, el fraude puede infiltrarse en cualquier parte de las operaciones minoristas de un banco. Las sucursales pueden encontrar documentos falsos utilizados para abrir cuentas y cheques robados depositados. El fraude puede ocurrir con transacciones en línea desde un teléfono o navegador, en cajeros automáticos fuera del sitio, incluso entre el personal. Sin confianza, los bancos no tendrán clientes ni accionistas. El fraude excesivo y los retrasos en detectarlo pueden violar las regulaciones de la industria financiera, aumentar las primas de seguro, invitar a una mayor supervisión por parte de las agencias reguladoras y generar publicidad negativa. Eso significa una pérdida de confianza por parte de los clientes, inversores y el mercado en general.
+
+15 10 casos de uso de inteligencia artificial que puedes implementar hoyOCI Ciencia de Datos OCI Documento 
+
+Comprensión de las soluciones de Oracle
+
+La solución de IA: Detección de fraude puede combinar múltiples tecnologías de IA, incluyendo visión por computadora para interpretar documentos escaneados; verificación de documentos para autenticar materiales de identificación, como licencias de conducir o tarjetas de identidad nacional; y aprendizaje automático (ML) para comparar información de transacciones contra un modelo grande de transacciones legítimas y fraudulentas conocidas.
+
+Juntas, estas tecnologías alimentan un modelo de detección de anomalías que calcula el riesgo estadístico de fraude en cada transacción intentada en cuestión de segundos. Si el riesgo es demasiado alto, se activan alertas que desencadenan acciones automatizadas, como colocar una retención en retiradas, solicitar al cliente que proporcione formas adicionales de identificación o retrasar temporalmente la transacción pendiente de una revisión manual por un especialista en evaluación de riesgos.
+
+Considere una solicitud para abrir una tarjeta de crédito. El solicitante puede estar utilizando una puntuación crediticia real, dirección, identificación y otra información personal; o puede ser fraudulenta, obtenida a través de robo de identidad. El sistema de IA podría detectar anomalías basadas en factores que un humano puede no notar, como una identificación con una dirección física o dirección de correo electrónico ligeramente diferente a la solicitud, o una identificación que es una fotografía de una identificación escaneada por un dispositivo móvil en lugar del artículo genuino.
+
+El resultado: Detección de fraude rápida y confiable, con mínimos falsos positivos o negativos. Los desencadenantes y explicaciones automatizados habilitados por IA pueden facilitar una revisión de evaluación de riesgos manual rápida dentro de los plazos necesarios para satisfacer las regulaciones bancarias gubernamentales, sin inconvenientes para los clientes honestos.
+
+16 10 casos de uso de inteligencia artificial que puedes hacer hoyCiencias de la salud
+Investigación farmacéutica
+Cliente: Una empresa biotecnológica que busca encontrar tratamientos nuevos y efectivos de manera más rápida y rentable.
+
+El problema: Los investigadores en empresas biotecnológicas deben integrar una gran cantidad de información, como investigaciones previas en sus empresas, artículos en revistas revisadas por pares, trabajos académicos en curso, ensayos clínicos formales, solicitudes de patentes y más. Tener una comprensión completa del trabajo previo puede sugerir nuevos enfoques para resolver problemas, ahorrando tiempo y costos al evitar intentar algo que ya ha fracasado. Cualquier cosa que ayude al investigador a encontrar e interpretar información relevante acelerará el proceso, lo que ayudará a llevar nuevos medicamentos y dispositivos médicos al mercado más rápidamente.
+
+17 Casos de uso de inteligencia artificial que puedes implementar hoy mismoOCI Ciencia de Datos OCI Documento 
+Comprensión de OCI Generativa IA 
+(próximamente)Soluciones de OracleLa solución de IA: Una gran cantidad de información ya se encuentra en forma digital: revistas en línea, patentes y datos de ensayos clínicos. Gran parte de esa información está estructurada en una base de datos o una hoja de cálculo. Otras fuentes de datos, como artículos de revistas, se presentan como documentos complejos, a menudo con un diseño detallado y diagramas incrustados. La comprensión de documentos de IA, así como el procesamiento de imágenes y la traducción de idiomas, pueden trabajar con IA generativa para resumir esos documentos, extraer información relevante y determinar la relevancia para un proyecto en particular. Los documentos también se pueden recopilar en un gran modelo de datos que se puede estudiar y analizar para obtener insights.  
+El trabajo no se detiene cuando se encuentra un documento, diagrama, base de datos o información relevante. La IA generativa puede trabajar con el investigador para encontrar la información específica, resumirla y incluso crear interactivamente una representación contextual de cómo esa información externa se relaciona con el trabajo actual del investigador.  
+El beneficio va más allá del obvio aumento de productividad para el investigador. Dada la gran cantidad de datos farmacéuticos disponibles, sería fácil pasar por alto información relevante que podría resultar en avances o advertir sobre posibles áreas de preocupación, como efectos secundarios. Dada la gran cantidad de recursos y el tiempo que se requiere para revisar material previo, la asistencia de IA puede ser un cambio de juego —y un salvavidas.
+18 10 casos de uso de inteligencia artificial que puedes implementar hoy mismoTres casos de uso críticos de industrias
+
+Las comunidades y gobiernos confían en organizaciones municipales y del sector privado para brindar servicios esenciales a personas, empresas, instituciones y la comunidad. La IA puede asistir proactivamente con muchas de las tareas requeridas para mantener un estado de preparación.
+
+Cliente: Un operador de red eléctrica con un área de servicio de miles de millas cuadradas.
+
+El problema: El operador posee una gran variedad de equipos -pilones y subestaciones, líneas de transmisión de larga distancia, cables subterráneos, postes y transformadores. El mantenimiento preventivo de este equipo es tanto necesario como complejo, y debe realizarse según los horarios de los fabricantes, así como cuando los dispositivos individuales muestran señales de problemas. El objetivo es realizar el mantenimiento de la manera más rentable posible, reducir el tiempo de viaje y aprovechar las habilidades y disponibilidad de los técnicos, al mismo tiempo que se cumplen los requisitos de entrega de servicio de uptime.
+
+Utilidades
+Mantenimiento predictivo
+19 10 casos de uso de inteligencia artificial que puedes implementar hoyLa solución de IA: Con la IA, los datos informan las decisiones sobre el mantenimiento programado regularmente y alertan al personal para que envíe un equipo de manera preventiva cuando un sistema parece probable que falle. Las bases de datos relacionales y los sistemas de información geográfica (SIG) almacenan la ubicación de cada dispositivo, el historial de mantenimiento y problemas, y los intervalos de servicio recomendados. Las imágenes capturadas por drones pueden detectar puntos de problemas en los pilones de energía eléctrica remotos y ayudar a evitar el riesgo de incendio evaluando si la vegetación en el derecho de paso necesita ser despejada. Mientras tanto, los sensores en transformadores y otros dispositivos pueden transmitir puntos de datos, incluyendo la temperatura de funcionamiento, fluctuaciones de potencia y otros datos de telemetría. Esta información registrada y la telemetría con marca de tiempo se pueden alimentar en un sistema de IA que determina una línea base para operaciones normales durante varias estaciones, condiciones climáticas y utilización de la red. 
+Los algoritmos pueden entonces no solo detectar anomalías basadas en datos en tiempo real de dispositivos, sino también determinar la gravedad: ¿Es un caso de "revisa esto la próxima vez que un equipo esté en el área" o una situación de "prepara para redirigir la potencia mientras se envía un equipo"? El software de pronóstico puede hacer recomendaciones mientras muestra los datos justificativos. También puede maximizar la eficiencia de los equipos de campo identificando el mantenimiento proactivo que se puede realizar mientras los trabajadores reparan equipos cercanos. 
+Con programación inteligente, detección de anomalías y pronóstico basado en datos pasados, la empresa de servicios públicos puede anticipar fallos y recibir advertencias tempranas de posibles problemas, lo que garantiza el tiempo de actividad del equipo y ayuda a administrar los costos de mantenimiento.Cliente: Una fábrica que produce partes metálicas y otros productos utilizados en la construcción de barcos, construcción y otras aplicaciones.
+
+El problema: Muchos fabricantes trabajan bajo estrictos requisitos y controles de calidad, a menudo debido a regulaciones industriales y/o términos contractuales. Como resultado, estas fábricas utilizan tanto inspecciones visuales como medios electrónicos para monitorear la calidad del producto. Una parte que no cumpla con los requisitos puede ser re trabajada o repropósita, o puede necesitar ser descartada. La fábrica busca maximizar sus ganancias y producción al enviar la mayor cantidad posible de material bueno mientras minimiza el desperdicio detectando y manejando defectos temprano.
+
+La solución de IA: Las fábricas generan una gran cantidad de datos sobre cómo se creó cada producto, incluyendo temperaturas de horno y la cantidad de metales y gases utilizados en cada etapa del proceso de manufactura, que se pueden comparar con los requisitos y las mejores prácticas.
+
+Además, el proceso de aseguramiento de la calidad crea imágenes de rayos X. Estos datos pueden ser interpretados por visión por computadora, que puede aprender a identificar grietas y otros puntos débiles después de ser entrenada en un gran conjunto de datos. Dichos defectos pueden ser categorizados según su tamaño, forma y cantidad. Además, los datos problemáticos o ambiguos pueden ser destacados para inspectores humanos, que serán los árbitros finales de la inspección de QA.
+
+De esta manera, el aprendizaje automático basado en modelos de datos grandes, telemetría en tiempo real y visión por computadora pueden ayudar a analizar los datos y hacer recomendaciones para aprobar o repropósitar cada producto. Por ejemplo, una viga que no es lo suficientemente fuerte para sostener 100 toneladas para una aplicación puede ser certificada para sostener 10 toneladas para una aplicación diferente. Puede ser vendida a un precio más bajo, pero eso es mejor que desecharla por completo.
+
+Manufactura
+Inspección visual de calidad
+OCI Ciencia de datos
+OCI Visión
+Soluciones de Oracle
+21
+10 Casos de uso de inteligencia artificial que puedes implementar hoy mismo.Cliente: Un sitio gubernamental que requiere un control de acceso estricto.
+
+El problema: El personal de seguridad en una instalación de defensa de mínima seguridad necesita determinar rápidamente qué individuos deben ser autorizados para acceder, a menudo utilizando documentos, como pasaportes, tarjetas de identidad nacional o (en los Estados Unidos) una licencia de conducir. Estos documentos vienen en una amplia variedad de tamaños, formas, diseños y con marcas de autenticidad únicas, lo que hace difícil para el personal de seguridad detectar los falsificados. También puede ser desafiante automatizar el proceso de extracción de información de esos documentos para verificar contra bases de datos y registrar en registros de visitantes.
+
+La solución de IA: Los escáneres de checkpoint pueden enviar rápidamente las tarjetas de identificación a un gran modelo de IA que ha sido entrenado no solo para reconocer varios tipos de documentos de identificación, sino también para verificarlos contra controles de seguridad implícitos y una gran muestra de documentos falsificados o fraudulentos, lo que hace posible determinar qué documentos son legítimos con un alto grado de confianza.
+
+Más allá de la apariencia del propio documento, los algoritmos de comprensión de documentos pueden analizar y extraer datos, incluso cuando esos datos no están etiquetados. Por ejemplo, un campo puede estar escrito en muchas formas, algunas numéricas, algunas alfanuméricas; un documento de identificación con varios elementos que parecen fechas puede tener una fecha de emisión, una fecha de vencimiento y la fecha de nacimiento de la persona—ninguna de las cuales está claramente etiquetada. Los nombres, direcciones y otra información también pueden requerir interpretación por un algoritmo de IA entrenado con un gran conjunto de datos.
+
+Una vez que se ha extraído la información del documento y se ha alcanzado una determinación de fraude, el sistema de IA asistido por prompts algorítmicos puede comparar a esa persona con aquellos que están explícitamente autorizados para ingresar al sitio; aquellos que pueden tener autorización implícita, como empleados contratados; y aquellos que deben ser diferidos para una evaluación más cercana.3Defensa
+Análisis de documentos de identificación
+OCI Visión OCI Document 
+Comprensión de documentos Oracle
+OCI Ciencia de datos
+22 10 casos de uso de inteligencia artificial que puedes hacer hoyCon los servicios de IA de OCI, los desarrolladores pueden entrenar modelos personalizados, implementar modelos de ML listos para usar y mejorar aplicaciones y soluciones con capacidades de IA, sin necesidad de ser expertos en aprendizaje automático. Oracle AI viene con modelos avanzados que se han entrenado previamente con datos empresariales, que se pueden personalizar según el dominio y los datos del cliente. Estos incluyen:
+
+Asistente Digital de Oracle: Experiencias conversacionales para empleados y clientes a través de interfaces de texto, chat y voz.
+
+OCI Visión: Tecnologías visuales y de texto para comprender documentos escaneados, PDF, fotogramas de video y fotografías.
+
+OCI Lenguaje: Modelos preconstruidos entrenados con datos de la industria que realizan análisis de texto sofisticado a gran escala.
+
+OCI Comprensión de Documentos: Extrae texto, tablas y otros datos clave de archivos de documentos a través de API y herramientas de interfaz de línea de comandos.
+
+OCI Voz: Convierte conversaciones de audio grabadas en datos textuales en múltiples idiomas.
+
+Servicios de IAOracle AI es una familia de servicios de infraestructura acelerada, inteligencia artificial y aprendizaje automático. Para el entrenamiento y la inferencia de IA, la infraestructura de IA de Oracle ofrece latencias ultrabajas para unidades de procesamiento de gráficos (GPUs) independientes y clústeres con miles de nodos. Con los servicios de IA, los desarrolladores pueden agregar modelos preconstruidos a aplicaciones y operaciones. Con los servicios de ML, los científicos de datos pueden construir, entrenar y implementar modelos con sus marcos de código abierto favoritos o beneficiarse de la velocidad del aprendizaje automático en la base de datos.
+
+¿Por qué tecnología de IA de Oracle?
+23 casos de uso de inteligencia artificial que puedes implementar hoy mismo.Infraestructura de Supercluster de Oracle Cloud Infrastructure (OCI): Proporciona redes de clúster ultra rápidas, HPC, almacenamiento y instancias de computación bare metal de OCI. El Supercluster de OCI es ideal para el entrenamiento de inteligencia artificial generativa, incluyendo aplicaciones conversacionales y modelos de difusión. Con soporte para hasta decenas de miles de GPUs de NVIDIA, las instancias de computación bare metal y VM de OCI pueden impulsar aplicaciones para visión por computadora, procesamiento de lenguaje natural, sistemas de recomendación y más.
+
+Los servicios de aprendizaje automático de Oracle, dirigidos a científicos de datos, facilitan la construcción, el entrenamiento, la implementación y la gestión de modelos de aprendizaje automático personalizados. Estos servicios ofrecen capacidades de ciencia de datos con soporte de marcos de código abierto favoritos o a través del aprendizaje automático en la base de datos y acceso directo a datos limpios.
+
+Servicios de aprendizaje automático
+
+Infraestructura de IA
+
+Aprendizaje automático en Oracle Database: Un entorno de ciencia de datos completo que se optimiza para el rendimiento en Oracle Autonomous Database o Data Warehouse.
+
+OCI Data Labeling: Un servicio para construir conjuntos de datos etiquetados para entrenar modelos de IA y ML con mayor precisión. Aplica etiquetas a texto o imágenes y luego utiliza esas etiquetas para personalizar modelos y construir catálogos compartidos.
+
+OCI Data Science: Un entorno administrado y de extremo a extremo para construir, implementar y administrar modelos de aprendizaje automático.
+
+24 casos de uso de inteligencia artificial que puedes hacer hoy mismo.Derechos de autor © 2023, Oracle y/o sus afiliados. Este documento se proporciona solo con fines informativos, y el contenido aquí contenido está sujeto a cambios sin previo aviso. Este documento no tiene garantía de ser libre de errores, ni está sujeto a ninguna otra garantía o condición, ya sea expresada oralmente o implícita en la ley, incluyendo garantías y condiciones de comerciabilidad o idoneidad para un propósito particular. Renunciamos específicamente a cualquier responsabilidad con respecto a este documento, y no se forman obligaciones contractuales directa o indirectamente por este documento. Este documento no puede ser reproducido o transmitido en ninguna forma o por cualquier medio, electrónico o mecánico, con cualquier propósito, sin nuestro permiso por escrito previo. Oracle y Java son marcas registradas de Oracle y/o sus afiliados. Otros nombres pueden ser marcas comerciales de sus respectivos propietarios.
+
+Aprende más
+Conecta con nosotros
+Llama al +1.800.ORACLE1 o visita oracle.com/apac
+Fuera de América del Norte, encuentra tu oficina local en oracle.com/apac/contact
+El futuro está al alcance
+Los casos de uso de IA mostrados en este libro representan la punta del iceberg, ya que excelentes aplicaciones para estas tecnologías pueden ser aplicadas en industrias específicas como servicios financieros o manufactura, y en áreas comunes como recursos humanos y servicios al cliente.
+
+Utiliza los ejemplos presentados aquí para iniciar tus propias conversaciones y descubre dónde tu organización puede aprovechar los beneficios de las tecnologías de IA de hoy para ayudar a prepararte para un futuro más exitoso.
+
+Te sugerimos los siguientes recursos de Oracle para ayudarte en este viaje:
+Inteligencia Artificial en OCI y Generative AI con Oracle.

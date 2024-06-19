@@ -1,0 +1,172 @@
+IA: CASOS DE USO POR DESPACHOS DE ABOGADOS, ABOGADOS Y EMPRESAS
+JUSTICIA SURAJ GOVINDARAJ
+TRIBUNAL SUPERIOR DE KARNATAKAUSOS DE IA
+
+Diligencia debida – La diligencia debida se lleva a cabo utilizando herramientas de IA, lo que incluye la revisión de contratos, investigación jurídica y descubrimiento electrónico, entre otros.
+Tecnología de predicción – Un software de IA se utiliza para predecir el resultado de litigios.
+Análisis jurídico – Se utilizan puntos de datos de la legislación pasada, tasas de victoria/pérdida y la historia de un juez para generar tendencias y patrones.
+Automatización de documentos – Se crean plantillas de software para generar documentos.
+Propiedad intelectual – Se analiza grandes carteras de PI.
+Revisión y gestión de contratos/análisis de contratos : Se analizan contratos y documentos.
+Financiamiento de litigios : Herramientas para determinar si financiar o no.
+Automatización de procedimientos de divorcio: Divorcio humano utilizando IA
+Chatbots/abogadobots : Plataforma para proporcionar serviciosDILIGENCIA DEBIDA
+
+La revisión de diligencia debida para una transacción corporativa implica típicamente a un grupo de abogados que revisan documentos (en papel o en una sala de datos electrónica) en busca de asuntos litigiosos, cláusulas contractuales clave, gobernanza corporativa, propiedad intelectual, etc.
+
+La revisión de diligencia debida en transacciones inmobiliarias implica a un grupo de abogados que revisan títulos de propiedad, documentos de ingresos, litigios, etc.SOFTWARE DE INTELIGENCIA ARTIFICIAL PARA 
+DILIGENCIA DEBIDA
+
+ Brainspace Discovery (https://brainspace.revealdata.com/)
+ Casetext (Búsqueda Paralela | Casetext)
+ Catalyst (https://catalystlab.ai/)
+ Disco (https://www.csdisco.com/disco-ai)
+ Docusign (DocuSign Insight)
+ eBrevia (https://www.dfinsolutions.com/products/ebrevia)
+ Everlaw (https://www.everlaw.com/)
+ Exterro (https://www.exterro.com/ai)
+ JP Morgan (Inteligencia Artificial (jpmorgan.com))
+ Kira Systems (https://kirasystems.com/)
+ Lawgeex (https://www.lawgeex.com/)
+ Legal robot (https://legalrobot.com/)
+ Legalsifter (https://www.legalsifter.com/)
+ Leverton (https://leverton.ai/)
+ Lexcheck (https://www.lexcheck.com/)
+ Luminance (https://www.luminance.com/)
+ Ross intelligence (https://www.rossintelligence.com/what-is-ai)
+ Thought river (https://www.thoughtriver.com/)PREDICCIÓN 
+
+TECNOLOGÍA 
+En 2004, un grupo de profesores de la Universidad de Washington 
+evaluó la precisión de su algoritmo en la predicción de decisiones 
+del Tribunal Supremo en todos los 628 casos argumentados en 
+2002. Compararon los resultados de su algoritmo con los hallazgos 
+de un equipo de expertos. El modelo estadístico de los investigadores 
+demostró ser un predictor mejor, prediciendo correctamente el 
+75 por ciento de los resultados, en comparación con la precisión 
+del 59 por ciento de los expertos. 
+
+Ampliando la cobertura desde 1816 hasta 2015, el profesor Daniel 
+Katz de la Universidad Estatal de Míchigan y sus dos colegas 
+lograron una precisión del 70,2 por ciento en los resultados de 
+casos del Tribunal Supremo en su estudio de 2017. 
+
+De manera similar, Nikolaos Aletras del University College de 
+Londres y su equipo utilizaron aprendizaje automático para analizar 
+el texto de los casos del Tribunal Europeo de Derechos Humanos 
+y reportaron una precisión del 79 por ciento en la predicción de 
+resultados.¿NO SERÍA GENIAL PODER PREDICIR EL RESULTADO DE UN LITIGIO, O SABER CUÁLES SON LAS POSIBILIDADES DE GANAR?
+La IA ya está brindando una solución -Pronto será posible comparar los hechos de un caso con otros casos ya decididos por un tribunal (o tribunales) y obtener un predictor de cómo se desarrollará el caso. Estas herramientas utilizan algoritmos de aprendizaje automático para examinar los hechos y luego verificar si se asemejan a casos pasados, y finalmente predicen el resultado de futuros casos.SOFTWARE DE IA PARA 
+TECNOLOGÍA PREDICTIVA
+Intraspexion (https://intraspexion.com/ )
+Lex Machina ( https://lexmachina.com/ )
+Premonición ( https://premonition.ai/ )
+Ravel ley ( https://home.ravellaw.com/ )ANÁLISIS JURÍDICO
+
+Las alegaciones del caso, la evidencia y los documentos proporcionan 
+insights durante la litigación para abogados. 
+Las herramientas de IA actuales afirman que los productos de software 
+actuales pueden extraer puntos de datos clave de lo anterior para 
+respaldar argumentos.SOFTWARE DE INTELIGENCIA ARTIFICIAL PARA
+ANÁLISIS JURÍDICOS
+
+Lex Machina (https://lexmachina.com/)
+Ravel ley (https://home.ravellaw.com/)
+Análisis de Acuerdos 
+(https://www.crunchbase.com/organization/settlementanalytics)DOCUMENTO
+
+AUTOMATIZACIÓN
+
+Un informe de McKinsey & Company estima que la automatización del trabajo de conocimiento será probablemente uno de los principales disruptores en la economía global.
+
+Las firmas de abogados están comenzando a adaptar la tecnología para elaborar documentos a través de software automatizado. El documento final, que podría tomar días para ser redactado manualmente por humanos, se genera en cuestión de minutos. Esta tecnología se utiliza para generar documentos financieros como acuerdos de préstamo, compraventa, acuerdos hipotecarios, etc.
+
+PLEITOS AUTOMÁTICOS
+
+La IA también puede ayudar a los abogados a crear pleitos automáticos. Se puede utilizar para producir pleitos responsivos y otros documentos. Diferentes tecnologías de IA se utilizan para producir varios tipos de documentos legales automatizados utilizando el estilo de formato y estrategia de respuesta del abogado. Estos borradores de alta calidad son completamente personalizables según las necesidades del abogado.SOFTWARE DE IA PARA 
+AUTOMATIZACIÓN DE DOCUMENTOS
+
+HOTDOCS -https ://www .hotdocs .com/ (adquirido por AbacusNext -https ://www .abacusnext .com/ )
+LAWLIFT -https ://www .lawlift .com/
+LEGALUP -https ://legalup .me/
+PERFECTNDA -https ://www .neotalogic .com/product/nda -automatización/
+SMOKEBALL
+WOODPECKER –https ://www .woodpeckerweb .com/PROPIEDAD INTELECTUAL
+
+La seguridad de patentes, derechos de autor y marcas comerciales depende de la pericia de un abogado o bufete de abogados. Sin embargo, todo el proceso es largo y arduo.
+
+La búsqueda tradicional de marcas comerciales y patentes, por ejemplo, implica buscar entre cientos, si no miles, de resultados a través de investigación manual, lo que lleva mucho tiempo –a veces semanas o meses.
+
+Las herramientas de IA permiten hacer esto en cuestión de horas, si no minutos.SOFTWARE DE IA PARA 
+PROPIEDAD INTELECTUAL
+ANAQUA Studio (https://www.anaqua.com/)
+SmartShell (https://rowanpatents.com/smartshell-faq/)
+TrademarkNow (https://www.trademarknow.com/)REVISIÓN Y GESTIÓN DE CONTRATOS
+
+Los bufetes de abogados y las empresas deben revisar cientos y miles de documentos legales y contratos, para lo cual contratan a abogados. Esto puede ser un proceso muy tiempo-consumidor y propenso a errores para los humanos. Además, encontrar información relevante y útil en un documento legal complicado es una tarea muy difícil.
+
+Utilizando tecnología de aprendizaje automático y procesamiento de lenguaje natural (NLP), las herramientas respaldadas por IA pueden analizar un documento dado y extraer cláusulas problemáticas o porciones requeridas en cuestión de segundos. Estas herramientas se utilizan para identificar, extraer y analizar cláusulas de un contrato, redactar textos y editar contratos.
+
+Basándose en estos informes, los abogados pueden asesorar a sus clientes sobre si deben aceptar un contrato o no, y áreas de mejora en el contrato. Estas herramientas se consideran 100% precisas y pueden producir resultados en cuestión de segundos que habrían tomado horas y días para los humanos.SOFTWARE DE INTELIGENCIA ARTIFICIAL PARA 
+REVISIÓN Y GESTIÓN DE CONTRATOS /
+ANÁLISIS DE CONTRATOS
+
+Clearlaw –(https://www.clearlaw.ai/about )
+Evisort –(https://www.evisort.com/ )
+Lexion –(https://lexion.ai/ )
+Paperflip –(https://www.paperflip.com/ )
+Identificación de Riesgos de Contratos Inteligentes –(Análisis de Riesgos de Contratos Inteligentes (microsoft.com)FINANCIACIÓN DE LITIGIOS 
+
+Un caso de uso relacionado de IA es en la financiación de litigios, una práctica en la que un tercero financia los costos de litigio de un demandante a cambio de una parte de la ganancia si el caso del demandante es exitoso. La IA está impulsando la financiación de litigios al permitir a los inversores una evaluación más sofisticada y basada en datos de qué casos valen la pena apoyar.SOFTWARE DE IA PARA 
+FINANCIACIÓN DE LITIGIOS 
+Legalist –(https://www.legalist.com/ )
+Legalpay –(https://legalpay.in/ )DIVORCIO 
+PROCESO 
+AUTOMATIZACIÓNWevorce –ofrece soluciones autoguiadas por una fracción del costo mientras 
+ahorra mucho tiempo en el proceso -https://www.wevorce.com/
+Pasos para un divorcio rápido, respetuoso y pacífico.
+•Crea tu cuenta.
+•Invita a tu cónyuge a unirse.
+•Completa el cuestionario en línea.
+•Obtén tu Plan de Parentalidad y Acuerdo de Asentamiento Matrimonial.
+•Reúne con un Juez Privado Certificado ™.CHATBOTS/ 
+ROBOTS ABOGADOSPara permitir a los clientes que se autosirvan en línea. Las plataformas 
+proporcionan la creación, venta y entrega de servicios legales en línea desde 
+cualquier lugar
+Automio -(https://autom.io/ )
+Billybot -(http://www.billybot.co.uk/ )POSIBLES USOS EN 
+TRIBUNALES
+
+Búsqueda de 360 grados de asuntos conexos y litigios entre las mismas partes
+Verificación de fianza re solicitudes previas, aplicaciones de otros acusados, antecedentes, etc.
+Redacción y presentación de solicitudes rutinarias como la Regla 5, Orden 22,
+Fecha automática y lista de asuntos
+Memorándum de publicación –El juez otorga fechas según el calendario del tribunal
+Formulación de cargos
+Formulación de cuestiones
+Determinación de compensación MVC
+Investigación –https://www.legitquest.com/
+Análisis de affidavit re mantenimiento y verificación cruzada
+Creación de sinopsis de fechas y eventos
+Infracciones de tránsito
+Análisis de precios de transferencia
+Traducción –SUVAAS, Google Translate
+Transcripción –https://otter.ai/
+WP-CPC, CRP, MFA –Identificación de asuntos resueltosINFRAESTRUCTURA 
+Y OTROS 
+REQUISITOS
+
+Digitalización utilizando blockchain
+Habilitar la presentación de documentos electrónicos y tribunales sin papeles
+Actualización de la infraestructura de TI –Servidores, Escritorios, etc.
+Todos los datos se almacenarán en un solo lugar como la nube –con recuperación de desastres integrada.
+Cambio de utilizar software de código abierto a software propietario
+Capacitación y gestión del cambio
+Contratación de expertos en dominio
+Conectividad a Internet adecuadaTRIBUNAL DE ALTA CORTE DE KARNATAKA CHAT BOTEl Tribunal de Alta Corte de Karnataka ha lanzado servicios de información de casos virtuales de Telegram (HCKChatBot) -Listas de causas, 
+estado de los casos, órdenes diarias, sentencias, estado de copias certificadas, 
+estado de IA, información de casos en curso y pasados por alto, 
+enlaces de conferencia por video, etc...
+Por favor, haga clic en el enlace a continuación para iniciar los servicios de HCKChatBot:
+https://t.me/karhcbot
+Para suscribirse al canal de Telegram del Tribunal de Alta Corte de Karnataka, por favor haga clic en https://t.me/karnatakahighcourtGRACIAS

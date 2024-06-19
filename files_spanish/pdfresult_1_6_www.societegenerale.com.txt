@@ -1,0 +1,885 @@
+APLICACIÓN DE DATOS Y IA:  
+NUESTROS CASOS DE USO BANDERA
+Enero 2023Los datos y la Inteligencia Artificial son más que solo tecnologías, son oportunidades de transformación que revolucionan el sector financiero con un impacto significativo en la experiencia del cliente, la entrega de servicios y la eficiencia operativa.
+
+A medida que este movimiento gana impulso, en Societe Generale estamos acelerando el cambio. Estamos utilizando los mejores elementos de estos avances para llevar nuestro banco aún más allá en la era digital.
+
+Para hacer que Societe Generale sea un banco más accesible, más fluido y más personalizado.
+
+Dentro del Grupo, estas herramientas ya se están adoptando y aplicando nuestros clientes y nuestro personal. Son una fuente formidable de creación de valor, ya que nos permiten servir mejor a nuestros clientes con productos y asesoramiento aún más personalizados, comprender mejor sus expectativas, responder rápidamente y desarrollar nuestras actividades y mejorar la eficiencia operativa.
+
+A partir de 2022, la cartera del Grupo cuenta con alrededor de 340 Casos de Uso de Datos y IA (UC) en producción, de los cuales 170 son basados en IA, todos trabajando para aplicar nuestra estrategia con un valor de creación esperado de 500 millones de euros.
+
+Esta publicación le brinda la oportunidad de descubrir 16 de nuestros UC más emblemáticos. Nuestro objetivo es continuar acelerando la implementación de Datos y IA dentro del Grupo, capitalizando nuestra experiencia para beneficio de nuestros 25 millones de clientes en todo el mundo.
+
+Esperamos que disfrute descubriendo estos UC.
+
+CONTENIDO
+UN BANCO MÁS ACCESIBLE
+ELIOTT .............................................................................. 4
+SOBOT ............................................................................... 5
+UN BANCO MÁS FLUIDO
+CAST .................................................................................... 7
+CAMBIO LIÉ ................................................................. 8
+DANIE ................................................................................ 9
+INSTANT-KYC ............................................................ 10
+ASISTENTE JURÍDICO .................................................. 11
+MOSAIC .......................................................................... 12
+NACRE ............................................................................. 13
+SG MARKET - MIS CASOS ................................ 14
+ANÁLISIS INTELIGENTE ............................................... 15
+ASISTENTE DE OPERACIONES .......................................... 16
+UN BANCO MÁS PERSONALIZADO
+ACE ..................................................................................... 18
+APETITO DEL INVERSOR .......................................... 19
+STELLA .......................................................................... 20UN BANCO MÁS ACCESIBLE  
+Ofrece un servicio digital integral y eficiente; 
+garantiza una mayor disponibilidad a través de 
+nuevos modos de interacción; mejora el acceso 
+a todos nuestros servicios, desde los más sencillos 
+hasta los más innovadores.
+
+Todos estos desafíos forman parte del mismo 
+compromiso: adaptarnos a los ritmos de nuestros 
+clientes, y no al revés.
+
+Son muchos los desafíos que podemos responder 
+con soluciones efectivas y personalizadas 
+utilizando todo el potencial de los Datos y la 
+Inteligencia Artificial.
+
+En este capítulo, encontrará todos los Casos de 
+Uso de Datos y IA que actualmente están 
+ayudando a hacer que Societe Generale sea un 
+banco más accesible.
+3ELIOTT  
+UN CALLBOT QUE OFRECE  
+APoyo ADICIONAL A NUESTROS CLIENTES 
+ANÁLISIS INICIAL
+•  Los clientes de un banco en línea esperan ser autónomos y beneficiarse de servicios disponibles las 24 horas del día, 7 días a la semana.
+•  El tiempo requerido para calificar las solicitudes de los clientes o tratar preguntas simples es una fuente de ineficiencia.
+•  El aumento del volumen de llamadas de clientes, en el contexto de una base de clientes en crecimiento y exacerbado por los hábitos de los clientes durante la crisis de Covid, llevaría a sobrecargar los centros de llamadas existentes.
+OBJETIVOS INICIALES
+•  Proporcionar una experiencia del cliente sin interrupciones con servicios disponibles las 24 horas del día y convencer a los clientes prospectivos.
+•  Reducir los flujos de llamadas entrantes procesando automáticamente las conversaciones de menor valor agregado.
+•  Referir a los clientes a servicios de expertos de manera más rápida.
+LA SOLUCIÓN DE DATOS Y IA UTILIZADA
+Comprensión del Lenguaje Natural (NLU) combinando técnicas de Procesamiento de Lenguaje Natural (NLP) con Aprendizaje Automático. Valor agregado:
+•  Interpretar completamente y correctamente las solicitudes de los clientes.
+•  Entender la intención de la oración antes de que se complete para mejorar el rendimiento del Chatbot.
+DESAFÍOS ENFRENTADOS
+•  Desafío técnico: el motor de conversación se basa en 3 soluciones técnicas diferentes (NLU y Texto a Voz y Voz a Texto). Cada uno de los componentes debe mantenerse al nivel más alto posible mediante el seguimiento de todas las evoluciones técnicas.
+•  Desafío humano: configurar una nueva organización de equipo comercial debido al nuevo flujo de procesamiento de llamadas entrantes mientras se gestiona el aumento de la base de clientes (más de 800,000 nuevos clientes en 2021) y la tasa de contacto por cliente.
+¿QUÉ SIGUE?
+•  Continuar fortaleciendo el aumento de las interacciones del cliente con IA conversacional.
+•  Aumentar el número de solicitudes procesadas automáticamente de principio a fin por el Callbot del 22% al 35% para 2022.
+•  Enriquecer las intenciones analizadas por el Callbot.
+Lanzado en 2019 como Chatbot, extendido a procesamiento de voz en 2020, el motor de conversación Eliott gestiona 4 millones de conversaciones de clientes por año y más de la mitad de las conversaciones entre el banco en línea francés Boursorama y sus 3 millones de clientes.
+Este Chatbot juega un papel central en las interacciones del cliente, permitiendo una mayor eficiencia y liberando a los asesores de clientes para brindar asesoramiento y asistencia de mayor valor agregado.
+
+EN RESUMEN
+1 //  4 millones de conversaciones de clientes por año
+2 // 180,000 llamadas por mes con una tasa de respuesta del 80%
+3 //  33% de las llamadas atendidas fuera del horario de atención
+4 //  22% de las solicitudes procesadas automáticamente de principio a fin por el Callbot
+5 //  Capacidad de interpretación del Callbot (lo que se detectó es lo que el cliente quería) del más del 90%
+
+FIGURAS CLAVE
+
+Un Chatbot, un asistente vocal  
+Área de negocio
+BoursoramaValor agregado
+•  Servicio al cliente disponible las 24 horas del día, 7 días a la semana
+•  Liberar a los asesores de clientes de tareas repetitivas y consumidoras de tiempo para concentrarse en solicitudes de mayor valor agregado
+UN BANCO MÁS ACCESIBLESOBOT  
+ASISTENTE VIRTUAL GARANTIZANDO  
+INTERACTIVIDAD MEJORADA
+ANÁLISIS INICIAL
+•  Las expectativas de los clientes evolucionan rápidamente en cuanto a la experiencia ofrecida en nuestros canales digitales, lo que nos lleva a mejorar constantemente el recorrido del cliente, destacando la reducción del número de clics y la provisión de una interfaz de chat de alta calidad.
+•  La navegación de una aplicación o interfaz web a veces se considera compleja al buscar una funcionalidad, documento o producto específico, lo que lleva a la insatisfacción del cliente.
+
+OBJETIVOS INICIALES
+•  Simplificar y mejorar la experiencia del cliente.
+•  Ahorrar tiempo a nuestros clientes, especialmente en operaciones bancarias cotidianas.
+•  Apoyar a todos los clientes que utilizan canales digitales (aplicaciones y interfaces web) fuera del horario de apertura normal del banco.
+
+LA SOLUCIÓN DE DATOS Y IA UTILIZADA
+•  IA utilizada: Procesamiento de Lenguaje Natural (NLP).
+•  Valor agregado: Capacidad del NLP para entender el lenguaje natural para identificar la intención del usuario y vincular la pregunta con la multitud y diversidad de formulaciones y palabras presentes en los conjuntos de información de la base de datos del Chatbot.
+
+DESAFÍOS ENFRENTADOS
+•  Cantidad significativa de trabajo humano para identificar y cubrir todas las posibles formulaciones diferentes para incluir en los conjuntos de información de la base de datos.
+•  Asegurar la mejora continua de la capacidad del Chatbot para entender las preguntas del usuario.
+•  Una infraestructura sólida y herramientas poderosas para administrar el Chatbot y mejorar su calidad y aumentar su uso.
+
+¿QUÉ SIGUE?
+•  Continuar mejorando el servicio al cliente a través de la disponibilidad de nuevas operaciones ofrecidas bajo su guía.
+•  Ampliar el alcance de la acción del Chatbot integrando progresivamente la capacidad de procesamiento de transacciones.
+•  Proporcionar nuevas operaciones de fin a fin.
+
+Inicialmente lanzado en 2018 como una versión simplificada, hoy en día el Chatbot SoBot aplica una base de datos de más de 1,000 conjuntos de información, respondiendo a preguntas de clientes sobre temas bancarios y de seguros, navegando operaciones bancarias y ayudando a los clientes a completar sus transacciones de fin a fin. SoBot maneja más de 4,000 conversaciones diarias para clientes de banca minorista y profesionales.
+
+EN RESUMEN
+1 //  Más de 4,000 conversaciones diarias
+2 //  95% de tasa de respuesta (directa y reformulación)
+3 //  3,1 interacciones por conversación en promedio
+4 //  1,000 conjuntos de conocimientos que cubren todos los temas bancarios y de seguros para asegurar respuestas adecuadas del Chatbot
+
+CIFRAS CLAVE
+
+"Siempre he obtenido una respuesta adecuada y la ayuda siempre está disponible."
+Sofía, cliente profesional de SG, Banca Minorista en Francia
+
+"Pude resolver fácilmente una oposición a mi tarjeta de crédito siguiendo las instrucciones dadas, muy sencillas y precisas."
+Fatoumata, cliente individual de SG, Banca Minorista en Francia
+
+¿QUÉ ES?
+Un Chatbot, un asistente virtual inteligente
+Área de negocio
+SG, Banca Minorista en Francia
+Valor agregado  
+•  Respuesta instantánea 24/7 a preguntas de clientes sobre temas bancarios y de seguros
+•  Ayudar a los clientes a navegar sus operaciones bancarias
+•  Apoyar a los clientes en el tratamiento de fin a fin de sus operaciones
+
+UN BANCO MÁS ACCESIBLEUN BANCO MÁS  
+SEGURO Y EFICIENTE  
+Ofrezca una experiencia sin fisuras a todos nuestros 
+clientes; brinde a aquellos que los desean las herramientas 
+adecuadas para asegurar una mayor autonomía; 
+combine la simplicidad y la transparencia a través 
+de procesos integrados y eficientes.
+Todos estos desafíos forman parte del mismo 
+compromiso: simplificar las relaciones con los clientes 
+para ofrecer una experiencia cada vez más eficiente 
+con mayor pertinencia y seguridad reforzada.
+Son muchos desafíos que podemos responder 
+con soluciones efectivas y personalizadas utilizando 
+el pleno potencial de los Datos y la Inteligencia Artificial.
+En este capítulo, encontrará todos los Casos de Uso de 
+Datos y IA que actualmente están ayudando a hacer 
+que Societe Generale sea un banco más seguro y eficiente.
+6CAST  
+UNA SOLUCIÓN ÚNICA PARA GARANTIZAR  
+EL CUMPLIMIENTO REGULATORIO  
+ANÁLISIS INICIAL
+•  Para asegurar la transparencia y la responsabilidad en los mercados de capitales, las regulaciones globales de las autoridades financieras (MiFID II, MAR, etc.) requieren la vigilancia de la comunicación de las personas reguladas. El incumplimiento de estas regulaciones expone al banco y a su personal regulado a sanciones y medidas severas y podría dañar seriamente la reputación del Grupo.
+•  Grandes volúmenes de datos para analizar y monitorear (millones de horas de grabaciones de audio y cientos de millones en comunicaciones electrónicas).
+•  Los métodos de muestreo aleatorio y las verificaciones humanas aumentan los riesgos de no detectar y prevenir posibles conductas indebidas.
+
+OBJETIVOS INICIALES
+•  Detectar proactivamente infracciones o fraude para generar alertas sobre actividades no conformes gracias a la automatización del análisis y la presentación de informes de alertas.
+•  Reducir el tiempo de búsqueda y errores manuales.
+•  Pasar de un análisis manual basado en muestreo aleatorio a un proceso de vigilancia de comunicaciones holístico impulsado por IA para cumplir mejor con los requisitos regulatorios.
+
+LA SOLUCIÓN DE DATOS Y IA UTILIZADA
+•  IA utilizada: Procesamiento de Lenguaje Natural (NLP), Aprendizaje Automático, Comprensión del Lenguaje Natural (NLU), análisis de sentimiento.
+•  Valor agregado:
+-  Automatizar la transcripción y análisis de comunicaciones y la transformación de imágenes en texto.
+-  Reducir el número de alertas falsas positivas utilizando NLP y Aprendizaje Automático.
+-  Ayudar a la toma de decisiones y proporcionar inteligencia prospectiva para cada flujo de comunicación.
+
+DESAFÍOS ENFRENTADOS
+•  Fuerte presión de los reguladores sin solución externa disponible en el mercado, lo que llevó a la creación interna de CAST en solo 3 años.
+•  Transcribir numerosos idiomas en un contexto específico (banca/comercio) y en conversaciones multilingües.
+•  Ampliar el rango de canales de comunicación y dispositivos bajo vigilancia (un rango de 30 canales de comunicación, incluyendo llamadas telefónicas, mensajería instantánea y redes sociales), especialmente en el contexto de trabajo desde casa relacionado con la crisis de Covid.
+
+¿QUÉ SIGUE?
+•  Los servicios cognitivos construidos para la solución se han puesto a disposición a través de una oferta de servicio a nivel de Grupo y ahora se utilizan en la mayoría de las Unidades de Negocio y Unidades de Servicio del Grupo (SG, Banca Minorista en Francia, Seguros Societe Generale, etc.) para realizar muchos casos de uso (análisis de voz, automatización de procesos, análisis de documentos, etc.). Cast automatiza el análisis de comunicaciones audio y electrónicas de personas reguladas para detectar posibles infracciones regulatorias. Desplegado en 16 países y utilizado dentro de la Auditoría Interna Global, Cumplimiento y Secretaría General, Cast aplica componentes modulares de vanguardia (Reconocimiento de Voz a Texto, Reconocimiento Óptico de Caracteres, servicios de traducción en 26 idiomas) utilizados dentro del Grupo para realizar análisis cognitivos de comunicaciones.
+
+EN RESUMEN
+1 //  14 Po de datos analizados
+2 //  2,5 millones de horas de comunicaciones audio analizadas anualmente (en comparación con 9,000 antes de Cast)
+3 //  16 países cubiertos
+4 //  26 idiomas gestionados
+
+FIGURAS CLAVE
+Cast otorga al usuario la capacidad de realizar vigilancia en todas las comunicaciones audio y electrónicas a través de una plataforma unificada. Cast ha desplegado una herramienta de vigilancia integral y reconciliada, lo que es crítico dado el número y volumen de comunicaciones y canales.
+
+Ian, Jefe de Proyecto, Departamento de Conformidad “
+”
+¿Qué es Cast?
+Una plataforma para analizar automáticamente las comunicaciones audio y electrónicas de personas reguladas
+
+Área de negocio
+Auditoría Interna Global, Cumplimiento y Secretaría General
+
+Valor agregado  
+•  Análisis global de comunicaciones de personas reguladas
+•  Alertas sobre actividades no conformes 
+•  Pasar de un análisis aleatorio a un proceso de vigilancia holísticoCAMBIAR LIÉ  
+CONSTRUCCIÓN DE INGRESOS DE BANCA EN LÍNEA  
+ANÁLISIS INICIAL
+•  Datos fragmentados entre numerosos sistemas de TI no comunicados y grandes volúmenes de datos difíciles de utilizar procedentes de varias entidades dentro del Grupo.
+•  Dificultad para proponer ofertas precisamente dirigidas a clientes debido a la conocimiento perfectible del cliente.
+•  Multiplicidad de nuevos entrantes como resultado de la apertura del mercado de proveedores de servicios de pago (PSP) debido a la nueva regulación europea DSP2. Las ofertas de los bancos tradicionales se vieron desafiadas en pagos relacionados con divisas.
+
+OBJETIVOS INICIALES
+•  Crear y utilizar una fuente de datos común Golden Source entre SG, Banca Minorista en Francia y actividades de Mercado Global.
+•  Detectar mejor las necesidades de los clientes para responder con mayor precisión y aumentar los niveles de satisfacción gracias a una nueva segmentación de clientes basada en el análisis del comportamiento del cliente.
+•  Adoptar un enfoque global basado en datos del cliente:
+-  Modo defensivo: detectar lo antes posible a los clientes que prueban nuevas soluciones Fintech (PSP) antes de la adopción para contactarlos con prioridad;
+-  Modo ofensivo: desarrollo de nuevos clientes a través de la comparación de clientes ya activos para identificar una lista de prospectos interesados.
+
+LA SOLUCIÓN DE DATOS Y IA UTILIZADA
+•  IA utilizada: Procesamiento de Lenguaje Natural (NLP) y Aprendizaje Automático.
+•  Valor agregado:
+-  Analizar transacciones del cliente para detectar lo antes posible a los clientes interesados en ofertas Fintech;
+-  Identificar a los clientes que deben ser abordados con prioridad;
+-  Análisis del comportamiento para construir una segmentación de clientes de divisas.
+
+DESAFÍOS ENFRENTADOS
+•  Crear una fuente de datos Golden Source: adopción de un enfoque de gestión de productos de datos con una organización transversal en cada etapa del proyecto, desde la segmentación hasta la modelización de Ciencia de Datos y pruebas de productos.
+•  Cambio de gestión: involucrar a los equipos que se enfrentan a los clientes mediante la designación de un Corresponsal de Datos en cada equipo comercial para asegurar la co-construcción del producto final.
+
+¿QUÉ SIGUE?
+•  Continuar mejorando el conocimiento del cliente a través del uso de herramientas como NLP o Aprendizaje Automático y extender el proyecto a otras áreas del negocio (detectar nuevas soluciones de inversión para clientes de otras líneas de negocio, por ejemplo) y ser más relevantes en nuestra oferta de productos para permitir un crecimiento adicional de los ingresos de Banca en Línea y aumentar la satisfacción del cliente.
+•  Reutilizar la organización del proyecto construida alrededor de un equipo transversal dedicado a datos para mejorar la eficiencia y reducir el tiempo de acceso a los datos.
+
+LANZADO EN 2017 para abordar la erosión de las ganancias en pagos relacionados con divisas y en respuesta a la competencia de nuevos proveedores de servicios de pago (PSP), Change Lié ha evolucionado en una poderosa solución de desarrollo de clientes nuevos que conduce a un crecimiento fuerte en ingresos de Banca en Línea. Change Lié es utilizado por 850 usuarios dentro de los equipos que se enfrentan a los clientes en SG, Banca Minorista en Francia y las actividades de Mercado Global del banco.
+
+EN RESUMEN
+1 //  72,000 clientes
+2 //  10,000 corporaciones
+3 //  340,000 operaciones por año
+4 //  850 usuarios finales en las dos áreas de negocio
+5 //  10% de desarrollo de nuevos clientes durante el lanzamiento de la campaña
+
+DATOS CLAVE
+
+El uso de datos ha cambiado significativamente y ha enriquecido nuestra visión del espectro de clientes, lo que nos ha permitido mejorar significativamente nuestra organización comercial basada en la identificación de varias categorías de clientes según su potencial comercial.
+
+Isabelle, Gerente de Producto Change Lié
+
+¿Qué es?
+Una nueva solución de desarrollo de clientes
+Área de negocio
+SG, Banca Minorista en Francia y actividades de Mercado Global
+Valor agregado  
+•  Creación de una fuente de datos común Golden Source entre las dos áreas de negocio
+•  Mejora en la detección de las necesidades de los clientes
+•  Aplicación de un enfoque global basado en datos del cliente
+ UN BANCO MÁS SEGURODANIE  
+PLATAFORMA INNOVADORA  
+PARA MEJORAR LA CALIDAD  
+DE LOS DATOS DE LOS CLIENTES
+
+ANÁLISIS INICIAL
+•  Los datos de los clientes son uno de los principales desafíos que enfrentan las instituciones financieras, ya sea en términos de incorporación de nuevos clientes o mantenimiento de la calidad de los datos con el tiempo. De hecho, cualquier error desencadena una cascada de problemas operativos que requieren intervención manual consume tiempo y pueden incluso resultar en multas de los reguladores.
+•  En promedio, los bancos gastan 100 millones de euros al año comprando datos de clientes a proveedores de datos, que a veces pueden contener errores. Los proveedores de datos están en una situación de monopolio difícil de desafiar.
+
+OBJETIVOS INICIALES
+•  Medir con nuestros pares la calidad de nuestros datos de clientes, manteniéndolos estrictamente anónimos, y nuestras relaciones con los clientes a través de una plataforma innovadora basada en TEP.
+•  Reducir los costos de mantenimiento internos y trabajar para eliminar la "Deuda de datos" a través de una mayor estandarización de datos.
+
+LA SOLUCIÓN DE DATOS Y IA UTILIZADA
+•  IA utilizada: La plataforma utiliza computación confidencial, una combinación de los cuatro pilares de TEP.
+•  Valor agregado: Compartir datos cifrados, anonimizados, reconciliados y seguros.
+
+DESAFÍOS ENFRENTADOS
+•  Involucrar a un número suficiente de bancos al mismo tiempo para asegurar comparaciones precisas y obtener un análisis más eficiente.
+•  Expertise en nuevas tecnologías y tiempos de incorporación para cada nuevo participante en el consorcio (involucrando a representantes de Legal, Cumplimiento, IT, etc.).
+•  Problemas de política y regulación, especialmente en cuanto a la compartición de datos en múltiples jurisdicciones.
+
+¿QUÉ SIGUE?
+Nuevas aplicaciones en discusión:
+•  Proyectos de Conozca a su Cliente/Anti-Lavado de Dinero;
+•  Legal: descubrimiento y litigio, migración segura a la Nube Pública, Gestión de Calificaciones de Crédito;
+•  Datos del mercado: Casos de uso de Post-Trade;
+•  Discusión con SWIFT y DTCC para una asociación para ofrecer Danie como servicio adicional para sus clientes.
+
+En resumen, Danie es una solución innovadora de la industria que aprovecha las Tecnologías de Mejora de la Privacidad (TEP) para mejorar la calidad de los datos de manera segura y anónima, reducir costos y impulsar la estandarización de datos, críticos para el procesamiento de operaciones, gestión de riesgos y informes regulatorios.
+
+EN RESUMEN
+1 //  Ahorro de tiempo del 75% al 80% en la revisión de datos
+2 //  1,3 millones de datos por minuto procesados utilizando solo 2-3 servidores
+3 //  Unos pocos segundos a 1 minuto para obtener un informe sobre la calidad de los datos
+4 //  2022: 5 nuevos bancos se unieron al consorcio (estructuras legales)
+5 //  Solución ecológica: sistema que minimiza el número de servidores requeridos
+
+CIFRAS CLAVE
+Danie nos permitirá generar beneficios operativos en el corto plazo mientras construimos una plataforma que tendrá muchas aplicaciones en nuestros negocios en los próximos años.
+Cécile, ex COO de Societe Generale Global Banking & Investor Solutions.
+
+¿QUÉ ES DANIE?
+Danie es un consorcio de bancos y proveedores de datos que trabajan juntos para comparar sus datos de manera anónima a través de una plataforma descentralizada.
+
+ÁREA DE NEGOCIOS
+Prueba de Concepto (POC) con 5 bancos y 3 proveedores de datos
+
+VALOR AGREGADO
+•  Medir la calidad de los datos de los clientes comparándolos de manera anónima con empresas pares
+•  Acelerar la estandarización de datos críticos
+•  Reducir costos
+
+UN BANCO MÁS FLUIDOINSTANT-KYC  
+CONOCIMIENTO DEL CLIENTE OPTIMIZADO  
+A TRAVÉS DE LA AUTOMATIZACIÓN  
+DE VERIFICACIONES DOCUMENTALES
+
+ANÁLISIS INICIAL
+•  Una costosa y compleja remediación de KYC requerida 
+por el regulador francés (ACPR) en 2016, difícil de lograr 
+manualmente en el plazo requerido (grandes volúmenes de datos 
+y varios formatos de documentos). 
+•  Además, realizar revisiones de KYC regulares para actualizar 
+los datos del cliente es una tarea desafiante, ya que los documentos 
+no están estandarizados y la calidad de los datos disminuye con el tiempo. 
+
+OBJETIVOS INICIALES
+•  Acceder a las muestras de documentos "verdad fundamental" 
+mantenidas por las empresas para entrenar los modelos de IA. 
+•  Asegurarse de que el uso de Instant-KYC se considere durante 
+cualquier oportunidad/estudio de viabilidad para la automatización 
+de KYC y análisis.
+
+LA SOLUCIÓN DE DATOS Y IA UTILIZADA
+•  IA utilizada: Procesamiento de Lenguaje Natural (NLP). 
+•  Valor agregado: Asegurar una alta tasa de precisión en el tratamiento 
+de documentos (reconocimiento de tipo de documento, etiquetado 
+automático de documentos y extracción de contenido). 
+
+DESAFÍOS ENFRENTADOS
+•  Reducir el costo y la complejidad de la remediación de KYC y 
+cumplir con el plazo del regulador. 
+•  Normalizar y automatizar procesos para realizar mejoras 
+en las revisiones de KYC continuas (revisiones, control de calidad, etc.). 
+•  Mejorar el Tiempo de Lanzamiento al Mercado para la incorporación 
+de nuevos clientes de KYC gracias a controles en tiempo real.  
+•  Una experiencia de usuario de Autocuidado diseñada para 
+habilitar la incorporación remota. 
+
+¿QUÉ SIGUE?
+•  Instant-KYC es una solución digital basada en módulos 
+reutilizables fuera de la estantería. Con un catálogo de más de 160 
+tipos de documentos, la solución es una herramienta poderosa para 
+acelerar la digitalización de las Unidades de Negocio y Unidades de 
+Servicio del Grupo. 
+•  Ejemplos de escenarios de reutilización potenciales: 
+-  Los módulos de manejo de documentos del cliente se pueden 
+aplicar a otras cadenas de valor dentro del Banco (por ejemplo, 
+puntuación del cliente por el Departamento de Riesgos del Grupo); 
+-  Diferentes módulos de la solución se pueden reutilizar para 
+Negocios como Servicio; 
+-  Verificaciones de calidad de datos para documentos de fondos.  
+- Un nuevo modelo de documento se puede crear gratuitamente 
+dentro de 1-3 semanas. 
+•  Próximos pasos: expandir la solución a otros mercados y 
+marcas. Inicialmente desarrollada en 2016 para realizar la remediación 
+de KYC de 8 millones de clientes individuales de SG, Banca al Detalle 
+en Francia en un plazo muy corto, Instant-KYC ahora se utiliza 
+como parte de los procesos de revisión de KYC automatizados de 
+estos bancos. También se ha utilizado para la remediación de KYC de 
+Soluciones Globales de Banca y de Inversores y se ha ampliado para 
+realizar la incorporación de nuevos clientes de KYC.
+
+EN RESUMEN
+1 //  ½ a 1 hora por archivo en ahorro de tiempo en la remediación de KYC 
+(frente a 1 a 2 segundos por archivo requeridos para el tratamiento 
+de Instant-KYC), tiempo realocado a la gestión de relaciones con 
+clientes y el análisis de archivos más complejos
+2 //  Más de 500,000 archivos de clientes remediados por mes para 
+SG, Banca al Detalle en Francia con Instant KYC 
+3 //  Más del 95% de precisión de datos en 2020 en documentos 
+estándar (por ejemplo, tarjetas de identificación, documentos 
+oficiales, direcciones, etc.) 
+4 //  Más de 160 tipos de documentos tratados
+
+FIGURAS CLAVE
+La solución realiza la clasificación, extracción de datos y controles 
+en documentos con un mínimo del 95% de precisión en documentos 
+estándar (por ejemplo, tarjetas de identificación). Aunque la 
+solución está diseñada para funcionar en un entorno de hombre/máquina, 
+solo el 40% de los casos tratados son aprobados por analistas de 
+Cumplimiento, el resto no requiere intervención humana.
+
+Amal, Gerente de KYC “”
+¿Qué 
+El tratamiento automático de documentos de clientes  
+Área de negocio
+SG, Banca al Detalle en Francia, Soluciones Globales de Banca 
+y de InversoresValor agregado  
+•  Automatizar los controles de KYC en tiempo real 
+•  Acelerar la digitalización de las Unidades de Negocio y 
+Unidades de Servicio del Grupo
+•  Mejorar la calidad de los datos gracias a verificaciones 
+simples y regularesUn banco más fluidoASISTENTE JURÍDICO  
+ACELERACIÓN DEL TIEMPO DE LANZAMIENTO AL MERCADO  
+MEJORANDO LA REVISIÓN DE DOCUMENTOS JURÍDICOS
+
+ANÁLISIS INICIAL
+• Muchas transacciones de banca mayorista requieren documentación jurídica (Acuerdos de No Divulgación, Acuerdos de Préstamo, Acuerdos Maestros, etc.).
+• Revisar las cláusulas de estos contratos es un proceso que consume tiempo para los equipos de Oficina del Frente, Jurídico y Oficina de Atrás, lo que puede ralentizar significativamente el Tiempo de Lanzamiento al Mercado y ser una fuente de errores.
+
+OBJETIVOS INICIALES
+• Mejorar la eficiencia operativa con una mejor asignación de recursos escasos.
+• Mejorar el Tiempo de Lanzamiento al Mercado.
+• Reducir los riesgos operativos como resultado de una mayor calidad de datos.
+
+LA SOLUCIÓN DE DATOS Y IA UTILIZADA
+• IA utilizada: Procesamiento de Lenguaje Natural (PLN).
+• Valor agregado: Detectar y extraer cláusulas jurídicas, incluso aquellas con redacción y posición diferentes dentro del documento.
+
+DESAFÍOS ENFRENTADOS
+• Se requiere una fuerte participación del usuario para entrenar el modelo y asegurar una experiencia del usuario efectiva.
+• Rendimiento y creación de valor progresivos y exponenciales.
+
+¿QUÉ SIGUE?
+• Totalmente reutilizable por otros negocios y países, así como para el procesamiento de nuevos documentos jurídicos.
+• La solución como servicio habilita a cualquier propietario de procesos para iniciar el entrenamiento del modelo de PLN en sus propios documentos jurídicos específicos. Inicialmente diseñado para facilitar el procesamiento de Acuerdos de Préstamo, el Asistente Jurídico ha sido reutilizado y ampliado para incluir la revisión de Acuerdos de No Divulgación, Acuerdos Maestros y Acuerdos de Colateral, reduciendo costos y ciclos de desarrollo.
+
+Hoy en día, es utilizado por 300 usuarios dentro del Secretariado General, Banca Global y Asesoría, Mercados Globales y la Unidad de Servicio Empresarial Global para procesar 3,300 documentos jurídicos. El Asistente Jurídico sigue creciendo en fuerza.
+
+EN RESUMEN
+1 //  300 usuarios  
+2 //  4 tipos de contratos cubiertos  
+3 //  99% de precisión de datos
+4 //  Tiempo ahorrado por contrato: 1 a 3 horas
+
+FIGURAS CLAVE
+
+La velocidad con la que podemos revisar ciertos contratos, como los Acuerdos de No Divulgación que preceden a las negociaciones y la firma de un trato, es clave. Esto no solo ayuda a comenzar las discusiones con el cliente de manera suave y demostrar nuestra eficiencia operativa, sino que también es beneficioso para el trato en sí mismo, ya que la Oficina del Frente ahorra tiempo que puede dedicar a la esencia de su actividad: la relación comercial.
+
+Stéphanie, Patrocinadora del Asistente Jurídico“
+
+¿Qué es?
+La revisión automática de documentos jurídicos
+
+Área de negocio
+Mercados Globales, Banca Mayorista, 
+Secretariado General, Banca Global y Soluciones de Inversores
+
+Valor agregado  
+• Reducir tareas que consumen tiempo y son fuentes de errores para la Oficina del Frente, Jurídico y Oficina de Atrás
+• Mejorar la calidad de datos
+• Acelerar el Tiempo de Lanzamiento al Mercado
+
+UN BANCO MÁS SEGUROUN BANCO MÁS SEGURO
+MOSAIC  
+LUCHA CONTRA EL FRAUDE EXTERNO
+ANÁLISIS INICIAL
+• El fraude externo en transacciones bancarias, como phishing, fraude de identidad y fraude de pago, es un dominio en constante evolución.
+• Según el Observatorio de Seguridad de los Métodos de Pago del Banco de Francia, en 2019 el fraude de pago superó los 1.000 millones de euros.
+• El fraude afecta a varios segmentos de clientes, incluyendo Banca Minorista (individuos, profesionales, empresas) y Banca Mayorista (empresas).
+OBJETIVOS INICIALES
+• Ayudar a detectar y reducir el fraude para proteger a nuestros clientes y el Banco, reducir costos financieros y prevenir riesgos reputacionales.
+LA SOLUCIÓN DE DATOS Y IA UTILIZADA
+• IA utilizada: Un sistema de IA basado en algoritmos de aprendizaje automático y modelado de comportamiento para identificar patrones de fraude.
+• Valor agregado: la identificación de diferentes tipos de fraude.
+DESAFÍOS ENFRENTADOS
+• Detección de nuevos escenarios de fraude y las nuevas capacidades de los estafadores.
+• Explotación de múltiples fuentes de datos brutos.
+• Alto nivel de disponibilidad (24h/24 y 7d/7).
+¿QUÉ SIGUE?
+• La solución se basa en una interfaz de programación de aplicaciones (API) y arquitectura de microservicios, lo que permite agilidad y flexibilidad.
+• Los próximos pasos son expandir a otros mercados y marcas.
+Mosaic consta de varias aplicaciones desarrolladas en casa en una configuración multi-mercado, multi-marca y multi-dispositivo utilizando técnicas innovadoras de datos y IA. Lanzado en 2015 como un concepto de prueba (POC), se industrializó rápidamente y se desplegó progresivamente en SG, Banca Minorista en Francia, Servicios de Pagos Globales y Banca Privada de Societe Generale en Francia.
+
+EN RESUMEN
+1 // Menos de medio segundo para detectar un fraude en un pago instantáneo
+2 // Más del 80% de los fraudes bloqueados y evitados automáticamente en pagos instantáneos
+3 // El 100% de los clientes de SG, Banca Minorista en Francia cubiertos por la solución
+4 // Un enfoque anti-fraude para la detección proactiva y mejorada dentro de SG, Banca Minorista en Francia con 9 dominios de aplicación (pago instantáneo, servicio Paylib, APIs DSP2, pago masivo, etc.)
+
+CIFRAS CLAVE
+Las capacidades de la inteligencia artificial nos permiten utilizar análisis de comportamiento para detectar fraudes complejos y ajustar rápidamente la solución a nuevos escenarios de fraude.
+
+Jeremy, Líder de Ciencia de Datos
+
+¿Qué es?
+Sistema de detección de diferentes tipos de fraude
+Área de negocio  
+SG, Banca Minorista en Francia, Servicios de Pagos Globales y Banca Privada de Societe Generale en Francia
+Valor agregado  
+• Ayudar a detectar y reducir el fraude para proteger a nuestros clientes y el Banco
+• Reducir costos financieros
+• Limitar riesgos reputacionalesUN BANCO MÁS SEGURO
+NACRE  
+UN ASISTENTE AUGMENTADO  
+PARA UN MEJOR SERVICIO AL CLIENTE
+ANÁLISIS INICIAL
+Las transacciones que superan los sobregiros autorizados representan más de 40,000 transacciones diarias. Como parte del servicio ofrecido a nuestros clientes individuales, las verificaciones de estos excedentes eran parte de la rutina diaria de los asesores financieros en las sucursales:
+•  Una tarea manual y minuciosa que podía tomar hasta 40 minutos y podía ser una fuente de error humano;
+•  Dependiendo de la situación de su cliente, los asesores financieros de la sucursal podían requerir contactar a los clientes directamente para regularizar la situación.
+
+OBJETIVOS INICIALES
+Una revisión y digitalización completa del proceso de sobregiros con el objetivo de servir mejor a los clientes, facilitar el trabajo de los asesores financieros en las sucursales y gestionar mejor los riesgos a través de:
+•  Pago automático de transacciones con alta probabilidad de regularización, reduciendo así el contacto no requerido con los clientes;
+•  Autonomía con advertencias vía SMS y suspensión durante 72 horas para transacciones que muestran un sobregiro y control sistemático de provisiones;
+•  Rechazo automático para algunas operaciones después de 72 horas de suspensión.
+
+LA SOLUCIÓN DE DATOS Y IA UTILIZADA
+•  IA utilizada: Un sistema basado en un método de Árbol de Decisión complejo (Máquina de Boosting de Gradiente) que amplifica el impacto de la digitalización del proceso en su conjunto.
+•  Valor agregado: Una experiencia del cliente mejorada, mayor eficiencia operativa y reducción de riesgos.
+
+DESAFÍOS ENFRENTADOS
+•  Controles diarios de calidad de datos de las entradas y salidas del modelo.
+•  Monitoreo diario del rendimiento del modelo según diferentes ejes de análisis para detectar cualquier deriva y mejorar la toma de decisiones.
+•  Transparencia del modelo: auditable e interpretable.
+
+Nacre habilita un servicio al cliente mejorado y autonomía mientras apoya el trabajo de los asesores financieros en las sucursales bancarias al automatizar tareas simples y consumidoras de tiempo. Ampliamente desplegado en SG, Banca Minorista en Francia, la solución procesa más de 40,000 transacciones diarias, ahorrando hasta 40 minutos por día para los asesores financieros, que pueden entonces enfocarse en servicios de mayor valor agregado para sus clientes.
+
+EN RESUMEN
+1 // Más del 80% de las transacciones procesadas por IA sin la intervención de los asesores financieros de la sucursal, cerca del 15% de las transacciones pagadas automáticamente.
+2 // Gestión de riesgos: Menos del 5% de las transacciones aceptadas incorrectamente vs. 22% en el sistema antiguo.
+3 // Ahorro de tiempo de hasta 40 minutos por día para los asesores financieros de la sucursal.
+4 // Ampliación del alcance desde diciembre de 2020: operaciones personales de clientes profesionales y procesamiento de cheques.
+
+DATOS CLAVE
+Automatización de tareas consumidoras de tiempo relacionadas con el tratamiento de sobregiros autorizados.
+Área de negocio  
+SG, Banca Minorista en Francia
+Valor agregado  
+• Mejora del servicio al cliente
+• Mejora de la gestión de riesgos
+•  Mayor autonomía para los asesores financieros en las sucursales bancarias
+13Here is the translation:
+
+SG MARKETS – MIS CASOS  
+MEJORA DE LA GESTIÓN DE DATOS  
+PARA UNA MAYOR SATISFACCIÓN DEL CLIENTE  
+ANÁLISIS INICIAL
+•  El correo electrónico sigue siendo un canal de comunicación importante utilizado por los clientes para contactar con el banco (más de 1 millón de correos electrónicos fueron enviados por los clientes de Banca Global y Soluciones de Inversores en operaciones post-negociación en 2019).
+•  Necesidad de priorizar el trabajo y identificar casos críticos para gestionar, especialmente para clientes de Nivel 1.
+•  Las cadenas de comunicación no estructuradas con clientes requieren un alto grado de procesamiento manual y no son fácilmente explotables.
+•  El proceso de integración de Know Your Client del Grupo es lento en comparación con los procesos de Fintech y Insurtech.
+OBJETIVOS INICIALES
+•  Mejorar la experiencia del cliente y los niveles de satisfacción al procesar mejor los problemas y incidentes para reducir el tiempo de respuesta.
+•  Mejorar la gestión de casos al centralizar correos electrónicos en una sola solicitud para una mayor eficiencia al tratar con casos de clientes.
+•  Optimizar la organización del flujo de trabajo de equipos específicos y automatizar la asignación de tareas según reglas específicas (clasificación, seguimiento).
+LA SOLUCIÓN DE DATOS Y IA UTILIZADA
+•  IA utilizada: Procesamiento de Lenguaje Natural (PLN).
+•  Valor agregado: categorización de casos, detección de intención del cliente, extracción de datos para automatizar procesos y reducir acciones manuales no valoradas (por ejemplo, copiar/pegar datos).
+DESAFÍOS ENFRENTADOS
+•  Cambio de gestión para apoyar el enfoque de gestión de casos y asegurar la aceptación de los usuarios y la pilotaje basado en datos.
+•  Desafíos técnicos relacionados con la preparación de datos (tratamiento de correos electrónicos para considerar solo el contenido funcional, por ejemplo, eliminación de HTML, firmas, descargos, etc.).
+¿QUÉ SIGUE?
+•  Las características de gestión de casos están estandarizadas y reutilizables.
+•  Los modelos de PLN se desarrollan según sea necesario dependiendo de la cadena de valor (llamadas de margen, conciliación previa, etc.).
+•  Próximos pasos:
+-  Ampliar las capacidades de PLN para la categorización de casos por actividad empresarial.
+-  Módulo de flujo de trabajo para ayudar a responder a solicitudes de clientes simples con mínima intervención humana.
+-  Ampliar a otros canales de comunicación.
+-  SGSS abrirá la herramienta a los clientes y mejorará la atención al cliente en 2022.
+Lanzado en 2016 para facilitar el procesamiento de solicitudes y incidentes para clientes mayoristas, SG Markets – Mis Casos proporciona capacidades de gestión de casos y automatización para organizar procesos, estructurar comunicaciones y datos, así como pilotar flujos de trabajo de resolución. Los datos se agregan para ofrecer capacidades de tablero poderosas a través de la herramienta de tablero de SG Markets. La solución se utiliza en 2,400 personas y se conecta a 650 buzones de correo electrónico dentro de Banca Global y Soluciones de Inversores, Societe Generale Securities Services (SGSS) y Servicios de Pago de Transacciones Globales.
+
+EN RESUMEN
+1 //  2,400 usuarios 
+2 //  650 buzones de correo electrónico conectados 
+3 //  230,000 correos electrónicos procesados por semana 
+4 //  32 widgets que siguen la actividad  
+5 //  Mejora del tiempo de procesamiento de solicitudes de "llamadas de margen" (dos veces más rápido, 1,500-2,000 casos tratados por mes)
+6 //  Reducción del 85% del tiempo requerido para crear credenciales de la plataforma SG Markets en servicios post-negociación (de 70 a 10 minutos)
+
+DATOS CLAVE
+
+En ciertas operaciones (por ejemplo, operaciones fuera de la bolsa o garantía), SG Markets - Mis Casos ha revolucionado la gestión de flujos de trabajo de nuestros clientes para todos nuestros contrapartes gestionados fuera de los estándares del mercado/estandarización, asignación, jerarquización, interoperabilidad (flujo de trabajo vertical vs. sistema de garantía, seguimiento, etc.) para permitirnos servir mejor a nuestros clientes.  
+Edouard, Propietario de Producto OTC Colateral
+
+¿Qué es?
+Tratamiento automático de solicitudes de clientes  
+Área de negocio
+Banca Global y Soluciones de Inversores, Societe Generale Securities Services (SGSS) y Servicios de Pago de Transacciones Globales
+Valor agregado  
+•  Automatiza y acelera el tratamiento de solicitudes de clientes
+•  Optimiza el trabajo de los equipos
+•  Mejora la satisfacción general del cliente
+
+UN BANCO MÁS FLUIDOUN BANCO MÁS EFICIENTE
+ANÁLISIS INTELIGENTE
+ASEGURA LA EFICIENCIA
+DE NUESTROS PROCESOS
+ANÁLISIS INICIAL
+• Un enfoque manual y basado en silos para monitorear, 
+generar costos y limitar la calidad del servicio. 
+• La necesidad de monitoreo y gestión basados en hechos 
+de las cadenas de procesamiento en un contexto de aplicaciones 
+fragmentadas y complejas. 
+• Vistas inconsistentes y ausentes en las cadenas de valor, 
+impidiendo la identificación rápida de rutas hacia mejoras 
+en los procesos. 
+OBJETIVOS INICIALES
+• Industrialización y automatización de la presentación de 
+informes para reducir costos y mejorar la calidad del servicio 
+para cumplir mejor con los objetivos estratégicos de las líneas 
+de negocio de Banca Global y Soluciones para Inversionistas.
+• Monitorear y mejorar el rendimiento de las cadenas de valor 
+Post-Trade identificando cuellos de botella y rupturas en tiempo 
+real a través del uso de paneles de control con métricas clave. 
+• Identificar áreas de mejora de procesos y comprometerse con 
+las resoluciones con los equipos basadas en hechos y datos, 
+y el beneficio de la automatización. 
+LA SOLUCIÓN DE DATOS Y IA UTILIZADA
+• Beneficio de datos: industrialización del procesamiento de 
+datos (captura y estandarización).
+• Valor agregado: Captura y normalización de datos para 
+construir el paisaje de datos del ciclo de vida Post-Trade como 
+un activo de datos común. 
+• Paneles de control, visión general de KPI y capacidad de 
+drill-down en detalles. • Aprovechar otros usos (por ejemplo, utilizando la herramienta 
+de autocompletar NEPHELAI para mejorar la calidad de los datos). 
+DESAFÍOS ENFRENTADOS
+• Alinear la ambición con los medios disponibles para optimizar 
+el roadmap. 
+• Mantener la taxonomía transversal y la metodología para 
+tener indicadores consistentes en las diferentes cadenas de valor 
+(más de 20 aplicaciones y fuentes de datos). 
+¿QUÉ SIGUE?
+• La solución es transversal en múltiples cadenas de valor, 
+beneficiándose de definiciones comunes, un modelo de datos 
+estandarizado y un conjunto de indicadores. 
+• El paisaje de datos se utiliza actualmente para enriquecer 
+las capacidades de monitoreo y gestión utilizando tecnología 
+de Minería de Procesos y, lo que es más importante, para producir 
+una vista basada en clientes de la calidad del servicio Post-Trade.  
+• El "espíritu" de Análisis Inteligente es replicable cada vez que 
+se necesita mejorar la eficiencia de una cadena de valor (por ejemplo, 
+cadena de procesamiento de Finanzas Estructuradas).
+• Interfaces de programación de aplicaciones y widgets listos 
+para usar disponibles en el tablero de SG Markets o en un uso más 
+avanzado con el apoyo del cubo Datamart. 
+Lanzado en 2018, Smart Analytics es utilizado por 100 propietarios 
+de procesos y gerentes de cadenas de valor de Post-Trade de Mercados 
+de Capital para monitorear y gestionar la eficiencia de procesos: 
+captura de operaciones, gestión de eventos, confirmación, liquidación 
+y garantía. 
+Aplicando indicadores clave de rendimiento y análisis de 
+mediciones, la solución gestiona más de 10 millones de operaciones 
+y eventos por mes para las líneas de negocio de Banca Global y 
+Soluciones para Inversionistas. 
+
+EN RESUMEN
+1 //  100 usuarios (propietarios de procesos y gerentes de cadenas 
+de valor de Post-Trade de Mercados de Capital)
+2 //  Gestión de más de 10 millones de operaciones y eventos por mes
+3 //  Visión general de 15 cadenas de valor
+4 //  Capacidad de analizar y construir análisis ad hoc utilizando 
+Power BI o Excel
+5 //  Mejoras en la forma en que los gerentes de cadenas de valor 
+identifican áreas de optimización y guían sus objetivos operativos 
+y resultados clave
+
+FIGURAS CLAVE
+5Smart Analytics es la piedra angular de nuestras capacidades 
+de gestión industrial, utilizada tanto para rastrear el rendimiento 
+como para guiar la toma de decisiones.  
+Cécile, ex COO de Societe Generale Banca Global e Inversiones
+
+¿QUÉ ES?
+Una solución de monitoreo y gestión para procesos Post-Trade  
+Área de negocio  
+Banca Global y Soluciones para Inversionistas  
+Valor agregado  
+• Reducir costos de informes
+•  Identificar áreas de mejora de procesos y implementar 
+su resolución
+• Mejorar la calidad del servicio
+15UN BANCO MÁS SEGURO
+ASISTENTE DE OPERACIONES DE TRADING
+Un chatbot para responder a solicitudes de clientes en mercados de derivados
+ANÁLISIS INICIAL
+• Los mercados de capitales utilizan muchos flujos de trabajo de chat y trading telefónico en los mercados de derivados. Los oficiales de frente deben ingresar la información en los sistemas de Societe Generale por razones operativas (precios) y de cumplimiento (informes) antes de la ejecución.
+• Ingresar manualmente las solicitudes en los diversos sistemas de TI es lento y consume tiempo. Como resultado, las solicitudes con baja probabilidad de ejecución nunca se ingresan en el sistema.
+
+OBJETIVOS INICIALES
+• Mejorar la experiencia del cliente de la actividad de Mercados de Capitales del Grupo respondiendo a un mayor número de solicitudes de clientes y recopilando más datos de mercado sobre actividades de trading.
+• Mejorar la eficiencia operativa asistiendo al equipo comercial de Mercados de Capitales y a los traders para ingresar solicitudes en los sistemas de TI del Grupo.
+• Mayor responsabilidad al utilizar estos datos para la Revisión Fundamental del Libro de Trading observado y comunicación de cumplimiento.
+
+LA SOLUCIÓN DE DATOS Y IA UTILIZADA
+• IA utilizada: procesamiento de lenguaje natural específico de mercados financieros y algoritmos de aprendizaje automático.
+• Valor agregado: algoritmos entrenados para reconocer los diferentes tipos de solicitudes de cotizaciones.
+
+DESAFÍOS ENFRENTADOS
+• Capacidad de reconocimiento de voz: un doble desafío que requiere la participación del usuario para registrar su voz, así como una interfaz de usuario para hacerlo posible.
+• Recursos escasos: muy pocos recursos capacitados disponibles para participar en la conceptualización, ya que se requiere un perfil híbrido de trader y científico de datos.
+
+¿QUÉ SIGUE?
+• Escalar la capacidad de reconocimiento de voz.
+• Continuar la aplicación del chatbot a otras clases de activos/desk.
+• Mejora continua para una mayor robustez.
+• Manejo de casos específicos.
+
+Diseñado en 2017 para procesar solicitudes de cotizaciones con baja probabilidad de ejecución enviadas a los oficiales de frente (equipo comercial y traders) en el escritorio de Acciones de Europa, el asistente de trading chatbot ha sido reutilizado y escalado para trabajar en diferentes clases de activos (Materias primas, Renta fija, Divisas, etc.) y geografías (América y Asia), lo que permite un servicio al cliente mejorado y generar ingresos adicionales. Ya utilizado por 35 clientes/corredores en los escritorios de Swap y Acciones de América, nuevos desarrollos están en marcha para ofrecer una capacidad de reconocimiento de voz.
+
+EN RESUMEN
+1 // 10 escritorios de Mercados de Capitales en Francia, América y Asia
+2 // 50 corredores y 40 traders en París, Nueva York, Londres y Hong Kong
+3 // 2,000 solicitudes de cotizaciones por día
+4 // Utilizado por 35 clientes/corredores en los escritorios de Swap y Acciones de América
+5 // Tiempo de comercialización acelerado (de 10 a 1 min) y satisfacción del cliente gracias a la reducción del tiempo de procesamiento y ejecución
+6 // 2-3 meses para personalizar el reconocimiento de voz para un nuevo producto
+
+CIFRAS CLAVE
+
+Perdemos ventas si no podemos responder rápidamente a nuestros clientes, así que es muy útil tener una herramienta que pueda interpretar y responder rápidamente.
+Kevin, Científico de Datos
+
+¿Qué es?
+Un chatbot, asistente virtual
+Área de negocio
+Mercados de Capitales en Francia, América y Asia
+Valor agregado
+• Aumentar la eficiencia operativa asistiendo con la entrada de solicitudes
+• Mejorar el servicio al cliente respondiendo más rápido a las solicitudes
+• Generar ingresos y procesar más solicitudes
+16UN BANCO MÁS  
+PERSONALIZADO  
+Anticipar necesidades; ofrecer servicios a medida; 
+fortalecer y mejorar los niveles de satisfacción 
+creando relaciones más cercanas con nuestros 
+clientes existentes y atraer a nuevos.
+
+Todos estos desafíos forman parte del mismo 
+compromiso: asegurar un enfoque verdaderamente 
+centrado en el cliente con una propuesta de valor 
+más personalizada, consistente y completa.
+
+Son muchos los desafíos que podemos responder 
+con soluciones efectivas y personalizadas utilizando 
+el pleno potencial de los Datos y la Inteligencia 
+Artificial.
+
+En este capítulo, encontrará todos los Casos de 
+Uso de Datos y IA que actualmente están ayudando 
+a hacer que Societe Generale sea un banco más 
+personalizado.
+17MEJORA DEL DESARROLLO PROFESIONAL
+ANÁLISIS INICIAL
+•  El personal busca destacar y compartir sus habilidades y competencias con sus colegas y gerentes.
+•  Los gerentes necesitan identificar rápidamente al personal con los conjuntos de habilidades relevantes dentro de sus equipos y más allá para fines de personal.
+•  Los Recursos Humanos necesitan tener una visión general de las habilidades y competencias del personal para desarrollar sus carreras y fomentar la movilidad interna.
+
+OBJETIVOS INICIALES
+•  Para el personal: enumerar sus habilidades en menos de 5 minutos en sus propias palabras, dar mayor visibilidad a sus habilidades dentro del Grupo y beneficiarse de ofertas de desarrollo profesional personalizadas.
+•  Para los gerentes: tener una visión general de las habilidades disponibles dentro de sus equipos y poder identificar rápidamente los perfiles adecuados para sus necesidades de personal/vacantes.
+•  Para la Planificación de la Fuerza Laboral Estratégica: poder administrar datos de conjuntos de habilidades con referencia dinámica.
+
+LA SOLUCIÓN DE DATOS Y IA UTILIZADA
+•  IA utilizada: Procesamiento de Lenguaje Natural (NLP) y Aprendizaje Automático para pasar de la referencia estática a la referencia dinámica.
+•  Valor agregado:
+-  Las capacidades de NLP cruzadas con algoritmos de lenguaje francés/inglés permiten enriquecer los perfiles con fuentes de datos externas (LinkedIn, etc.).
+-  Las capacidades de Aprendizaje Automático mejoran las características de coincidencia de trabajo/perfil y, por lo tanto, la satisfacción del personal gracias a sugerencias más apropiadas.
+
+DESAFÍOS ENFRENTADOS
+•  Promocionar la solución a aquellos entidades que no la están utilizando y ayudarlos con la implementación (problemas regulatorios y técnicos).
+•  Proporcionar gestión de cambio continuo para ayudar a la adopción de la solución y la finalización de perfiles dentro de las entidades que utilizan ACE.
+•  Enriquecer las funcionalidades de la Planificación de la Fuerza Laboral Estratégica.
+•  Optimizar la gestión de datos para mantener la relevancia del servicio.
+
+¿QUÉ SIGUE?
+•  Desarrollar casos de uso de la Planificación de la Fuerza Laboral Estratégica basados en funcionalidades existentes y futuras.
+•  Apoyar la implementación adicional, especialmente en varias entidades en todo el mundo, SG, Banca Minorista en Francia.
+
+Con un enfoque en la gestión de datos de conjuntos de habilidades, ACE ofrece una amplia gama de servicios, incluyendo coincidencia de trabajo, movilidad interna y mapeo de habilidades para fines operativos y de Planificación de la Fuerza Laboral Estratégica. Lanzado en 2017, ACE se encuentra actualmente desplegado en 69 entidades, en más de 21 países y cubre a 44,000 miembros del personal.
+
+EN RESUMEN
+1 //  25,000 conjuntos de habilidades enumerados en ACE
+2 //  Más de 10,000 búsquedas de conjuntos de habilidades por mes
+3 //  Más de 2,500 puestos de trabajo consultados por miembros del personal por mes
+
+CIFRAS CLAVE
+
+Como jefe de departamento, ACE me ayuda en mi toma de decisiones para la asignación de trabajo y el desarrollo de habilidades.
+Patrick, Jefe de Departamento, Societe Generale
+
+Ahora es mucho más fácil revisar y aplicar para vacantes internas a través de ACE.
+Audrey, miembro del personal, SG, Banca Minorista en Francia
+
+¿QUÉ ES ACE?
+Un servicio de Recursos Humanos basado en datos de conjuntos de habilidades del personal
+Área de negocio
+Recursos Humanos
+Valor agregado
+• Aumentar la visibilidad de las habilidades del personal
+• Ayudar a los gerentes a identificar perfiles de personal adecuados
+• Proporcionar Planificación de la Fuerza Laboral Estratégica con referencia dinámica de conjuntos de habilidades
+
+UN BANCO MÁS PERSONALIZADO
+18APETITO DEL INVERSOR  
+UN MODELO PREDICTIVO PARA UN VIAJE DE EMISIÓN MEJORADO
+ANÁLISIS INICIAL
+• La calidad del asesoramiento proporcionado a los emisores es un diferenciador clave en el competitivo mercado de deuda capital. Mantenerse al tanto de cualquier cambio en el comportamiento del inversor proporciona un valor agregado adicional para los clientes.
+• Los equipos de origen necesitan analizar manualmente miles de libros de pedidos pasados para anticipar el apetito del mercado. Esto es tiempo consumidor y abierto a la optimización.
+
+OBJETIVOS INICIALES
+• Mejorar la experiencia del cliente y los niveles de satisfacción con asesoramiento de alto valor.
+• Mejorar nuestra imagen como un banco de clase mundial con una oferta de servicio de primera clase disponible en la plataforma SG Markets - Mi Mercado de Capitales.
+• Aumentar la Renta Bancaria Neta del banco a través de recomendaciones más precisas.
+• Mayor eficiencia operativa con menos tiempo gastado en tareas manuales como simulaciones y recomendaciones.
+
+LA SOLUCIÓN DE DATOS Y IA UTILIZADA
+• IA utilizada: Aprendizaje Automático
+• Valor agregado: Un sistema de recomendación entrenado para analizar datos de emisiones de bonos pasadas y predecir la probabilidad de cada inversor participar en una emisión de bonos.
+
+DESAFÍOS ENFRENTADOS
+• Obtener recomendaciones precisas y relevantes.
+• Una explicación clara y comprensible del modelo para asegurar la adopción por la Oficina del Frente.
+• Capturar más datos para cubrir las expectativas evolutivas de los inversores.
+
+¿QUÉ SIGUE?
+• El modelo está diseñado para su aplicación a otras clases de activos. Ya ha inspirado dos casos de uso adicionales dentro de la entidad de Banca Global y Asesoramiento.
+• Compra de bonos, para predecir la tasa de éxito de la compra (la proporción de inversores que participan en la operación) y mejorar su estructuración.
+• Préstamos sindicados, para anticipar el apetito de los inversores por nuevos préstamos sindicados.
+• El modelo también se ha reutilizado dentro de la Banca Global y Asesoramiento para ofrecer recomendaciones de aquellos clientes más propensos a estar interesados en el mercado de crédito con la solución de Recomendador de Crédito.
+• Un marco de IA construido con bloques de construcción estándar (Interfaces de Programación de Aplicaciones), código y un proceso de producción que puede inspirar reutilización en otros contextos.
+
+INICIALMENTE diseñado para predecir el apetito del mercado para nuevas emisiones de bonos y proporcionar asesoramiento más rápido y preciso a los emisores, el modelo de predicción de apetito del inversor ha estado disponible en la plataforma SG Markets para ofrecer una experiencia de emisor de primera clase. También se ha aplicado a recomendaciones de crédito en el mercado secundario (Mercados de Capitales) y se está probando actualmente para préstamos sindicados y compras de bonos con un objetivo de 150 usuarios.
+
+EN RESUMEN
+1 // Tasa de precisión de recomendación del 85% 
+2 // 50 usuarios – objetivo de 150 usuarios 
+3 // 200/300 emisores servidos por el Apetito del Inversor CIFRAS CLAVE
+
+Con la solución de Apetito del Inversor, las proyecciones proporcionadas a los inversores son mucho más precisas y mucho más rápidas de producir.
+
+Cécile, ex-patrocinadora de Apetito del Inversor“
+
+¿Qué es?
+Un modelo predictivo para asesoramiento más rápido y preciso  
+Área de negocio  
+Banca mayorista y Actividades de Mercado Valor agregado  
+• Fortalecer la imagen del Grupo 
+• Mejorar la experiencia del cliente y los niveles de satisfacción 
+• Mejorar la eficiencia operativa
+UN BANCO MÁS PERSONALIZADO
+19STELLA  
+FORTALECER EL ANÁLISIS DE CRÉDITO  
+ANÁLISIS INICIAL
+•  300 a 500 páginas de Informes Anuales que deben ser importadas manualmente a Excel por los Analistas de Crédito, lo que limita la capacidad de reutilizar y compartir datos. 
+•  El análisis de crédito es un proceso muy manual y representa alrededor del 35% del tiempo de los Analistas. 
+•  Los Analistas de Crédito están en particular demanda en momentos de crisis y están bajo crecientes requisitos regulatorios. 
+OBJETIVOS INICIALES
+•  Proporcionar datos listos para usar y fácilmente compartidos al extraer, estructurar y presentar datos de Informes Anuales corporativos. 
+•  Liberar a los Analistas de Crédito de tareas de baja valor agregado y tiempo-consumidoras para fortalecer su papel como socios comerciales para actividades de Oficina del Frente y Cobertura. 
+•  Construir un patrimonio de datos y desbloquear nuevas capacidades de análisis (comparación de pares, detección de cambios, datos no financieros, etc.). 
+LA SOLUCIÓN DE DATOS Y IA UTILIZADA
+•  IA utilizada: Una sucesión de algoritmos y una solución para visualizar los datos, llamada Data Viz. 
+•  Valor agregado: Estructurar, transformar y normalizar datos brutos en datos organizados y listos para usar. 
+-  Un enfoque de modelo de datos para asegurar la escalabilidad, consistencia y precisión del modelo Stella. 
+-  Data Viz para proporcionar informes digitalizados y precisos. DESAFÍOS ENFRENTADOS
+•  Construir un nuevo equipo de Ingeniería de Datos para romper los silos entre los equipos de negocio y TI. 
+•  Involucrar a los Analistas para garantizar la adopción del nuevo enfoque basado en datos. 
+•  Definir procesos estandarizados dentro del equipo de Análisis de Crédito de Banca Global y Asesoría. 
+•  Asegurar la auditoría y trazabilidad para cumplir con los requisitos regulatorios. 
+¿QUÉ SIGUE?
+•  Los estados financieros públicamente disponibles, estructurados según el modelo de datos de Societe Generale, pueden compartirse dentro del Grupo. 
+•  Una tubería de adquisición y análisis de datos para utilizarla para otros datos, como ESG. 
+En 2020
+•  Ampliar la solución a líneas de negocio dentro de Banca Global y Asesoría, así como a otras Unidades de Negocio y Unidades de Servicio en todo el Grupo (por ejemplo, el Departamento de Riesgos o las Unidades de Servicio de Banca Global e Inversiones). 
+•  Mejorar los análisis con nuevas características como alertas, proyecciones, automatización y nuevos casos de uso como la Tasa de Endeudamiento o Señales de Advertencia Temprana. Diseñado en 2020 para importantes clientes corporativos dentro de la actividad de Banca Global y Asesoría del Grupo para aliviar a los analistas de tareas manuales de baja valor agregado, Stella digitaliza el proceso de análisis de crédito transformando datos no estructurados extraídos de informes anuales en datos estructurados, confiables y listos para usar para los analistas. Gracias a este nuevo enfoque orientado a datos, los analistas pueden dedicar más tiempo a análisis más profundos en lugar de simples manipulaciones de datos.  EN RESUMEN
+1 //  176 Analistas para casi 1,600 clientes
+2 //  Entre 8 y 16 horas para producir datos listos para usar
+3 //  Entre 2 y 20 horas de análisis, asegurando un aumento promedio del 50%
+4 //  100% de precisión de datos CIFRAS CLAVE4Este proyecto es un salto cuántico hacia la digitalización dentro del equipo de Crédito, no solo trae mayor eficiencia, sino que también abre nuevas oportunidades y perspectivas en el Análisis de Crédito. Es el día uno.
+Médéric,  Gerente de Proyecto, Banca Global y Asesoría“
+
+¿Qué 
+Una plataforma innovadora  
+para mejorar la calidad de  
+los datos de los clientes 
+Área de negocio
+Banca Global y AsesoríaValor agregado  
+• Estructurar datos extraídos de Informes Anuales
+•  Entregar datos confiables, listos para usar y compartibles
+•  Reducir tareas tiempo-consumidoras para los Analistas de Crédito para que puedan dedicar más tiempo a análisis en profundidadUn banco más personalizado

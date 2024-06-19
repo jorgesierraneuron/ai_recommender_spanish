@@ -1,0 +1,50 @@
+ Introducción a la IA Generativa
+LECCIÓN 3
+La IA generativa no es algo nuevo
+¿Por qué no es algo nuevo?
+El concepto ha estado presente desde siempre. Mucho antes de que yo naciera. De hecho, en 1966 (!) un científico informático desarrolló ELIZA, un programa que realmente "creaba" un diálogo entre personas y una máquina. El diálogo era muy simple, pero un paso gigante hacia adelante que marcó el comienzo del gran potencial de la IA generativa. Eliza tomaría una oración como entrada y la convertiría en una pregunta agregando "¿por qué?" al principio. Se utilizó para terapia. ¡Y funcionó! La gente realmente se abría a ella. La gente olvidaba que estaban interactuando con una máquina, solo porque de sus convincentes formas "humanas" de interacción.
+
+GPT es diferente a ChatGPT
+GPT-4 es el modelo de lenguaje real que proporciona la capacidad de generar texto.
+ChatGPT es una aplicación de chatbot que utiliza el modelo de lenguaje de GPT. Fue construida para conversaciones.
+
+¿Qué hacen realmente los investigadores de IA generativa?
+Entrenan modelos de IA generativa (para entrenar modelos 101, lea más en mi publicación anterior).
+Elegir la entrada/salida
+La IA generativa puede (por ahora) producir imágenes, texto, video, audio. Y puede hacerlo utilizando imágenes, texto, audio como entrada. Así que, según sea su experimento, lo primero que los investigadores hacen es decidir qué será la entrada y la salida.
+
+Recopilar datos
+Digamos que queremos crear un modelo que genere imágenes realistas como DALL-E, pero digamos que lo harás utilizando una imagen como entrada para obtener una imagen similar como salida. Lo primero que necesitas es datos. Muchos datos. Hay muchas formas de obtener los datos: recopilarlos, sintetizarlos, adquirirlos, etc. En este ejemplo, necesitarías millones de imágenes (del mismo tamaño, es decir, 200x200px).
+
+Entrenar un modelo reduciendo el ruido
+La idea es que el modelo tome estas imágenes y revuelva aleatoriamente los píxeles en ruido puro, y luego entrene un modelo para reducir el ruido reordenando los píxeles en el tamaño de lienzo de 200x200px, hasta que vuelva a las imágenes originales. Este reordenamiento es en realidad la parte de generación. El modelo luego "aprende" qué tipo de reordenamiento produce un resultado deseable y se inclina hacia reordenamientos específicos.
+
+Algoritmos utilizados
+La IA generativa puede combinar diferentes algoritmos. Pero la idea importante aquí es que estos modelos utilizan aprendizaje no supervisado para procesar los grandes conjuntos de datos que toman como entrada. Por ejemplo, si quieres que tu IA pueda pintar como un niño de 5 años, necesitas alimentarla con tantos dibujos de niños de 5 años como sea posible para que el modelo aprenda el estilo de dibujo de los niños y pueda replicarlo. La IA generativa normalmente utiliza GANs o transformadores para lograr resultados.
+
+La mayoría de las empresas ya habían invertido en IA generativa
+La mayoría de las empresas ya tenían grupos de investigación que se centraban en IA generativa. Pero ahora están todas moviéndose a toda velocidad hacia la producción de esta tecnología (y sorpresa, sorpresa, ¡esto es por qué quieres ser un PM de IA!).
+
+Microsoft está "reinventando la búsqueda" utilizando IA generativa para ayudar a responder a más búsquedas en línea en Bing
+Adobe está "ayudando a los ilustradores a colorear su arte" al introducir su colección de herramientas de IA generativa Firefly
+Google está "ayudando a la gente a colaborar como nunca antes" al introducir características de escritura impulsadas por IA en Docs y Gmail
+Meta está "impulsando la expresión creativa" al dar a la gente herramientas para crear contenido nuevo rápidamente y con facilidad
+Un montón de startups están activamente produciendo características de IA generativa en herramientas que cambiarán la vida
+Los inversores se centran cada vez más en IA generativa
+
+Algunos de los muchos casos de uso de IA generativa
+En finanzas, la IA generativa puede permitir sistemas de detección de fraude mejorados.
+En juegos, la IA generativa puede diseñar contenido y niveles.
+En derecho, la IA generativa puede crear o incluso revisar contratos.
+En fábricas, la IA generativa puede prevenir recalls de productos al detectar defectos potenciales temprano en la QA.En Derecho, la IA Generativa puede crear o incluso revisar contratos.
+En fábricas, la IA Generativa puede prevenir llamadas de productos defectuosos señalando cualquier defecto potencial temprano durante la QA
+En Entretenimiento, la IA Generativa puede producir contenido rápidamente
+En Atención Médica, la IA Generativa puede identificar (y eventualmente crear?) los medicamentos adecuados
+En Arquitectura, la IA Generativa puede crear diseños de edificios.
+Demostración Interactiva: 
+ 
+ 
+ 
+ https://maven.com
+Sun May 19 2024 21:40:48 GMT-0400 (Hora Estándar del Atlántico)
+Creado por JUST ONE PAGE PDF

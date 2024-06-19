@@ -1,0 +1,199 @@
+Desbloqueando el 
+poder del IA generativo 
+en la compra 
+Cómo la tecnología transformará 
+la compra como la conocemos
+kpmg.com© 2023 KPMG LLP, una sociedad de responsabilidad limitada de Delaware y una firma miembro de la organización global de firmas miembros independientes afiliadas a KPMG International Limited, una empresa privada inglesa limitada por garantía. Todos los derechos reservados.
+
+Desbloqueando el poder de la inteligencia artificial generativa en la compra
+
+El revuelo en torno a la inteligencia artificial generativa (IA) está aumentando día a día. Al igual que muchos otros, los líderes de la compra están fascinados por la oportunidad de mejorar su función con esta tecnología innovadora. En una encuesta de KPMG que se publicará pronto, en la que participaron 400 ejecutivos de nivel C y SVP/VP dentro de la compra y la externalización, los encuestados mencionaron la IA generativa como la tecnología emergente que más impactará la compra en los próximos cinco años, con un 96% que afirma haber hecho algún progreso en la implementación de la IA generativa. En simulaciones internas de KPMG, encontramos que el uso de la IA generativa en programas piloto puede llevar a ahorros de tiempo de hasta el 80% en algunos casos de uso de la compra.
+
+Sin embargo, el impacto final de la IA generativa en las capacidades, la eficiencia y la efectividad de la compra está lejos de estar claro. Pocas empresas han desplegado completamente la IA generativa en toda la organización, y los informes de beneficios a gran escala siguen siendo excepciones. Los líderes de la compra, que constantemente están bajo presión para mejorar el rendimiento, aún necesitan recopilar mucha más información sobre la IA generativa, pero su objetivo principal es utilizar la tecnología para hacer que la compra sea más efectiva, reducir gastos y servir mejor a sus partes interesadas, y más eficiente.
+
+En este documento, argumentamos que la IA generativa es una tecnología que cambia el juego para la función de compra y presentamos posibles casos de uso a lo largo del ciclo de vida de la compra. También discutimos los desafíos clave y riesgos que las empresas pueden enfrentar al adoptar la IA generativa y ofrecemos consejos prácticos sobre cómo navegarlos para aprovechar al máximo la tecnología ahora y en el futuro.Por qué el AI generativo será un disruptor masivo —para mejor
+Basado en nuestro trabajo con clientes y nuestro estudio de 400 líderes de aprovisionamiento, KPMG cree que el AI generativo tiene el potencial de redefinir el modelo operativo de aprovisionamiento y su papel en la organización. A largo plazo, el personal de aprovisionamiento, como los gerentes de categoría, será guiado y apoyado por agentes de IA omnipresentes y conocedores, armándolos con análisis más profundos y perspectivas, inteligencia de mercado y conocimientos. Nuestro análisis inicial indica que el 50-80 por ciento del trabajo de aprovisionamiento actual puede ser automatizado, eliminado o transferido a modelos de autoservicio. El costo del proceso de aprovisionamiento hoy en día es del 0,3-0,9 por ciento de la facturación según las pautas del Centro de Productividad y Calidad de América del Norte 2023, con una reducción anual del costo del 0,6-4,0 por ciento. A través de la adopción del AI generativo, anticipamos que las organizaciones de aprovisionamiento pueden aumentar dramáticamente el ROI al lograr un mayor nivel de influencia en las decisiones de aprovisionamiento de la organización y prácticas líderes en categorías, negociar gastos más a menudo con mejores perspectivas y ejercer una mayor influencia en cada transacción mientras reducen simultáneamente el costo de las actividades que la función de aprovisionamiento realiza hoy en día.
+
+Actualmente, hay muchas actividades que el aprovisionamiento no apoya porque carece de recursos, ancho de banda, capacidad o credibilidad. El retorno de la inversión no justifica la contratación de un gerente de categoría dedicado para desarrollar una estrategia para cada categoría, un gerente de proveedores para realizar revisiones comerciales trimestrales para cada proveedor, o un profesional de aprovisionamiento para gestionar estratégicamente cada transacción de gasto. Pero con el AI generativo, los costos marginales de realizar esas actividades se acercan a cero, lo que hace posible que el aprovisionamiento apoye y influya en todas las actividades relacionadas con el gasto.
+
+En la Exhibición 1, presentamos varias formas en que el AI generativo podría transformar la operación de la función de aprovisionamiento.
+
+Exhibición 1. El AI generativo transformará el aprovisionamiento como lo conocemos
+
+Estrategia y perspectivas a escala: Todas las decisiones y acciones estarán informadas por perspectivas expertas de IA en tiempo real (por ejemplo, estrategias en tiempo real para todas las categorías de gasto, etc.).
+
+Personalización extrema: Cada salida e interacción será informada y adaptada al cliente, proveedor, producto, servicio y commodity.
+
+Guía en todo: Agentes de IA omnipresentes guiarán todas las actividades, se involucrarán temprano y habilitarán decisiones inteligentes y cumplidoras.
+
+Democratización del trabajo especializado: El trabajo que actualmente requiere décadas de experiencia especializada será realizado por usuarios novatos con guía de IA.
+
+El autoservicio se sentirá como servicio completo: Las interacciones serán proactivas, inteligentes, útiles, eficientes y sin fricción.
+
+Agente versus agente: Los agentes de IA se comunicarán, colaborarán y negociarán con clientes, proveedores y con sus agentes de IA.
+
+Reducción del 50-80 por ciento del trabajo actual: La mayoría del trabajo de fuente a pago (S2P) actual se automatizará o eliminará a través de autoservicio o mejora de la productividad.
+
+Compartido todo: Los servicios dependientes del conocimiento local/negocio se convertirán en servicios compartidos a través del apoyo de IA.
+
+3
+© 2023 KPMG LLP, una sociedad de responsabilidad limitada de Delaware y una firma miembro de la organización global de firmas miembros independientes afiliadas a KPMG International Limited, una empresa privada limitada por garantía. Todos los derechos reservados. Desbloqueando el poder del AI generativo en el aprovisionamiento.En resumen, creemos que los principales beneficios de transformar la función de compras alrededor de la IA generativa serán:
+
+Experiencia del cliente mejorada: Estas nuevas capacidades crearán contenido y experiencias altamente personalizadas y relevantes para los requisidores individuales, líderes de departamento o funcionales, e incluso proveedores. Las interacciones serán más guiadas, intuitivas y simplificadas, ya que la IA generativa podrá poblar automáticamente gran parte de la información que los usuarios deben ingresar en los sistemas hoy en día.
+
+Mayor innovación: Al utilizar la IA generativa, la compras puede habilitar al negocio para fomentar la innovación en sus productos y servicios. Esto involucrará el uso de la IA generativa para la investigación de mercado sobre nuevas tendencias del mercado de suministro, disruptores tecnológicos y modelos de cadena de valor emergentes. Además, la aplicación de la IA generativa acelerará la selección de proveedores y la incorporación de nuevos proveedores con capacidades innovadoras. Finalmente, la compras utilizará la IA generativa para fomentar el desarrollo de proveedores, lo que impulsará la innovación conjunta dirigida.
+
+Rendimiento y riesgo del proveedor: La IA generativa también ayudará a la organización a realizar el valor completo de las relaciones con los proveedores, mejorando la gestión del rendimiento y el riesgo del proveedor.
+
+Conocimientos empresariales conectados: La IA generativa sintetizará conocimientos a partir de la combinación de conjuntos de datos de las diferentes herramientas de compras, así como de otros conjuntos de datos utilizados en la oficina frontal, media y trasera. Por ejemplo, en el entorno actual, la compras suele enterarse de los requisitos cuando el negocio inicia una solicitud. Dado acceso a datos en sistemas upstream, como datos de campañas de marketing, la IA generativa puede predecir los requisitos de compras meses por adelantado.
+
+Insights más profundos: Con la guía de ingenieros de prompts habilidosos que la compras probablemente empleará en el futuro, la IA generativa entregará conocimientos profundos en estrategias de categoría y fuente, ideas de mejora de procesos y planes de desarrollo de proveedores.
+
+Ahorro de gastos: La IA generativa habilitará a la compras para influir en más de los requisitos y demandas de la organización, desarrollar conocimientos de fuente más profundos en una gama más amplia de categorías de gastos y ayudar a la organización a tomar mejores decisiones de fuente.
+
+Mayor eficiencia y productividad: Trabajando en conjunción con sistemas y herramientas existentes, la IA generativa automatizará aún más las actividades de compras y permitirá un uso más amplio del autoservicio.Exhibición 2. La compra tendrá dos prioridades de IA generativa
+
+Además de transformarse a sí misma, la compra jugará un papel líder en la adopción más amplia de la IA generativa en toda la organización. En los próximos años, la IA generativa impulsará mejoras en la productividad y capacidad en la mayoría de los mercados de suministro. La compra necesitará ayudar a sus partes interesadas en toda la organización (ventas, servicio al cliente, TI, RH, etc.) a administrar y realizar esas mejoras. La compra necesitará planificar proactivamente los impactos de la IA generativa en contratos clave y categorías de gasto, y potencialmente renegociar acuerdos actuales o identificar nuevos proveedores para ayudar a las partes interesadas a realizar el valor de la tecnología.
+
+Transformar el 
+modelo de operación objetivo de 
+la compra alrededor de 
+la IA generativaApoyar 
+la adopción de IA generativa 
+en toda la empresa
+5
+© 2023 KPMG LLP, una sociedad de responsabilidad limitada de Delaware y una firma miembro de la organización global de firmas miembros independientes afiliadas a KPMG International Limited, una empresa privada inglesa limitada por garantía. Todos los derechos reservados.Desbloquear el poder de la IA generativa en la compra Proceso: Redefinir todos los procesos de compra alrededor de la IA generativa, eliminando las restricciones previas de costo, esfuerzo, escala, disponibilidad de información, etc.Liderar make/buy en toda la empresa: 
+Reevaluar todos los acuerdos de suministro y outsourcing.
+Modelo de entrega de servicios: Habilitar el autoservicio 
+para prácticamente todos los servicios S2P y expandir el 
+universo de lo que se entrega a través de servicios compartidos.Administrar riesgos de la base de suministro: 
+Administrar el riesgo elevado de falla del proveedor impulsado por la IA generativa, incluyendo cambios en el mercado del proveedor, pérdida de negocios y nuevas demandas de inversión.
+
+Personas y organización:  Redefinir la 
+organización y nuevos roles alrededor de 
+la gestión, el impulso y la aprobación del trabajo realizado por IA.
+
+Administrar cambios en el modelo de precios/costo: 
+Asegurar la compartición de ganancias del proveedor y definir modelos de costo deseados (por ejemplo, basados en valor, como servicio, pago por uso, etc.).
+
+Tecnología:  Implementar la pila completa 
+necesaria para la IA generativa. Adoptar la IA en cada 
+dominio S2P (por ejemplo, riesgo, factura, etc.) y 
+a través de dominios.Administrar cambios en el modelo de contratos:  
+Definir nuevos términos de contrato y asegurar 
+la adopción.
+
+Datos y análisis: Pasar de informes estáticos y 
+siloed a insights de dominio y empresa en tiempo real 
+sobre demanda.Facilitar la innovación del proveedor:  
+Incentivar la adopción de IA generativa por parte de los proveedores para crecer el valor.
+
+Gobierno y controles:  Reexaminar y 
+fortalecer los controles para administrar actividades 
+habilitadas por IA. Incorporar la IA en el entorno de 
+controles.Administrar riesgos de la IA generativa: 
+Incorporar la gestión de riesgos, incluyendo ciberseguridad, 
+robo de propiedad intelectual, fuga de valor de datos, 
+fraude, privacidad, calidad de salida, etc., en actividades 
+de compra, interacciones con proveedores y capacidades 
+entregadas por proveedores.Casos de uso emergentes
+
+La IA generativa apoyará o automatizará casi todas las etapas del ciclo de vida de la compra. Destacamos aplicaciones potenciales en cada etapa:
+
+Ciclo de vida de la compra
+Gestión del ciclo de vida del contrato
+Categoría de gestión
+Gestión de riesgos y relaciones con proveedores
+Solicitud de recepción
+Facturación a pago
+1 2 3 4 5 6
+6
+© 2023 KPMG LLP, una sociedad de responsabilidad limitada de Delaware y miembro de la organización global de firmas independientes afiliadas a KPMG International Limited, una empresa privada inglesa limitada por garantía. Todos los derechos reservados.Desbloquear el poder de la IA generativa en la compra 1. Gestión de categorías: Un desafío para muchas funciones de compra es que carecen de recursos para field un equipo de líderes de categorías para desarrollar y actualizar estrategias en cada categoría de gasto, apoyar e influir en cada grupo de partes interesadas y aplicar prácticas líderes. Con IA generativa, actividades como la planificación del gasto de categorías y la recopilación de requisitos de partes interesadas pueden automatizarse, ya que los agentes de IA pueden escribir estrategias de categorías completas. Las estrategias también pueden actualizarse en tiempo real, según sea necesario, para cada categoría, y personalizarse para cada parte interesada.
+2. Fuentes estratégicas: Este es el mecanismo por el cual se entrega el valor de la compra en la mayoría de las organizaciones, sin embargo, los esfuerzos de fuentes son a menudo tratados simplemente como un ejercicio de licitación. Las limitadas perspectivas en prácticas líderes de categorías y la limitada capacidad para capturar y racionalizar los requisitos resultan en mejoras incrementales, en lugar de cambios significativos. Algunas categorías pequeñas rara vez se abordan. Con IA generativa, actividades como el desarrollo de RFx, la revisión de respuestas y la resumen pueden automatizarse. Las perspectivas derivadas de la gestión de categorías pueden aplicarse para desarrollar enfoques más estratégicos para maximizar el valor. En nuestra encuesta de líderes de compra, aproximadamente la mitad de los encuestados indicaron que ven la aplicación de IA generativa como un tema emergente que impactará las estrategias de fuentes en los próximos 3-5 años.
+3. Gestión del ciclo de vida del contrato (CLM): Históricamente, las limitaciones tecnológicas y de datos hicieron que sea difícil para las organizaciones mantener la visibilidad y el control centrales de todos sus acuerdos, lo que limitó los esfuerzos para impulsar la cumplimentación del contrato. Solo la mitad de los líderes de compra que respondieron a nuestra encuesta informaron estar al menos "algo satisfechos" con sus capacidades de CLM. La IA generativa es una opción perfecta para abordar estos desafíos: puede leer y entender contratos, recomendar cambios y redactar lenguaje contractual. También puede generar inteligencia sobre la cartera de contratos de la organización y destacar brechas de cumplimiento y riesgos comerciales. El mercado de soluciones de CLM habilitadas por IA generativa está lleno de proveedores que ofrecen funcionalidades elegantes y historias de éxito de clientes. Esperamos que estas, así como soluciones personalizadas para la gestión del ciclo de vida del contrato, sean ampliamente adoptadas en los próximos uno a tres años, superando otras aplicaciones de IA generativa en la compra.Casos de uso emergentes
+
+La IA generativa apoyará o automatizará casi todas las etapas del ciclo de vida de la compra. Destacamos aplicaciones potenciales en cada etapa:
+
+Ciclo de vida de la compra
+Gestión del ciclo de vida del contrato
+Categoría de gestión
+Fuentes estratégicas
+Gestión de riesgos y relaciones con proveedores
+Solicitud de recepción
+Facturación y pago
+
+1 2 3 4 5 6 7
+© 2023 KPMG LLP, una sociedad de responsabilidad limitada de Delaware y miembro de la organización global de firmas miembros independientes afiliadas a KPMG International Limited, una empresa privada inglesa limitada por garantía. Todos los derechos reservados.
+
+Desbloqueando el poder de la IA generativa en la compra 5. Solicitud a recepción: En la mayoría de las organizaciones grandes, gran parte del proceso de solicitud a recepción ya está automatizado. Sin embargo, las solicitudes que no siguen una ruta automatizada optimizada suelen generar tiempos de ciclo largos, posibilidad de gastos no conformes, usuarios frustrados y costos internos de compra. Con la IA generativa, la gran mayoría de esas solicitudes pueden ser atendidas mediante un asistente automatizado que proporcionará apoyo inteligente y de alta calidad que ayuda a los usuarios a encontrar y comprar lo que necesitan del proveedor adecuado al precio adecuado y en cumplimiento con los acuerdos y políticas de suministro de la empresa. El asistente incluso puede ayudar a los usuarios a interactuar con los proveedores para identificar y definir opciones de compra y solicitar y negociar cotizaciones. Dada la velocidad y los beneficios de costos, las organizaciones pueden elegir pasar todas las compras, incluso aquellas que están completamente automatizadas hoy en día, a través de un agente de IA generativa para evaluar oportunidades de optimización (como gestión de la demanda, negociación con proveedores o compras spot) en una base transacción por transacción.
+
+6. Facturación y pago: Muchas organizaciones han automatizado elementos clave de su proceso de facturación y pago, utilizando facturas electrónicas, coincidencia automática y motores de flujo de trabajo de aprobación. Sin embargo, incluso las organizaciones con capacidades maduras de facturación y pago ven desafíos en el procesamiento de facturas en papel y en la gestión de excepciones que impiden la coincidencia automática y el pago. La IA generativa tiene las habilidades para mejorar los procesos de reconocimiento óptico de caracteres y gestión de excepciones existentes. Incluso puede contactar directamente a los proveedores para aclarar y abordar discrepancias o problemas para asegurar el procesamiento preciso de facturas y eliminar cuellos de botella que resultan en pagos tardíos a los proveedores.
+
+4a. Gestión de riesgos con proveedores: Nuestros encuestados indicaron que no tienen mucha confianza en que su gestión/mitigación de riesgos con proveedores se esté ejecutando de manera eficiente y efectiva. Identificaron las brechas más grandes en la gestión de riesgos con proveedores en riesgos de terceros (87%), selección y diligencia debida de proveedores (75%) y capacidades de gestión del rendimiento (75%). Un agente de IA generativa puede ayudar a recopilar datos de riesgo a través de la interacción directa con proveedores y el análisis de datos del mercado de suministro, análisis del rendimiento de los proveedores y revisión de factores internos de la empresa como cambios en la demanda. También puede sintetizar elementos de datos dispares en insights de riesgo predictivos y recomendar estrategias para la resolución. Todo esto, con un costo marginal cercano a cero.
+
+4b. Gestión de relaciones con proveedores: Los encuestados indicaron que sus tres desafíos más grandes para la gestión efectiva y eficiente de las relaciones con proveedores son obtener datos de rendimiento necesarios, gestionar estratégicamente a proveedores estratégicos y procesos de gestión de proveedores ineficientes. Vemos una oportunidad para que la IA generativa asuma el trabajo de recopilar datos, obteniendo datos a través de la interacción directa con proveedores y personal interno de la empresa, y análisis de sentimiento de reuniones y correos electrónicos. La IA generativa también sintetizará datos de sistemas internos dispares, incluyendo cambios en el rendimiento de entrega, calidad y plazos de entrega. También es capaz deLa IA generativa también sintetizará datos de sistemas internos dispares, incluyendo cambios en el rendimiento de entrega, calidad y tiempos de entrega. También es capaz de realizar lecturas de tarjetas de puntuación autónomas con los proveedores de nivel medio y más pequeños de la organización, permitiendo que los gerentes de proveedores humanos centren su tiempo en proveedores estratégicos. La IA generativa incluso puede mejorar esas interacciones estratégicas preparando análisis y recomendando áreas de enfoque para la mejora del rendimiento y la innovación.Vemos tres fases de adopción de la IA generativa en la compra que probablemente se desarrollarán en los próximos 3-5 años (Exhibición 2). Sin embargo, las organizaciones necesitan pensar en las tres fases hoy en día para establecer las estrategias, actividades e inversiones adecuadas y navegar los riesgos potenciales.
+
+Fases de adopción de la IA generativa en la compra
+
+Exhibición 2. La IA generativa se adoptará en tres fases
+
+Fase II: En la segunda fase, las organizaciones se basarán en la primera fase, adoptando características y capacidades de IA generativa introducidas por los proveedores de soluciones S2P actuales. Además, las organizaciones de compra implementarán ofertas de proveedores de soluciones emergentes especializados en IA generativa. La adopción de estas ofertas producirá mejoras significativas en la experiencia del usuario y del empleado, tasas de automatización y eficacia en tareas clave. Aunque las soluciones de IA generativa incrustadas no proporcionarán necesariamente información empresarial conectada de extremo a extremo, proporcionarán insights más profundos dentro de los dominios de datos de soluciones individuales. Las organizaciones deberán gestionar el riesgo de proliferación de múltiples interfaces de usuario de IA dispares que cada usuario deberá interactuar.
+
+Fase I: Actualmente estamos en esta primera fase, que se caracteriza por organizaciones que prueban múltiples pruebas de concepto de pago a proveedor (S2P) con IA generativa. Los empleados tecnológicamente avanzados en la compra en muchas empresas ya están utilizando herramientas de IA generativa para obtener sugerencias o contenido para apoyar tareas rutinarias (por ejemplo, investigación, estrategias de categoría y solicitudes de propuesta). Estas interacciones basadas en prompts proporcionarán oportunidades de aumento de la fuerza laboral para trabajadores clave como gerentes de categoría y ayudarán a la organización a construir una comprensión más amplia de las oportunidades y casos de negocio de IA generativa. Sin embargo, estos casos de uso basados en prompts no se integrarán en procesos y aplicaciones existentes.
+
+Fase III: Durante esta fase, las organizaciones pasarán a implementar una IA generativa común, integrada y a nivel empresarial en todas las funciones, abarcando soluciones y conjuntos de datos individuales. (Las soluciones de la Fase I, II y III coexistirán en el futuro). A diferencia de las IA específicas de función, la IA generativa a nivel empresarial podrá proporcionar insights amplios sobre el negocio y las operaciones. Los procesos se redefinirán en torno a la IA generativa, permitiendo una transformación del modelo operativo. Esto puede llevar a una reducción del 50-80% en el trabajo S2P actual, pero nuevos roles de compra, como un "líder de innovación de suministro", podrían agregarse para abordar nuevas oportunidades de mercado y tecnológicas que la IA generativa pueda desbloquear.Una advertencia que los líderes empresariales deben entender es que la IA generativa no se limita a unos pocos casos de uso aislados. 
+Lograr el valor completo de la IA generativa requerirá una transformación empresarial completa, examinando cada capa del modelo operativo objetivo en torno a la IA generativa. Asegurarse de que esté en su lugar la infraestructura adecuada es crucial. Un programa que carece de los datos necesarios para habilitar insights de IA o la gobernanza y controles para entregar las capacidades de IA responsables que la organización espera, resultará en una base menos que completa y un programa que no funciona correctamente, abriendo la organización a litigios, relaciones públicas negativas, la pérdida de clientes, una disminución en la rentabilidad y atención no deseada de los reguladores. 
+Esperamos que el ritmo de adopción de la IA generativa sea mucho más rápido para los "que tienen"—organizaciones que han integrado completamente tecnología y entornos de datos—que para los "no tienen"—aquellos cuyos entornos de tecnología y datos siguen siendo fragmentados y siloeados. Para algunos "no tienen", el caso de negocio para la adopción de IA generativa puede ser el factor decisivo para invertir en la integración mejor de sus sistemas y datos. 
+La oportunidad a menudo viene con riesgo. En la Encuesta de IA Generativa de KPMG de julio, encontramos que las barreras más significativas para implementar la IA generativa incluían inquietudes sobre un panorama regulatorio incierto, falta de talento especializado para desarrollar e implementar, y la incapacidad de pivotear aplicaciones y sistemas heredados. Error, fraude, mal uso, pérdida de propiedad intelectual y otros riesgos seguirán siendo consideraciones importantes durante años por venir. 
+La IA generativa también puede generar inquietudes éticas, como la posibilidad de sesgo involuntario o salidas discriminatorias. 
+Las empresas también necesitan iniciativas de alfabetización digital dedicadas para capacitar y habilitar a sus empleados para obtener lo mejor de la IA generativa. La educación, la experimentación y una cultura positiva de adopción responsable serán esenciales para apoyar soluciones de IA generativa. El conocimiento especializado en ingeniería de prompts y el uso de las salidas de la IA generativa de manera responsable también son críticos para el éxito sostenido. Desafíos para la adopción 
+Cada negocio debe construir un marco institucional que sea fiel a su tolerancia al riesgo, complejidad cultural, apetito de inversión para la transformación tecnológica liderada.Cada empresa debe construir un marco institucional que sea fiel a su tolerancia al riesgo, complejidad cultural y apetito de inversión para la transformación liderada por la tecnología. Pero hay algunos pasos comunes que recomendamos para construir un programa de IA generativa:
+
+Comenzar
+Valor objetivo: La IA generativa aporta capacidades que pueden cerrar brechas largamente establecidas que han plagado a las organizaciones de compras. Entre otras capacidades, los asistentes de IA generativa pueden abordar eficientemente las consultas de los usuarios finales y los proveedores, y pueden impulsar un mejor servicio. También puede ayudar a la organización a implementar términos de contrato estándar y a gestionar la cumplimentación de precios de contrato. Un primer paso clave es evaluar dónde la IA generativa puede agregar valor y definir casos de uso específicos que la organización pueda explorar a través de esfuerzos de prueba de concepto.
+
+1. Generar impulso: Comience pequeño. Una vez que haya identificado y delimitado algunos casos de uso, comience a construirlos y luego expanda su alcance a medida que demuestre el valor. No es necesario identificar todos los casos de uso de compras antes de lanzar pruebas de concepto. Obtener algunas victorias rápidas puede ayudar a generar impulso.
+
+2. Evaluar ofertas de proveedores de soluciones: Si no lo han hecho aún, sus socios de proveedores de software independientes (ISV) se acercarán a usted prometiendo nuevas capacidades habilitadas por IA generativa. Considere si estas capacidades generarán beneficios tangibles y considere el impacto de la oferta del proveedor de S2P en la arquitectura S2P futura. Tenga en cuenta el riesgo de una experiencia del usuario (UX) fragmentada debido a demasiados asistentes de IA generativa. También considere opciones de construir versus comprar: muchas organizaciones están aprovechando modelos de lenguaje generativos (LLMs) y otros modelos fuera de la estantería para desarrollar soluciones donde sus requisitos y entorno se beneficien de capacidades específicas.
+
+3. Prepárese: Evalúe la preparación de su organización para escalar las capacidades de IA generativa en la compra. Muchas organizaciones tienen brechas en el modelo de operación objetivo y requerirán mejoras fundamentales en el proceso funcional, datos, tecnología, organización, modelo de entrega de servicios y gobernanza y controles. Anticipamos que muchas organizaciones necesitarán hacer mejoras fundamentales en la calidad, integridad y integración de sus datos para escalar soluciones de IA generativa y realizar el valor completo. Los esfuerzos de IA generativa tempranos (por ejemplo, fase 1) ayudarán a descubrir necesidades de datos, así como brechas que deberán resolverse.
+
+4. Liderazgo en IA generativa: Los líderes de compras a menudo se quejan de que su organización carece de un "asiento en la mesa" con el negocio y se ve más como un grupo de cumplimiento y procesamiento de transacciones que como un socio estratégico. El próximo cambio de productividad en la cadena de suministro presenta una oportunidad para que la compra sea proactiva y tome la iniciativa en la evaluación de la oportunidad y liderar las actividades necesarias para realizar los beneficios y proteger los intereses de la organización.
+
+5. Asegurar IA responsable: Una implementación exitosa de IA generativa debe abordar proactivamente los riesgos y las implicaciones de seguridad, incluyendo la precisión de los resultados, la protección de datos y la privacidad, y la pérdida de propiedad intelectual. Se necesita una estrategia de gobernanza para ayudar a asegurar que las soluciones de IA generativa se puedan escalar en toda la organización de manera confiable y segura, permitiendo la innovación y la adopción. Como parte de la IA responsable, la compra debe considerar cómo la IA generativa afectará sus interacciones con sus múltiples partes interesadas, incluyendo a los requisidores, proveedores y otros socios.Cómo KPMG puede ayudar
+
+Como defensor temprano y entusiasta del poder de la IA y como firma asesora de compras líder, KPMG está bien posicionada para ayudar a su organización a aprovechar la IA generativa en la compra. Basándonos en nuestros conocimientos líderes en compras y nuestra profunda experiencia en la habilitación de una variedad de soluciones de IA generativa, podemos ayudar a guiar a su organización a través de la estrategia, el desarrollo de casos de uso, la selección de proveedores y la implementación, y luego brindar apoyo continuo para ayudarle a mejorar su inversión en esta tecnología transformadora. Entendemos tanto la promesa de la IA generativa como los cambios procesuales y culturales que se requerirán para realizar su pleno potencial. Nuestra experiencia permite que las empresas vean el potencial de beneficios de esta tecnología en una amplia gama de servicios compartidos y diseñen un marco de entrega de servicios que ayude a aprovechar las capacidades internas, externas o combinadas más apropiadas.
+
+KPMG también reconoce que todos los usuarios de IA generativa tienen la responsabilidad de aprender sobre los riesgos de la tecnología y cómo controlar esos riesgos para evitar daños a los clientes, las empresas y la sociedad. Esos riesgos crecerán y evolucionarán a medida que la tecnología de IA avance y se vuelva más generalizada, y a medida que aumente la presión pública de los reguladores. Podemos ayudarle a desarrollar procesos y controles adecuados para identificar y mitigar estos riesgos.
+
+La IA generativa ya está aquí, y pronto se sentirán sus impactos en los mercados, las empresas y la fuerza laboral. Al elegir los socios adecuados y comenzar el viaje de la IA generativa, las organizaciones pueden asegurarse de que estén impulsando esta transformación audaz y realizando el valor completo - para sí mismas y para su industria - de la revolución de la IA generativa.
+
+11
+© 2023 KPMG LLP, una sociedad de responsabilidad limitada de Delaware y una firma miembro de la organización global de firmas miembros independientes afiliadas a KPMG International Limited, una empresa privada inglesa limitada por garantía. Todos los derechos reservados. Desbloqueando el poder de la IA generativa en la compra.kpmg.com/socialmediaPóngase en contacto con nosotros
+
+Dipan Karumsi  
+Socio principal, Consultoría de Compras y 
+Líder de la Práctica de Asesoramiento de 
+Externalización LLP  
+dkarumsi@kpmg.com
+
+Len Prokopets  
+Director Gerente, 
+Líder de IA Generativa 
+Consultoría de Compras y 
+Asesoramiento de Externalización 
+lprokopets@kpmg.com
+
+Liderazgo de pensamiento relacionado:
+
+Encuesta de IA Generativa de KPMG
+Por qué las finanzas deberían liderar la 
+adopción de IA generativa
+El éxito de la IA generativa requiere 
+reorganizar la fuerza laboral
+
+La información contenida aquí es de naturaleza general y no está destinada a abordar las circunstancias de cualquier individuo o entidad en particular. 
+Aunque nos esforzamos por proporcionar información precisa y oportuna, no hay garantía de que dicha información sea precisa en la fecha de recepción o que siga siendo precisa en el futuro. Nadie debería actuar según dicha información sin asesoramiento profesional adecuado después de un examen exhaustivo de la situación particular.
+
+© 2023 KPMG LLP, una sociedad de responsabilidad limitada de Delaware y una firma miembro de la organización global de firmas miembros independientes afiliadas a KPMG International Limited, una empresa privada inglesa limitada por garantía. Todos los derechos reservados.
+DASD-2023-13754Algunos o todos los servicios descritos aquí pueden no ser permisibles para clientes de auditoría de KPMG y sus afiliados o entidades relacionadas.

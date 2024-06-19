@@ -1,0 +1,622 @@
+Aplicación de IA:
+Cómo encontrar y priorizar casos de uso de IA“No pierdas tiempo en IA por 
+el sake de la IA. Deja que te 
+motiven los resultados que 
+obtendrás, no por lo 
+futurista que suene.”
+
+Cassie Kozyrkov, 
+Científica Jefe de Toma de Decisiones 
+en GoogleAplicación de elementos de una estrategia de IA integral
+
+No hay duda de que la IA se volverá relevante para todas las empresas, independientemente de su industria o tamaño. Al crear valor con la IA, se pueden observar varios obstáculos en la práctica, incluyendo el aislamiento de casos de uso de IA, la falta de recursos y capacidades, y una comprensión pobre de los casos de uso y aplicaciones. Para evitar esto, se necesita un enfoque sistemático hacia la IA. Por lo tanto, desde el principio, debes tener claro los objetivos generales o propósito de tu empresa: ¿Cuál es su objetivo? Además, es necesario entender cómo la IA puede ayudar a lograr tus objetivos.
+
+Una estrategia de IA integral consta de tres partes: una visión de IA, un portafolio de casos de uso de IA y una estrategia clara para los factores habilitantes necesarios. La visión de IA de una empresa establece los objetivos generales de cualquier aplicación de IA que se desarrollará o implementará. Incluye una comprensión de la posición actual de la empresa, su posición competitiva y dinámicas de la industria, incluyendo posibles cambios en el modelo de negocio de la industria. En función de esto, se puede decidir dónde la organización podría beneficiarse más de la IA, dentro de un producto o servicio específico y/o mejorando procesos.
+
+La visión debe traducirse en un portafolio de casos de uso de IA. Para construir este portafolio, debes identificar y priorizar casos de uso relevantes.
+
+Para ejecutar los casos de uso, se requiere un conjunto de factores habilitantes relacionados con la organización, las personas, la tecnología y el ecosistema de IA.
+
+Todos estos aspectos deben tenerse en cuenta al desarrollar una estrategia de IA integral y se detallan más en nuestro informe "Elementos de una estrategia de IA integral".
+
+Ejecución
+Factores habilitantes
+Casos de uso de IA
+Visión de IA
+Estrategia de IA alineada con la estrategia general
+Centrada en productos/servicios
+Posicionamiento competitivo
+Ideación y priorización
+Configuración de la cadena de valor
+Centrada en procesos
+Estructura
+Conocimientos
++ Talento
+Infraestructura
+Empresas emergentes
+Gobierno
+Cultura
++ Colaboración
+Datos
+Otros sociosAplicación de IA
+Introducción y Motivación
+
+Todo esto podría parecer el daño colateral inevitable de aplicar una tecnología disruptiva. Pero no lo es. Ya existe un cuerpo sólido de experiencias y una profunda expertise en el tema. Con la preparación adecuada y la comprensión de los desafíos específicos del uso de casos de IA y cómo abordarlos, muchos de los desarrollos mencionados anteriormente pueden anticiparse y evitarse.
+
+Este documento comparte lecciones críticas específicas para identificar y priorizar casos de uso de IA y proporciona una guía alrededor de las trampas. Fundamentalmente, la intrincada interconexión de datos y algoritmos de aprendizaje introduce aspectos de proceso y negocio que estaban ausentes en tanto Digital como Big Data (sin aprendizaje o incluso toma de decisiones activa por parte de un sistema). Estos influyen críticamente en la naturaleza, el valor y la facilidad de implementación de los casos de uso de IA. Apoyamos nuestro análisis con ejemplos prácticos instructivos de experiencia en profundidad en el tema para hacer que el tema sea lo más accesible posible para el lector empresarial.
+
+¡Disfruta el viaje!
+
+Algunas empresas luchan verdaderamente para definir y priorizar casos de uso de IA. ¡Buena suerte para ellas! El problema real surge para las muchas empresas que subestiman groseramente el desafío, sintiendo que han hecho lo mismo muchas veces antes. Después de todo, todos pasaron por programas digitales. Además, la mayoría ha identificado áreas de aplicación para Big Data. Una suposición común es que los métodos para seleccionar casos de uso de IA exitosos no deberían ser tan diferentes.
+
+Los resultados son prototipos fallidos, pero más a menudo demos iniciales impresionantes seguidos de un pantano de desilusiones. Para los procesos internos, la implementación de IA tropieza con todo tipo de obstáculos prácticos. Alternativamente, el escalado falla o el esfuerzo de mantenimiento se dispara. Cuando se aplica IA en ofertas, los errores desaniman a los clientes y el proceso de ventas se prolonga cuando se involucra datos del cliente o no hay disposición para pagar. En todos los casos, las altas esperanzas de creación de valor rara vez se materializan.Aplicación de IA ¿Qué es específico sobre los casos de uso de IA?
+
+Estudiamos los casos de uso de IA, que se definen como: un conjunto de actividades realizadas para alcanzar un objetivo específico desde una perspectiva empresarial o del cliente, que implican una aplicación sustancial de inteligencia artificial. Para los aficionados: solo consideramos el subcampo de IA de aprendizaje automático —es decir, aplicaciones de algoritmos de aprendizaje verdaderos. No establecemos un límite específico en la sofisticación del aprendizaje (es decir, "cuán inteligente" es la aplicación). En nuestra experiencia, incluso el aprendizaje simple puede crear un alto valor empresarial.
+
+El proceso general de definir y priorizar los casos de uso de IA se ilustra en el diagrama a continuación:
+
+1. Ideación
+Preparación
+Contenidos
+Participantes
+Salida
+2. Evaluación 3. Priorización  Ejecución
+Identificar casos de uso 
+alineados con la visión de IA Evaluar casos de uso por 
+valor y complejidad Agrupar casos de uso 
+y priorizarLlevar casos de uso a 
+etapa de producción
+
+• Comprensión de IA
+• Evaluación de madurez
+• Prioridades empresariales y 
+campos de búsqueda de IA • Métodos de demanda 
+(Jornada del cliente y 
+mapa de procesos)
+• Métodos de oferta 
+(datos y capacidades de IA) • Evaluación estructurada 
+de todos los casos de uso 
+identificados
+• Evaluar dimensiones 
+valor y facilidad de 
+implementación
+• Estrategas de IA
+• Ingenieros de IA
+• Propietarios de negocios/ 
+Expertos en dominio
+• Expertos en datos/Propietarios• Estrategas de IA
+• Ingenieros de IA
+• Propietarios de negocios/ 
+Expertos en dominio
+• Expertos en datos/Propietarios• Propietario de negocio
+• Ingenieros de IA
+• Socios de soluciones 
+externas• (Iterativa) Priorización 
+de cartera de ideas de 
+casos de uso
+• Basada en facilidad de 
+implementación y valor
+• Por caso de uso: Definir 
+alcance para 1ª exploración 
+de datos y alcance para 
+MVP 
+• Recopilación de datos
+• Desarrollo y validación de 
+modelos
+• Alta gerencia empresarial
+• Estrategas de IA
+• Propietarios de negocios/ 
+Expertos en dominio
+• Expertos en datos/Propietarios
+• Buen conocimiento de IA 
+y estudios de caso relevantes
+• Áreas de enfoque para IA
+• Madurez de IA • Plantillas de oportunidad 
+y espacio de soluciones 
+llenadas por caso de uso 
+identificado• Plantillas de oportunidad 
+y espacio de soluciones 
+llenadas por caso de uso 
+identificado• Matriz de priorización 
+llena (valor + facilidad de 
+implementación)
+• Borrador de hoja de ruta 
+para casos de uso priorizados• Definición de alcance 
+estrecho para exploración 
+inicial de datos, alcance 
+más amplio para desarrollo 
+de MVP
+Enfoque iterativoAplicación de IA
+
+Resumamos esto y veamos los detalles específicos de IA pertinentes. En el cuerpo principal de este informe, analizaremos y ilustraremos estos puntos con detalle:
+
+Preparación
+Antes de comenzar, debería capacitar a su equipo y gerencia con al menos un taller de "Introducción a IA". Esta "desmitificación y nivelación del campo de juego" es crucial, ya que incluso en empresas bien preparadas, muchos líderes empresariales y funcionales carecen de una comprensión común de IA.
+
+Esta introducción debería seguirse con el desarrollo de una visión de IA de arriba hacia abajo, esbozando las áreas donde IA podría agregar un valor empresarial sustancial —argumentablemente, la trampa más común sigue siendo el enfoque a priori en campos de búsqueda de valor marginal.
+
+Finalmente, como empresa, necesita evaluar su madurez de IA, incluyendo dimensiones clave como datos e infraestructura, gobernanza y cultura, organización y talento. Como veremos, la "madurez de IA" es una entrada crítica para evaluar hasta qué punto se pueden implementar aplicaciones más sofisticadas de manera eficiente y agregar valor. Una evaluación adecuada ayudará a prevenir muchos de los fracasos más comunes.
+
+Paso 1: Ideación
+Cuando se trata de la fase de ideación, tres puntos son importantes para generar grandes ideas de casos de uso:
+
+Primero, identifique los puntos de fricción o oportunidades de mejora en los campos estratégicos definidos en la visión de IA —por ejemplo, a lo largo del recorrido del cliente o mapas de procesos. Hacemos hincapié en este punto, ya que no dirigir un problema empresarial crítico sigue siendo, en nuestra experiencia, una causa raíz común para que los casos de uso de IA no entreguen valor.
+
+En segundo lugar, complete su paso de identificación de necesidades mediante la explotación de capacidades de IA y fuentes de datos. Para lo primero, necesitará una comprensión de las verdaderas capacidades de IA. Estas capacidades incluyen:
+
+• Datos no estructurados, como visión y lenguaje, que ahora pueden ser interpretados
+• Nuevas capacidades analíticas, como predicción y optimización, pero también capacidades creativas
+• Finalmente, control de robots/goal-driven (véase sección 2)
+
+Para todos estos, necesita entender: ¿Cuáles son los requisitos mínimos, qué es difícil pero factible, qué se espera que esté disponible pronto y qué tiene potencial de cambio de juego?
+
+Los datos son el suelo para los algoritmos de IA y una fuente de inspiración en el proceso de ideación —así como una fuente de frustración en la evaluación y implementación. Por lo tanto, es crítico que realice una revisión de fuentes de datos internas y externas (estructuradas y no estructuradas), combinadas con opciones para aumentar datos, datos sintéticos, transferencia de aprendizaje, datos simulados y más.
+
+En tercer lugar, asegúrese de que ambos partidos estén en la mesa —expertos en dominio empresarial y expertos en IA.
+
+Paso 2: Evaluación
+En última instancia, queremos priorizar las ideas de casos de uso de IA según su valor y facilidad de implementación. Esto requiere evaluar estas dimensiones primero:
+
+• Facilidad de implementación: La dificultad involucrada en implementar un caso de uso de IA depende de cuatro categorías: los datos requeridos, la complejidad del algoritmo requerido, la adopción de procesos y sistemas requeridos y la disponibilidad del conocimiento requerido. Dado que la inteligencia de IA depende de los datos, a menudo los problemas de implementación más difíciles involucran la disponibilidad, calidad y actualizaciones de datos. Evaluar esto correctamente requiere experiencia, conocimientos en gestión de datos y algunos muestreos. Para niveles de madurez más bajos, esto requiere absolutamente el uso de expertos en IA independientes.
+
+• Valor: Evaluar el valor requiere conocimientos del dominio y propietarios empresariales. Además, hay algunos detalles específicos de IA, que se basan en el aprendizaje inductivo y la relación entre datos y algoritmo.
+• Para nuevos casos de uso o repertorios de datos no probados, sigue habiendo alguna incertidumbre sobre el rendimiento de la aplicación de IA. Mientras que el conocimiento experto para estimaciones profesionales está aumentando rápidamente, en la práctica seguimos viendo...Incertidumbre sobre el rendimiento de la aplicación de IA. Mientras que el conocimiento experto para estimaciones profesionales aumenta rápidamente, en la práctica seguimos viendo errores groseros. Y incluso para losAplicando expertos en IA, sigue habiendo el notorio 
+"riesgo desconocido desconocido".
+• Más común es sucumbir al paradigma de IA: 
+Es engañosamente fácil construir prototipos de IA exitosos, 
+pero es fielmente difícil escalar IA — mucho más difícil, 
+de hecho, que con software tradicional o en Digital. 
+Mientras que se puede ver esto como un problema de 
+"implementación", necesita ser apreciado en la estimación 
+de valor: 
+• ¿Qué escala (de posibles aplicaciones de IA interactuantes) 
+se requiere para derivar el valor previsto?
+• ¿Qué grado de mantenimiento es necesario (como adaptarse 
+a nuevos conjuntos de datos/entornos cambiantes)?
+Olvidar estos aspectos es una causa común para sobreestimar 
+ingenuamente el valor alcanzable. 
+Un aspecto que combina valor, facilidad de implementación 
+y algunas consideraciones estratégicas es la toma de decisiones 
+de "hacer o comprar" en IA. Hay algunas características y 
+criterios destacados cuando los proveedores requieren datos 
+de la empresa para entrenar una solución algorítmica — 
+desde cuestiones de propiedad intelectual y riesgo hasta 
+gestión de contratos y colaboración, hasta el mantenimiento. 
+Discutimos esto en detalle en una sección insertada a continuación.
+Finalmente, algunos indicadores de IA deben ser establecidos 
+en esta etapa: se refieren a importantes aspectos de implementación 
+que pueden aumentar el esfuerzo (o disminuir el valor) sustancialmente 
+y podrían requerir una solicitud de "evaluación rápida" separada.
+• Bandera regulatoria y ética — principalmente cuando se 
+trata de datos personales sensibles y decisiones relacionadas.
+• Problemas de riesgo y transparencia. Estos incluyen:
+• Bandera de seguridad cibernética: Verdaderamente crítica 
+cuando los procesos están completamente automatizados 
+y podrían ser infiltrados.
+• Bandera de resiliencia del cisne negro/hombre en el bucle: 
+Cuando eventos extraordinarios podrían llevar a una mala 
+funcionamiento severa (por ejemplo, algoritmos de trading 
+financiero enfrentando la COVID-19)
+
+Paso 3: Priorización
+La priorización parece trivial una vez que se ha realizado 
+una evaluación adecuada, y puede asumir que puede 
+simplemente trazar los resultados y elegir el más atractivo. 
+En la práctica, esto rara vez es el caso para los casos de uso de IA.
+Primero, la complejidad de la evaluación requiere 
+típicamente un proceso iterativo donde comienza con 
+una evaluación aproximada y priorización, reevalúa lo que 
+parecía atractivo en más detalle, realiza otra revisión y 
+luego tal vez verifica las banderas rojas antes de proporcionar 
+una aprobación final.
+A lo largo de este proceso, descubrirá dos cosas:
+• Todos sus casos de uso de alto valor pueden tener 
+complejidad alta — así que intenta descomponerlos en 
+productos "viables" intermedios y aborda la hoja de ruta 
+de manera ágil.
+• Aún más común es que sus casos de uso, aunque bien 
+separados en el eje de valor (por definición), tengan 
+interdependencias tecnológicas. Agruparlos puede 
+acelerar drásticamente la implementación colectiva, 
+mientras desecha el enfoque.
+Ejecución
+Aunque la ejecución no es el enfoque de este informe, 
+comentaremos sobre qué aspectos del proceso de evaluación 
+y priorización requieren documentación adecuada y cómo 
+pueden influir en la configuración de la ejecución. 
+Cubriremos todos los puntos mencionados anteriormente 
+en las secciones siguientes, pero el resumen ya puede 
+permitir una comprensión inicial de los aspectos más 
+importantes de IA y las fuentes de fracasos comunes citados 
+en la introducción.Aplicación de la Preparación de IA
+
+La IA es tanto la fuerza de transformación empresarial más significativa como la oportunidad de negocio más grande que hemos visto en mucho tiempo. Como consecuencia, los gerentes deberían ser conscientes de que un enfoque programático para aprovechar la IA en su empresa abarca muchas dimensiones, lo que se resume en La Casa de Estrategia de IA.
+
+La ideación y priorización de casos de uso es un elemento clave de tal enfoque programático.
+
+Para tener éxito, se requiere una preparación exhaustiva.
+
+En primer lugar, es necesario asegurarse de que todos tengan una buena comprensión de la IA —su poder, pero también sus propiedades inusuales— y que se hayan definido las áreas clave de alto impacto empresarial potencial.
+
+Un taller de introducción a la IA es obligatorio para asegurar una comprensión común y alineación de los contribuyentes empresariales, funcionales y técnicos en el equipo y más allá.
+
+Esta introducción debería revisar los conceptos básicos, desmitificar el tema, proporcionar ejemplos concretos de la industria y más allá, y describir los obstáculos y trampas típicas en un contexto empresarial. Este taller puede celebrarse a diferentes niveles de sofisticación, y para las empresas más maduras se convierte en una revisión conjunta de la IA, incluyendo ejemplos de implementaciones y experiencias exitosas de la empresa.
+
+Cuando en appliedAI nos acercamos a una empresa de tamaño mediano para ayudarles a identificar casos de uso relevantes de IA en su negocio de automatización, primero tuvimos que convencerlos de que comenzaran con tal capacitación, ya que esperaban que les trajéramos la experiencia necesaria en IA. Esta capacitación resultó ser el factor de éxito decisivo para los talleres de casos de uso que siguieron, ya que aseguró que todos los involucrados —desde el director gerente hasta los expertos en el dominio— tuvieran la misma comprensión de la IA para que se pudieran determinar y discutir rápidamente los casos de uso concretos.
+
+En segundo lugar, hay un desafío de "gallina y huevo" al requerir una visión de IA desde arriba hacia abajo para definir las áreas amplias donde la IA podría agregar un valor empresarial significativo, y la necesidad de alguna experiencia en casos de uso para hacerlo correctamente. Dado que una trampa común sigue siendo que los equipos pierdan tiempo en áreas de aplicación de IA marginales, los líderes empresariales senior —basándose en una comprensión inicial de la IA— deberían hacer el esfuerzo de definir y documentar las áreas clave donde esperan valor y por qué. Puede ser en productos y servicios específicos, algunos procesos centrales (como la cadena de suministro o actividades que enfrentan al cliente), o procesos de apoyo (como finanzas y recursos humanos).
+
+Esta visión sirve como guía empresarial para el proceso de ideación de casos de uso, incluso si puede ser revisada según las experiencias ganadas durante el proceso.
+
+En particular, hay un escenario donde tal visión de IA de alto nivel es decisiva: cuando hay un potencial de disruptión empresarial real a través de la IA. Industrias como las finanzas y seguros, atención médica, automoción/movilidad o medios de comunicación —por nombrar algunas— claramente tienen dominios expuestos que los disruptores agresivos tratan de explotar. Abordar un desafío de modelo de negocio fundamental a través de la IA requiere un enfoque separado, ya que rara vez se deriva de abajo hacia arriba desde casos de uso individuales.
+
+Finalmente, las empresas se encuentran en niveles drásticamente diferentes de madurez en IA. En appliedAI hemos desarrollado una Evaluación de Madurez de IA integral, basada en una encuesta en línea eficiente, que permite a las empresas evaluar rápidamente su propia situación en cuanto a la IA. Cubre todos los elementos clave, incluyendo la estrategia, la gobernanza, la cultura, la tecnología y los procesos.Aplicación de la IA10Ideación: Identificación de casos relevantes
+
+La fase de ideación tiene como objetivo identificar nuevos y relevantes casos de uso de la IA dentro de la organización. Requiere reunir la profunda experiencia en el dominio empresarial y la experiencia en IA en profundidad. Cuando no se dispone de la segunda en los Centros de Excelencia en IA internos, se puede recurrir a la experiencia externa, pero asegúrese de utilizar el proceso para fortalecer la competencia interna. Para aprovechar al máximo el tiempo escaso del equipo, la ideación de casos de uso debe seguir un proceso eficiente.
+
+La visión de la IA de su empresa (ver sección anterior) define qué áreas enfocar para crear el máximo valor empresarial. A alto nivel, distinguimos dos direcciones:
+
+• Para casos de uso de la IA centrados en procesos, el enfoque se centra en los procesos de la empresa, ya sean internos o en la interfaz con clientes, socios o proveedores. A menudo, el valor competitivo se encuentra en los procesos centrales de la empresa. Comience con aquellos que son costosos y/o importantes para su negocio, y luego pregúnte: ¿Puede automatizarse esto? ¿Podría ser más rápido o preciso? Tenga en cuenta que la IA puede utilizarse para apoyar procesos existentes o crear nuevos. Un ejemplo de un proceso transformado de manera disruptiva es una empresa de seguros que utiliza el reconocimiento de imágenes para evaluar automáticamente las reclamaciones de accidentes de automóvil con supervisión humana limitada. Esto reduce drásticamente el costo de manejo de reclamaciones, a la vez que ahorra tiempo y mejora la experiencia del cliente.
+
+No debe pasarse por alto los procesos de apoyo en finanzas, recursos humanos, TI y más. Las organizaciones verdaderamente fuertes destacan en ellos. A menudo, estos procesos permiten la parcial externalización de proveedores (ver make-or-buy a continuación) y pueden desencadenar algunos éxitos rápidos.
+
+• Los casos de uso de la IA centrados en productos/servicios suelen ser más desafiantes en su definición, ya que requieren una experiencia técnica más profunda y experiencia del cliente. Pueden ser momentos de la Estrategia de la Casa de la IA (ver barra lateral).
+
+Recomendamos encarecidamente que las empresas completen una evaluación de este tipo antes de embarcarse en la priorización de casos de uso, ya que la viabilidad de aplicaciones más sofisticadas depende críticamente de la madurez en los factores habilitantes: infraestructura y datos de la IA, organización y talento, gobernanza, mitigación de riesgos y gestión del ecosistema. La falta de una visión comprehensiva de la madurez llevará a procesos de estimación de la facilidad de implementación ineficientes y propensos al fracaso.
+
+Con esto, está listo para embarcarse en la ideación de casos de uso.11
+Aplicar AIprofit incluyendo a expertos en diseño/UX en la sesión de ideación. Por otro lado, en comparación con los casos centrados en procesos, la IA en las ofertas de la empresa requiere menos gestión de cambios posteriormente en la implementación.
+El enfoque se centra, por supuesto, en aquellas áreas con el mayor potencial de ingresos/beneficios y/o importancia estratégica. Las necesidades y puntos de fricción en los viajes del cliente están en el núcleo: ¿Cómo se puede utilizar la IA para mejorar productos existentes o crear nuevos que aborden las necesidades no satisfechas de sus clientes actuales o potenciales?
+Ofertas completamente nuevas impulsadas por la IA pueden generarse evaluando posibles usos de la IA.
+La entrada para identificar casos de uso es algo similar a las sesiones de ideación tradicionales en el lado de la demanda (por ejemplo, a través de mapas de procesos y puntos de fricción en el viaje del cliente), pero es altamente específica de la IA en el lado de la oferta (capacidades de la IA y mapas de datos). Vamos a discutirlos secuencialmente.
+
+Métodos del lado de la demanda:
+
+Mapa de viaje del cliente
+El mapa de viaje del cliente es útil para visualizar cada paso de la interacción del cliente y el uso del producto o servicio. El método implica considerar la experiencia del cliente desde la perspectiva de una persona específica (para obligarte a ser muy específico sobre tu "cliente").
+Para este enfoque, mapea cada punto de interacción principal de la persona y identifica secciones críticas que podrían mejorar con soluciones de IA. Además, las observaciones reales del grupo objetivo y las entrevistas personales con usuarios o expertos externos siempre entregan nuevas perspectivas con respecto a los puntos de dolor del cliente. Este enfoque te ayuda a desarrollar soluciones que realmente resuelven problemas existentes de los usuarios o desafíos diarios y, por lo tanto, aumentan su tasa de adopción. Idealmente, la solución es intuitiva y se integra fácilmente en las costumbres diarias del cliente.
+
+Con la propagación de la IA, pueden surgir situaciones inconvencionales donde los usuarios de tus ofertas son procesos y decisores basados en máquinas, no humanos (por ejemplo, en entornos de producción o finanzas). Obtener acceso a los puntos de fricción en tales procesos es típicamente mucho más desafiante, requiriendo acceso a sistemas de la empresa.
+
+Mapa de proceso
+Utiliza un mapa de proceso para descomponer sistemáticamente tus procesos en tareas y decisiones, y luego identifica elementos individuales que pueden ser automatizados utilizando la IA. Recuerda que deseas considerar la automatización de tareas, no de trabajos.
+La IA puede ser particularmente beneficiosa cuando hay múltiples variables cambiantes que determinan una decisión. Como un sistema de aprendizaje, la IA puede automatizar el apoyo a la toma de decisiones y acciones con dependencias complejas en datos dinámicos, que ya no pueden ser capturados en "reglas" tradicionales. Para eso, ideate en campos donde la IA pueda mejorar el proceso general eliminando puntos de dolor — o donde puedas rediseñar todo el proceso con el uso de la IA.
+
+Métodos del lado de la oferta:
+
+Capacidades de la IA
+Correctamente aplicadas, la entrada más importante y novedosa para los casos de uso de la IA proviene del estudio de las capacidades empresariales relevantes que la IA ha desarrollado. Como una advertencia inmediata, las capacidades de la IA que se aplican ingenuamente, siguiendo la hiper, no son adecuadas.
+
+Visión por computadora y reconocimiento de objetos
+Entender la semántica de imágenes o secuencias de video
+Hacer predicciones sobre el curso futuro del tiempo o la probabilidad de eventos
+Procesar e interpretar señales de audio
+Procesar grandes cantidades de datos y encontrar patrones y "relaciones lógicas"
+Procesar, interpretar y renderizar texto y discurso
+Buscar soluciones óptimas para problemas con un espacio de soluciones grande
+Analizar, interpretar y aprender de datos que representan sistemas físicos (incluyendo IoT) y controlar su comportamiento
+Generar imágenes, música, discurso y más basados en creaciones de muestra
+
+Capacidades de la IA
+Visión por computadora
+Predicción
+Audición por computadora
+Descubrimiento
+Lingüística por computadora
+Planificación y búsqueda
+Robótica y control
+CreaciónAplicación de informes de IA12 o marketing de proveedores también han sido 
+la fuente de tristes fracasos. Por lo tanto, en appliedAI hemos puesto un 
+esfuerzo significativo en estructurar estas áreas y hacerlas accesibles 
+para las personas de negocios.
+
+En general, distinguimos las siguientes ocho capacidades. Las tres primeras 
+son capacidades que permiten utilizar datos no estructurados:
+• Visión por Computadora
+• Audición por Computadora (incluyendo voz a texto)
+• Lingüística por Computadora (chatbots, traductores, etc.)
+Estas son capacidades críticas auxiliares que permiten que las máquinas actúen 
+en el mundo real y interactúen con los humanos, y a menudo se utilizan como 
+entrada avanzada para procesamiento adicional.
+
+En segundo lugar, hay nuevas capacidades analíticas:
+• Pronóstico
+• Planificación/Optimización
+• Descubrimiento (reconocimiento de patrones)
+Estas están en el núcleo de muchas aplicaciones empresariales. Dondequiera 
+que aún utilice enfoques basados en reglas, lineales o manuales para el 
+pronóstico y la optimización, los métodos de IA son una tienda de caramelos 
+para saltos cuánticos en el rendimiento. Además, busque áreas donde el 
+aprendizaje pueda centralizarse mientras se mantienen acciones descentralizadas 
+(desde la próxima acción óptima en ventas hasta la navegación de trenes/aviones/barcos/coches). Por último, busque áreas donde la velocidad sea de valor crítico 
+(manejo de máquinas, mercados financieros, etc.), ya que la IA es más de un millón de veces más rápida que los humanos.
+
+Finalmente, hay capacidades verdaderamente avanzadas:
+• Creación
+• Robótica Avanzada y Control
+Hay una creencia persistente de que las máquinas no son capaces de crear contenido nuevo. Sin embargo, los últimos años han visto el auge de nuevos métodos generativos, que involucran algoritmos "adversarios" - es decir, generan nuevos datos de entrada a partir de salidas objetivo, utilizando dos algoritmos interactuantes, como "actor-crítico". Sería difícil no atribuir creatividad, por ejemplo, a la música, texto o imágenes creadas de esta manera.
+
+Otra área altamente sofisticada es la Robótica Avanzada y Control, aplicable principalmente en entornos industriales. A menudo implica agentes que aprenden y simulan su entorno, intercambiando exploración y explotación. 
+Técnicamente, se basa cada vez más en el aprendizaje por refuerzo profundo, que no es un caso de uso para principiantes.
+
+Para todas estas capacidades es verdaderamente crítico entender con precisión: ¿Cuáles son las apuestas mínimas hoy en día? ¿Qué es factible, pero requiere un esfuerzo sustancial (y datos)? ¿Qué se espera que sea accesible en los próximos años (por ejemplo, en visión/habla)? ¿Qué podría ser un cambio de juego (en particular en torno a la creatividad y el control/simulación basados en objetivos)? ¿Qué es simplemente ciencia ficción irrelevante?
+
+Entender estos puntos también será crítico en decisiones de compra o alquiler y selección de proveedores (ver inserto). En appliedAI, educamos continuamente a nuestros socios en estas áreas y hemos desarrollado cartas de aplicación de IA para fines ilustrativos y como una herramienta excelente para talleres de ideación.
+
+Mapa de datos
+La otra entrada crítica basada en suministros para casos de uso de IA es la datos.
+
+En primer lugar, debe entender todas las posibles fuentes de datos — internas, externas, estructuradas y no estructuradas. También debe ser consciente de los métodos para generar datos (aumento y datos sintéticos, pero también simulación y métodos generativos). Finalmente, debe haber algún entendimiento de la opción de aprender de campos de datos relacionados (también conocido como "aprendizaje de transferencia").
+
+Basándose en esto, comenzaría evaluando los activos de datos potenciales de su empresa y las opciones para complementarlos. Luego, determine qué activos de datos son únicos y podrían ser la fuente de posibles casos de uso. Finalmente, elabore cómo puede aplicar los datos de manera útil internamente o para negocios adyacentes.
+
+También puede querer considerar cómo se accede a los datos hoy en día y cómo puede cambiar con el tiempo. Esto será un enfoque importante en la sección de evaluación.
+
+Obviamente, todas estas áreas de entrada de demanda y suministro deberían complementarse con ejemplos de casos de uso de mejores prácticas de dentro de suLa sección de evaluación.
+
+Obviamente, todas las áreas de entrada de demanda y oferta deberían complementarse con ejemplos de casos de uso de mejores prácticas desde dentro de su industria y más allá. En appliedAI, proporcionamos una biblioteca de casos de uso integral y colaboramos continuamente con nuestros socios industriales y institucionales nacionales/internacionales para crecer este repositorio.Aplicación de IA
+
+Combinar todo lo anterior en un entorno concreto se basa en técnicas de brainstorming clásicas que se utilizan comúnmente en un entorno de taller. Para esto, debería preparar contenido con anticipación para sus procesos y productos principales —mapas de datos, controladores de costos, participación en ingresos, etc.— y compartir ese contenido con el grupo. Seleccione cuidadosamente la mezcla adecuada de participantes, incluyendo personas familiarizadas con tecnologías de IA, infraestructura de datos y iniciativas de IA existentes, así como personas familiarizadas con los productos y servicios de la empresa.
+
+Al igual que en todas las sesiones de ideación, asegúrese de seguir las reglas de ideación en el taller y difiera el juicio temprano —tendrá muchas oportunidades para eso más adelante. En appliedAI, tenemos una amplia gama de ofertas para facilitar con éxito talleres de ideación como este.
+
+Cuando un proveedor de energía europeo se propuso encontrar casos de uso de IA, se enfrentó con el desafío de la "brecha de IA": por un lado, había un equipo central de expertos en IA que entendían las capacidades de IA. Sin embargo, los problemas estaban "atrapados" en las diferentes áreas empresariales por los expertos en dominio. Para superar esta brecha, se estableció una serie de talleres de casos de uso con todas las unidades empresariales, incluyendo tiempo asignado para proporcionar una introducción a IA. Aunque esto es un proceso largo y costoso que requiere la coordinación y apoyo de un gran número de participantes, es necesario para obtener buenos resultados.
+
+El resultado de la fase de ideación debería ser capturado en tarjetas de oportunidad y espacio de solución. Utilice la tarjeta de espacio de oportunidad para identificar el problema que se resolverá con IA (qué producto, servicio o proceso se ve afectado por el caso de uso y la historia del usuario), y pregunte las siguientes preguntas: ¿Cuál es el objetivo del caso de uso? ¿Dónde contribuye IA? ¿Qué productos o procesos podrían aplicarse?
+
+Una vez más, el nivel de detalle es importante. "Introducir un chatbot" no es una descripción útil de un caso de uso. Lo siguiente sería más útil: "Utilizar IA para reducir costos de servicio al cliente prediciendo intenciones del cliente y manejar automáticamente las solicitudes más frecuentes a través de una interfaz de chatbot en el proceso de servicio al cliente en línea".
+
+Después de eso, utilice la tarjeta de espacio de solución para indicar la capacidad utilizada para resolver el problema, la salida deseada de la solución y qué información o datos se necesitan para entrenar a IA. Recuerde que una solución siempre debe resolver un problema específico.Aplicación de IA
+
+En el núcleo, debes realizar una evaluación de ambos el valor y la facilidad (o complejidad) de implementación de un caso de uso. Además, verifica algunas banderas comunes. Para esto, puedes utilizar el lienzo de caso de uso de appliedAI. Los siguientes aspectos deben evaluarse:
+
+Valor
+• Valor empresarial: ¿Cuál es el potencial económico del caso de uso en términos de reducción de costos, ventas adicionales, aceleración, mejora de la calidad o satisfacción del cliente?
+• Alineación estratégica: ¿Cómo se ajusta el caso de uso a los objetivos estratégicos de la empresa, y qué ventaja ofrece en términos de posición estratégica en el mercado y eficiencia de recursos mejorada, etc.?
+
+En principio, estas dimensiones son metodológicamente directas y familiares, desde las decisiones empresariales en general. Sin embargo, hay algunos desafíos específicos de IA que surgen principalmente de la relación entre los datos y el algoritmo en el proceso de aprendizaje inductivo:
+• Para nuevos casos de uso o repertorios de datos no probados, sigue habiendo alguna incertidumbre sobre el rendimiento de la aplicación de IA. Esto significa que debes evaluar el valor dependiendo de qué precisión se puede lograr, o, alternativamente, definir niveles de precisión mínimos requeridos.
+
+También debes ser consciente de la paradoja de IA: es engañosamente fácil construir prototipos de IA exitosos, pero es extremadamente difícil escalar IA, mucho más difícil que con software tradicional o digital. Esto se aplica a la fase de construcción, pero aún más a mantener aplicaciones de aprendizaje interactuantes a escala en un entorno de datos dinámicamente cambiantes.
+
+Por lo tanto, es crítico definir:
+• ¿Qué escala (de posiblemente aplicaciones de IA interactuantes) se requiere para derivar valor?
+• ¿Durante qué período de tiempo se deriva el valor?
+• ¿Qué cambios dinámicos debe adaptarse la aplicación?
+• ¿Qué grado de mantenimiento se necesita?
+
+Olvidar responder a estas preguntas son trampas estándar de destrucción de valor.
+
+Facilidad de implementación
+Estimar el esfuerzo requerido para cada caso de uso de IA es notoriamente difícil sin una evaluación:
+
+Evaluación de casos de uso
+Una vez que tienes una buena lista de posibles casos de uso, estás listo para abordar el segundo desafío: ¿cómo evaluar qué caso de uso es verdaderamente valioso y factible? Para hacerlo, necesitarás evaluar cada una de las ideas en tu lista, comenzando con una descripción precisa de cada caso. Debes decidir qué tan crítico es el caso de uso. ¿Implica un alto nivel de riesgo? ¿Requiere una precisión extrema (por ejemplo, para conducción autónoma)?Aplicación de IAAplicación de conocimientos en profundidad sobre la calidad y disponibilidad de todos los datos requeridos con el tiempo y toda la información sobre la madurez de la IA. El lienzo de caso de uso de IA aplicada ofrece un marco para derivar una estimación sólida.
+
+Necesita evaluar cuatro categorías principales (datos, algoritmo, procesos/sistemas y conocimientos), mientras estima la duración hasta que tenga una implementación completamente funcionando y verificada. Agregando estos proporciona una puntuación para la facilidad general de implementación. Cuanto más alta sea la puntuación, más fácil debería ser desarrollar.
+
+Un experto en IA con conocimientos suficientes sobre el producto o proceso relacionado con el caso de uso es típicamente requerido para la evaluación. En general, cuanto más alta calidad de datos tenga, menos conocimientos explícitos de proceso necesitará en la fase de implementación; en la fase de evaluación, tales conocimientos son indispensables.
+
+A continuación, se presenta una breve descripción de las respectivas categorías:
+
+• Datos: ¿Qué datos necesita para el caso de uso? ¿Qué calidad de datos tiene? ¿Qué esfuerzo se requiere para integrar los datos relevantes y hacerlos disponibles? ¿Qué actualizaciones dinámicas se requieren con el tiempo, y cómo se pueden realizar?
+
+• Algoritmo: ¿Hay otras implementaciones del caso de uso ya en funcionamiento, ya sea dentro de su empresa o en otras empresas o industrias?
+
+• Procesos/Sistemas: ¿Qué procesos y sistemas se ven afectados? ¿Necesita hacer cambios importantes en los procesos o sistemas existentes?
+
+• Conocimientos necesarios: ¿Tiene los conocimientos técnicos y de dominio necesarios?
+
+La evaluación de madurez de IA realizada en la fase de preparación le ayudará enormemente en esta evaluación. A menudo, una primera evaluación aproximada se completa en un entorno de taller y se valida en detalle posteriormente. Pero tenga en cuenta que sigue habiendo un riesgo "desconocido desconocido" que solo puede surgir en la fase de prueba de concepto.
+
+Un aspecto que afecta el valor, la facilidad de implementación y algunas consideraciones estratégicas es la decisión de "hacer o comprar" de IA. Dado que la IA requiere capacitación, no es plug-and-play. Específicamente, cuando los proveedores requieren acceso a datos internos y el algoritmo resultante contiene conocimientos comerciales críticos, decidir, contratar y administrar la relación tiene algunos problemas complejos y únicos. Discutimos el tema en más detalle en la barra lateral.
+
+Finalmente, hay algunas banderas de IA que deben establecerse en esta etapa. Estos son aspectos vitales de implementación que pueden aumentar el esfuerzo (o disminuir el valor) sustancialmente — y pueden requerir una solicitud de "evaluación rápida" separada.
+
+• Regulatorio y ética: Esto es principalmente relevante cuando se involucran datos personales sensibles y/o decisiones. Por ejemplo, una autoridad regulatoria puede requerir transparencia en la toma de decisiones algorítmicas — a menudo en términos de métricas obsoletas que provienen de sistemas de toma de decisiones basados en reglas. O puede haber expectativas de "justicia" legales o de consumidor (a menudo con criterios vagamente definidos). Dado que las decisiones basadas en IA pueden ocurrir a una velocidad y escala sin precedentes, mientras que todo se mide, estos temas pueden volverse de gran importancia y necesitan ser señalados en una evaluación de valor.
+
+• Riesgo y transparencia: Hay una amplia gama de riesgos adicionales que deben al menos documentarse en la evaluación.
+
+• Seguridad cibernética: Está aumentando en importancia a medida que digitalizamos nuestros negocios. La mayoría de los ejecutivos piensan en seguridad de datos, pero la automatización con IA introduce un nuevo tipo de riesgo: seguridad de procesos (los hackers han demostrado famosamente la toma de control de un automóvil autónomo para hacer que este riesgo sea tangible). Las áreas de alto riesgo requieren una bandera de seguridad cibernética adicional.
+
+• Resiliencia: Dependiendo de la vida útil prevista del caso de uso, puede ser importante exponerlo a una prueba extensa de resiliencia contra eventos extremos futuros no representados en los conjuntos de prueba. Generalización aDurante la vida útil del caso de uso, puede ser importante someterlo a una prueba extensiva de resistencia contra eventos extremos futuros no representados en los conjuntos de prueba. La generalización a tales eventos no ha sido evaluada. Esto requiere algoritmos que al menos reconozcan que están en territorio incierto, a menudo combinados con sistemas de humano-en-el-bucle. De nuevo, se debe realizar una verificación rápida de tal exposición y potencialmente marcarla. Con una evaluación robusta en su lugar, finalmente estamos listos para la priorización.Aplicación de IA
+
+El enfoque básico implica trazar los resultados de la fase de evaluación en una matriz de priorización y elegir los casos más atractivos. Aquí, hay varias consideraciones que tener en cuenta.
+
+En primer lugar, el proceso no es tan lineal como parece. Evaluar casos de uso es bastante complejo, como hemos visto. Por lo general, hay una primera ronda de evaluación y priorización aproximada. Luego, se realiza un análisis detallado de los casos más prometedores, seguido de una segunda ronda de revisión y priorización.
+
+Además de este enfoque iterativo, típicamente se enfrentan dos problemas adicionales: a menudo, muchos casos de uso de alto valor parecen enfrentar obstáculos de implementación sustanciales. Es útil evaluar hasta qué punto estos desafíos pueden resolverse dividiendo el caso de uso en unidades más pequeñas y digestibles, cada una con pasos de valor bien definidos, y abordar el mapa de ruta resultante de manera ágil.
+
+Un segundo problema ocurre cuando los casos de uso son técnicamente interdependientes. Las capacidades de IA como visión por computadora o procesamiento de lenguaje natural pueden compartirse entre casos de uso, y lo mismo puede ser cierto para activos de datos y pipelines. Estos a menudo requieren inversiones sustanciales en habilidades y infraestructura para resolver. En otras palabras, mientras que el valor de los casos de uso es separable (así es como los definimos), puede haber sinergias de cluster que afecten fuertemente la facilidad de implementación colectiva.
+
+Por lo tanto, es útil agrupar casos de uso según los siguientes parámetros:
+
+• Los datos de entrada requeridos
+• La capacidad de IA que se requerirá
+• El producto(s) o proceso(es) a los que se aplicaría
+
+Priorizar los clusters que tienen un gran número de casos de uso con alto valor y al menos algunos casos de uso que son relativamente fáciles de implementar dentro de un plazo de tiempo específico previamente determinado. Dentro de los clusters priorizados, seleccione uno o dos casos para validación. En última instancia, esto significará que está lidiando con un total de aproximadamente tres a seis casos en una ola.
+
+Los buenos candidatos pueden tener características diferentes. Por ejemplo, podría ser posible implementar algunos de ellos rápidamente y lograr "victorias rápidas". Otros podrían tener un alto valor estratégico o relevancia de marketing. O podrían ser escalables con facilidad a otros productos o procesos. Idealmente, estos clusters son la base para construir su mapa de ruta de casos de uso.
+
+Hasta ahora, raramente hemos visto empresas que consideren las dependencias de sus casos de uso de IA.
+
+Priorización: Agrupación y priorización de casos de uso
+
+Una vez que se ha identificado y evaluado un conjunto de casos de uso, todavía debe asegurarse de que se centre en aquellos que son más relevantes, después de todo, las aplicaciones potenciales de IA son interminables. Para aplicar su competencia de IA de manera más efectiva, los casos de uso deben ser priorizados.Aplicación de casos de uso de IA. Una notable excepción es una importante empresa manufacturera europea que considera sistemáticamente la reutilización de un modelo de IA para futuros casos de uso como un factor clave para priorizar casos de uso.
+
+La priorización de casos de uso funciona de manera diferente en empresas que están comenzando con la IA (es decir, "experimentadores" en la evaluación de madurez). Aquí, es especialmente importante administrar el riesgo de un primer caso de uso, aunque esto no sea aún el más valioso. Una buena opción podría ser una para la que se dispone de datos y ya existe una solución similar en otra parte de la organización.
+
+Cuando la movilización es un objetivo importante, los casos de uso también deben ser "visibles". Es probable que el caso de uso deba estar relacionado con el negocio principal. La visibilidad se puede mejorar a través del departamento de comunicaciones internas, que también debe asegurarse de que el lenguaje técnico sea comprensible y el valor que agrega al negocio sea claro. ¿Es el objetivo abordar un proceso específico? ¿O explorar nuevos campos de tecnología? Establecer expectativas según sea necesario.
+
+Además de los esfuerzos de priorización y construcción de hoja de ruta centralizados, generalmente habrá instancias donde unidades descentralizadas impulsen sus propias soluciones de IA con sus propios recursos y presupuestos. Esto suele ser el caso cuando el caso de uso no termina en una lista de priorización a nivel de empresa, pero resolverá un problema urgente y específico de la unidad.
+
+Se requieren directrices claras para tales actividades descentralizadas. Por lo general, la prioridad depende de la longevidad de un caso de uso y la probabilidad de que interactúe con otros procesos de la empresa en el futuro. Por ejemplo, esfuerzos separados para predecir ventas en unidades comerciales llevarán a una complejidad creciente cuando se requiera una consolidación de números. Además, al menos, la gobernanza de datos y las decisiones de plataforma deben coordinarse de manera holística, ya que esta coherencia es crítica para estar preparados para aplicaciones accesibles en niveles de madurez más altos.
+
+Las actividades empresariales descentralizadas de IA deberían ser fomentadas (o al menos toleradas), pero se debe asegurar la coordinación de las dimensiones mencionadas anteriormente y respetar la visión general de IA de la empresa en todo momento.
+
+Evaluación de ideas de casos de uso Priorización de ideas de casos de uso
+
+Dimensión
+Valor
+Facilidad de 
+implementaciónEspecificación
+Valor económico
+Alineación estratégica
+Datos
+Algoritmo
+Proceso/Sistemas
+Conocimientos requeridos
+Priorización de ideas de casos de uso identificados a lo largo de dimensiones centrales de valor y esfuerzo de implementación (incluyendo especificidades de IA)
+
+• Evalúe las ideas de casos de uso a lo largo de dimensiones centrales de valor y esfuerzo de implementación (incluyendo especificidades de IA)
+• Descomponga casos de uso estratégicos y complejos en soluciones más pequeñas para hacerlos manejables como productos viables intermedios
+• Agrupe casos de uso con tecnología subyacente similar (capacidades/datos)
+Facilidad de implementación Alta BajaBaja Valor AltoItere según sea necesario.Aplicación de la IA
+
+Eso puede ser cierto, pero hay diferencias críticas —la más importante es que "hacer" y "comprar" adquieren un significado muy diferente en el contexto de la IA (es decir, sistemas de aprendizaje inductivo). La gran mayoría de los algoritmos de IA brutos son (todavía) de código abierto, disponibles de forma gratuita, pero sin valor empresarial inmediato. Solo después de entrenarlos con datos (a menudo al menos parcialmente con datos de su propia empresa) el algoritmo entrenado exhibe inteligencia. Esto es muy distinto de la mera parametrización de software empresarial tradicional. Un ejecutivo comparó esto con nuevos empleados que requieren capacitación para proporcionar valor empresarial. Puede acortar el tiempo contratándolos "pre-entrenados" por escuelas y universidades, pero aún necesitarán aprender el entorno específico de su empresa.
+
+De manera similar, la inteligencia de máquina no es plug-and-play. En IA, hacer o comprar es más un continuo que una decisión binaria. En un extremo, incluso cuando se toma la propiedad total, sus equipos nunca construirán algoritmos desde cero. Siempre utilizarán paquetes, a menudo pre-entrenados en algunas capacidades de IA. En el otro extremo, incluso el AI más productizado (piense en un filtro de spam) necesita adaptarse a usted, por lo que necesita haber al menos algún acuerdo sobre acceso a datos, confidencialidad y más —y en un contexto empresarial, la adaptación requerida es típicamente quite extensa.
+
+Un área donde muchas empresas han comenzado a experimentar la fluidez de la decisión "hacer o comprar" es en chatbots. La mayoría de las empresas no pueden —y no deberían— construirlos desde cero. Por otro lado, si alguna vez intentó implementar una versión pre-entrenada sin aprender más, su experiencia debe haber sido terrible. Los mejores proveedores ofrecen modelos pre-entrenados con interfaces de usuario gráficas para apoyar el proceso de personalización adicional (es decir, continuar aprendiendo). Esto es una tendencia general que estamos viendo en la industria —para procesos de aprendizaje simples, el proceso de "construcción" de IA está siendo apoyado por herramientas cada vez más accesibles, reduciendo los requisitos de experiencia técnica.
+
+La reformulación correcta de hacer o comprar es: ¿Hasta qué punto desea hacerlo usted mismo versus asociarse para construir y administrar la aplicación de IA? ¿Y con quién debería asociarse? ¿Y cómo debería estructurar la asociación o contrato?
+
+Decisiones de Hacer o Comprar para Casos de Uso de IA
+
+La mayoría de las organizaciones que desean aplicar IA no se consideran empresas tecnológicas y tratarían de encontrar un proveedor para "comprar" de ellos. Algunos incluso recuerdan experiencias dolorosas de los primeros días de aplicaciones de software empresariales. Al principio, todas las aplicaciones se abordaron como proyectos personalizados solo para enfrentar problemas de mantenimiento extensivos. Hasta que, finalmente, llegó el alivio del software empresarial productizado. El estado actual de las implementaciones de IA parece exhibir algunos paralelismos.Aplicación de la ventaja injusta de la IA en la construcción (datos, habilidades)
+Proteja su negocio principal
+Desarrolle capacidades destacadas 
+(ej. adquisición de talentos)
+Subcontrate lo máximo posible
+Enfóquese en la gestión de contratos
+Puntos dulces inmediatos de la IA
+Haga la IA usted mismo y escalé rápido
+Oportunidad de negocio de la IA potencial
+Explore si tiene un alto valor para otras partes
+Alto Bajo
+Valor estratégico potencial vs competidores Alto
+Criterios:
+ Primero, ¿cuál es el valor estratégico para usted? (Recuerde, solo puede destacar en lo que posee).
+Segundo, ¿puede construirlo? (Sus capacidades de IA y su acceso preferido a los datos).
+Un consenso general es que debe abstenerse de construir sus propias soluciones de IA donde los proveedores de ERP (SAP, Salesforce y Oracle) o especialistas en procesos (como ServiceNow o Workday) ya están integrando capacidades de IA de los datos manejados en sus sistemas en su suite. Está hacia el lado inferior izquierdo de la matriz (en desventaja para construir soluciones de IA) y, a menudo, estos no son el núcleo de su diferenciación competitiva.
+Más detalles sobre hacer o comprar merecen una discusión mucho más profunda y son el tema de una publicación separada donde también abordamos:
+• Cómo elegir entre los principales proveedores, startups, academia, consultorías, etc.
+• Cómo estructurar contratos: propiedad intelectual, confidencialidad, mantenimiento, garantías regulatorias y de rendimiento.Aplicación de la IA: 
+Comenzar
+Antes de pasar a la implementación de un caso de uso priorizado, 
+hay una última cosa que debes hacer: verificar dos veces 
+tus suposiciones, tanto desde una perspectiva empresarial 
+como técnica. Asegúrate de entender completamente 
+las características que impulsan el valor del caso de uso 
+(nivel de precisión, escala y requisitos de mantenimiento). 
+¿Tienes realmente los datos y están accesibles a través 
+de pipelines sólidos? ¿Cuáles son las señales de alerta 
+de tu caso de uso (regulatorias, éticas, riesgo y transparencia), 
+y ¿estás seguro de que puedes abordarlas? 
+Finalmente, ¿estás realmente claro sobre la decisión de 
+desarrollar internamente versus comprar: ¿Quieres desarrollar 
+un caso internamente, encontrar un socio para desarrollarlo 
+o comprar una solución? También es buena práctica definir 
+puertas y criterios de eliminación que te hagan abandonar 
+la persecución.
+Ahora estás listo para comenzar la ejecución. La implementación 
+de casos de uso de IA tiene su propio cuerpo de experiencias 
+de mejores prácticas y trampas, que cubriremos en una futura 
+publicación.Aplicación de IA22Nuestro socio Siemens 
+encuentra casos de uso en 
+5 días
+Como proveedor líder de soluciones industriales, Siemens 
+investiga y desarrolla tecnologías de IA. “Nuestro 
+objetivo es crear valor para nuestros clientes a través de la IA, 
+mejorar la eficiencia de nuestros procesos internos y tener un 
+impacto positivo en la sociedad y el medio ambiente.”
+Fundado en 2017, el Laboratorio de IA de Siemens representa 
+una plataforma que impulsa el progreso y la adopción de la tecnología de IA con un impacto significativo para Siemens.
+El Laboratorio con sede en Múnich explora el potencial de las tecnologías de IA emergentes para casos de uso industriales. Como parte del hub de investigación de Análisis de Datos y IA de la división de Tecnología Corporativa, el Laboratorio de IA de Siemens actúa como una plataforma de innovación abierta donde los stakeholders empresariales y sus expertos en dominio se emparejan con investigadores de IA internos para encontrar soluciones adecuadas juntos.
+Con una mentalidad emprendedora y una cultura de "fallar rápido", los equipos desarrollan prototipos tangibles para el próximo cambio de juego en un formato que abarca menos de una semana. El Laboratorio proporciona herramientas y métodos para potenciar el potencial de la IA en múltiples unidades comerciales, con el objetivo de descubrir aplicaciones escalables para la empresa.
+Siemens ha adoptado este formato en otros lugares, incluyendo Pekín y Berkeley.
+
+La oferta
+Imagen:
+El motor del Laboratorio de IA de Siemens con sus elementos clave
+
+Realizar una ideación de caso de uso en una organización establecida a menudo es desafiante, ya que los empleados necesarios suelen estar atados a sus rutinas y otros proyectos. Nuestro socio Siemens ha elegido un enfoque único para abordar estos problemas: el Laboratorio de IA de Siemens y sus sprints de caso de uso de 5 días. A continuación, comparten su experiencia.Aplicación de Aceleración de IA
+
+Bajo el lema "fracasar rápido en cinco días", los equipos del Laboratorio de IA de Siemens se unen a clientes internos y expertos en IA para construir rápidamente un prototipo, un producto mínimo viable o una prueba de concepto de manera rápida y asequible.
+
+El Laboratorio apoya al equipo del proyecto en todo el proceso. Por ejemplo, ofrece acceso a más de 100 expertos en IA de Tecnología Corporativa, lo que proporciona el punto de partida perfecto para una evaluación detallada de cualquier hipótesis de caso de uso y el conjunto de datos requerido. Para preparar a los equipos de proyecto para los sprints de aceleración intensivos, se clarifican preguntas, detalles y resultados esperados con anticipación. El Laboratorio de IA de Siemens reúne a las personas adecuadas en el lugar adecuado y complementa la experiencia en datos y dominio del cliente con expertos industriales y tecnologías de IA probadas.
+
+Lecciones aprendidas:
+
+1. Estar allí desde el principio.
+Apoyar la configuración de objetivos y proyecto desde el principio.
+
+2. Co-ubicar al equipo.
+Sin distracciones, toda la experiencia en una sala (física).
+
+3. Decisión rápida de sí/no.
+Implementar y probar una idea de prueba de concepto en 5 días.
+
+Orientación
+Imagen:
+Canvas de Propuesta de Valor adaptado a especificidades de IA.Aplicación de IA en Siemens
+
+En el Laboratorio de IA de Siemens, los clientes pueden aprender en equipo con nuestros expertos sobre los casos de uso de IA industrial más impactantes y aplicaciones de IA para mejorar su negocio.
+
+Ingredientes para un taller exitoso
+
+1. Comience con la introducción de IA industrial
+Introducción y Sesión Técnica
+2. Eche un vistazo a la situación del cliente y valor de datos
+3. Busque inspiración en casos de uso abstractos
+4. Ideación de casos de uso y pensamiento de diseño
+5. Ajuste a la situación del cliente y valor de datos
+6. Cree el plan de acción y camino hacia adelante
+Exploración
+
+Lanzado a principios de 2020, el Programa de Residencia ofrece a los talentos prometedores en IA aplicada la oportunidad de impulsar la investigación de IA industrial. En este programa de 9 meses, los participantes resuelven desafíos fundamentales de IA industrial y tienen acceso a una amplia red de investigadores dentro de Siemens.
+
+Ya sea que se trate de sprints de aceleración, talleres de orientación o investigación exploratoria, el Laboratorio de IA de Siemens solo tiene éxito gracias a su cultura innovadora. Tres factores son clave para asegurar el éxito del Laboratorio de IA:
+
+1. Organización de equipo holacrática
+2. Mentalidad abierta
+3. Gestión de proyectos ágil
+
+En lugar de tener una descripción de trabajo que seguir, los miembros del equipo en el Laboratorio de IA de Siemens se organizan por roles impulsados por un propósito que corresponden al "por qué" y "cómo" en lugar del "qué". Ser abierto de mente no solo es importante para el trabajo en sí, sino también para la forma en que los colegas colaboran.
+
+Nuestro objetivo es expandir la zona de comfort de Siemens en IA al construir un portafolio sostenible de habilidades y herramientas que impulse a IA@Siemens hacia una nueva cultura de innovación, donde la diversidad, la agilidad y la apertura son los bloques de construcción de la intrapreneurship corporativa.
+
+"La cultura se come la estrategia para desayunar."Aplicación de IAAutores
+
+Hendrik Brakemeier es Estratega Senior de IA en appliedAI.
+Antes de unirse a appliedAI, Hendrik persiguió un título de doctorado en el grupo de software y negocios digitales en la TU Darmstadt, donde trabajó en la economía de modelos de negocio basados en datos. Además, se desempeñó como parte de la práctica de estrategia y transformación analítica de Accenture.
+
+Philipp Gerbert es Future Shaper de UnternehmerTUM y Director en appliedAI. Anteriores actividades incluyen muchos años como Socio Senior y Líder de Estrategia Digital en BCG, Fellow de IA en Negocios en el Instituto BCG Henderson, así como Socio en el Grupo McKenna en Silicon Valley. Tiene un PhD en Física del Instituto de Tecnología de Massachusetts (MIT).
+
+Philipp Hartmann se desempeña como Director de Estrategia de IA en appliedAI. Antes de unirse a appliedAI, pasó cuatro años en McKinsey & Company como consultor de estrategia. Philipp tiene un PhD de la Universidad Técnica de Munich, donde investigó los factores de ventaja competitiva en Inteligencia Artificial.
+
+Andreas Liebl es Director Gerente en UnternehmerTUM y appliedAI. Antes de unirse a UnternehmerTUM, trabajó en McKinsey & Company durante cinco años y completó su PhD en el Instituto de Investigación de Emprendimiento en la Universidad Técnica de Munich.
+
+Maria Schamberger es Estratega Senior de IA en appliedAI. Tiene un rico background en la industria de servicios financieros desde su anterior papel como Vicepresidenta en el Grupo Allianz, así como experiencia en consultoría y investigación en McKinsey & Company. Maria estudió Innovación Corporativa en la Universidad de Stanford y Banca en la Escuela de Finanzas y Gestión de Frankfurt.
+
+Alexander Waldmann es el Director de Operaciones en appliedAI. Antes de unirse a appliedAI, se desempeñó como Líder Visionario de [x], la unidad de tecnologías disruptivas de UnternehmerTUM, y ayudó a crear ~300 equipos de startup durante ese tiempo. Alex estudió Ciencias de la Computación en la Universidad Técnica de Munich y MIT.
+
+Los autores desean agradecer a Annette Bauer por su apoyo en la escritura de este informe y a Henrike Noack por diseñar esta publicación.
+
+Colaboradores
+
+Los autores desean agradecer al Laboratorio de IA de Siemens, en particular a Vera Eger y Bernd Blumoser, por su contribución a este documento.
+
+Bernd "Benno" Blumoser es el Jefe de Innovación del Laboratorio de IA de Siemens, que cofundó a fines de 2017. La innovación abierta y redes, búsqueda de tendencias y prospectiva, así como el desarrollo de la estrategia de IA corporativa son áreas clave que influyó en Siemens en los últimos años y sigue impulsándolas. Tiene un diploma en "estudios culturales y empresariales internacionales" y un M.A. en "educación musical" de la Universidad de Passau, y comenzó su carrera en 2006 en Siemens Management Consulting.
+
+Vera Eger es parte de la familia del Laboratorio de IA de Siemens desde noviembre de 2019. Estudió Psicología en Regensburg y está haciendo su maestría en Psicología Económica, Organizacional y Social Aplicada en la LMU. Vera está particularmente interesada en la investigación sobre las interacciones humano-máquina y los desafíos resultantes para la sociedad y la economía.Sobre appliedAI
+
+La iniciativa appliedAI, la mayor iniciativa sin fines de lucro de Europa para la aplicación de la tecnología de inteligencia artificial, tiene como objetivo llevar a Alemania a la era de la IA y ofrece a su amplio ecosistema de empresas establecidas, investigadores y startups un terreno neutral para aprender sobre IA, implementar la tecnología y conectarse entre sí. NVIDIA, Google, MunichRe, Siemens, Deutsche Telekom y muchos más son socios de la iniciativa, que comenzó a principios de 2018.
+
+Puede encontrar más información sobre appliedAI en:
+www.appliedai.deIniciativa appliedAI GmbH
+Calle Freddie-Mercury 5
+80797 Múnich
+Alemania
+www.appliedai.de

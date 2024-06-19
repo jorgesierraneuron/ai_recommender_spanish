@@ -1,0 +1,437 @@
+Inteligencia Artificial Generativa está lista para desencadenar la próxima ola de productividad. Echamos un primer vistazo a dónde podría surgir el valor empresarial y los posibles impactos en la fuerza laboral.
+
+El potencial económico de la IA generativa: La próxima frontera de productividad
+(68 páginas)
+
+Ha permeado nuestras vidas de manera incremental, a través de todo, desde la tecnología que impulsa nuestros teléfonos inteligentes hasta las características de conducción autónoma en los coches y las herramientas que los minoristas utilizan para sorprender y deleitar a los consumidores. Como resultado, su progreso ha sido casi imperceptible. Hitos claros, como cuando AlphaGo, un programa basado en IA desarrollado por DeepMind, derrotó a un campeón del mundo de Go en 2016, fueron celebrados pero rápidamente se desvanecieron de la conciencia pública.
+
+Las aplicaciones de IA generativa como ChatGPT, GitHub Copilot, Difusión Estable y otras han capturado la imaginación de la gente en todo el mundo de una manera que AlphaGo no lo hizo, gracias a su amplia utilidad -casi cualquier persona puede utilizarlas para comunicarse y crear- y su capacidad sobrenatural de tener una conversación con un usuario. Las últimas aplicaciones de IA generativa pueden realizar una variedad de tareas rutinarias, como la reorganización y clasificación de datos. Pero es su capacidad para escribir texto, componer música y crear arte digital lo que ha generado titulares y ha persuadido a los consumidores y hogares a experimentar por su cuenta. Como resultado, un conjunto más amplio de partes interesadas están luchando con el impacto de la IA generativa en los negocios y la sociedad, pero sin mucho contexto para ayudarlos a comprenderlo.
+
+La velocidad a la que se desarrolla la tecnología de IA generativa no está haciendo que esta tarea sea más fácil. ChatGPT se lanzó en noviembre de 2022. Cuatro meses después, OpenAI lanzó un nuevo modelo de lenguaje grande, o LLM, llamado GPT-4 con capacidades notablemente mejoradas.
+
+De manera similar, en mayo de 2023, la IA generativa de Anthropic, Claude, podía procesar 100,000 tokens de texto, equivalentes a unos 75,000 palabras en un minuto, la longitud de una novela promedio, en comparación con unos 9,000 tokens cuando se lanzó en marzo de 2023.
+
+Y en mayo de 2023, Google anunció varias características nuevas impulsadas por IA generativa, incluyendo la experiencia de búsqueda generativa y un nuevo LLM llamado PaLM 2 que impulsará su chatbot Bard, entre otros productos de Google.
+
+Para comprender lo que se avecina, se requiere una comprensión de los avances que han permitido el auge de la IA generativa, que llevaban décadas en desarrollo. Para los propósitos de este informe, definimos la IA generativa como aplicaciones típicamente construidas utilizando modelos de fundación. Estos modelos contienen redes neuronales artificiales expansivas inspiradas en las billones de neuronas conectadas en el cerebro humano. Los modelos de fundación son parte de lo que se llama aprendizaje profundo, un término que alude a las muchas capas profundas dentro de las redes neuronales. El aprendizaje profundo ha impulsado muchos de los avances recientes en IA, pero los modelos de fundación que impulsan las aplicaciones de IA generativa son una evolución revolucionaria dentro del aprendizaje profundo. A diferencia de los modelos de aprendizaje profundo anteriores, pueden procesar conjuntos de datos extremadamente grandes y variados y realizar más de una tarea.
+
+Crear valor más allá del hype
+
+Saltar al contenido principal
+Acerca de los autores
+[1]
+[2]
+[3]Clave	insights
+
+Entreguemos	en	el	promesa	de	la	tecnología	desde	la	estrategia	hasta	la	escala.
+Comencemos
+
+Los	modelos	de	fundación	han	habilitado	nuevas	capacidades	y	han	mejorado	enormemente	las	existentes	en	un	amplio	rango	de	modalidades,
+incluyendo	imágenes,	video,	audio	y	código	de	computadora.	Los	IA	entrenados	en	estos	modelos	pueden	realizar	varias	funciones;	pueden	clasificar,
+editar,	resumir,	responder	preguntas	y	crear	nuevo контenido,	entre	otras	tareas.
+Todos	nosotros	estamos	al	principio	de	un	viaje	para	entender	el	poder,	alcanzar	y	capacidades	del	IA	generativo. Esta	investigación	es	la	última	en	nuestros	esfuerzos	por	evaluar	el	impacto	de	esta	nueva	era	del	IA.	Sugiere	que	el	IA	generativo	está	a	punto	de	transformar	roles	y	aumentar	el	desempeño	en	funciones	como	ventas	y	mercado,	operaciones	al	cliente	y	desarrollo	de_software.	En	el proceso,	podría	desbloquear	trillones	de	dólares	en	valor	a_lo_largo_de_sector_desde	banca	a_ciencias_de_la_vida.	Las	siguientes	secciones	comparten	nuestros	hallazgos_iniciales.
+
+Para	la versión	completa	de	este	informe,
+descargue	el	PDF.
+
+El	impacto	del	IA	generativo	en	la	productividad	podría	añadir	trillones	de	dólares	en	valor	a_la_economía_global.
+Nuestra	última	investigación
+estima_que	el	IA	generativo	podría	añadir	el_equivalente_de_$2.6	billones_a_$4.4	billones	anualmente	en	las	63	casos_de_uso_que_analizamos—en	comparación,	el	PBI_del_Reino_Unido_en_2021_fue_de_$3.1	billones. Esto	aumentaría	el	impacto	de	toda_la_inteligencia_artificial	en_un	15	a_un	40_por_ciento. Esta_estimación_se_duplicaría_si_incluimos_el	impacto_de_incorporar_el	IA	generativo_en_software_que_actualmente_se_utiliza_para_otras_tareas_más_allá_de_esos_casos_de_uso.
+
+Aproximadamente	el	75_por_ciento_del_valor_que_el	IA	generativo	podría_entregar_se_distribuye_en_cuatro	áreas:	operaciones_al_cliente,	mercado_y_ventas,	ingeniería_de_software	y_I+D.
+
+En	16	funciones_comerciales,	examinamos	63	casos_de_uso_en_los_que_la_tecnología_puede_abordar_desafíos_comerciales_específicos_de_manera_que_producen_uno_o_más_resultados_medibles.	Ejemplos_incluyen_la_capacidad_del	IA	generativo_para_apoyar_interacciones_con_clientes,	generar_contenido_creativo_para_mercado_y_ventas,	y_redactar_código_de_computadora_basado_en_sugerencias_de_lenguaje_natural,	entre_otras_tareas.
+
+El	IA	generativo	tendrá_un_impacto_significativo_en_todos_los_sector_industriales.
+	Banca,	alta_tecnología	y_ciencias_de_la_vida	son_algunos_de_los_sector_que_podrían_ver_el_mayor_impacto_como_porcentaje_de_sus_ingresos_provenientes_del	IA	generativo.	A_través_de_la_industria_bancaria,	por_ejemplo,	la_tecnología_podría_entregar_un_valor_adicional_de_$200_mil_millones_a_$340_mil_millones_anuales_si_se_implementaran_completamente_los_casos_de_uso.	En_minorista_y_bienes_de_consumo_empaquetados,	el_impacto_potencial_es_también_significativo_en_$400_mil_millones_a_$660_mil_millones_al_año.
+
+El	IA	generativo	tiene_el_potencial_de_cambiar_la_anatomía_del_trabajo,	aumentando_las_capacidades_de_los_trabajadores_individuales_al_automatizar_algunas_de_sus_actividades_individuales.
+	Las_actuales_tecnologías_de	IA	y_otras_tecnologías	tienen_el_potencial_de_automatizar_actividades_laborales_que_absorben_del_60_al_70_por_ciento_del_tiempo_de_trabajo_de_los_empleados_hoy_en_día.	En_contraste,	anteriormente_estimamos_que_la_tecnología_tiene_el_potencial_de_automatizar_la_mitad_del_tiempo_que_los_empleados_pasen_trabajando.
+
+Aprovechar_la_automatización_para_un_futuro_que_funciona
+,”
+Instituto_McKinsey_Global,	12_de_enero_de_2017.
+	La_aceleración_en_el_potencial_para_la_automatización_técnica_es_largamente_debida_a_la_mejora_en_la_capacidad_del	IA	generativo_para_entender_el_lenguaje_natural,	que_es_requerido_para_actividades_laborales_que_cuentan_por_un_25_por_ciento_del_tiempo_de_trabajo_total.	Así,	el	IA	generativo_tiene_un_mayor_impacto_en_el_trabajo_de_conocimiento_asociado_con_ocupaciones_que_tienen_salarios_más_altos_y_requisitos_educativos_más_elevados_que_en_otras_tipos_de_trabajo.
+
+El_rumbo_de_la_transformación_laboral_es_probable_que_se_acelere,	dado_que_aumenta_el_potencial_para_la_automatización_técnica.
+	Nuestros_escenarios_de_adopción_actualizados,	incluyendo_desarrollo_tecnológico,_viabilidad_económica_y_cronogramas_de_difusión,	llevan_a_estimaciones_de_que_la_mitad_de_las_actividades_laborales_de_hoy_podrían_ser_automatizadas_entre_2030_y_2060,	con_un_punto_medio_en_2045,	o_aproximadamente.Se estima que la mitad de las actividades laborales de hoy en día podrían ser automatizadas entre 2030 y 2060, con un punto medio en 2045, o aproximadamente una década antes de lo que se estimaba anteriormente.
+
+La IA generativa puede aumentar sustancialmente la productividad laboral en toda la economía, pero eso requerirá inversiones para apoyar a los trabajadores mientras cambian de actividades o cambian de trabajo.
+
+La IA generativa podría permitir un crecimiento de la productividad laboral del 0,1 al 0,6 por ciento anual hasta 2040, dependiendo de la tasa de adopción de la tecnología y la redistribución del tiempo de trabajo en otras actividades. Al combinar la IA generativa con todas las demás tecnologías, la automatización del trabajo podría agregar del 0,5 al 3,4 por ciento anual al crecimiento de la productividad. Sin embargo, los trabajadores necesitarán apoyo para aprender nuevas habilidades, y algunos cambiarán de ocupación. Si se pueden manejar las transiciones de los trabajadores y otros riesgos, la IA generativa podría contribuir sustancialmente al crecimiento económico y apoyar un mundo más sostenible e inclusivo.
+
+La era de la IA generativa apenas comienza.
+
+La emoción por esta tecnología es palpable, y los pilotos iniciales son convincentes. PeroDonde se encuentra el valor empresarial
+
+La plena realización de los beneficios de la tecnología tomará tiempo, y los líderes en los negocios y la sociedad aún enfrentan desafíos considerables. Estos incluyen gestionar los riesgos inherentes a la IA generativa, determinar qué nuevas habilidades y capacidades necesitará la fuerza laboral y replantear procesos empresariales fundamentales como la reeducación y el desarrollo de nuevas habilidades.
+
+Evento en vivo de McKinsey: Capturando el poder de la productividad a través de la inversión en tecnología con Olivia White y Rodney Zemmel
+Lunes, 20 de mayo a las 10:30 a.m. EDT / 4:30 p.m. CET
+Regístrese aquí
+
+La IA generativa es un cambio de paradigma en la evolución de la inteligencia artificial. A medida que las empresas se apresuran a adaptarse e implementarla, entender el potencial de la tecnología para entregar valor a la economía y la sociedad en general ayudará a dar forma a decisiones críticas. Hemos utilizado dos lentes complementarios para determinar dónde la IA generativa, con sus capacidades actuales, podría entregar el mayor valor y cuánto podría ser ese valor (Exhibición 1).
+
+El primer lente examina los casos de uso de la IA generativa que las organizaciones podrían adoptar. Definimos un "caso de uso" como una aplicación dirigida de la IA generativa a un desafío empresarial específico, lo que resulta en uno o más resultados medibles. Por ejemplo, un caso de uso en marketing es la aplicación de la IA generativa para generar contenido creativo, como correos electrónicos personalizados, cuyos resultados medibles potenciales incluyen reducciones en el costo de generar dicho contenido y aumentos en la rentabilidad debido a la mayor efectividad del contenido de alta calidad a escala. Identificamos 63 casos de uso de IA generativa que abarcan 16 funciones empresariales que podrían entregar un valor total en el rango de $2.6 billones a $4.4 billones en beneficios económicos anuales cuando se aplican en industrias.
+
+Eso agregaría del 15 al 40 por ciento al valor económico de $11 billones a $17.7 billones que estimamos que la inteligencia artificial y el análisis no generativos podrían desbloquear. (Nuestra estimación anterior de 2017 fue que la IA podría entregar $9.5 billones a $15.4 billones en valor económico.)
+
+Nuestro segundo lente complementa el primero al analizar el impacto potencial de la IA generativa en las actividades laborales requeridas en más de 850 ocupaciones. Modelamos escenarios para estimar cuándo la IA generativa podría realizar cada una de más de 2,100 "actividades laborales detalladas" que componen esas ocupaciones en la economía mundial. Esto nos permite estimar cómo las capacidades actuales de la IA generativa podrían afectar la mano de obra.productividad en todo el trabajo actualmente realizado por la fuerza laboral global.
+
+Algunos de estos impactos se superponen con las reducciones de costos en el análisis de caso de uso descrito anteriormente, que asumimos son el resultado de una mayor productividad laboral. Descontando esta superposición, los beneficios económicos totales de la IA generativa, incluyendo los principales casos de uso que exploramos y los numerosos aumentos en la productividad que probablemente se materializarán cuando la tecnología se aplique en las actividades de los trabajadores del conocimiento, ascienden a 6,1 billones de dólares a 7,9 billones de dólares anuales (Exhibición 2).
+
+Aunque la IA generativa es una tecnología emocionante y en rápido avance, las otras aplicaciones de la IA discutidas en nuestro informe anterior siguen siendo responsables de la mayoría del valor potencial total de la IA. Los algoritmos de aprendizaje automático y análisis avanzados tradicionales siguen siendo muy efectivos para realizar tareas numéricas y de optimización, como la modelización predictiva, y siguen encontrando nuevas aplicaciones en una amplia gama de industrias. Sin embargo, a medida que la IA generativa continúa desarrollándose y madurando, tiene el potencial de abrir nuevas fronteras en creatividad e innovación. Ya ha expandido las posibilidades de lo que la IA en general puede lograr (ver sidebar "Cómo estimamos el valor potencial de los casos de uso de IA generativa").
+
+En esta sección, destacamos el valor potencial de la IA generativa en funciones empresariales.
+
+La IA generativa podría tener un impacto en la mayoría de las funciones empresariales; sin embargo, algunas se destacan cuando se miden por el impacto de la tecnología como una parte del costo funcional (Exhibición 3). Nuestro análisis de 16 funciones empresariales identificó solo cuatro - operaciones del cliente, marketing y ventas, ingeniería de software y desarrollo e investigación - que podrían representar aproximadamente el 75% del valor anual total de los casos de uso de IA generativa.
+
+Cabe destacar que el valor potencial de utilizar IA generativa para varias funciones que fueron prominentes en nuestro tamaño previo de casos de uso de IA, incluyendo manufactura y funciones de cadena de suministro, es ahora mucho menor. Esto se explica en gran medida por la naturaleza de los casos de uso de IA generativa, que excluyen la mayoría de las aplicaciones numéricas y de optimización que fueron los principales impulsores de valor en aplicaciones previas de IA.
+
+Además del valor potencial que la IA generativa puede entregar en casos de uso específicos de función, la tecnología podría impulsar el valor en toda la organización revolucionando los sistemas de gestión del conocimiento interno. La impresionante capacidad de procesamiento del lenguaje natural de la IA generativa puede ayudar a los empleados a recuperar conocimientos almacenados formulando consultas de la misma manera que podrían preguntar a un humano y participar en diálogos continuos. Esto podría permitir a los equipos acceder rápidamente a información relevante, lo que les permitiría tomar decisiones mejor informadas y desarrollar estrategias efectivas.
+
+En 2012, el Instituto McKinsey Global (MGI) estimó que los trabajadores del conocimiento pasaban alrededor de un quinto de su tiempo, o un día a la semana, buscando y recopilando información. Si la IA generativa pudiera asumir tales tareas, aumentando la eficiencia y efectividad de los trabajadores que las realizan, los beneficios serían enormes. Tal expertise virtual podría rápidamente "leer" vastas bibliotecas de información corporativa almacenadas en lenguaje natural y escanear material de origen en diálogo con un humano que ayuda a afinar y personalizar su investigación, una solución más escalable que contratar a un equipo de expertos humanos para la tarea.
+
+En otros casos, la IA generativa puede impulsar el valor trabajando en asociación con los trabajadores, aumentando su productividad de maneras que aceleran su trabajo. Su capacidad para digerir rápidamente montañas de datos y extraer conclusiones de ellos permite a la tecnología ofrecer insights y opciones que pueden mejorar dramáticamente el trabajo del conocimiento. Esto puede acelerar significativamente el proceso de desarrollo de un producto y permitir a los empleados dedicar más tiempo a tareas de alto impacto.
+
+A continuación, se presentan cuatro ejemplos de cómo la IA generativa podría producir beneficios operativos en un puñado de casos de uso en toda la empresa.A continuación, se presentan cuatro ejemplos de cómo el AI generativo podría producir beneficios operativos en un puñado de casos de uso a lo largo de las funciones empresariales que podrían entregar la mayoría del valor potencial que identificamos en nuestro análisis de 63 casos de uso de AI generativo. En los dos primeros ejemplos, actúa como un experto virtual, mientras que en los dos siguientes, presta ayuda como un colaborador virtual.
+
+2
+Cómo estimamos el potencial de valor de los casos de uso de AI generativo
+
+
+3
+[
+5
+]
+Operaciones del cliente: Mejorando las experiencias del cliente y del agente
+
+
+El AI generativo tiene el potencial de revolucionar toda la función de operaciones del cliente, mejorando la experiencia del cliente y la productividad del agente a través del autoservicio digital y mejorando y aumentando las habilidades del agente. La tecnología ya ha ganado tracción en el servicio al cliente debido a su capacidad para automatizar las interacciones con los clientes utilizando lenguaje natural. La investigación encontró que en una empresa con 5,000 agentes de servicio al cliente, la aplicación del AI generativo aumentó la resolución de problemas en un 14 por ciento por hora y redujo el tiempo invertido en manejar un problema en un 9 por ciento.
+También redujo la rotación de agentes y las solicitudes para hablar con un gerente en un 25 por ciento.Crucialmente, la productividad y la calidad del servicio mejoraron principalmente entre los agentes con menos experiencia, mientras que la asistencia de IA no aumentó, y a veces disminuyó, la productividad y las métricas de calidad de los agentes más habilidosos. Esto se debe a que la asistencia de IA ayudó a los agentes con menos experiencia a comunicarse utilizando técnicas similares a las de sus contrapartes más habilidosos.
+
+A continuación, se presentan ejemplos de las mejoras operativas que el IA generativa puede tener en casos de uso específicos:
+
+Atención al cliente autónoma.
+Los chatbots impulsados por IA generativa pueden dar respuestas inmediatas y personalizadas a consultas complejas de clientes, independientemente del idioma o ubicación del cliente. Al mejorar la calidad y eficacia de las interacciones a través de canales automatizados, el IA generativa podría automatizar respuestas a un porcentaje más alto de consultas de clientes, permitiendo que los equipos de atención al cliente se encarguen de consultas que solo pueden resolverse con la intervención de un agente humano. Nuestra investigación encontró que aproximadamente la mitad de los contactos de clientes realizados por empresas de banca, telecomunicaciones y servicios públicos en América del Norte ya son manejados por máquinas, incluyendo, pero no exclusivamente, IA. Estimamos que el IA generativa podría reducir aún más el volumen de contactos atendidos por humanos en un 50 por ciento, dependiendo del nivel de automatización existente de la empresa.
+
+Resolución durante el primer contacto.
+El IA generativa puede recuperar instantáneamente datos que una empresa tiene sobre un cliente específico, lo que puede ayudar a un representante de atención al cliente a responder con éxito a preguntas y resolver problemas durante una interacción inicial.
+
+Tiempo de respuesta reducido.
+El IA generativo puede reducir el tiempo que un representante de ventas humano pasa respondiendo a un cliente, proporcionando asistencia en tiempo real y recomendando próximos pasos.
+
+Ventas aumentadas.
+Debido a su capacidad para procesar rápidamente datos sobre clientes y sus historias de navegación, la tecnología puede identificar sugerencias de productos y ofertas personalizadas según las preferencias del cliente. Además, el IA generativo puede mejorar la calidad y la capacitación mediante la recopilación de información de conversaciones con clientes, determinando qué se puede mejorar y capacitando a los agentes.
+
+Estimamos que la aplicación del IA generativo a las funciones de atención al cliente podría aumentar la productividad en un rango del 30 al 45 por ciento de los costos actuales de la función.
+
+Nuestro análisis solo captura el impacto directo que el IA generativo podría tener en la productividad de las operaciones de atención al cliente. No tiene en cuenta los posibles efectos secundarios que la tecnología puede tener en la satisfacción y retención del cliente, incluyendo una mejor comprensión del contexto del cliente que puede ayudar a los agentes humanos a brindar ayuda y recomendaciones más personalizadas.
+
+Marketing y ventas: Impulsando la personalización, la creación de contenido y la productividad de ventas
+
+El IA generativo ha ganado terreno rápidamente en las funciones de marketing y ventas, donde las comunicaciones basadas en texto y la personalización a gran escala son fuerzas impulsoras. La tecnología puede crear mensajes personalizados adaptados a los intereses, preferencias y comportamientos individuales de los clientes, así como realizar tareas como producir borradores de anuncios publicitarios, títulos, eslóganes, publicaciones en redes sociales y descripciones de productos.Introducción del IA generativa en funciones de marketing requiere consideración cuidadosa. Por un lado, los modelos matemáticos entrenados en datos públicamente disponibles sin suficientes salvaguardias contra el plagio, violaciones de derechos de autor y riesgos de reconocimiento de marca pueden infringir derechos de propiedad intelectual. Una aplicación de prueba virtual puede producir representaciones sesgadas de ciertas demografías debido a datos de entrenamiento limitados o sesgados. Por lo tanto, se requiere una supervisión humana significativa para el pensamiento conceptual y estratégico específico para cada empresa.
+
+Los beneficios operativos potenciales de utilizar IA generativa en marketing incluyen lo siguiente:
+
+Creación de contenido eficiente y efectiva.
+La IA generativa podría reducir significativamente el tiempo requerido para la ideación y la creación de borradores, ahorrando tiempo y esfuerzo valiosos. También puede facilitar la consistencia en diferentes piezas de contenido, asegurando una voz de marca, estilo de escritura y formato uniformes. Los miembros del equipo pueden colaborar a través de IA generativa, que puede integrar sus ideas en una pieza coherente. Esto permitiría a los equipos mejorar significativamente la personalización de los mensajes de marketing dirigidos a diferentes segmentos de clientes, geografías y demografías. Las campañas de correo electrónico masivo pueden ser traducidas instantáneamente a tantos idiomas como sean necesarios, con imágenes y mensajes diferentes según la audiencia. La capacidad de la IA generativa para producir contenido con especificaciones variables podría aumentar el valor del cliente, la atracción, la conversión y la retención a lo largo de la vida y a una escala más allá de lo que es posible actualmente a través de técnicas tradicionales.
+
+Uso mejorado de datos.
+La IA generativa podría ayudar a las funciones de marketing a superar los desafíos de datos no estructurados, inconsistentes y desconectados, por ejemplo, de diferentes bases de datos, interpretando fuentes de datos abstractas como texto, imágenes y estructuras variables. Puede ayudar a los marketers a utilizar mejor los datos, como el rendimiento del territorio, la retroalimentación del cliente sintetizada y el comportamiento del cliente, para generar estrategias de marketing informadas por datos, como perfiles de clientes objetivo y recomendaciones de canales. Estas herramientas podrían identificar y sintetizar tendencias, drivers clave y oportunidades de mercado y productos a partir de datos no estructurados, como redes sociales, noticias, investigación académica y retroalimentación del cliente.
+
+Optimización SEO.
+La IA generativa puede ayudar a los marketers a lograr conversiones más altas y costos más bajos a través de la optimización del motor de búsqueda (SEO) para componentes técnicos de marketing y ventas, como títulos de página, etiquetas de imagen y URL. Puede sintetizar tokens SEO clave, apoyar a especialistas en creación de contenido digital SEO y distribuir contenido dirigido a clientes.
+
+Descubrimiento de productos y personalización de búsqueda.
+Con la IA generativa, el descubrimiento de productos y la búsqueda pueden personalizarse con entradas multimodales de texto, imágenes y voz, y una comprensión profunda de los perfiles de clientes. Por ejemplo, la tecnología puede aprovechar las preferencias individuales, el comportamiento y el historial de compras para ayudar a los clientes a descubrir los productos más relevantes y generar descripciones de productos personalizadas. Esto permitiría a las empresas de bienes de consumo, viajes y comercio electrónico mejorar sus tasas de conversión en sitios web.
+
+Estimamos que la IA generativa podría aumentar la productividad de la función de marketing en un valor entre el 5 y el 15 por ciento del gasto total en marketing.
+
+Nuestro análisis del uso potencial de la IA generativa en marketing no tiene en cuenta los efectos secundarios más allá de los impactos directos en la productividad. La síntesis habilitada por la IA generativa podría proporcionar insights de datos de alta calidad, lo que llevaría a nuevas ideas para campañas de marketing y segmentos de clientes más dirigidos. Las funciones de marketing podrían reasignar recursos para producir contenido de alta calidad para canales propiedad, potencialmente reduciendo el gasto en canales y agencias externas.
+
+Ventas
+La IA generativa también podría cambiar la forma en que las empresas B2B y B2C abordan las ventas. Los siguientes son dos casos de uso para las ventas:
+
+Aumentar la probabilidad de venta.Canales	y	agencias.
+Ventas
+El	IA	generativa	también	podría	cambiar	la	forma	en_que	las	empresas	B2B	y	B2C	se	acercan	a	las	ventas.	A	continuación,	se_presentan	dos	casos	de_uso_para_las_ventas:
+Aumentar	la	probabilidad	de_venta.
+El	IA	generativa	podría_identificar	y_priorizar	leads_de_venta_al_crear_perfiles_de_consumidor_completos	a_partir_de_datos_estructurados_y_no_estructurados_y_sugerir_acciones_al_personal_para_mejorar_la_participación_del_cliente_en_cada_punto_de_contacto.	Por_ejemplo,	el	IA	generativa	podría_proporcionar_mejor_información_sobre_las_preferencias_del_cliente,	potencialmente_mejorando_las_tasas_de_cierre.
+Mejorar	el_desarrollo_de_leads.
+El	IA	generativa	podría_ayudar_a_los_representantes_de_ventas_a_cultivar_leads_al_sintetizar_información_relevante_de_productos_y_perfiles_de_clientes_y_crear_guiones_de_discusión_para_facilitar_la_conversación_con_el_cliente,	incluyendo_puntos_de_venta_up-	y_cross-selling.	También	podría_automatizar_seguimientos_de_ventas_y_cultivar_pasivamente_leads_hasta_que_los_clientes_estén_listos_para_interactuar_directamente_con_un_agente_de_ventas_humano.
+Nuestro_análisis_sugiere_que_la_implementación_del	IA	generativa	podría_aumentar_la_productividad_de_las_ventas_en_un_3	a_un_5_por_ciento_de_los_gastos_actuales_de_ventas_globales.
+Este_análisis_puede_no_tener_en_cuenta_completamente_el_ingreso_adicional_que_el	IA	generativa_pudiera_traer_a_las_funciones_de_ventas.	Por_ejemplo,	la_capacidad_del	IA	generativa_para_identificar_leads_y_seguimientos_could_descubrir_nuevos_leads_y_facilitar_un_alcance_más_eficaz_que_traería_ingresos_adicionales.	También,	el_tiempo_ahorrado_por_los_representantes_de_ventas_debido_a_las_capacidades_del	IA	generativa_podría_invertirse_en_interacciones_con_clientes_de_alta_calidad,	resultando_en_un_mayor_éxito_en_las_ventas.
+Ingeniería_de_software:	Acelerar	el_trabajo_de_desarrollo_como_un_asistente_de_codificaciónTratar los lenguajes de computadora como cualquier otro lenguaje abre nuevas posibilidades para la ingeniería de software. Los ingenieros de software pueden utilizar la IA generativa en programación por pares y para codificar de forma aumentada, y entrenar LLM para desarrollar aplicaciones que generen código cuando se les proporciona una descripción en lenguaje natural de lo que ese código debería hacer.
+
+La ingeniería de software es una función significativa en la mayoría de las empresas, y continúa creciendo a medida que todas las grandes empresas, no solo los gigantes tecnológicos, incorporan software en una amplia variedad de productos y servicios. Por ejemplo, gran parte del valor de los nuevos vehículos proviene de características digitales como el control de crucero adaptativo, asistencia de estacionamiento y conectividad IoT.
+
+Según nuestro análisis, el impacto directo de la IA en la productividad de la ingeniería de software podría oscilar entre el 20 y el 45 por ciento del gasto anual actual en la función. Este valor se debería principalmente a reducir el tiempo gastado en ciertas actividades, como generar borradores de código iniciales, corrección y refactorización de código, análisis de causa raíz y generación de nuevos diseños de sistema. Al acelerar el proceso de codificación, la IA generativa podría impulsar las habilidades y capacidades necesarias en la ingeniería de software hacia el diseño de código y arquitectura. Un estudio encontró que los desarrolladores de software que utilizaron GitHub Copilot de Microsoft completaron tareas un 56 por ciento más rápido que aquellos que no utilizaron la herramienta.
+
+Un estudio empírico interno de McKinsey sobre equipos de ingeniería de software encontró que aquellos que fueron entrenados para utilizar herramientas de IA generativa redujeron rápidamente el tiempo necesario para generar y refactorizar código, y los ingenieros también informaron una mejor experiencia laboral, citando mejoras en la felicidad, flujo y realización.
+
+Nuestro análisis no tuvo en cuenta el aumento en la calidad de la aplicación y el aumento resultante en la productividad que la IA generativa podría traer al mejorar el código o mejorar la arquitectura IT, lo que puede mejorar la productividad en toda la cadena de valor IT. Sin embargo, la calidad de la arquitectura IT todavía depende en gran medida de los arquitectos de software, en lugar de los borradores iniciales que las capacidades actuales de la IA generativa permiten producir.
+
+Las grandes empresas tecnológicas ya están vendiendo IA generativa para la ingeniería de software, incluyendo GitHub Copilot, que ahora se integra con GPT-4 de OpenAI, y Replit, utilizado por más de 20 millones de codificadores.
+
+Investigación y desarrollo de productos: reducir el tiempo de investigación y diseño, mejorar la simulación y las pruebas.Impactos industriales
+
+El potencial de la IA generativa en I+D es quizás menos reconocido que en otras funciones empresariales.
+Sin embargo, nuestra investigación indica que la tecnología podría entregar una productividad con un valor que oscila entre el 10 y el 15 por ciento de los costos totales de I+D.
+Por ejemplo, las industrias de ciencias de la vida y química han comenzado a utilizar modelos de fundación de IA generativa en su I+D para lo que se conoce como diseño generativo. Los modelos de fundación pueden generar moléculas candidatas, acelerando el proceso de desarrollo de nuevos medicamentos y materiales. Entos, una empresa biotecnológica farmacéutica, ha emparejado IA generativa con herramientas de desarrollo sintético automatizado para diseñar terapias de moléculas pequeñas. Pero los mismos principios pueden aplicarse al diseño de muchos otros productos, incluyendo productos físicos a gran escala y circuitos eléctricos, entre otros.
+Mientras que otras técnicas de diseño generativo ya han desbloqueado parte del potencial para aplicar IA en I+D, sus requisitos de costo y datos, como el uso de "aprendizaje automático tradicional", pueden limitar su aplicación.
+Los modelos de fundación preentrenados que subyacen a la IA generativa, o modelos que han sido mejorados con ajuste fino, tienen áreas de aplicación mucho más amplias que los modelos optimizados para una tarea única. Por lo tanto, pueden acelerar el tiempo de llegada al mercado y ampliar los tipos de productos a los que se puede aplicar el diseño generativo. Sin embargo, por ahora, los modelos de fundación carecen de las capacidades para ayudar a diseñar productos en todas las industrias.
+Además de las ganancias de productividad que resultan de poder producir rápidamente diseños candidatos, el diseño generativo también puede permitir mejoras en los propios diseños, como en los siguientes ejemplos de mejoras operativas que la IA generativa podría traer:
+Diseño mejorado.
+La IA generativa puede ayudar a los diseñadores de productos a reducir costos al seleccionar y utilizar materiales de manera más eficiente. También puede optimizar diseños para la fabricación, lo que puede llevar a reducciones de costos en logística y producción.
+Pruebas y calidad de productos mejoradas.
+Al utilizar IA generativa en diseño generativo, se puede producir un producto de mayor calidad, lo que resulta en una mayor atractividad y apelación en el mercado. La IA generativa puede ayudar a reducir el tiempo de prueba de sistemas complejos y acelerar las fases de prueba con clientes a través de su capacidad para bosquejar escenarios y perfilar candidatos de prueba.
+También identificamos un nuevo caso de uso de IA no generativa: los suplentes de aprendizaje profundo, cuyo uso ha crecido desde nuestra investigación anterior, pueden ser combinados con IA generativa para producir beneficios aún mayores. Para ser seguro, la integración requerirá el desarrollo de soluciones específicas, pero el valor podría ser significativo porque los suplentes de aprendizaje profundo tienen el potencial de acelerar la prueba de diseños propuestos por IA generativa.
+Aunque hemos estimado el impacto directo potencial de la IA generativa en la función de I+D, no intentamos estimar el potencial de la tecnología para crear categorías de productos completamente nuevas. Estas son las innovaciones que pueden producir cambios significativos no solo en el rendimiento de las empresas individuales, sino también en el crecimiento económico en general.A lo largo de los 63 casos de uso que analizamos, la IA generativa tiene el potencial de generar $2.6 billones a $4.4 billones en valor en various industrias. Su impacto preciso dependerá de una variedad de factores, como la mezcla y la importancia de diferentes funciones, así como la escala de los ingresos de una industria (Exhibición 4).
+
+Por ejemplo, nuestro análisis estima que la IA generativa podría contribuir con aproximadamente $310 mil millones en valor adicional para la industria minorista (incluyendo concesionarios de automóviles) al mejorar el rendimiento en funciones como marketing y interacciones con clientes. Por comparación, la mayor parte del valor potencial en alta tecnología proviene de la capacidad de la IA generativa para aumentar la velocidad y eficiencia del desarrollo de software (Exhibición 5).
+
+En la industria bancaria, la IA generativa tiene el potencial de mejorar las eficiencias ya entregadas por la inteligencia artificial al asumir tareas de menor valor en la gestión de riesgos, como informes obligatorios, seguimiento de desarrollos regulatorios y recopilación de datos. En la industria de ciencias de la vida, la IA generativa está lista para hacer contribuciones significativas en el descubrimiento y desarrollo de medicamentos.
+
+Compartimos nuestro análisis detallado de estas industrias a continuación.
+
+La IA generativa apoya los impulsores clave de valor en retail y bienes de consumo empaquetados
+
+La tecnología podría generar valor para la industria minorista y de bienes de consumo empaquetados (CPG) al aumentar la productividad en un 1.2% a 2.0% de los ingresos anuales, o un adicional de $400 mil millones a $660 mil millones.
+
+Para simplificar procesos, la IA generativa podría automatizar funciones clave como servicio al cliente, marketing y ventas, y gestión de inventario y cadena de suministro. La tecnología ha desempeñado un papel esencial en las industrias minorista y CPG durante décadas. Las soluciones de inteligencia artificial tradicional y análisis avanzados han ayudado a las empresas a administrar grandes cantidades de datos en múltiples SKUs, redes de suministro y almacenamiento, y categorías de productos complejas como artículos de consumo. Además, las industrias están fuertemente enfocadas en el cliente, lo que ofrece oportunidades para que la IA generativa complemente la inteligencia artificial existente. Por ejemplo, la capacidad de la IA generativa para personalizar ofertas podría optimizar actividades de marketing y ventas ya manejadas por soluciones de IA existentes. De manera similar, las herramientas de IA generativa excel en la gestión de datos y podrían respaldar herramientas de precios impulsadas por IA existentes. Aplicar la IA generativa a tales actividades podría ser un paso hacia la integración de aplicaciones en toda la empresa.
+
+La IA generativa en acción en retail y CPG
+
+Reinvención del patrón de interacción con el cliente
+
+Los consumidores buscan cada vez más personalización en todo, desde ropa y cosméticos hasta experiencias de compra curadas, outreach personalizado y comida, y la IA generativa puede mejorar esa experiencia. La IA generativa puede agregar datos del mercado para probar conceptos, ideas y modelos. Stitch Fix, que utiliza algoritmos para sugerir opciones de estilo a sus clientes, ha experimentado con DALL·E para visualizar productos según las preferencias de los clientes en cuanto a color, tela y estilo. Utilizando la generación de imágenes de texto, los estilistas de la empresa pueden visualizar un artículo de ropa según las preferencias de un consumidor y luego identificar un artículo similar en el inventario de Stitch Fix. Los minoristas pueden crear aplicaciones que brinden a los compradores una experiencia de próxima generación, creando una ventaja competitiva significativa en una era en la que los clientes esperan tener una interfaz de lenguaje natural única para ayudarlos a seleccionar productos. Por ejemplo, la IA generativa puede mejorar el proceso de selección y pedido de ingredientes para una comida o preparación de alimentos, imagina un chatbot que pueda recuperar los consejos más populares de los comentarios adjuntos a una receta. También hay una gran oportunidad para mejorar la gestión del valor del cliente al entregar campañas de marketing personalizadas a través de un chatbot. Tales aplicaciones pueden tener conversaciones humanas sobre productos de manera que pueden aumentar la satisfacción del cliente, el tráfico y la lealtad a la marca. La IA generativa ofrece a los minoristas y CPG una oportunidad para revolucionar la experiencia del cliente.maneras que pueden aumentar la satisfacción del cliente, el tráfico y la lealtad a la marca. La IA generativa ofrece a los minoristas y empresas de productos de consumo muchas oportunidades para cruzar ventas y vender más, recopilar información para mejorar las ofertas de productos y aumentar su base de clientes, oportunidades de ingresos y ROI de marketing en general.
+
+Acelerar la creación de valor en áreas clave
+
+Las herramientas de IA generativa pueden facilitar la redacción de copias para marketing y ventas, ayudar a generar ideas creativas de marketing, agilizar la investigación de consumidores y acelerar el análisis y creación de contenido. El posible mejoramiento en la escrituray visuales pueden aumentar la conciencia y mejorar las tasas de conversión de ventas.
+
+Resolución rápida y conocimientos mejorados en atención al cliente
+El crecimiento del comercio electrónico también eleva la importancia de las interacciones con los consumidores efectivas. Los minoristas pueden combinar herramientas de IA existentes con IA generativa para mejorar las capacidades de los chatbots, permitiéndoles imitar mejor el estilo de interacción de los agentes humanos, por ejemplo, respondiendo directamente a una consulta del cliente, rastreando o cancelando un pedido, ofreciendo descuentos y upselling. Automatizar tareas repetitivas permite a los agentes humanos dedicar más tiempo a manejar problemas de clientes complicados y obtener información contextual.
+
+Innovación disruptiva y creativa
+Las herramientas de IA generativa pueden mejorar el proceso de desarrollo de nuevas versiones de productos creando diseños digitales rápidamente. Un diseñador puede generar diseños de empaquetado desde cero o generar variaciones de un diseño existente. Esta tecnología está desarrollándose rápidamente y tiene el potencial de agregar generación de video a texto.
+
+Factores para considerar para organizaciones de retail y CPG
+A medida que los ejecutivos de retail y CPG exploran cómo integrar la IA generativa en sus operaciones, deben tener en cuenta varios factores que podrían afectar su capacidad para capturar valor de la tecnología:
+Inferencia externa.
+La IA generativa ha aumentado la necesidad de entender si el contenido generado se basa en hechos o inferencia, lo que requiere un nuevo nivel de control de calidad.
+Ataques adversarios.
+Los modelos de fundación son un objetivo principal para ataques de hackers y otros actores malintencionados, lo que aumenta la variedad de vulnerabilidades de seguridad y riesgos de privacidad potenciales.
+Para abordar estas preocupaciones, las empresas de retail y CPG deberán mantener a los humanos en el bucle y asegurarse de que la seguridad y la privacidad sean consideraciones clave para cualquier implementación. Las empresas deberán instituir nuevos controles de calidad para procesos previamente manejados por humanos, como correos electrónicos escritos por representantes de clientes, y realizar verificaciones de calidad más detalladas en procesos asistidos por IA, como el diseño de productos.
+
+Por qué los bancos podrían realizar un valor significativo
+La IA generativa podría tener un impacto significativo en la industria bancaria, generando un valor del 2,8 al 4,7 por ciento de los ingresos anuales de la industria, o un adicional de 200 mil millones a 340 mil millones de dólares. Además de ese impacto, el uso de herramientas de IA generativa también podría mejorar la satisfacción del cliente, mejorar la toma de decisiones y la experiencia del empleado, y disminuir los riesgos a través de una mejor supervisión del fraude y el riesgo.
+
+Construyendo el banco del futuro
+La industria bancaria, que es conocida por ser una industria basada en conocimientos y tecnología, ya ha beneficiado significativamente de aplicaciones previas de inteligencia artificial en áreas como marketing y operaciones de clientes.
+Las aplicaciones de IA generativa podrían entregar beneficios adicionales, especialmente porque las modalidades de texto son prevalentes en áreas como regulaciones y lenguajes de programación, y la industria es cara al cliente, con muchos clientes B2C y pequeñas empresas.
+
+Características que posicionan a la industria para la integración de aplicaciones de IA generativa:
+Esfuerzos sostenidos de digitalización junto con sistemas de IT heredados.
+La industria bancaria ha invertido en tecnología durante décadas, acumulando una cantidad significativa de deuda técnica junto con una arquitectura de IT compleja y siloed.
+Una gran fuerza laboral cara al cliente.
+La banca se basa en una gran cantidad de representantes de servicio, como agentes de centro de llamadas y asesores financieros de gestión de patrimonio.
+Un entorno regulatorio estricto.
+Como una industria altamente regulada, la banca tiene una gran cantidad de necesidades de riesgo, cumplimiento y legales.
+Industria de cuello blanco.
+El impacto de la IA generativa podría abarcar toda la organización, asistiendo a todos los empleados en tareas como escribir correos electrónicos, crear presentaciones empresariales y otras tareas.
+
+IA generativa en el trabajo en bancaEl impacto del IA generativo podría abarcar toda la organización, asistiendo a todos los empleados en la redacción de correos electrónicos, la creación de presentaciones empresariales y otras tareas.
+
+IA generativo en el trabajo en bancaLos bancos han comenzado a comprender el potencial de la IA generativa en sus líneas de frente y en sus actividades de software. Los adoptantes tempranos están aprovechando soluciones como ChatGPT, así como soluciones específicas de la industria, principalmente para aplicaciones de software y conocimiento. Tres usos demuestran su valor potencial para la industria.
+
+Un experto virtual para mejorar el rendimiento de los empleados
+Un bot de IA generativa entrenado en conocimientos propietarios como políticas, investigación y interacción con clientes podría proporcionar apoyo técnico profundo y siempre disponible. Hoy en día, el gasto en la línea de frente se dedica principalmente a validar ofertas y interactuar con clientes, pero dar acceso a los trabajadores de la línea de frente a los datos también podría mejorar la experiencia del cliente. La tecnología también podría monitorear industrias y clientes y enviar alertas sobre consultas semánticas desde fuentes públicas. Por ejemplo, Morgan Stanley está construyendo un asistente de IA utilizando GPT-4, con el objetivo de ayudar a decenas de miles de gestores de patrimonio a encontrar y sintetizar respuestas rápidamente desde una base de conocimientos interna masiva.
+
+El modelo combina búsqueda y creación de contenido para que los gestores de patrimonio puedan encontrar y personalizar información para cualquier cliente en cualquier momento.
+
+Un banco europeo ha aprovechado la IA generativa para desarrollar un experto virtual de medio ambiente, social y gobernanza (ESG) al sintetizar y extraer información de documentos largos con información no estructurada. El modelo responde a preguntas complejas basadas en una consulta, identificando la fuente de cada respuesta y extrayendo información de imágenes y tablas.
+
+La IA generativa podría reducir los costos significativos asociados con operaciones de back-office. Tales chatbots enfocados en el cliente podrían evaluar solicitudes de usuarios y seleccionar al mejor experto en servicio para abordarlas según características como tema, nivel de dificultad y tipo de cliente. A través de asistentes de IA generativa, los profesionales de servicio podrían acceder rápidamente a toda la información relevante, como guías de productos y políticas, para abordar instantáneamente las solicitudes de los clientes.
+
+Aceleración del código para reducir la deuda técnica y entregar software más rápido
+Las herramientas de IA generativa son útiles para el desarrollo de software en cuatro categorías amplias. En primer lugar, pueden redactar código basado en el contexto a través de código de entrada o lenguaje natural, lo que ayuda a los desarrolladores a codificar más rápido y con menos fricción, mientras habilita traducciones automáticas y herramientas de código bajo y sin código. En segundo lugar, estas herramientas pueden generar, priorizar, ejecutar y revisar diferentes pruebas de código, acelerando las pruebas y aumentando la cobertura y efectividad. En tercer lugar, las capacidades de traducción de lenguaje natural de la IA generativa pueden optimizar la integración y migración de frameworks heredados. Por último, las herramientas pueden revisar el código para identificar defectos y ineficiencias en la computación. El resultado es un código más robusto y efectivo.
+
+Producción de contenido personalizado a gran escala
+Las herramientas de IA generativa pueden aprovechar documentos y conjuntos de datos existentes para simplificar significativamente la generación de contenido. Estas herramientas pueden crear contenido de marketing y ventas personalizado para perfiles de clientes específicos y historias, así como una multitud de alternativas para pruebas A/B. Además, la IA generativa podría producir automáticamente documentación de modelos, identificar documentación faltante y escanear actualizaciones regulatorias relevantes para crear alertas para cambios importantes.
+
+Factores para que los bancos consideren
+Al explorar cómo integrar la IA generativa en sus operaciones, los bancos pueden tener en cuenta varios factores:
+
+El nivel de regulación para diferentes procesos.
+Estos varían desde procesos no regulados como el servicio al cliente hasta procesos altamente regulados como la puntuación de riesgo crediticio.
+Tipo de usuario final.
+Los usuarios finales varían ampliamente en sus expectativas y familiaridad con la IA generativa, por ejemplo, empleados en comparación con clientes de alto patrimonio.
+Nivel de automatización del trabajo.
+Los agentes de IA integrados a través de API podrían actuar casi de forma autónoma o como copilotos, brindando sugerencias en tiempo real a los agentes durante las interacciones con clientes.
+Restricciones de datos.Los agentes de IA integrados a través de API podrían actuar casi de forma autónoma o como copilotos, brindando sugerencias en tiempo real a los agentes durante las interacciones con los clientes.
+
+Restricciones de datos.
+Mientras que los datos públicos, como los informes anuales, podrían hacerse ampliamente disponibles, habría que establecer límites en los detalles identificables para los clientes y otros datos internos.
+
+[4]
+
+Los productos farmacéuticos y médicos podrían ver beneficios en toda la cadena de valor.Nuestro análisis encuentra que la IA generativa podría tener un impacto significativo en las industrias farmacéutica y de productos médicos, desde el 2,6% hasta el 4,5% de los ingresos anuales en estas industrias, o 60.000 millones a 110.000 millones de dólares anuales. Este gran potencial refleja el proceso intensivo en recursos de descubrimiento de nuevos compuestos de fármacos. Las empresas farmacéuticas suelen gastar aproximadamente el 20% de sus ingresos en I+D, y el desarrollo de un nuevo fármaco tarda en promedio de 10 a 15 años. Con este nivel de gasto y plazo, mejorar la velocidad y calidad de la I+D puede generar un valor sustancial. Por ejemplo, la identificación de líderes, un paso en el proceso de descubrimiento de fármacos en el que los investigadores identifican una molécula que abordaría mejor el objetivo para un nuevo fármaco, puede tomar varios meses incluso con técnicas de "aprendizaje profundo" tradicionales. Los modelos de fundación y la IA generativa pueden permitir que las organizaciones completen este paso en cuestión de semanas.
+
+La IA generativa en funcionamiento en farmacéuticos y productos médicos
+
+El descubrimiento de fármacos implica reducir el universo de compuestos posibles a aquellos que podrían tratar condiciones específicas. La capacidad de la IA generativa para procesar cantidades masivas de datos y opciones de modelos puede acelerar la producción en varios casos de uso:
+
+Mejora de la automatización de la selección preliminar
+En la etapa de identificación de líderes del desarrollo de fármacos, los científicos pueden utilizar modelos de fundación para automatizar la selección preliminar de sustancias químicas en la búsqueda de aquellas que producirían efectos específicos en objetivos de fármacos. Para empezar, se prueban miles de cultivos celulares y se emparejan con imágenes del experimento correspondiente. Utilizando un modelo de fundación estándar, los investigadores pueden agrupar imágenes similares con más precisión de lo que pueden con modelos tradicionales, lo que les permite seleccionar los compuestos químicos más prometedores para un análisis adicional durante la optimización de líderes.
+
+Mejora de la búsqueda de indicaciones
+Una fase importante del descubrimiento de fármacos implica la identificación y priorización de nuevas indicaciones, es decir, enfermedades, síntomas o circunstancias que justifican el uso de un medicamento o tratamiento específico, como una prueba, procedimiento o cirugía. Las posibles indicaciones para un fármaco determinado se basan en la historia clínica y los registros médicos de un grupo de pacientes, y luego se priorizan según sus similitudes con indicaciones establecidas y respaldadas por la evidencia.
+
+Los investigadores comienzan por mapear los eventos clínicos y la historia médica del grupo de pacientes, incluyendo diagnósticos potenciales, medicamentos recetados y procedimientos realizados, a partir de datos del mundo real. Utilizando modelos de fundación, los investigadores pueden cuantificar eventos clínicos, establecer relaciones y medir la similitud entre el grupo de pacientes y las indicaciones respaldadas por la evidencia. El resultado es una lista corta de indicaciones que tienen una mayor probabilidad de éxito en ensayos clínicos porque pueden ser más precisamente emparejadas con grupos de pacientes adecuados.
+
+Las empresas farmacéuticas que han utilizado este enfoque han informado de altas tasas de éxito en ensayos clínicos para las cinco primeras indicaciones recomendadas por un modelo de fundación para un fármaco probado. Este éxito ha permitido que estos fármacos avancen suavemente a ensayos de fase 3, acelerando significativamente el proceso de desarrollo de fármacos.
+
+Factores que las organizaciones de productos farmacéuticos y médicos deben considerar
+
+Antes de integrar la IA generativa en sus operaciones, los ejecutivos farmacéuticos deben ser conscientes de algunos factores que podrían limitar su capacidad para capturar sus beneficios:
+
+La necesidad de un humano en el bucle.
+Las empresas pueden necesitar implementar nuevos controles de calidad en procesos que cambian de humanos a IA generativa, como correos electrónicos generados por representantes, o controles de calidad más detallados en procesos asistidos por IA, como el descubrimiento de fármacos. La creciente necesidad de verificar si el contenido generado se basa en hechos o inferencias eleva la necesidad de un nuevo nivel de control de calidad.
+
+Explicabilidad.
+La falta de transparencia en cuanto a los orígenes del contenido generado y la trazabilidad de los datos raíz eleva la necesidad de una mayor explicabilidad en la toma de decisiones.El contenido basado en hechos o inferencia eleva la necesidad de un nuevo nivel de control de calidad.
+
+Explicabilidad.
+
+La falta de transparencia en cuanto a los orígenes del contenido generado y la trazabilidad de los datos raíz podrían hacer que sea difícil actualizar modelos y escanearlos en busca de riesgos potenciales; por ejemplo, una solución de IA generativa para sintetizar literatura científica puede no poder señalar los artículos o citas específicas que la llevaron a inferir que un nuevo tratamiento es muy popular entre los médicos. La tecnología también puede "alucinar", o generar respuestas que son obviamente incorrectas o inapropiadas para el contexto. Los sistemas necesitan ser diseñados para señalar artículos o fuentes de datos específicas, y luego realizar verificaciones con intervención humana.
+
+Consideraciones de privacidad.
+
+El uso de imágenes clínicas y registros médicos por parte de la IA generativa podría aumentar el riesgo de que se filtren información de salud protegida, violando posiblemente las regulaciones que requieren que las empresas farmacéuticas protejan la privacidad de los pacientes.Implicaciones laborales y de productividad
+
+La tecnología ha estado cambiando la anatomía del trabajo durante décadas. A lo largo de los años, las máquinas han otorgado a los trabajadores humanos "superpoderes"; por ejemplo, las máquinas de la era industrial permitieron a los trabajadores realizar tareas físicas más allá de las capacidades de sus propios cuerpos. Más recientemente, las computadoras han permitido a los trabajadores del conocimiento realizar cálculos que habrían llevado años hacer manualmente.
+
+Estos ejemplos ilustran cómo la tecnología puede aumentar el trabajo a través de la automatización de actividades individuales que los trabajadores habrían tenido que hacer ellos mismos. A nivel conceptual, la aplicación de IA generativa puede seguir el mismo patrón en el lugar de trabajo moderno, aunque, como se muestra más adelante en este capítulo, los tipos de actividades que la IA generativa podría afectar y los tipos de ocupaciones con actividades que podrían cambiar, serán diferentes como resultado de esta tecnología que con tecnologías más antiguas.
+
+El Instituto Global McKinsey comenzó a analizar el impacto de la automatización tecnológica de las actividades laborales y a modelar escenarios de adopción en 2017. En ese momento, estimamos que los trabajadores pasaban la mitad de su tiempo en actividades que tenían el potencial de ser automatizadas mediante la adaptación de tecnologías que existían en ese momento, o lo que llamamos potencial de automatización técnica. También modelamos una gama de escenarios posibles para el ritmo al que estas tecnologías podrían ser adoptadas y afectar las actividades laborales en toda la economía global.
+
+La adopción de tecnología a gran escala no ocurre de la noche a la mañana. El potencial de las capacidades tecnológicas en un laboratorio no significa necesariamente que puedan ser integradas inmediatamente en una solución que automatice una actividad laboral específica; desarrollar tales soluciones lleva tiempo. Incluso cuando se desarrolla tal solución, puede no ser económicamente factible utilizarla si sus costos superan a los de la mano de obra humana. Además, incluso si existen incentivos económicos para la implementación, lleva tiempo para que la adopción se propague por toda la economía global. Por lo tanto, nuestros escenarios de adopción, que consideran estos factores junto con el potencial de automatización técnica, proporcionan una idea del ritmo y la escala en que las actividades de los trabajadores podrían cambiar con el tiempo.
+
+Los análisis en este documento incorporan el impacto potencial de la IA generativa en las actividades laborales actuales. Las nuevas capacidades de la IA generativa, combinadas con tecnologías previas y integradas en operaciones corporativas en todo el mundo, podrían acelerar el potencial para la automatización técnica de actividades individuales y la adopción de tecnologías que aumenten las capacidades de la fuerza laboral. También podrían tener un impacto en los trabajadores del conocimiento cuyas actividades no se esperaba que cambiaran como resultado de estas tecnologías hasta más adelante en el futuro (ver sidebar "Sobre la investigación").
+
+El potencial de automatización ha acelerado, pero la adopción se retrasa
+
+Basándonos en los avances en IA generativa, se espera que el rendimiento tecnológico alcance el rendimiento humano mediano y llegue al rendimiento humano de cuartil superior más temprano de lo que se estimó anteriormente en una amplia gama de capacidades (Exhibición 6). Por ejemplo, MGI identificó previamente 2027 como el año más temprano en que se podría alcanzar el rendimiento humano mediano para la comprensión del lenguaje natural, pero en este nuevo análisis, el punto correspondiente es 2023.
+
+Como resultado de estas reevaluaciones de las capacidades tecnológicas debido a la IA generativa, el porcentaje total de horas que podrían ser automatizadas teóricamente al integrar tecnologías que existen hoy en día ha aumentado de alrededor del 50 por ciento al 60-70 por ciento. La curva de potencial técnico es muy empinada debido a la aceleración en las capacidades de lenguaje natural de la IA generativa.
+
+Es interesante que el rango de tiempos entre los escenarios temprano y tardío se ha comprimido en comparación con las evaluaciones de expertos en 2017, lo que refleja una mayor confianza en que niveles más altos de capacidades tecnológicas llegarán en ciertos períodos de tiempo (Exhibición 7).2017, reflejando una mayor confianza en que niveles más altos de capacidades tecnológicas llegarán en períodos de tiempo específicos (Exhibición 7).
+
+Nuestro análisis de escenarios de adopción tiene en cuenta el tiempo requerido para integrar capacidades tecnológicas en soluciones que pueden automatizar actividades laborales individuales; el costo de estas tecnologías en comparación con el trabajo humano en diferentes ocupaciones y países de todo el mundo; y el tiempo que ha llevado para que las tecnologías se difundan por la economía. Con la aceleración en el potencial de automatización técnica que habilita el AI generativo, nuestros escenarios para la adopción de automatización han correspondido con una aceleración. Estos escenarios abarcan un amplio rango de resultados, dado que el ritmo al que se desarrollarán y adoptarán soluciones variará según las decisiones que se tomen sobre inversiones, despliegue y regulación, entre otros factores. Pero dan una indicación del grado en que las actividades que los trabajadores realizan cada día pueden cambiar (Exhibición 8).
+
+Por ejemplo, consideremos a los profesores de inglés y literatura en la educación postsecundaria, cuyas actividades laborales detalladas incluyen preparar pruebas y evaluar el trabajo de los estudiantes. Con las capacidades mejoradas de lenguaje natural del AI generativo, más de estas actividades podrían ser realizadas por máquinas, quizás inicialmente para crear un borrador que sea editado por los profesores, pero eventualmente con mucha menos edición humana requerida. Esto podría liberar tiempo para que estos profesores pasen más tiempo en otras actividades laborales, como guiar discusiones en clase o tutorizar a estudiantes que necesitan asistencia adicional.
+
+Nuestros escenarios de adopción previamente modelados sugirieron que el 50 por ciento del tiempo pasado en actividades laborales en 2016 se automatizaría en algún momento entre 2035 y 2070, con un escenario de punto medio alrededor de 2053. Nuestros escenarios de adopción actualizados, que tienen en cuenta los avances en el AI generativo, modelan el tiempo pasado en actividades laborales en 2023 alcanzando un 50 por ciento de automatización entre 2030 y 2060, con un punto medio de 2045, lo que representa una aceleración de aproximadamente una década en comparación con la estimación previa.
+
+La adopción también es probable que sea más rápida en países desarrollados, donde los salarios son más altos y, por lo tanto, la viabilidad económica de la automatización es mayor.
+
+Acerca de la investigación
+
+
+6
+[
+6
+]La adopción de la automatización ocurre antes. Incluso si el potencial de la tecnología para automatizar una actividad laboral en particular es alto, los costos requeridos para hacerlo deben compararse con el costo de los salarios humanos. En países como China, India y México, donde las tasas de salario son más bajas, la adopción de la automatización se modela para llegar más lentamente que en países con salarios más altos (Exhibición 9).
+
+El impacto potencial de la IA generativa en el trabajo de conocimiento
+
+Las generaciones anteriores de tecnología de automatización fueron particularmente efectivas para automatizar tareas de gestión de datos relacionadas con la recopilación y procesamiento de datos. Las capacidades de lenguaje natural de la IA generativa aumentan el potencial de automatización de este tipo de actividades algo más. Sin embargo, su impacto en actividades laborales más físicas cambió muy poco, lo que no es sorprendente porque sus capacidades están fundamentalmente diseñadas para realizar tareas cognitivas.
+
+Como resultado, la IA generativa es probable que tenga el mayor impacto en el trabajo de conocimiento, especialmente en actividades que involucran toma de decisiones y colaboración, que anteriormente tenían el menor potencial de automatización (Exhibición 10). Nuestra estimación del potencial técnico para automatizar la aplicación de la experiencia aumentó 34 puntos porcentuales, mientras que el potencial para automatizar la gestión y desarrollar talento aumentó del 16% en 2017 al 49% en 2023.
+
+La capacidad de la IA generativa para entender y utilizar el lenguaje natural para una variedad de actividades y tareas explica en gran medida por qué el potencial de automatización ha aumentado tan bruscamente. Alrededor del 40% de las actividades que los trabajadores realizan en la economía requieren al menos un nivel medio de comprensión humana del lenguaje natural.
+
+Como resultado, muchas de las actividades laborales que implican comunicación, supervisión, documentación e interacción con personas en general tienen el potencial de ser automatizadas por la IA generativa, acelerando la transformación del trabajo en ocupaciones como la educación y la tecnología, para las cuales se esperaba que el potencial de automatización surgiera más tarde (Exhibición 11).
+
+Los economistas laborales han observado que la implementación de tecnologías de automatización tiende a tener el mayor impacto en los trabajadores con los niveles de habilidad más bajos, medidos por la educación alcanzada, o lo que se llama sesgo de habilidad. Encontramos que la IA generativa tiene el patrón opuesto: es probable que tenga el mayor impacto incremental al automatizar algunas de las actividades de los trabajadores más educados (Exhibición 12).
+
+Otra forma de interpretar este resultado es que la IA generativa desafiará la obtención de credenciales de título de varios años como indicador de habilidades, y otros han abogado por adoptar un enfoque más basado en habilidades para el desarrollo de la fuerza laboral y los sistemas de capacitación y emparejamiento más equitativos y eficientes.
+
+La IA generativa podría describirse como un cambio tecnológico sesgado por habilidades, pero con una descripción más granular de las habilidades que son más propensas a ser reemplazadas que complementadas por las actividades que las máquinas pueden hacer.
+
+Las generaciones anteriores de tecnología de automatización a menudo tuvieron el mayor impacto en ocupaciones con salarios que caen en la mitad de la distribución de ingresos. Para ocupaciones con salarios más bajos, hacer un caso para la automatización del trabajo es más difícil porque los beneficios potenciales de la automatización compiten contra un costo más bajo de la mano de obra humana. Además, algunas de las tareas realizadas en ocupaciones con salarios más bajos son técnicamente difíciles de automatizar, por ejemplo, manipular telas o recoger frutas delicadas.
+
+Algunos economistas laborales han observado un "hollowing out of the middle", y nuestros modelos previos sugieren que la automatización del trabajo tendría el mayor impacto a medio plazo en los quintiles de ingresos más bajos.
+
+Sin embargo, el impacto de la IA generativa es probable que transforme el trabajo de los trabajadores de conocimiento de alta remuneración debido a los avances en el potencial de automatización técnica de sus actividades, que anteriormente se consideraban relativamente inmunes a la automatización (Exhibición 13).
+
+La IA generativa podría impulsar un crecimiento de la productividad más alto.De la automatización (Exhibición 13).
+El IA generativa podría impulsar un crecimiento de productividad más alto
+El crecimiento económico global fue más lento desde 2012 hasta 2022 que en las dos décadas anteriores.
+Aunque la pandemia de COVID-19 fue un factor significativo, los desafíos estructurales a largo plazo, incluyendo las tasas de natalidad en declive y las poblaciones envejecidas, son obstáculos continuos para el crecimiento.
+La disminución del empleo es uno de esos obstáculos. El crecimiento anual compuesto en el número total de trabajadores en todo el mundo se desaceleró de un 2,5% en 1972-82 a solo un 0,8% en 2012-22, principalmente debido al envejecimiento. En muchos países grandes, el tamaño de la fuerza laboral ya está disminuyendo.
+La productividad, que mide la producción relativa a la entrada, o el valor de los bienes y servicios producidos dividido por la cantidad de mano de obra, capital y otros recursos necesarios para producirlos, fue el motor principal del crecimiento económico en las tres décadas desde 1992 hasta 2022 (Exhibición 14). Sin embargo, desde entonces, el crecimiento de la productividad se ha ralentizado junto con el crecimiento del empleo, confundiendo a economistas y responsables políticos.
+"Dar vuelta al ralentizado de la productividad", Instituto McKinsey Global, 13 de septiembre de 2022.
+El despliegue de IA generativa y otras tecnologías podría ayudar a acelerar el crecimiento de la productividad, compensando parcialmente la disminución del crecimiento del empleo y permitiendo el crecimiento económico general. Según nuestras estimaciones, la automatización de actividades laborales individuales habilitadas por estas tecnologías podría proporcionar a la economía global un impulso anual de productividad del 0,5 al 3,4% desde 2023 hasta 2040, dependiendo de la tasa de adopción de automatización, con la IA generativa contribuyendo con 0,1 a 0,6 puntos porcentuales de ese crecimiento, pero solo si los individuos afectados por la tecnología se trasladan a otras actividades laborales que al menos igualen sus niveles de productividad de 2022 (Exhibición 15). En algunos casos, los trabajadores permanecerán en las mismas ocupaciones, pero su mezcla de actividades cambiará; en otros, los trabajadores necesitarán cambiar de ocupaciones.Consideraciones para los negocios y la sociedad
+
+La historia ha demostrado que las nuevas tecnologías tienen el potencial de reconfigurar las sociedades. La inteligencia artificial ya ha cambiado la forma en que vivimos y trabajamos, por ejemplo, puede ayudar a nuestros teléfonos a entender lo que decimos o redactar correos electrónicos. Sin embargo, en su mayoría, la IA ha permanecido detrás de las escenas, optimizando procesos empresariales o haciendo recomendaciones sobre el próximo producto que comprar. El rápido desarrollo de la IA generativa es probable que aumente significativamente el impacto de la IA en general, generando trillones de dólares adicionales de valor cada año y transformando la naturaleza del trabajo.
+
+Pero la tecnología también podría traer nuevos y significativos desafíos. Los stakeholders deben actuar rápidamente, dados el ritmo al que se adopta la IA generativa, para prepararse para abordar tanto las oportunidades como los riesgos. Ya han surgido riesgos, incluyendo inquietudes sobre el contenido que los sistemas de IA generativa producen: ¿Infringirán la propiedad intelectual debido a la "plagio" en los datos de entrenamiento utilizados para crear modelos de fundación? ¿Serán precisas las respuestas que los LLM producen cuando se les pregunta, y ¿pueden explicarse? ¿Será justo o tendrá sesgos el contenido que la IA generativa crea, por ejemplo, produciendo contenido que refleje estereotipos dañinos?
+
+También hay desafíos económicos: la escala y el alcance de las transiciones laborales descritas en este informe son considerables. En el escenario de adopción intermedia, alrededor de un cuarto a un tercio de las actividades laborales podrían cambiar en la próxima década. La tarea que tenemos por delante es gestionar los posibles beneficios y negativos de la tecnología al mismo tiempo (ver sidebar "Uso responsable de la IA generativa"). A continuación, se presentan algunas de las preguntas críticas que debemos abordar mientras equilibramos nuestro entusiasmo por los posibles beneficios de la tecnología con los nuevos desafíos que puede introducir.
+
+Empresas y líderes empresariales
+
+¿Cómo pueden las empresas moverse rápidamente para capturar el valor potencial destacado en este informe, mientras gestionan los riesgos que presenta la IA generativa?
+
+¿Cómo se transformará la mezcla de ocupaciones y habilidades necesarias en una empresa a medida que la IA generativa y otras formas de inteligencia artificial evolucionen en los próximos años? ¿Cómo una empresa habilitará estas transiciones en sus planes de contratación, programas de reentrenamiento y otros aspectos de recursos humanos?
+
+¿Tienen las empresas un papel que jugar en asegurarse de que la tecnología no se despliegue en "casos de uso negativos" que puedan dañar a la sociedad?
+
+¿Cómo pueden las empresas compartir transparentemente sus experiencias con la escalada del uso de la IA generativa dentro y entre industrias, y también con gobiernos y sociedad?
+
+Legisladores
+
+¿Cómo se verá el futuro del trabajo a nivel de una economía en términos de ocupaciones y habilidades? ¿Qué significa esto para la planificación laboral?
+
+¿Cómo se pueden apoyar a los trabajadores mientras sus actividades cambian con el tiempo? ¿Qué programas de reentrenamiento se pueden implementar? ¿Qué incentivos se necesitan para apoyar a las empresas privadas mientras invierten en capital humano? ¿Hay programas de "aprende mientras trabajas" como aprendizajes que permitan a las personas reentrenarse mientras siguen apoyando a sí mismos y sus familias?
+
+¿Qué medidas pueden tomar los legisladores para prevenir que la IA generativa se utilice de manera que dañe a la sociedad o a poblaciones vulnerables?
+
+¿Se pueden desarrollar nuevas políticas y enmendar políticas existentes para asegurar el desarrollo y despliegue de la IA centrada en el ser humano, que incluya supervisión humana y perspectivas diversas y tenga en cuenta los valores sociales?
+
+Individuos como trabajadores, consumidores y ciudadanos
+
+¿Cuán preocupados deberían estar los individuos sobre el advenimiento de la IA generativa? Mientras que las empresas pueden evaluar cómo la tecnología afectará sus líneas de fondo, ¿dónde pueden los ciudadanos buscar información precisa y no sesgada sobre cómo afectará sus vidas y medios de subsistencia?
+
+¿Cómo pueden los individuos como trabajadores y consumidores equilibrar las comodidades que la IA generativa ofrece con su impacto en sus lugares de trabajo?¿y medios de vida?
+¿Cómo pueden los individuos, como trabajadores y consumidores, equilibrar las comodidades que ofrece la IA generativa con su impacto en sus lugares de trabajo?
+¿Pueden los ciudadanos tener una voz en las decisiones que darán forma a la implementación y integración de la IA generativa en el tejido de sus vidas?
+Uso responsable de la IA generativaLa innovación tecnológica puede inspirar partes iguales de asombro y preocupación. Cuando esa innovación parece materializarse completamente formada y se vuelve ampliamente disponible en un corto período de tiempo, ambas respuestas pueden amplificarse. La llegada de la IA generativa en el otoño de 2022 fue el ejemplo más reciente de este fenómeno, debido a su adopción inesperadamente rápida, así como la subsiguiente lucha entre las empresas y los consumidores para implementar, integrar y jugar con ella.
+
+Todos estamos al principio de un viaje para entender el poder, alcance y capacidades de esta tecnología. Si los últimos ocho meses son una guía, los próximos años nos llevarán en un viaje emocionante con innovaciones rápidas y avances tecnológicos que nos obligarán a recalibrar nuestra comprensión del impacto de la IA en nuestro trabajo y nuestras vidas. Es importante comprender adecuadamente este fenómeno y anticipar su impacto. Dada la velocidad de despliegue de la IA generativa hasta ahora, la necesidad de acelerar la transformación digital y re capacitar a la fuerza laboral es grande.
+
+Estas herramientas tienen el potencial de crear un valor enorme para la economía global en un momento en que se está ponderando los enormes costos de adaptarse y mitigar el cambio climático. Al mismo tiempo, también tienen el potencial de ser más desestabilizadoras que las generaciones anteriores de inteligencia artificial. Son capaces de la habilidad más humana, el lenguaje, que es un requisito fundamental para la mayoría de las actividades laborales relacionadas con la experiencia y el conocimiento, así como una habilidad que se puede utilizar para lastimar sentimientos, crear malentendidos, oscurecer la verdad y incitar la violencia y incluso las guerras.
+
+Esperamos que esta investigación haya contribuido a una mejor comprensión de la capacidad de la IA generativa para agregar valor a las operaciones de la empresa y impulsar el crecimiento económico y la prosperidad, así como su potencial para transformar dramáticamente la forma en que trabajamos y nuestro propósito en la sociedad. Las empresas, los legisladores, los consumidores y los ciudadanos pueden trabajar juntos para asegurarse de que la IA generativa cumpla con su promesa de crear un valor significativo mientras limita su potencial para perturbar vidas y medios de subsistencia. El momento de actuar es ahora.
+
+Michael Chui es socio en la oficina de McKinsey en el Área de la Bahía, donde Roger Roberts es socio y Lareina Yee es socia sénior; Eric Hazan es socio sénior en la oficina de McKinsey en París; Alex Singla es socio sénior en la oficina de Chicago; Kate Smaje y Alex Sukharevsky son socios séniores en la oficina de Londres; y Rodney Zemmel es socio sénior en la oficina de Nueva York.
+
+Los autores desean agradecer a Pedro Abreu, Rohit Agarwal, Steven Aronowitz, Arun Arora, Charles Atkins, Elia Berteletti, Onno Boer, Albert Bollard, Xavier Bosquet, Benjamin Braverman, Charles Carcenac, Sebastien Chaigne, Peter Crispeels, Santiago Comella-Dorda, Eleonore Depardon, Kweilin Ellingrud, Thierry Ethevenin, Dmitry Gafarov, Neel Gandhi, Eric Goldberg, Liz Grennan, Shivani Gupta, Vinay Gupta, Dan Hababou, Bryan Hancock, Lisa Harkness, Leila Harouchi, Jake Hart, Heiko Heimes, Jeff Jacobs, Begum Karaci Deniz, Tarun Khurana, Malgorzata Kmicinska, Jan-Christoph Köstring, Andreas Kremer, Kathryn Kuhn, Jessica Lamb, Maxim Lampe, John Larson, Swan Leroi, Damian Lewandowski, Richard Li, Sonja Lindberg, Kerin Lo, Guillaume Lurenbaum, Matej Macak, Dana Maor, Julien Mauhourat, Marco Piccitto, Carolyn Pierce, Olivier Plantefeve, Alexandre Pons, Kathryn Rathje, Emily Reasor, Werner Rehm, Steve Reis, Kelsey Robinson, Martin Rosendahl, Christoph Sandler, Saurabh Sanghvi, Boudhayan Sen, Joanna Si, Alok Singh, Gurneet Singh Dandona, François Soubien, Eli Stein, Stephanie Strom, Michele Tam, Robert Tas, Maribel Tejada, Wilbur Wang, Georg Winkler, Jane Wong y Romain Zilahi por sus contribuciones a este informe.
+
+Para ver la lista completa de agradecimientos, descargue el PDF.
+
+Explora una carrera con nosotros
+Buscar oportunidades
+Artículos relacionados
+[
+11
+]
+Artículo
+Lo que todo CEO debería saber sobre la IA generativaArtículo
+Explorando	oportunidades	en ла cadena	de valor	de	IA	generativa
+
+Artículo
+¿Qué	es	IA	generativa?

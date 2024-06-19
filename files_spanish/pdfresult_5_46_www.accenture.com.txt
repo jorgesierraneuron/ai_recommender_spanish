@@ -1,0 +1,629 @@
+Una nueva era de 
+inteligencia artificial generativa 
+para todos
+La tecnología subyacente 
+de ChatGPT transformará el trabajo 
+y reinventará los negociosÍndice de Contenido
+Bienvenidos al nuevo punto de inflexión de la IA
+
+¿Cómo llegamos aquí? | Hitos en el camino hacia la IA generativa
+Consumir o personalizar: IA generativa para todos
+Un vistazo adelante a la evolución rápida de la tecnología, la regulación y los negocios
+Abrace la era de la IA generativa: Seis esenciales para la adopción
+El futuro de la IA se acelera
+Glosario y Referencias
+Autores
+
+03
+04
+05
+08
+12
+19
+21
+22
+2
+Una nueva era de IA generativa para todosIntroducción
+Bienvenidos al nuevo punto de inflexión de la IA
+
+ChatGPT ha despertado al mundo al potencial transformador de la inteligencia artificial (IA), capturando la atención global y desencadenando una oleada de creatividad raramente vista antes. Su capacidad para imitar el diálogo humano y la toma de decisiones nos ha brindado el primer punto de inflexión real de la IA en la adopción pública. Finalmente, todos, en todas partes, pueden ver el verdadero potencial disruptivo de la tecnología por sí mismos.
+
+ChatGPT alcanzó 100 millones de usuarios activos mensuales solo dos meses después del lanzamiento, convirtiéndose en la aplicación de consumo de más rápido crecimiento en la historia.1 Un modelo de fundación es un término genérico para modelos grandes con miles de millones de parámetros. Con los avances recientes, las empresas pueden ahora construir modelos de imágenes y lenguaje generativos especializados sobre estos modelos de fundación. Los modelos de lenguaje grande (LLMs) son tanto un tipo de IA generativa como un tipo de modelo de fundación.
+
+Los LLMs detrás de ChatGPT marcan un punto de inflexión y un hito importante en la inteligencia artificial. Dos cosas hacen que los LLMs sean cambiantes de juego. Primero, han crackeado el código de la complejidad del lenguaje. Ahora, por primera vez, las máquinas pueden aprender lenguaje, contexto e intención y ser independientemente generativas y creativas. En segundo lugar, después de ser pre-entrenados en cantidades vastas de datos (texto, imágenes o audio), estos modelos pueden ser adaptados o afinados para una amplia gama de tareas. Esto les permite ser reutilizados o repurposados de muchas maneras diferentes.
+
+Los líderes empresariales reconocen la significación de este momento. Pueden ver cómo los LLMs y la IA generativa transformarán fundamentalmente todo, desde los negocios hasta la ciencia y la sociedad en sí misma, desbloqueando nuevos límites de rendimiento. El impacto positivo en la creatividad y la productividad humanas será masivo. Considera que, en todas las industrias, Accenture encontró que el 40% de todas las horas de trabajo pueden ser impactadas por LLMs como GPT-4. Esto se debe a que las tareas de lenguaje representan el 62% del tiempo total de trabajo de los empleados, y el 65% de ese tiempo puede ser transformado en actividad más productiva a través de la ampliación y la automatización (ver Figura 3).
+
+Una nueva era de IA generativa para todos¿Cómo llegamos aquí? 
+Hitos en el camino hacia la IA generativa
+
+Aprendizaje automático: Fase de análisis y predicción
+La primera década del 2000 marcó el rápido avance de diversas técnicas de aprendizaje automático que podían analizar cantidades masivas de datos en línea para extraer conclusiones – o "aprender" – de los resultados. Desde entonces, las empresas han visto el aprendizaje automático como un campo increíblemente poderoso de la IA para analizar datos, encontrar patrones, generar insights, hacer predicciones y automatizar tareas a un ritmo y escala que anteriormente era imposible.
+
+Aprendizaje profundo: Fase de visión y habla
+La década de 2010 produjo avances en las capacidades de percepción de la IA en el campo del aprendizaje automático llamado aprendizaje profundo. Los avances en el aprendizaje profundo permiten la visión por computadora que los motores de búsqueda y los coches autónomos utilizan para clasificar y detectar objetos, así como el reconocimiento de voz que permite a los asistentes de voz populares responder a los usuarios de manera natural.
+
+IA generativa: Entrada en la fase de dominio del lenguaje
+Basándose en aumentos exponenciales en el tamaño y las capacidades de los modelos de aprendizaje profundo, la década de 2020 será sobre el dominio del lenguaje. El modelo de lenguaje GPT-4, desarrollado por OpenAI, marca el comienzo de una nueva fase en las capacidades de las aplicaciones de IA basadas en el lenguaje. Modelos como este tendrán consecuencias de gran alcance para los negocios, ya que el lenguaje permea todo lo que una organización hace día a día – su conocimiento institucional, comunicación y procesos.
+
+Una nueva era de IA generativa para todosConsumir o 
+personalizar: 
+Inteligencia Artificial Generativa 
+para todos
+5
+Una nueva era de inteligencia artificial generativa para todos |Consumir o personalizar: IA generativa para todos
+
+Aplicaciones de IA generativa fáciles de consumir como ChatGPT, DALL-E, Difusión Estable y otras están democratizando rápidamente la tecnología en los negocios y la sociedad. El efecto en las organizaciones será profundo. La capacidad de los LLM para procesar conjuntos de datos masivos les permite potencialmente "saber" todo lo que una organización ha sabido alguna vez: toda la historia, contexto, matiz e intención de una empresa, y sus productos, mercados y clientes. Cualquier cosa transmitida a través del lenguaje (aplicaciones, sistemas, documentos, correos electrónicos, chats, grabaciones de video y audio) puede ser aprovechada para impulsar la innovación, la optimización y la reinventación de nivel superior.
+
+El 97% de los ejecutivos globales está de acuerdo en que los modelos de fundación de IA habilitarán conexiones a través de tipos de datos, revolucionando dónde y cómo se utiliza la IA.3 Estamos en una fase del ciclo de adopción en la que la mayoría de las organizaciones están empezando a experimentar consumiendo modelos de fundación "en estantería". Sin embargo, el mayor valor para muchos vendrá cuando customicen o ajusten modelos utilizando sus propios datos para abordar sus necesidades únicas:
+
+Consumir  
+Las aplicaciones de IA generativa y LLM están listas para consumir y son fáciles de acceder. Las empresas pueden consumirlas a través de API y personalizarlas, en pequeña medida, para sus propios casos de uso a través de técnicas de ingeniería de prompts como el ajuste de prompts y el aprendizaje de prefijo.
+
+Personalizar  
+Pero la mayoría de las empresas necesitarán personalizar modelos, ajustándolos con sus propios datos, para hacerlos ampliamente utilizables y valiosos. Esto permitirá que los modelos apoyen tareas específicas downstream en toda la empresa. El efecto será aumentar la eficacia de una empresa al utilizar la IA para desbloquear nuevos límites de rendimiento: elevar las capacidades de los empleados, deleitar a los clientes, introducir nuevos modelos de negocio y aumentar la capacidad de respuesta a los signos de cambio.
+
+6
+Una nueva era de IA generativa para todosConsumir o personalizar: IA generativa para todos
+
+Las empresas utilizarán estos modelos para reinventar la forma en que se realiza el trabajo. Cada rol en cada empresa tiene el potencial de ser reinventado, ya que los humanos trabajando con copilotos de IA se convierten en la norma, amplificando dramáticamente lo que las personas pueden lograr. En cualquier trabajo, algunas tareas serán automatizadas, algunas serán asistidas y algunas no se verán afectadas por la tecnología. También habrá un gran número de nuevas tareas para que los humanos las realicen, como asegurar el uso preciso y responsable de los nuevos sistemas impulsados por IA.
+
+Considere el impacto en estas funciones clave:
+
+Asesoramiento. Los modelos de IA se convertirán en copilotos omnipresentes para cada trabajador, impulsando la productividad al poner inteligencia hiperpersonalizada en manos humanas. Ejemplos incluyen soporte al cliente, habilitación de ventas, recursos humanos, investigación médica y científica, estrategia corporativa y inteligencia competitiva. Los modelos de lenguaje grande podrían ser útiles para abordar el aproximadamente 70% de la comunicación de servicio al cliente que no es directa y puede beneficiarse de un bot conversacional, poderoso e inteligente, que entienda la intención del cliente, formule respuestas por sí mismo y mejore la precisión y calidad de las respuestas.4
+
+Creación. La IA generativa se convertirá en un socio creativo esencial para las personas, revelando nuevas formas de llegar y atraer a las audiencias y trayendo velocidad y innovación sin precedentes en áreas como diseño de producción, investigación de diseño, identidad visual, nomenclatura, generación de copias y pruebas, y personalización en tiempo real. Las empresas están recurriendo a sistemas de inteligencia artificial de vanguardia como DALL·E, Midjourney y Stable Diffusion para su generación de contenido visual en las redes sociales. DALL·E, por ejemplo, crea imágenes y arte realistas basadas en descripciones de texto y puede procesar hasta 12 mil millones de parámetros al transformar palabras en imágenes. Las imágenes creadas pueden compartirse en Instagram y Twitter.5
+
+Codificación. Los codificadores de software utilizarán la IA generativa para impulsar significativamente la productividad, convirtiendo rápidamente un lenguaje de programación en otro, dominando herramientas y métodos de programación, automatizando la escritura de código, prediciendo y anticipando problemas, y administrando la documentación del sistema. Accenture está pilotando el uso de LLM de OpenAI para mejorar la productividad de los desarrolladores, generando automáticamente documentación, por ejemplo, la configuración de SAP y especificaciones funcionales o técnicas. La solución permite a los usuarios enviar solicitudes a través de un chat de Microsoft Teams mientras trabajan. Los documentos correctamente empaquetados se devuelven a velocidad, un gran ejemplo de cómo tareas específicas, en lugar de trabajos completos, serán aumentadas y automatizadas.
+
+Automatización. La IA generativa, con su comprensión sofisticada del contexto histórico, las siguientes acciones óptimas, capacidades de resumen y inteligencia predictiva, catalizará una nueva era de hiper eficiencia y hiperpersonalización en la oficina frontal y trasera, llevando la automatización de procesos empresariales a un nivel transformador. Un banco multinacional está utilizando la IA generativa y LLM para transformar cómo maneja volúmenes de correos electrónicos de procesamiento posterior al comercio, redactando automáticamente mensajes con acciones recomendadas y enrutarlos al destinatario. El resultado es un esfuerzo manual reducido y interacciones más suaves con los clientes.
+
+Protección. Con el tiempo, la IA generativa apoyará la gobernanza empresarial y la seguridad de la información, protegiendo contra el fraude, mejorando el cumplimiento regulatorio y identificando proactivamente riesgos al dibujar conexiones y inferencias cruzadas dentro y fuera de la organización. En la defensa cibernética estratégica, los LLM podrían ofrecer capacidades útiles, como explicar malware y clasificar rápidamente sitios web.6 En el corto plazo, sin embargo, las organizaciones pueden esperar que los criminales capitalicen las capacidades de la IA generativa para generar código malicioso o escribir el correo electrónico de phishing perfecto.7Una mirada hacia adelante en la  
+evolución rápida  
+de la tecnología,  
+la regulación y  
+los negocios
+
+8
+Una nueva era de IA generativa para todosUna mirada adelante a la evolución rápida de la tecnología, la regulación y los negocios
+
+Momentos como este no suceden a menudo.
+
+En los próximos años, se verá una inversión desproporcionada en inteligencia artificial generativa, LLM y modelos de fundación.
+
+Lo que es único sobre esta evolución es que la tecnología, la regulación y la adopción empresarial están acelerándose exponencialmente al mismo tiempo. En curvas de innovación previas, la tecnología solía adelantarse a la adopción y la regulación.
+
+La pila tecnológica
+
+La compleja tecnología subyacente a la inteligencia artificial generativa se espera que evolucione rápidamente en cada capa. Esto tiene amplias implicaciones empresariales. Considere que la cantidad de computación necesaria para entrenar los modelos de IA más grandes ha crecido exponencialmente, duplicándose entre cada 3,4 a 10 meses, según varios informes.8 El costo y las emisiones de carbono son, por lo tanto, consideraciones centrales en la adopción de la inteligencia artificial generativa intensiva en energía.
+
+Figura 1: Cada capa de la pila tecnológica de la IA generativa evolucionará rápidamente
+
+Aplicaciones: La IA generativa y los LLM serán cada vez más accesibles a los usuarios en la nube a través de API y al ser incrustados directamente en otras aplicaciones. Las empresas los consumirán tal como están o los personalizarán y afinarán con datos propietarios.
+
+Afinamiento: La importancia del afinamiento del modelo creará demanda de un conjunto multidisciplinario de habilidades que abarcan la ingeniería de software, la psicología, la lingüística, la historia del arte, la literatura y la ciencia de la biblioteca.
+
+Modelos de fundación: El mercado madurará rápidamente y se diversificará a medida que surjan más modelos pre-entrenados. Nuevos diseños de modelos ofrecerán más opciones para equilibrar el tamaño, la transparencia, la versatilidad y el rendimiento.
+
+Datos: Mejorar la madurez del ciclo de vida de los datos empresariales se convertirá en un requisito previo para el éxito, lo que requerirá dominio de nuevos datos, nuevos tipos de datos y volúmenes inmensos. Las características de IA generativa dentro de las plataformas de datos modernas surgirán, lo que mejorará la adopción a escala.
+
+Infraestructura: La infraestructura en la nube será esencial para implementar la IA generativa mientras se manejan los costos y las emisiones de carbono. Los centros de datos necesitarán retrofitting. Las innovaciones en arquitecturas de chip, hardware y algoritmos eficientes también jugarán un papel crítico.
+
+“La plataforma de programación más caliente es la servilleta.”
+
+Paul Daugherty, Director Ejecutivo y Director de Tecnología de Accenture
+
+Refiriéndose al uso de OpenAI para generar un sitio web funcional a partir de un dibujo en una servilleta.9
+
+Una nueva era de IA generativa para todos.Una mirada adelante a la evolución rápida de la tecnología, la regulación y los negocios
+
+El entorno de riesgo y regulación
+
+Las empresas tendrán miles de formas de aplicar inteligencia artificial generativa y modelos de fundación para maximizar la eficiencia y impulsar la ventaja competitiva. Es comprensible que deseen comenzar lo antes posible. Sin embargo, una estrategia empresarial integral debe tener en cuenta todas las variantes de IA y tecnologías asociadas que planean utilizar, no solo la IA generativa y los grandes modelos de lenguaje.
+
+ChatGPT plantea preguntas importantes sobre el uso responsable de la IA. La velocidad de la evolución y adopción tecnológica requiere que las empresas presten atención cercana a cualquier riesgo legal, ético y reputacional que puedan estar incurriendo.
+
+Es crítico que las tecnologías de IA generativa, incluyendo ChatGPT, sean responsables y cumplan con los requisitos por diseño, y que los modelos y aplicaciones no creen riesgos inaceptables para el negocio. Accenture fue pionera en el uso responsable de la tecnología, incluyendo el uso responsable de la IA en su Código de Ética Empresarial desde 2017. La IA responsable es la práctica de diseñar, construir y desplegar la IA de acuerdo con principios claros para empoderar a las empresas, respetar a las personas y beneficiar a la sociedad, lo que permite a las empresas generar confianza en la IA y escalarla con confianza.
+
+Los sistemas de IA necesitan ser "criados" con un conjunto diverso e inclusivo de entradas para que reflejen las normas empresariales y sociales más amplias de responsabilidad, justicia y transparencia. Cuando la IA se diseña y se pone en práctica dentro de un marco ético, acelera el potencial para la inteligencia colaborativa responsable, donde la ingenuidad humana converge con la tecnología inteligente.
+
+Esto crea una base para la confianza con los consumidores, la fuerza laboral y la sociedad, y puede impulsar el rendimiento empresarial y desbloquear nuevas fuentes de crecimiento.
+
+Figura 2: Preguntas clave de riesgo y regulación para la IA generativa
+
+Propiedad intelectual: ¿Cómo protegerá la empresa su propia propiedad intelectual? ¿Y cómo evitará la violación involuntaria de la propiedad intelectual de terceros al utilizar modelos de fundación pre-entrenados?
+
+Privacidad y seguridad de datos: ¿Cómo se incorporarán las leyes como el Acta de IA de la UE en la forma en que se manejan, procesan, protegen, aseguran y utilizan los datos?
+
+Discriminación: ¿Está la empresa utilizando o creando herramientas que deban tener en cuenta consideraciones de antidiscriminación o antibias?
+
+Responsabilidad del producto: ¿Qué mecanismos de seguridad y salud necesitan estar en su lugar antes de que un producto basado en IA generativa se lance al mercado?
+
+Confianza: ¿Qué nivel de transparencia debe proporcionarse a los consumidores y empleados? ¿Cómo puede la empresa asegurar la precisión de las salidas de IA generativa y mantener la confianza del usuario?
+
+Identidad: ¿Cómo se mejorarán y mejorarán los métodos de verificación cuando la prueba de persona dependa de reconocimiento de voz o facial? ¿Cuáles serán las consecuencias de su mal uso?
+
+10
+Una nueva era de IA generativa para todosUna mirada adelante a la evolución rápida de la tecnología, la regulación y los negocios
+
+La escala de adopción en los negocios
+
+Las empresas deben reinventar el trabajo para encontrar
+un camino hacia el valor de la IA generativa. Los líderes empresariales deben liderar el cambio, comenzando
+ahora, en el rediseño de trabajos, el rediseño de tareas y la recalificación de las personas. En última instancia, cada rol
+en una empresa tiene el potencial de ser reinventado, una vez que los trabajos actuales se descomponen en tareas que pueden ser
+automatizadas o asistidas y reimaginadas para un nuevo futuro de trabajo humano + máquina.
+
+La IA generativa disruptará el trabajo como lo conocemos hoy, introduciendo una nueva dimensión de colaboración humano-IA en la que la mayoría de los trabajadores tendrán un "copiloto", cambiando radicalmente cómo se realiza el trabajo y qué trabajo se realiza. Casi todos los trabajos serán impactados - algunos serán eliminados, la mayoría será transformada, y muchos nuevos trabajos serán creados.
+
+Las organizaciones que tomen medidas ahora para descomponer los trabajos en tareas y invertir en la capacitación de las personas para trabajar de manera diferente, junto a las máquinas, definirán nuevos límites de rendimiento y tendrán una gran ventaja sobre los competidores menos imaginativos.
+
+Casi 6 de cada 10 organizaciones planean utilizar ChatGPT con fines de aprendizaje y más de la mitad están planeando casos piloto en 2023. Más de 4 de cada 10 desean hacer una gran inversión.
+
+954%
+48%
+36%
+40%
+43%
+33%
+34%
+31%
+28%
+30%
+26%
+30%
+26%
+28%
+27%
+25%
+26%
+24%
+24%
+20%12%
+14%
+21%
+14%
+9%
+13%
+7%
+9%
+11%
+9%
+13%
+6%
+8%
+6%
+6%
+8%
+6%
+6%
+5%
+5%24%
+26%
+28%
+29%
+14%
+21%
+12%
+22%
+33%
+35%
+20%
+13%
+16%
+15%
+15%
+17%
+14%
+13%
+14%
+11%10%
+12%
+15%
+18%
+34%
+33%
+46%
+38%
+27%
+26%
+41%
+50%
+50%
+50%
+52%
+50%
+54%
+57%
+56%
+64%
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%Banca
+Seguros
+Software y plataformas
+Mercados de capitales
+Energía
+Comunicaciones y Medios
+Minorista
+Promedio industrial
+Salud
+Servicio público
+Aeroespacial y Defensa
+Automotriz
+Alta tecnología
+Viajes
+Servicios públicos
+Ciencias de la vida
+Industria
+Bienes de consumo y servicios
+Químicos
+Recursos naturales
+
+Figura 3: La IA generativa transformará el trabajo en todas las industrias
+
+Distribución del tiempo de trabajo por industria y potencial impacto de la IA
+Basado en los niveles de empleo en EE. UU. en 2021
+El 40% del tiempo de trabajo en todas las industrias puede ser impactado por los modelos de lenguaje grandes (LLMs)
+
+¿Por qué es así? Las tareas de lenguaje representan el 62% del tiempo de trabajo total en EE. UU. Del total de tareas de lenguaje, el 65% tiene un alto potencial de ser automatizadas o aumentadas por LLMs.
+
+Fuente: Investigación de Accenture basada en el análisis de la Red de Información Ocupacional (O*NET), Departamento de Trabajo de EE. UU.; Oficina de Estadísticas Laborales de EE. UU.
+
+Notas: Identificamos manualmente 200 tareas relacionadas con el lenguaje (de 332 incluidas en BLS), que se vincularon a industrias según su participación en cada ocupación y el nivel de empleo en cada industria. Las tareas con mayor potencial de automatización pueden ser transformadas por LLMs con menor participación de un trabajador humano. Las tareas con mayor potencial de aumento son aquellas en las que LLMs necesitarían más participación de trabajadores humanos.
+
+Mayor potencial de automatización
+Mayor potencial de aumento
+Menor potencial de aumento o automatización
+Tareas no lingüísticas
+
+Una nueva era de IA generativa para todosAbraza la era del IA generativa:
+Seis fundamentos para la adopción
+12
+Una nueva era de IA generativa para todosAbraza la era del IA generativa: Seis esenciales para la adopción
+
+Sumérjase, con una 
+mentalidad empresarial 
+orientada a los negocios Adopte un enfoque 
+centrado en las personas Prepárese con sus 
+datos propiedad Intente en una 
+fundación tecnológica sostenibleAcelere la 
+innovación del ecosistema Mejore su 
+IA responsable
+
+6
+5
+4
+3
+2
+1
+13
+Una nueva era de IA generativa para todosAbrace la era de la IA generativa: Seis esenciales para la adopción1Sumérgete, con una mentalidad empresarial
+
+Incluso cuando las innovaciones nuevas tienen ventajas obvias, 
+difundirlas a lo largo de una organización puede ser desafiante, 
+especialmente si la innovación es disruptiva para las formas actuales de 
+trabajar. Al experimentar con las capacidades de IA generativa, 
+las empresas desarrollarán los éxitos tempranos, agentes de cambio 
+y líderes de opinión necesarios para impulsar la aceptación y 
+difundir la innovación aún más, iniciando la transformación y 
+la agenda de recalificación.
+
+Las organizaciones deben adoptar un enfoque dual para la experimentación. 
+Uno, enfocado en oportunidades de "frutas colgantes" utilizando 
+modelos y aplicaciones consumibles para obtener retornos rápidos. 
+El otro, enfocado en la reinventación del negocio, la participación del cliente 
+y productos y servicios utilizando modelos personalizados con los datos de la organización. 
+Una mentalidad empresarial es clave para definir y entregar con éxito 
+el caso de negocio.
+
+Mientras experimentan y exploran oportunidades de reinventación, 
+obtendrán un valor tangible mientras aprenden más sobre qué tipos de IA 
+son más adecuados para diferentes casos de uso, ya que el nivel de inversión y 
+sophistication requeridos variarán según el caso de uso. También podrán probar y 
+mejorar sus enfoques para la privacidad de datos, precisión del modelo, 
+sesgo y justicia con cuidado, y aprenderán cuándo son necesarias las salvaguardas 
+de "humano en el bucle".
+
+El 98% de los ejecutivos globales está de acuerdo en que los modelos de 
+fundación de IA jugarán un papel importante en las estrategias de sus 
+organizaciones en los próximos 3 a 5 años.10Un banco utiliza búsqueda mejorada para equipar 
+a los empleados con la información correcta
+
+Como parte de su plan de innovación de tres años, 
+un gran grupo bancario europeo vio una oportunidad para 
+transformar su base de conocimientos, dotar a sus personas con acceso 
+a la información correcta y avanzar hacia su objetivo de convertirse en un 
+banco impulsado por datos. Utilizando la plataforma de Microsoft Azure y 
+un LLM GPT-3 para buscar documentos electrónicos, 
+los usuarios pueden obtener respuestas rápidas a sus preguntas —ahorrando 
+tiempo mientras mejoran la precisión y el cumplimiento. El proyecto, 
+que incluyó la recalificación de empleados, es el primero de cuatro que 
+aplicarán la IA generativa a las áreas de gestión de contratos, 
+informes conversacionales y clasificación de tickets.Abraza la era de la IA generativa: Seis esenciales para la adopción
+
+2Aproxímese a una aproximación centrada en las personas
+El éxito con la IA generativa requiere una atención igualitaria en las personas y la capacitación, así como en la tecnología. Las empresas deberían, por lo tanto, aumentar drásticamente la inversión en talentos para abordar dos desafíos distintos: crear IA y utilizar IA. Esto significa tanto construir talentos en competencias técnicas como ingeniería de IA y arquitectura empresarial, como capacitar a las personas en toda la organización para trabajar de manera efectiva con procesos infundidos de IA. En nuestro análisis en 22 categorías de trabajo, por ejemplo, encontramos que los LLM afectarán cada categoría, desde un 9% de un día de trabajo en el extremo bajo hasta un 63% en el extremo alto. Más de la mitad de las horas de trabajo en 5 de las 22 ocupaciones pueden ser transformadas por los LLM. Figura 4: La IA generativa transformará el trabajo en todas las categorías de trabajo
+
+57%
+49%
+28%
+45%
+25%
+27%
+21%
+33%
+31%
+30%
+29%
+22%
+29%
+27%
+29%
+23%
+25%
+23%
+15%
+16%
+8%
+14%
+9%6%
+13%
+32%
+14%
+26%
+20%
+24%
+9%
+9%
+9%
+8%
+15%
+7%
+8%
+6%
+8%
+5%
+4%
+4%
+1%
+8%
+2%
+0%14%
+14%
+23%
+35%
+26%
+25%
+25%
+58%
+22%
+44%
+31%
+40%
+59%
+31%
+23%
+50%
+9%
+7%
+7%
+9%
+17%
+8%
+7%23%
+24%
+17%
+6%
+22%
+28%
+30%
+0%
+38%
+17%
+32%
+22%
+6%
+34%
+43%
+19%
+61%
+66%
+75%
+75%
+66%
+76%
+84%
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%Apoyo y Soporte Administrativo
+Ventas y Relacionadas
+Computación y Matemáticas
+Operaciones Empresariales y Financieras
+Artes, Diseño, Entretenimiento, Deportes y Medios
+Ciencias de la Vida, Físicas y Sociales
+Arquitectura e Ingeniería
+Legal
+Ocupación Promedio
+Gerencia
+Cuidado Personal y Servicio
+Practicantes y Técnicos de la Salud
+Servicio Comunitario y Social
+Apoyo a la Salud
+Servicio de Protección
+Instrucción Educativa y Biblioteca
+Preparación y Servicio de Alimentos
+Transporte y Movimiento de Materiales
+Construcción y Extracción
+Instalación, Mantenimiento y Reparación
+Agricultura, Pesca y Silvicultura
+Producción
+Limpieza y Mantenimiento de Edificios y Terrenos
+Distribución del tiempo de trabajo por ocupación principal y potencial impacto de la IA
+Basado en los niveles de empleo en EE. UU. en 2021
+En 5 de las 22 ocupaciones, la IA generativa puede afectar más de la mitad de todas las horas trabajadas
+Fuente: Investigación de Accenture basada en el análisis de la Red de Información Ocupacional (O*NET), Departamento de Trabajo de EE. UU.; Oficina de Estadísticas Laborales de EE. UU.
+Notas: Identificamos manualmente 200 tareas relacionadas con el lenguaje (de 332 incluidas en BLS), que se vincularon a industrias según su participación en cada ocupación y el nivel de empleo en cada categoría de trabajo. Las tareas con mayor potencial de automatización pueden ser transformadas por LLM con reducida participación de un trabajador humano. Las tareas con mayor potencial de aumento son aquellas en las que los LLM necesitarían más participación de trabajadores humanos.
+
+Mayor potencial de automatización
+Mayor potencial de aumento
+Menor potencial de aumento o automatización
+Tareas no lingüísticas
+15
+Una nueva era de IA generativa para todosAbraza la era de la IA generativa: Seis esenciales para la adopción
+
+2De hecho, la investigación económica independiente indica que las empresas están invirtiendo significativamente poco en ayudar a los trabajadores a mantenerse al día con los avances en IA, que requieren tareas más complejas cognitivamente y basadas en el juicio.11 Incluso los expertos en dominio que entienden cómo aplicar datos en el mundo real (un médico que interpreta datos de salud, por ejemplo) necesitarán suficiente conocimiento técnico de cómo funcionan estos modelos para tener confianza en utilizarlos como un "compañero de trabajo".
+
+También habrá nuevos roles para reclutar, incluyendo expertos en lingüística, controladores de calidad de IA, editores de IA y ingenieros de prompts. En áreas donde la IA generativa muestra más promesa, las empresas deberían comenzar descomponiendo los trabajos existentes en paquetes de tareas subyacentes. Luego, evalúen la medida en que la IA generativa podría afectar cada tarea — completamente automatizada, aumentada o no afectada.
+
+Figura 5: Reinventando un trabajo de servicio al cliente, tarea por tarea
+
+Para evaluar cómo los trabajos específicos serán reinventados con IA, un análisis de Accenture descompuso un trabajo de servicio al cliente en 13 tareas componentes. Encontramos:
+4tareas continuarían siendo realizadas principalmente por humanos, con bajo potencial para la automatización o aumento.
+4tareas podrían ser completamente automatizadas — como recopilar, clasificar y resumir información sobre por qué un cliente se pone en contacto con la empresa.
+5tareas podrían ser aumentadas para ayudar a los humanos a trabajar más efectivamente — como utilizar un resumen de IA para proporcionar una solución rápida con un toque humano.
+
+Es importante tener en cuenta que también podrían ser necesarias nuevas tareas para asegurar el uso seguro, preciso y responsable de la IA en entornos de servicio al cliente, como proporcionar información imparcial sobre productos y precios.Abraza la era de la IA generativa: Seis esenciales para la adopción3Prepárese con sus datos propietarios  
+La personalización de modelos de fundación requerirá 
+acceso a datos organizacionales específicos del dominio, 
+semántica, conocimientos y metodologías. En la 
+era pre-IA generativa, las empresas aún podían obtener 
+valor de la IA sin haber modernizado su arquitectura 
+de datos y patrimonio mediante un enfoque centrado 
+en casos de uso de la IA. Eso ya no es así. 
+Los modelos de fundación necesitan grandes cantidades 
+de datos curados para aprender y eso hace que resolver 
+el desafío de datos sea una prioridad urgente para 
+cada negocio. Las empresas necesitan un enfoque 
+estratégico y disciplinado para adquirir, crecer, 
+refinar, proteger y desplegar datos. Específicamente, 
+necesitan una plataforma de datos empresarial moderna 
+construida en la nube con un conjunto confiable y 
+reutilizable de productos de datos. 
+Porque estas plataformas son transfuncionales, con 
+análisis empresariales de grado y datos alojados en 
+almacenes de datos o lagos de datos en la nube, los 
+datos pueden liberarse de los silos organizativos y 
+democratizarse para su uso en toda la organización. 
+Todos los datos empresariales pueden analizarse 
+juntos en un lugar o a través de una estrategia de 
+computación distribuida, como una malla de datos. 
+Lea más sobre las prácticas que las empresas maduras 
+en datos están utilizando para maximizar el valor 
+de los datos empresariales: Un nuevo amanecer para 
+los datos dormidos: Libere el valor intrínseco de 
+los datos empresariales con un núcleo digital fuerte 
+en la nube.4Invierta en una fundación tecnológica sostenible
+Las empresas necesitan considerar si tienen la 
+infraestructura técnica, la arquitectura, el modelo 
+operativo y la estructura de gobernanza adecuados 
+para satisfacer las altas demandas de cómputo de 
+los LLM y la IA generativa, mientras mantienen un 
+ojo atento al costo y el consumo de energía sostenible. 
+Necesitarán formas de evaluar el costo y el beneficio 
+de utilizar estas tecnologías en comparación con 
+otros enfoques de IA o analíticos que podrían ser 
+mejor adaptados a casos de uso particulares, 
+mientras también son varios veces menos costosos.
+A medida que aumenta el uso de la IA, también 
+aumentarán las emisiones de carbono producidas 
+por la infraestructura subyacente. Las empresas 
+necesitan un marco de desarrollo de software verde 
+robusto que considere la eficiencia energética y 
+las emisiones materiales en todas las etapas del 
+ciclo de vida del desarrollo de software. La IA también 
+puede jugar un papel más amplio en hacer que los 
+negocios sean más sostenibles y logren objetivos 
+ESG. De las empresas que encuestamos que redujeron 
+emisiones en producción y operaciones, el 70% utilizó 
+IA para hacerlo.12 
+17
+Una nueva era de IA generativa para todosAbraza la era de la IA generativa: Seis esenciales para la adopción5Acelera la innovación del ecosistema 
+Crear un modelo de fundación puede ser un ejercicio complejo, intensivo en computación y costoso. Y para todas las empresas, excepto las muy grandes empresas globales, hacerlo completamente por su cuenta estará más allá de sus medios y capacidades. La buena noticia es que hay un ecosistema en crecimiento al que recurrir, con inversiones sustanciales de los hyperscalers en la nube, jugadores de tecnología grande y startups. La inversión global en startups y scale-ups de IA se estima que superará los 50 mil millones de dólares solo en 2023.13 Estos socios aportan prácticas óptimas perfeccionadas durante muchos años y pueden proporcionar valiosas perspectivas sobre el uso eficiente y efectivo de modelos de fundación en casos de uso específicos. Tener la red correcta de socios, incluyendo empresas de tecnología, firmas de servicios profesionales e instituciones académicas, será clave para navegar el cambio rápido.6Mejora tu IA responsable 
+La adopción rápida de la IA generativa trae una urgencia renovada para que cada organización tenga un régimen de cumplimiento de IA responsable sólido en su lugar. Esto incluye controles para evaluar el riesgo potencial de los casos de uso de la IA generativa en la etapa de diseño y un medio para integrar enfoques de IA responsable en toda la empresa. La investigación de Accenture sugiere que la mayoría de las empresas todavía tienen un largo camino por recorrer. Nuestra encuesta de 2022 entre 850 ejecutivos senior a nivel global reveló un reconocimiento generalizado de la importancia de la IA responsable y la regulación de la IA. Pero solo el 6 por ciento de las organizaciones sintió que tenía una base de IA responsable completamente sólida en su lugar.
+
+Los principios de IA responsable de una organización deben ser definidos y liderados desde la cima y traducidos en una estructura de gobernanza efectiva para la gestión del riesgo y el cumplimiento, tanto con principios y políticas organizativas como con leyes y regulaciones aplicables. La IA responsable debe ser liderada por el CEO, comenzando con un enfoque en la capacitación y la conciencia y luego expandiéndose para enfocarse en la ejecución y el cumplimiento. Accenture fue uno de los primeros en adoptar este enfoque de IA responsable hace años, con una agenda liderada por el CEO, y ahora un programa de cumplimiento formal. Nuestra propia experiencia muestra que un enfoque de cumplimiento basado en principios proporciona guardias mientras es lo suficientemente flexible como para evolucionar con el ritmo rápido de la tecnología en constante cambio, asegurando que las empresas no estén constantemente "atrasadas".
+
+Para ser responsable por diseño, las organizaciones necesitan moverse desde una estrategia de cumplimiento reactivo hasta el desarrollo proactivo de capacidades de IA responsable maduras a través de un marco que incluya principios y gobernanza; riesgo, política y control; tecnología y habilitadores, y cultura y capacitación.El futuro de la IA
+se acelera
+19
+Una nueva era de IA generativa para todosEl futuro de la IA se acelera
+
+Este es un momento crucial. Durante varios años, 
+la IA generativa y los modelos de fundación han 
+estado revolucionando silenciosamente la forma en que pensamos sobre la inteligencia de las máquinas. Ahora, gracias a ChatGPT, 
+todo el mundo se ha despertado a las posibilidades que esto crea.
+
+Aunque la inteligencia artificial general (IAG) sigue siendo una perspectiva lejana, la velocidad de desarrollo sigue siendo impresionante. Estamos al comienzo de una era increíblemente emocionante que transformará fundamentalmente la forma en que se accede a la información, se crea contenido, se atienden las necesidades de los clientes y se dirigen los negocios.
+
+Incorporados en el núcleo digital empresarial, la IA generativa, los LLM y los modelos de fundación optimizarán tareas, aumentarán las capacidades humanas y abrirán nuevas avenidas para el crecimiento. En el proceso, estas tecnologías crearán un lenguaje completamente nuevo para la reinventación empresarial. Las empresas tienen razón al ser optimistas sobre el potencial de la IA generativa para cambiar radicalmente cómo se realizan las tareas y qué servicios y productos pueden crear. También necesitan ser realistas sobre los desafíos que conlleva replantear profundamente cómo funciona la organización, con implicaciones para la TI, la organización, la cultura y la responsabilidad por diseño.
+
+Las empresas necesitan invertir tanto en evolucionar operaciones y capacitar a las personas como lo hacen en tecnología. Replantear radicalmente cómo se realizan las tareas y ayudar a las personas a mantenerse al día con el cambio tecnológico serán dos de los factores más importantes para realizar el potencial completo de este cambio tecnológico en la IA.
+
+Ahora es el momento para que las empresas utilicen los avances revolucionarios en la IA para establecer nuevos límites de rendimiento, redefiniéndose a sí mismas y las industrias en las que operan.
+
+20
+Una nueva era de IA generativa para todosGlosario
+
+ChatGPT es una interfaz de chatbot de inteligencia artificial generativa construida sobre el modelo de lenguaje grande GPT-3.5 de OpenAI (ver abajo). ChatGPT (y ChatGPT plus, que utiliza GPT-4) permite a los usuarios interactuar con la inteligencia artificial subyacente de una manera que parece sorprendentemente precisa y se siente sorprendentemente humana. Puedes pedirle que explique un tema, escriba un ensayo, realice un cálculo, genere algún código Python o simplemente tenga una conversación.
+
+Inteligencia artificial generativa es el término paraguas para la forma innovadora de inteligencia artificial creativa que puede producir contenido original a demanda. En lugar de simplemente analizar o clasificar datos existentes, la inteligencia artificial generativa puede crear algo completamente nuevo, ya sea texto, imágenes, audio, datos sintéticos o más.
+
+Los modelos de fundación son sistemas de aprendizaje automático complejos entrenados en cantidades masivas de datos (texto, imágenes, audio o una mezcla de tipos de datos) a gran escala. El poder de estos sistemas no solo radica en su tamaño, sino también en el hecho de que pueden adaptarse rápidamente o afinarse para una amplia variedad de tareas downstream.
+
+Los modelos de lenguaje grande (LLMs) representan un subconjunto de modelos de fundación que se entrenan específicamente en fuentes de texto. Por ejemplo, GPT-3 se entrenó en casi 500 mil millones de palabras de millones de sitios web. Su sucesor, GPT-4, puede tomar imágenes, así como texto, como entradas.
+
+Afinar es el proceso por el cual los modelos de fundación se adaptan para tareas específicas downstream utilizando un conjunto de datos particular. Eso puede incluir todo, desde lo hiperespecífico (entrenar un modelo para componer correos electrónicos según su estilo de escritura personal) hasta el nivel empresarial (entrenar un LLM en datos empresariales para transformar la capacidad de una empresa para acceder y analizar su inteligencia central).
+
+Los datos son la base fundamental de la inteligencia artificial generativa. No solo en el entrenamiento de los modelos de fundación en sí, sino también en la afinación de esos modelos para realizar tareas específicas. En un contexto empresarial, los ejemplos podrían incluir todo, desde código legado hasta datos operativos en tiempo real y hasta insights de clientes.
+
+Referencias
+1. ChatGPT establece récord de base de usuarios en crecimiento más rápido - nota del analista, Reuters, febrero de 2023  
+https://www.reuters.com/technology/chatgpt-sets-record-fastest-growing-user-base-analyst-note-2023-02-01/
+2. El próximo gran avance en IA será en torno al lenguaje, Harvard Business Review, septiembre de 2020  
+https://hbr.org/2020/09/the-next-big-breakthrough-in-ai-will-be-around-language
+3. Visión tecnológica de Accenture 2023 
+4. ChatGPT llegará a un chatbot de atención al cliente cerca de ti, Forbes, enero de 2023  
+https://www.forbes.com/sites/rashishrivastava/2023/01/09/chatgpt-is-coming-to-a-customer-service-chatbot-near-
+you/?sh=730eeab97eca
+5. Cómo la IA transforma las redes sociales, Forbes, marzo de 2023  
+https://www.forbes.com/sites/forbestechcouncil/2023/03/16/how-ai-transforms-social-media/?sh=739221ca1f30
+6. Los modelos de lenguaje grande tienen beneficios de seguridad reales, Dark Reading, agosto de 2022  
+https://www.darkreading.com/dr-tech/large-language-ai-models-have-real-security-benefits
+7. OPWNAI: Ciberdelincuentes comienzan a utilizar ChatGPT, Investigación de Checkpoint, enero de 2023  
+https://research.checkpoint.com/2023/opwnai-cybercriminals-starting-to-use-chatgpt/
+8. Visión tecnológica de Accenture 2023
+9. Encuesta de pulso CXO, realizada por Investigación de Accenture, febrero de 2023
+10. Visión tecnológica de Accenture 2023
+11. La curva de productividad en J: Cómo los intangibles complementan las tecnologías de propósito general - Asociación Estadounidense de Economía (aeaweb.org)
+12. Uniendo tecnología y sostenibilidad, Accenture, mayo de 2022  
+Sostenibilidad clave para objetivos ESG | Accenture
+13. El ritmo de las inversiones en inteligencia artificial se ralentiza, pero la IA sigue siendo más caliente que nunca, Forbes, octubre de 2022  
+https://www.forbes.com//sites/joemckendrick/2022/10/15/pace-of-artificial-intelligence-investments-slows-but-ai-is-still-hotter-than-
+ever/?sh=853d8124c76c
+14. Visión técnica del modelo de lenguaje GPT-3 de OpenAI, Lambda, junio de 2020¿alguna vez?/sh=853d8124c76c
+14. Modelo de lenguaje GPT-3 de OpenAI: Una visión técnica general, Lambda, junio de 2020  
+https://lambdalabs.com/blog/desmitificando-gpt-3
+21
+Una nueva era de IA generativa para todosAutores
+
+Paul Daugherty
+Director Ejecutivo en Jefe y 
+Director de TecnologíaBhaskar Ghosh
+Director de Estrategia, 
+AccentureKarthik Narain
+Líder – Accenture Cloud First
+Lan Guan
+Líder – Cloud First, Datos y IAJim Wilson
+Director Gerente Global – Liderazgo 
+de Pensamiento y Investigación TecnológicaLos autores desean agradecer a 
+Tomas Castagnino, Elise Cornille,  
+Ray Eitel-Porter, Linda King,  
+Amy Sagues, Ezequiel Tacsir y 
+Denise Zheng por sus contribuciones.Acerca de Accenture
+
+Accenture es una empresa de servicios profesionales globales líder que ayuda a las principales empresas, gobiernos y otras organizaciones a construir su núcleo digital, optimizar sus operaciones, acelerar el crecimiento de los ingresos y mejorar los servicios ciudadanos, creando un valor tangible a velocidad y escala. Somos una empresa liderada por el talento y la innovación con 738,000 personas que atienden a clientes en más de 120 países. La tecnología está en el núcleo del cambio hoy en día, y somos uno de los líderes mundiales en ayudar a impulsar ese cambio, con fuertes relaciones de ecosistema. Combinamos nuestra fuerza en tecnología con experiencia industrial sin igual, experiencia funcional y capacidad de entrega global. Estamos únicamente capacitados para entregar resultados tangibles debido a nuestra amplia gama de servicios, soluciones y activos en Estrategia y Consultoría, Tecnología, Operaciones, Industria X y Accenture Song. Estas capacidades, junto con nuestra cultura de éxito compartido y compromiso con la creación de valor 360°, nos permiten ayudar a nuestros clientes a tener éxito y construir relaciones duraderas y de confianza. Medimos nuestro éxito por el valor 360° que creamos para nuestros clientes, unos a otros, nuestros accionistas, socios y comunidades. Visítenos en www.accenture.com.
+
+Póngase en contacto con nosotros
+
+Para obtener más información, póngase en contacto con el Centro de Excelencia de IA Generativa/Modelo de Lenguaje Grande de Accenture en: LLMCoE@accenture.com.
+
+Derechos de autor © 2023 Accenture. Todos los derechos reservados. Accenture y su logotipo son marcas registradas de Accenture.
+
+Aviso: Este contenido se proporciona con fines de información general y no está destinado a ser utilizado en lugar de consultar con nuestros asesores profesionales. Este documento hace referencia a marcas propiedad de terceros. Todas las marcas de terceros son propiedad de sus respectivos propietarios. No se pretende, expresa o implícitamente, patrocinio, aprobación o aprobación de este contenido por parte de los propietarios de tales marcas.

@@ -1,0 +1,325 @@
+ Tendencias de IA
+
+LECCIÓN 4
+
+La inteligencia artificial (IA) tiene el potencial de cambiar la forma en que el mundo opera en la vida y en los negocios.
+De hecho, PwC estima que el impacto de la IA en la economía global podría ser superior a 15 billones de dólares para 2030.
+Hay muy pocas tecnologías que podrían tener este tipo de efecto en el mundo en un futuro cercano.
+En este informe, aprenderás sobre las siete tendencias más grandes que impactan el ecosistema de IA en este momento.
+
+1. El procesamiento del lenguaje natural impulsa nuevos casos de uso para la IA
+Pocas cosas en la industria de la IA tienen más prometedoras aplicaciones comerciales que el procesamiento del lenguaje natural (PLN).
+El volumen de búsqueda de "procesamiento del lenguaje natural" está creciendo.
+Nuestro mundo está envuelto en texto. Analizar, formatear, traducir y utilizar textos es esencial para todos los tipos de negocios en todo el mundo.
+Y no solo se trata de palabras. El PLN se está utilizando para analizar datos de maneras que son muy diferentes a los métodos estadísticos que hemos utilizado anteriormente.
+Con una herramienta de PLN, las organizaciones pueden procesar datos hasta 10 veces más rápido y analizar datos no estructurados a través del lenguaje humano.
+¿Qué es el PLN?
+Es básicamente una forma para que las computadoras hablen el lenguaje humano.
+En el pasado, las computadoras solo podían entender el lenguaje humano si se traducía primero en código. Pero al utilizar el PLN, las máquinas pueden obtener inteligencia a partir de texto en su estado natural.
+Se estima que la cantidad de datos en el mundo podría alcanzar los 612 zettabytes para 2030 y 2,142 zettabytes para 2035.
+Gran parte de esto es texto legible por humanos, por lo que las empresas pueden utilizar el PLN para determinar el sentimiento del texto, clasificar texto, extraer significado y palabras clave del texto y analizar texto.
+Esto proporciona una forma eficiente de analizar y obtener insights de enormes cantidades de datos, algo que simplemente no es posible sin el uso del PLN.
+MonkeyLearn es una herramienta de análisis de texto de IA que puede analizar reseñas, encuestas, tickets de soporte y otras fuentes de texto humano.
+Las búsquedas de "MonkeyLearn" han aumentado un 257% en los últimos 5 años.
+Empresas de docenas de sectores como la venta al por menor, marketing y finanzas ya están utilizando MonkeyLearn.
+La plataforma de MonkeyLearn utiliza IA/aprendizaje automático para etiquetar automáticamente texto de correos electrónicos, reseñas, redes sociales y otras fuentes.
+En el espacio legal y comercial, docenas de empresas han comenzado a utilizar el PLN para analizar documentos legales densos, así como generar nuevos.
+Por ejemplo, una empresa llamada BlackBoiler ofrece tecnología de IA que utiliza el PLN para analizar contratos y sugerir cambios en lugares donde las cláusulas podrían ser disputadas.
+La plataforma hace todo esto a través de un proceso similar a "seguimiento de cambios" en un programa de procesador de texto.
+La herramienta de IA de BlackBooler utiliza tecnología patentada para sugerir y aceptar cambios en contratos automáticamente.
+
+2. Los gigantes tecnológicos se lanzan a desarrollar la búsqueda de IA
+Una de las aplicaciones más populares y poderosas del procesamiento del lenguaje natural es la búsqueda de IA.
+El interés en "búsqueda de IA" ha aumentado más del 1,075%.
+Las herramientas de búsqueda de IA que utilizan modelos de lenguaje grandes (LLM) tienen el potencial de cambiar la forma en que las personas encuentran información en línea.
+Los LLM subyacentes detrás de una interfaz como ChatGPT trabajan analizando grandes cantidades de información y "aprendiendo" de ella. A partir de esto, el modelo reconoce patrones y puede predecir palabras y frases que se supone que van juntas.
+Así, cuando una persona escribe una consulta de búsqueda en lenguaje natural, la plataforma de búsqueda de IA puede predecir una secuencia de lenguaje humano que responderá a la pregunta.
+En lugar de producir una lista de sitios web relevantes, la herramienta proporciona respuestas escritas que se extrajeron de una combinación de diferentes recursos.
+Y, estas plataformas van mucho más allá de simples consultas como encontrar la capital de Brasil o la temperatura actual.
+Los usuarios pueden consultar preguntas amplias como cómo planificar una comida de tres cursos o qué coche comprar.
+De esta manera, la búsqueda de IA es otra forma de "IA generativa": IA que puede crear nuevo contenido como imágenes, audio, código y, en este caso, texto.
+El volumen de búsqueda de "IA generativa" está explotando.En este sentido, la búsqueda de IA es otra forma de "IA generativa": IA que puede crear contenido nuevo como imágenes, audio, código y, en este caso, texto.
+El volumen de búsqueda de "IA generativa" está explotando.
+ChatGPT es una plataforma de IA generativa que se volvió viral a finales de 2022.
+Los usuarios pueden ingresar una pregunta en la herramienta y proporcionará una respuesta, pero también puede funcionar como un chatbot. Esto significa que puede tener conversaciones muy humanas y completar comandos para generar contenido.
+Por ejemplo, un profesor de Wharton, Universidad de Pensilvania, administró su examen final de MBA a ChatGPT. La herramienta obtuvo una nota de B.
+En otro ejemplo, una extensión de ChatGPT se puede utilizar en Google Sheets para poblar correos electrónicos de networking para enviar a CEOs en LinkedIn.
+Salesforce está en proceso de monetizar una herramienta que utiliza el modelo de ChatGPT. Einstein GPT generará automáticamente correos electrónicos de marketing para enviar a leads de ventas.
+La herramienta de Salesforce será la primera IA generativa para CRM.
+Otros jugadores de Big Tech ya han entrado en la carrera para convertirse en la plataforma de búsqueda de IA generativa.
+Microsoft debutó con su versión de Bing impulsada por IA a principios de febrero de 2023.
+Aunque se basa en tecnología de ChatGPT, Microsoft afirma que es aún más rápido y preciso porque está específicamente diseñado para búsqueda.
+La plataforma permite a los usuarios hacer preguntas de seguimiento a una búsqueda y también puede generar nuevo contenido.
+La asociación de Microsoft con OpenAI comenzó en 2019 cuando la empresa invirtió $1.000 millones en la tecnología. Otra inversión de $2.000 millones ya se ha dirigido a OpenAI desde entonces, y Microsoft recientemente se comprometió a invertir otros $10.000 millones en los próximos años.
+Bard, la versión de Google de búsqueda de IA, también se anunció a principios de febrero de 2023, pero los analistas dicen que está rezagada detrás de la versión de Microsoft. Y no estará lista para uso generalizado hasta mediados de 2023.
+Bard es la respuesta de Google a ChatGPT.
+Aunque gran parte del clamor que rodea la búsqueda de IA se ha centrado en ChatGPT, Bing y Google, una empresa independiente, Perplexity AI, ofrece una herramienta que podría superar a todos ellos.
+El volumen de búsqueda de "Perplexity AI" ha aumentado en los últimos meses.
+El chatbot de búsqueda de IA de Perplexity puede proporcionar información en tiempo real y proporciona citas para la información.
+En comparación, ChatGPT solo se ha entrenado en información hasta 2021.
+La herramienta de IA de Perplexity puede producir resultados relacionados con eventos actuales. La herramienta también enumera sus fuentes.
+A pesar de la popularidad temprana de estas herramientas, muchos en la industria señalan que los chatbots de búsqueda de IA están en su infancia. Todavía hay muchos errores por resolver.
+
+3. IA desata una revolución en la atención médica
+En el último año, en particular, la IA ha sido increíblemente transformadora en la industria de la atención médica.
+El volumen de búsqueda de "atención médica de IA" ha aumentado un 376% en los últimos 5 años.
+Los avances de la IA fueron un componente clave en el manejo de la pandemia global, y desde entonces, las innovaciones de la IA han seguido siendo más importantes.
+La adopción entre los hospitales está aumentando - el 90% de los hospitales tienen una estrategia de IA y el 75% de los ejecutivos de hospitales dicen que las iniciativas de IA son críticas.
+La IA, junto con el aprendizaje automático, está acelerando varios procesos en los hospitales. Esto incluye tareas como escanear datos manuscritos en una plataforma en línea, grabar audio de conversaciones entre médicos y pacientes y convertirlo en notas de texto, e identificar pacientes para estudios de investigación.
+Esta tecnología también se está convirtiendo en una herramienta esencial en medio de una crisis de personal en los hospitales.
+En 2021, la rotación de personal en los hospitales creció un 6,4% para alcanzar un 26%.
+La rotación de personal en los hospitales en 2021 fue casi 8 puntos más alta que en 2017.
+Casi 334,000 médicos clínicos abandonaron la fuerza laboral en 2021 solo.
+La implementación de soluciones de IA ayuda a soportar la carga de esta escasez de personal.
+En una encuesta, el 58% de los ejecutivos de hospitales dijo que la IA fue muy o a menudo efectiva para mejorar el rendimiento operativo.
+Muchos hospitales están recurriendo a plataformas de personalización de IA como DirectShifts.En una encuesta, el 58% de los ejecutivos de hospitales dijeron que la IA era muy o a menudo efectiva para mejorar el desempeño operativo.
+
+Muchos hospitales están recurriendo a plataformas de personalización con IA como DirectShifts.
+
+La plataforma DirectShifts utiliza IA para emparejar a los buscadores de empleo con hospitales.
+
+Esta plataforma utiliza IA para emparejar a los clínicos con anuncios de trabajo en hospitales. La mayoría de estos puestos son per diem, que son empleados que los hospitales solo necesitan cuando la cifra de pacientes es alta.
+
+Actualmente, hay más de 850,000 clínicos en la plataforma.
+
+Algunos hospitales están aliviando la carga que pesa sobre las enfermeras invirtiendo en sistemas de IA que ayudan a monitorear a los pacientes.
+
+La plataforma basada en IA de Ouva analiza constantemente el comportamiento de los pacientes y los riesgos potenciales.
+
+Una vista desde el tablero de Ouva.
+
+La plataforma toma datos de sensores ópticos y alerta a las enfermeras cuando los pacientes de alto riesgo abandonan sus camas. También monitorea cosas como visitas de enfermeras, entrega de comidas y llegada y alta de pacientes.
+
+La IA tiene el potencial de impactar la industria de la atención médica de muchas otras maneras también.
+
+El desarrollo de medicamentos, el diagnóstico de enfermedades y los planes de tratamiento personalizados son solo algunos ejemplos de cómo la IA podría ser utilizada en el futuro.
+
+Los inversores también están prestando atención a este sector.
+
+Más de $1,600 millones se invirtieron en startups de descubrimiento de medicamentos en 2022.
+
+El volumen de búsqueda de "IA farmacéutica" ha crecido un 300% en los últimos años.
+
+En un ejemplo, Microsoft sigue invirtiendo en IA para la atención médica.
+
+El gigante tecnológico ha colaborado con Paige para aplicar tecnología de IA para mejorar el diagnóstico del cáncer y la atención al paciente.
+
+Paige fue la primera empresa en recibir aprobación de la FDA para utilizar IA en patología digital.
+
+La herramienta de IA de Paige ayuda a los patólogos a identificar regiones que probablemente albergan cáncer.
+
+4. La IA proporciona herramientas valiosas para maestros y estudiantes
+
+En entornos educativos, la IA tiene el potencial de cambiar dramáticamente la forma en que los educadores enseñan y la forma en que los estudiantes aprenden.
+
+El volumen de búsqueda de "IA en educación" ha aumentado un 1,300% en los últimos años.
+
+Cuando se lanzó ChatGPT, los educadores se preocuparon de que los estudiantes podrían utilizar la herramienta para escribir ensayos y completar exámenes en lugar de los estudiantes reales y sin que los maestros lo supieran.
+
+Para remediar esto, se informa que ChatGPT está trabajando en un tipo de marca de agua digital que se incrustaría en el texto que crea la plataforma de IA.
+
+Por otro lado, algunos educadores utilizaron el lanzamiento de ChatGPT como un tipo de llamado a la acción para abogar por la adopción generalizada de herramientas de IA en aulas.
+
+El Proyecto de Educación de IA es una organización sin fines de lucro que busca empoderar a los estudiantes en todas partes con alfabetización en IA.
+
+Algunos maestros están utilizando IA en su enseñanza con sitios como Character.ai y Prof Jim.
+
+Character.ai es un chatbot que da a las personas la oportunidad de charlar con personajes generados por IA.
+
+El volumen de búsqueda de "Character AI" está explotando.
+
+Por ejemplo, los estudiantes pueden charlar con Winston Churchill, Sócrates o Napoleón.
+
+También pueden hacer preguntas a un bot de inglés o un bot de historia, por ejemplo.
+
+Un ejemplo de conversación con un chatbot de IA que responde como si fuera un diseñador del futuro.
+
+Prof Jim es un programa de IA que escanea un libro de texto o una página de Wikipedia y automáticamente pone esa información en una lección en línea inmersiva con animaciones de calidad cinematográfica.
+
+Prof Jim está trabajando con editores de libros de texto y maestros para convertir lecciones basadas en texto en videos.
+
+Las herramientas de IA que actúan como tutores también se están desarrollando y lanzando para estudiantes tan jóvenes como kindergartners.
+
+Estas herramientas están diseñadas para dar instrucción personalizada y directa a los estudiantes sin la necesidad de un maestro humano. Pueden dar retroalimentación en vivo y alterar el curso de la instrucción según el desempeño del estudiante.
+
+Numerade ofrece un tutor de IA llamado Ace.
+
+El volumen de búsqueda de "Numerade" ha aumentado un 4,900% en los últimos 5 años.
+
+Ace crea planes de estudio personalizados para los estudiantes. El algoritmo de IA funciona evaluando los estilos de aprendizaje, fortalezas y debilidades de los estudiantes. Luego, Ace muestra...Ace crea planes de estudio personalizados para estudiantes. El algoritmo de IA funciona evaluando los estilos de aprendizaje, fortalezas y debilidades de los estudiantes. Luego, Ace muestra a los estudiantes videos que se ajustan a ese estilo y proporciona evaluaciones destinadas a desarrollar las áreas más débiles de los estudiantes. Cuanto más ven los estudiantes, más personalizado se vuelve su contenido.
+
+La empresa fue fundada en 2019 y ya tiene más de 100 millones de usuarios.
+
+5. Visión por Computadora Impulsa la Eficiencia en Todas las Industrias
+
+La visión por computadora es un segmento de IA que permite a las computadoras interpretar información de imágenes y videos, y actuar en función de esa información.
+
+Los sistemas de visión por computadora actuales son más precisos que los humanos y reaccionan más rápido que los humanos.
+
+Por ejemplo, la visión por computadora mejora la detección de defectos en la manufactura en un 90%.
+
+Puede ser utilizada para todo, desde monitorear tuberías y cultivos hasta identificar dinero counterfeit y áreas de preocupación en pacientes con cáncer.
+
+La tecnología de visión por computadora tiene implicaciones de gran alcance.
+
+Aunque el concepto de visión por computadora ha estado presente desde la década de 1950, el advenimiento de la tecnología de aprendizaje profundo está permitiendo que la visión por computadora se utilice en una amplia gama de aplicaciones que simplemente no eran posibles en años anteriores.
+
+En una encuesta, casi el 30% de los líderes empresariales dijeron que han visto una creciente demanda de soluciones de visión por computadora. Más de la mitad de ellos estaban más emocionados sobre el seguimiento y la identificación de objetos a través de la visión por computadora.
+
+La visión por computadora es una forma en que los fabricantes están saltando a la tendencia de la Industria 4.0.
+
+El interés en la búsqueda de "IA en la manufactura" ha aumentado un 692% en los últimos 5 años.
+
+Esta es una industria que sufre de grandes escasez de personal. Hasta 7,9 millones de puestos de trabajo en la manufactura quedarán vacantes para 2030, lo que resultará en ingresos no realizados por un total de $607,14 mil millones.
+
+La escasez de trabajadores en la manufactura se espera que empeore en los próximos años.
+
+Al utilizar la visión por computadora, los fabricantes están aumentando la eficiencia y el rendimiento de sus instalaciones, así como reducir los números de personal.
+
+La detección de anomalías es un papel importante de la visión por computadora en la manufactura.
+
+Un sistema de visión por computadora puede rastrear cada paso del proceso de producción. Si se omite un paso o se hace algo fuera de orden, se activa una alarma.
+
+Además, el sistema sabe cuánto tiempo debería tomar un ciclo de producción y puede detectar fallas si el ciclo tarda demasiado.
+
+Finalmente, cuando se detecta un producto defectuoso, los trabajadores pueden buscar el artículo por su número de serie para ver exactamente lo que sucedió durante el proceso de manufactura.
+
+Instrumental ofrece un sistema de visión por computadora/IA que proporciona descubrimiento de problemas y monitoreo de calidad para fabricantes de electrónica. El sistema también realiza un análisis de fallo de extremo a extremo.
+
+El sistema de IA de Instrumental permite a los fabricantes encontrar problemas y solucionarlos rápidamente.
+
+Según la empresa, su sistema resulta en una reducción del 43% en la rework y un aumento de 3 veces en la eficiencia de ingeniería de productos.
+
+Las empresas que instalan el sistema ven un ROI positivo en menos de 60 días, según afirman.
+
+La visión por computadora también se está desplegando en respuesta a desastres naturales y problemas de cambio climático.
+
+Una startup de California, llamada Rain, está utilizando la visión por computadora para luchar contra incendios forestales.
+
+El avión de Rain puede permanecer en el aire durante más de una hora.
+
+Su producto es un helicóptero autónomo no tripulado que utiliza IA y visión por computadora para entregar agua a un incendio forestal antes de que se salga de control.
+
+La idea de la empresa es colocar estos helicópteros en áreas de alto riesgo que no están atendidas por humanos las 24 horas del día. Si se produce un incendio forestal, el helicóptero podría ser desplegado inmediatamente por un piloto en una ubicación remota.
+
+El proyecto se probará este año en incendios reales en California y la empresa proyecta construir 200 estaciones de helicópteros allí.
+
+Además, un equipo de la Universidad de Cambridge desarrolló recientemente un sistema de visión por computadora que permite a los científicos monitorear bosques y secuestro de carbono desde sus teléfonos inteligentes.Además, un equipo de la Universidad de Cambridge desarrolló recientemente un sistema de visión por computadora que permite a los científicos monitorear bosques y secuestro de carbono desde sus teléfonos inteligentes.
+
+El sistema de visión por computadora desarrollado por la Universidad de Cambridge utiliza sensores LiDAR.
+
+La tasa de error es del 8%, lo que es menor que la tasa de error que ocurre cuando los humanos completan la tarea.
+
+Al mismo tiempo que se está desplegando en una variedad de industrias, la tecnología de visión por computadora en sí misma está siendo revolucionada.
+
+La visión por computadora de hoy en día funciona tomando una imagen o serie de imágenes en fotogramas estáticos. Luego, los fotogramas estáticos se analizan por la computadora.
+
+Sin embargo, una empresa está imaginando una visión por computadora que no necesita fotogramas estáticos.
+
+Ubicept, una empresa formada en 2021, ha desarrollado una visión por computadora que puede medir fotones individuales en lugar de mirar fotogramas estáticos.
+
+Ese proceso es más rápido y confiable que la visión por computadora tradicional.
+
+Es especialmente beneficioso para situaciones en las que la cámara necesita capturar objetos en movimiento rápido o objetos en baja luz.
+
+La tecnología de visión por computadora de Ubicept se destaca en baja luz y movimiento rápido, dos áreas en las que la visión por computadora tradicional falla.
+
+6. Los minoristas despliegan IA en tienda y en línea
+
+El sector minorista es uno que podría aprovechar enormemente el uso de IA.
+
+Las predicciones muestran que el mercado de IA en retail crecerá a una tasa anual compuesta (CAGR) del más del 30% hasta 2028. El mercado alcanzará los 31,18 mil millones de dólares ese año, según las estimaciones.
+
+A partir de 2021, el 81% de los líderes minoristas dijeron que sus empresas ya estaban utilizando IA a un nivel moderado o completamente funcional.
+
+Y el uso de IA sigue creciendo.
+
+En el Estudio de Tecnología de Retail 2022, el 40% de las organizaciones minoristas dijo que la capacidad de seguimiento de compradores sería una de sus principales inversiones tecnológicas en los próximos dos años.
+
+El marketing basado en la ubicación, los dispositivos digitales y la visión por computadora también figuraron en la lista con más de un tercio de los minoristas que dijeron que se centrarían en esas soluciones tecnológicas en los próximos dos años.
+
+Los líderes minoristas planean invertir fuertemente en IA en los próximos dos años.
+
+Uno de los usos más obvios de IA en retail es en la caja registradora.
+
+Tiendas como Amazon Go rastrean a los clientes a través de la tienda mediante visión por computadora. Cuando una persona coloca un artículo en un carrito físico, la visión por computadora captura qué producto es y lo agrega a un carrito virtual. Cuando la persona sale de la tienda, su billetera digital se carga según corresponda.
+
+Los minoristas también están utilizando IA para la gestión de inventario.
+
+Los sistemas de IA pueden monitorear los niveles de stock en el almacén y en los estantes. Cuando el stock está agotándose, el sistema puede notificar automáticamente a los canales adecuados y reducir el tiempo que tarda en reabastecer el suministro de productos.
+
+El volumen de búsqueda de "automatización de almacén" ha aumentado un 85% en los últimos 5 años.
+
+McKinsey informa que las empresas que adoptan cadenas de suministro habilitadas por IA ven una mejora del 15% en los costos logísticos y una mejora del 35% en los niveles de inventario.
+
+IA también permite a los minoristas utilizar precios dinámicos.
+
+Con datos de la tienda, competidores y clientes, IA se puede utilizar para ajustar los precios en tiempo real y maximizar las ganancias.
+
+Los minoristas que utilizan etiquetas de estantería electrónicas y precios dinámicos habilitados por IA tienen el potencial de aumentar sus ganancias en un 33%.
+
+Uno de los desarrollos más recientes para los minoristas es la IA generativa.
+
+Por ejemplo, Shopify Magic se lanzó a principios de 2023 como una herramienta que escribirá descripciones de productos de comercio electrónico para los minoristas.
+
+Shopify Magic permite a los minoristas crear descripciones de productos en segundos.
+
+Shopify dice que agregarán más herramientas con IA en el futuro cercano.
+
+Los minoristas también están utilizando IA generativa para crear exhibiciones en tienda.
+
+Al insertar unos pocos prompts en un programa como DALL-E, los minoristas pueden crear un concepto visual y imágenes de merchandising.
+
+Una minorista dijo que su equipo suele pasar una semana brainstorming y creando imágenes para un nuevo diseño de tienda.
+
+Con IA, pudieron hacerlo en solo ocho horas.Una minorista dijo que su equipo suele pasar una semana brainstorming y creando imágenes para un nuevo diseño en tienda. Con IA, pudieron hacerlo en solo ocho horas.
+Un ejemplo de un concepto generado por IA para una tienda de moda de lujo.
+Las empresas de ropa también están utilizando IA generativa para crear cientos de combinaciones de outfits recomendadas que aparecen en sus sitios web y aplicaciones.
+Al trabajar con la empresa Stylitics, Puma pudo aumentar las conversiones en un 235% y la duración de la sesión en un 334%.
+La solución impulsada por IA de Stylitics reúne combinaciones de outfits y reemplaza piezas de ropa que se agotan.
+7. Aumento del Potencial para Riesgos y Regulaciones de IA
+A medida que la adopción de IA ha aumentado, el nivel de mitigación de riesgos ha permanecido igual.
+Esto significa que las empresas no están prestando mucha atención a los riesgos asociados con IA.
+El volumen de búsqueda de "riesgos de IA" ha aumentado más del 600% desde 2019.
+Al examinar los últimos tres años, una encuesta de McKinsey mostró que no hubo un aumento sustancial en la cantidad de atención que las empresas están prestando a los riesgos relacionados con IA. Esto incluye la seguridad cibernética, la cumplimentación regulatoria, la privacidad y la explicabilidad.
+McKinsey llamó la falta de enfoque en los riesgos de IA "preocupante".
+La lista de riesgos potenciales es larga y sigue creciendo.
+La Escuela Wharton creó un papel extenso que describe los riesgos de utilizar IA en los negocios. La mala calidad de los datos, los ataques de datos, la falta de transparencia y el sesgo fueron solo algunos de los temas discutidos.
+En los últimos meses, ha habido señales de empresas, consumidores y el gobierno de EE. UU. que muestran un enfoque cambiante hacia estos riesgos y la seguridad de IA.
+Otro informe de McKinsey muestra que el 72% de los consumidores cree que es importante conocer la política de IA de una empresa antes de hacer una compra.
+En la misma encuesta, el 55% de los líderes empresariales dijo que habían sufrido un incidente de IA en los últimos tres años.
+En otra encuesta, casi dos tercios de las personas en EE. UU. dijeron que querían regulaciones sobre IA en un futuro cercano.
+El volumen de búsqueda de "regulación de IA" ha aumentado más del 1,000% en los últimos años.
+Sin embargo, el gobierno no ha sido rápido en ofrecer leyes o supervisión.
+A partir de marzo de 2023, no se han propuesto proyectos de ley en el Congreso que limiten el alcance de IA o protejan a los ciudadanos. Incluso las propuestas para restringir el uso de reconocimiento facial han fracasado.
+A fines de 2022, la Casa Blanca lanzó un Proyecto de Ley de Derechos de IA que estaba destinado a animar a las empresas a policía el uso de IA dentro de sus filas, pero no tiene autoridad.
+El Proyecto de Ley de Derechos de IA anima a las empresas a evaluar adecuadamente sus sistemas de IA y corregir problemas potenciales.
+Sin embargo, las agencias federales están aumentando su participación en la regulación de IA.
+La FTC, la FDA y la CFPB están actuando de alguna manera para frenar el uso de IA no ética.
+En un caso, la FTC tomó medidas contra Weight Watchers por recopilar información de niños y crear modelos de IA con los datos.
+Algunos estados también están aprobando estatutos de privacidad relacionados con IA y prestando especial atención al papel de IA en el proceso de contratación.
+La ciudad de Nueva York aprobó la ley local 144, apodada la Ley de IA, a fines de 2021.
+La ley requiere que cualquier empresa que desee utilizar una herramienta de IA en su proceso de contratación la someta a una auditoría de sesgo antes de utilizarla.
+La ley debía entrar en vigor en enero de 2023, pero se retrasó hasta el 15 de abril de 2023 debido a un gran volumen de comentarios públicos y regulaciones aclaratorias.
+Más acción federal sobre la regulación de IA ha tenido lugar en Europa.
+La Ley de IA está programada para una votación en el Parlamento en 2023.
+El interés en "Ley de IA" ha aumentado más del 1,700%.
+Si se aprueba, sería la primera regulación amplia de IA en el mundo.
+La Ley de IA examina las aplicaciones según su nivel de riesgo potencial.
+Conclusión
+Eso concluye nuestra lista de las siete tendencias de IA que debes vigilar en los próximos años.
+La inteligencia artificial y las soluciones tecnológicas que impulsa cambiarán sin duda elConclusión
+
+En resumen, hemos presentado nuestra lista de las siete tendencias de IA que debemos tener en cuenta en los próximos años.
+La inteligencia artificial y las soluciones tecnológicas que impulsa cambiarán sin duda la forma en que las empresas y los individuos operan en el mundo.
+En muchas industrias, la IA impulsará el desarrollo de métodos y procesos que nunca hemos visto antes. Esto tiene el potencial de aumentar la eficiencia, reducir el impacto de la escasez de mano de obra y impulsar a las empresas a crear nuevos flujos de ingresos.
+Sin embargo, los verdaderos riesgos de la IA aún están por verse. En los próximos años, las vulnerabilidades de la IA podrían ser expuestas, y los gobiernos, agencias y consumidores deberán decidir cómo equilibrar los riesgos y beneficios.
+
+Recurso
+
+
+https://maven.com
+
+
+dom mayo 19 2024 21:29:38 GMT-0400 (Hora Estándar del Atlántico)
+Creado por JUST ONE PAGE PDF

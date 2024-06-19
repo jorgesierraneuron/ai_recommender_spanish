@@ -1,0 +1,870 @@
+Informe del BEREC sobre el impacto de las soluciones de Inteligencia Artificial (IA) en el sector de las telecomunicaciones en la regulaciónBoR (22) 191 
+
+1 
+
+Contenido 
+
+RESUMEN EJECUTIVO ...................................................................................................................... 2  
+1. INTRODUCCIÓN .................................................................................................................. ........ 4 
+2. MARCO JURÍDICO ............................................................................................................... . 5 
+3. ELEMENTOS FUNDAMENTALES DE INTELIGENCIA ARTIFICIAL ...................................................... 7  
+4. INTELIGENCIA ARTIFICIAL EN TELECOMUNICACIONES ...................................................... 9  
+4.1. Ventajas ............................................................................................................................... .................... 10  
+4.2. Riesgos ......................................................................................................................... .............................. 11  
+4.3. Otros desafíos .............................................................................................................. ...................... 14  
+5. ÁREAS SELECCIONADAS DE CASOS DE USO DE INTELIGENCIA ARTIFICIAL ................................................ 18  
+5.1. Planificación y actualizaciones de red y capacidad .................................................................................... . 19 
+5.2. Modelado de canal, predicción y propagación ................................................................................. .. 22 
+5.3. Compartir espectro dinámico ...................................................................................................... ............. 24  
+5.4. Optimización de calidad de servicio y clasificación de tráfico .................................................................... . 27 
+5.5. Optimización de seguridad y detección de amenazas .................................................................................... ...... 28 
+5.6. Detección y prevención de fraude ................................................................................................ ............ 33 
+6. USO DE SOLUCIONES DE INTELIGENCIA ARTIFICIAL POR PARTES DE NRAs ................................................ 35  
+6.1. Uso de IA en el sector público ........................................................................................................... 35  
+6.2. Adopción de IA por parte de las NRAs ........................................................................................................ ................. 37  
+7. CONCLUSIONES ................................................................................................................... ...... 39 
+ANEXO I. Técnicas para sistemas de IA ...................................................................................... 41  
+ANEXO II. Resumen de respuestas a la encuesta ................................................................................ 44  
+ANEXO III.  Cuerpos y partes interesadas clave en el contexto de IA ..................................... 47  
+ANEXO IV. Siglas .................................................................................................................. 50  
+ANEXO V. PARTICIPANTES EN EL ESTUDIO ................................................................................. 52Resumen Ejecutivo
+
+Aunque la mayoría de los sistemas de inteligencia artificial (IA) en el sector de las telecomunicaciones aún se encuentran en fase de desarrollo, se espera que la IA juegue un papel importante en el sector a medio plazo.
+
+Este informe de BEREC busca identificar los avances en casos de uso seleccionados, evaluar si esos casos de uso pueden tener un impacto en la regulación y concienciar sobre los diferentes casos de uso, así como los beneficios y riesgos de las oportunidades relacionadas con la aplicación de la IA en el sector.
+
+Desde 2017, las instituciones europeas han intensificado su atención en la IA, fomentando su desarrollo mientras se aseguran de que los valores de la UE y los derechos de los ciudadanos se preserven. En el momento de redactar este informe, se está discutiendo un borrador de la Ley de Inteligencia Artificial. El objetivo de esta regulación es asegurar que los sistemas de IA en la UE sean seguros y estén en línea con la legislación de la UE, así como proporcionar certeza jurídica para facilitar la inversión y la innovación en IA. Este marco jurídico se complementará con la reciente propuesta de borrador de la Directiva de Responsabilidad de la IA.
+
+La IA se basa en la entrada de múltiples habilitadores, incluyendo el acceso a grandes cantidades de datos confiables, capacidad adecuada para almacenar y procesar estos datos, y la conectividad relevante de la Red Electrónica de Comunicación (REC). Además, se espera que tecnologías como las arquitecturas de computación en el borde contribuyan a explotar plenamente el potencial de la IA, haciéndola más accesible y mejorando su rendimiento. BEREC observa que las dificultades para acceder a uno o más de estos habilitadores pueden implicar desequilibrios entre diferentes jugadores en el desarrollo y adopción de la IA. BEREC también destaca la importancia de la estandarización para ayudar a disminuir el tiempo de llegada al mercado y los costos de desarrollo, así como para mejorar la igualdad de condiciones, la interoperabilidad y la innovación, la supervisión del mercado y mitigar los efectos de bloqueo potenciales.
+
+La IA puede traer beneficios significativos para el sector. Las tecnologías de IA prometen ahorros considerables en términos de costos y pueden ayudar a automatizar procesos complejos y/o repetitivos con técnicas de IA para optimizar la operación de la red, mejorar el servicio al cliente o detectar nuevas oportunidades comerciales, así como para apoyar la expansión y densificación de la infraestructura de red y dispositivos en redes de comunicación. Además, la aplicación adecuada de la IA puede promover la eficiencia energética de las redes, lo que puede contribuir a impactos ambientales positivos, además de los ahorros de costos asociados con un consumo de energía más bajo. Por otro lado, la IA también conlleva un número de riesgos relacionados con la disponibilidad de datos no sesgados y confiables; la responsabilidad en caso de error debido a la complejidad de los ecosistemas de IA; asegurar la explicabilidad en la toma de decisiones; problemas de privacidad y implicaciones de ciberseguridad.
+
+La proliferación en el uso de sistemas de IA también puede tener un impacto en el diseño de las redes de telecomunicaciones, como nuevos requisitos de hardware y la integración de diferentes componentes de hardware y software. Los sistemas de IA basados en servicios en la nube pueden requerir baja latencia y podrían llevar a la descentralización en términos de distribución de centros de datos. Los sistemas de IA desplegados junto con la infraestructura de Internet de las cosas (IoT) pueden requerir una mayor capacidad de procesamiento y almacenamiento.BoR (22) 191 
+
+3 
+
+Un gran número de dispositivos conectados a un sistema puede afectar la carga de la red en caso de mal funcionamiento. 
+
+Los jugadores del mercado de telecomunicaciones consideran que la adopción de la IA en los procedimientos operativos se convertirá en una norma aproximadamente en los próximos seis a diez años. Muchos de estos cambios en las redes impulsados o habilitados por sistemas de IA están vinculados a la virtualización de la red. Otros desarrollos podrían impactar en lo que las redes hacen, así como en cómo funcionan, o permitir la orquestación y gestión automática de los recursos de la red mientras se asegura la calidad de experiencia demandada por los usuarios. 
+
+BEREC desarrolla seis áreas de casos de uso de IA en telecomunicaciones: Planificación y actualizaciones de capacidad de red; Modelado, predicción y propagación de canales; Compartir espectro dinámico; Optimización de calidad de servicio y clasificación de tráfico; Optimización de seguridad y detección de amenazas y detección y prevención de fraude. 
+
+Finalmente, el informe describe los posibles usos de soluciones de IA por parte de las autoridades reguladoras nacionales (NRAs). Los sistemas de IA podrían ser utilizados por administraciones públicas como las NRAs para mejorar los procesos relacionados con la toma de decisiones, la entrega de servicios públicos y la gestión interna de las autoridades públicas. Aunque algunas NRAs han estudiado el uso de la IA en la industria de las telecomunicaciones, hasta ahora, pocas han explorado formas de cómo la IA podría ser utilizada dentro de los procesos internos de la NRA. 
+
+Aunque los beneficios potenciales de la IA son importantes, también hay riesgos asociados con las aplicaciones de la IA. La toma de decisiones efectiva depende de datos no sesgados y confiables. Cómo los algoritmos utilizan los datos a menudo no está claro, lo que puede llevar a una falta de confianza en la toma de decisiones automatizadas. La privacidad y la seguridad siguen siendo aspectos importantes que justifican una estrecha supervisión de las soluciones de IA. 
+
+Mientras que los operadores han encontrado muchas formas de aplicar soluciones de IA, las NRAs no han tenido, hasta ahora, mucha experiencia en el uso de IA. La literatura y algunos ejemplos de reguladores europeos o de fuera de Europa muestran que hay un buen número de casos de uso para la IA. Las soluciones de IA podrían ser utilizadas para la toma de decisiones, los servicios públicos o la gestión interna. BEREC espera que la IA madure más en los años, tanto con los operadores como con las NRAs. 
+
+Con la creciente importancia de la IA, las NRAs deben familiarizarse también con los riesgos asociados con la IA, los métodos de supervisión y los métodos de evaluación. Se requiere un buen conocimiento del funcionamiento de la IA cuando se toma la decisión de implementar soluciones de IA para evaluar el resultado y el impacto del uso de la IA, o el funcionamiento del algoritmo en sí. 
+
+Además, BEREC señala que las NRAs podrían desempeñar un papel en la implementación de la Ley de IA a nivel nacional, en particular cuando la IA se utiliza en la provisión de servicios de comunicaciones electrónicas (ECN/S) coordinando con otros cuerpos relevantes y brindando apoyo técnico basado en su experiencia especializada.BoR (22) 191 
+
+4 
+
+conocimientos y experiencia en el sector. Las autoridades reguladoras nacionales (NRAs) también deberían estar equipadas para abordar posibles inquietudes de competencia sectorial que podrían surgir en el futuro en cuanto a la aplicación de la IA.   
+
+1. INTRODUCCIÓN 
+
+Desarrollar una comprensión clara de los beneficios y riesgos asociados con los casos de uso que dependen de la IA se vuelve esencial para asegurar que la IA se desarrolle y utilice para el bienestar social. 
+
+Siguiendo este punto de vista, la UE ha fomentado un enfoque coordinado para el desarrollo de la IA con el objetivo de promover la adopción de la IA, aprovechar las oportunidades que ofrece esta tecnología y abordar los riesgos asociados. Para abordar estos desafíos y aprovechar al máximo las oportunidades que ofrece la IA, la Comisión publicó una estrategia de IA europea en abril de 2018.
+
+2. La estrategia coloca a las personas en el centro del desarrollo de la IA. 
+
+Más recientemente, la Comisión ha presentado un borrador de la Ley de Inteligencia Artificial siguiendo este enfoque centrado en las personas. 
+
+Aunque la IA se está implementando progresivamente en todos los tipos de actividades económicas y sociales, este informe de BEREC se centra en ofrecer una visión general de alto nivel de la aplicación de soluciones de IA para la provisión de redes y servicios de comunicación electrónica (ECN/S), por un lado, y de soluciones de IA utilizadas para fines regulatorios, por otro lado. 
+
+Aunque muchas de las soluciones de IA relacionadas con la provisión de servicios ECN/S aún se encuentran en fase de investigación y desarrollo, se espera que en el mediano plazo la IA controle la mayoría de las funciones en redes de telecomunicaciones. En este contexto, BEREC busca identificar aún más estos desarrollos y evaluar cualquier impacto potencial en la regulación del sector y la contribución potencial de la IA al aprovechar oportunidades en el sector. 
+
+En este informe, BEREC proporciona una visión general del impacto de la IA en el sector, los riesgos y beneficios potenciales de la IA que se deben considerar al adoptar soluciones de IA, y los desarrollos previstos en el mediano plazo. Además, BEREC explora de manera más detallada un número seleccionado de áreas de casos de uso, algunas de las cuales aún se están desarrollando, algunas ya adoptadas por los proveedores, para lograr eficiencias en relación con varios áreas de despliegue de redes y provisión de servicios, y posiblemente habilitar nuevas oportunidades de creación de valor. 
+
+Aunque actualmente la mayoría de las NRAs no han incorporado aún ninguna solución de IA para llevar a cabo sus funciones regulatorias, BEREC destaca el potencial de estas herramientas para lograr eficiencias en la realización de actividades públicas, incluyendo el apoyo al cumplimiento de tareas regulatorias. Un ejemplo identificado en el informe es el proyecto de la FCC para el uso de la IA en el mapeo de banda ancha. 
+
+Aunque BEREC no ha analizado específicamente la IA antes, algunos de sus informes tocan temas relevantes para la adopción de la IA. Entre los documentos de BEREC que se deben considerar se encuentran el documento de entrada...BoR (22) 191 
+
+5 
+
+sobre las Implicaciones Regulatorias Potenciales de la Redes Definidas por Software y la Virtualización de Funciones de Red4, el Informe sobre la Economía de los Datos5, el Informe Resumido sobre las conclusiones del Taller de BEREC sobre Open RAN6, el Informe sobre Habilitar el Internet de las Cosas7 y, más recientemente, la Opinión de Alto Nivel sobre la propuesta de la Comisión Europea para un Acta de Datos8. 
+
+Para la elaboración de este informe, BEREC recopiló información a través de tres encuestas. 
+Una de ellas se dirigió a las NRA y se centró en la adopción de soluciones de IA para fines regulatorios y la identificación de los casos de uso relevantes para el estudio. Las otras dos se dirigieron a los jugadores del mercado y académicos. Sin embargo, solo se recibió una respuesta de la academia. La lista completa de los respondientes está disponible en el ANEXO I.  
+
+2. MARCO JURÍDICO  
+
+En octubre de 2017, el Consejo Europeo invitó a la Comisión a presentar un enfoque europeo sobre inteligencia artificial para principios de 20189. El Consejo Europeo concluyó que la UE necesitaba un sentido de urgencia para abordar las tendencias emergentes: esto incluye temas como la IA y las tecnologías de blockchain, al mismo tiempo que se garantiza un alto nivel de protección de datos, derechos digitales y estándares éticos. Siguiendo esta invitación del Consejo, la Comisión publicó una estrategia europea en abril de 2018, la Comunicación sobre la Inteligencia Artificial para Europa10. Esta estrategia coloca a las personas en el centro del desarrollo de la IA y tiene como objetivo hacer que la UE sea un centro de clase mundial para la IA. En abril de 2021, la Comisión presentó un paquete de IA que incluía una Comunicación sobre el fomento de un enfoque europeo para la inteligencia artificial11; una actualización del Plan Coordinado sobre IA (con los Estados miembros de la UE),12 una propuesta para un reglamento que establece normas armonizadas sobre IA13 (el borrador de la Ley de Inteligencia Artificial, en adelante, Ley de IA), y la Directiva de Responsabilidad de IA. 
+
+La Ley de IA tiene como objetivo garantizar que los sistemas de IA en la UE sean humanos, seguros y en línea con la legislación de la UE, así como proporcionar certeza jurídica para facilitar la inversión y la innovación en IA. La Ley de IA también proporciona un marco de gobernanza y aplicación para la aplicación de los requisitos fundamentales y de seguridad en los sistemas de IA. En última instancia, la Ley de IA tiene que garantizar que los sistemas de IA sean éticos y responsables.BoR (22) 191 
+6 
+
+facilitar el desarrollo de un mercado único para aplicaciones de IA legales, seguras y confiables 
+y prevenir la fragmentación del mercado. 
+
+La Ley de IA permite la diferenciación de sistemas de IA considerando: 
+a. Sistemas de IA de riesgo inaceptable que son particularmente dañinos y contravienen los valores de la Unión (por ejemplo, sistemas de IA que despliegan técnicas subliminales más allá de la conciencia de una persona para distorsionar materialmente el comportamiento de esa persona de manera que cause o sea probable que cause daño físico o psicológico a esa persona o a otra persona). Esos sistemas de IA están prohibidos por la Ley de IA. 
+b. Sistemas de IA de alto riesgo que suponen riesgos significativos para la salud y la seguridad o los derechos fundamentales de las personas. La Ley de IA impone un conjunto de requisitos a esos sistemas y deben seguir procedimientos de evaluación de conformidad antes de que puedan ser colocados en el mercado de la Unión. 
+c. Sistemas de IA de riesgo limitado en los que solo se imponen obligaciones de transparencia mínimas (por ejemplo, chatbots). 
+d. Riesgo mínimo en el que no se imponen obligaciones legales (por ejemplo, filtros de spam). 
+Las reglas propuestas se aplicarán a nivel de Estado miembro, y se contempla un mecanismo de cooperación a nivel de la Unión con el establecimiento de una Junta Europea de Inteligencia Artificial. 
+Finalmente, se proponen medidas para apoyar la innovación, como sandbox regulatorios de IA. 
+En el momento de escribir este informe, los legisladores debaten la clasificación de infraestructuras digitales bajo las diferentes categorías de la Ley de IA. La propuesta de la Comisión Europea (CE) incluye como sistemas de IA de alto riesgo relacionados con la gestión y operación de infraestructuras críticas aquellos destinados a ser utilizados como componentes de seguridad en la gestión y operación de tráfico por carretera y el suministro de agua, gas, calefacción y electricidad, pero no ECN/S. 
+Los encuestados en la encuesta realizada entre los jugadores del mercado subrayaron que ECN/S no debería ser clasificado como de alto riesgo per se, sino solo cuando se refiere al uso de aplicaciones de IA en ECN/S para la gestión de las mencionadas infraestructuras críticas. BEREC observa que abordar este tema no es parte del alcance de este Informe.  
+Además de la legislación específica que aborda la IA, el acervo de la UE incluye un número de piezas legislativas relevantes que regulan las condiciones de acceso a los datos, una entrada esencial para el desarrollo de la IA. Los principales son el Reglamento General de Protección de Datos (RGPD), 
+la Directiva sobre privacidad y comunicaciones electrónicas, la Directiva sobre redes y 
+servicios de comunicaciones electrónicas.BoR (22) 191 
+7 
+ 
+Seguridad de la Información (NIS) Directiva17, el Reglamento sobre un marco para el flujo libre de datos no personales en la Unión Europea18, la Directiva sobre datos abiertos y reutilización de la información del sector público19, el Acta de Gobernanza de Datos20, así como la propuesta de Reglamento sobre normas armonizadas para el acceso justo y uso de datos (Acta de Datos)21. Recientemente, se publicó una propuesta de Directiva sobre la adaptación de las normas de responsabilidad civil no contractual a la inteligencia artificial (Directiva de Responsabilidad de IA)22.  
+3. ELEMENTOS FUNDAMENTALES DE INTELIGENCIA ARTIFICIAL 
+La Ley de IA define23 los sistemas de IA como software desarrollado con una o varias de las técnicas y enfoques listados en su Anexo I, y puede, para un conjunto determinado de objetivos humanos definidos, generar salidas como contenido, predicciones, recomendaciones o decisiones que influyen en los entornos con los que interactúan.  
+Las técnicas y enfoques de IA en el Anexo I de la Ley de IA abarcan: 
+a) sistemas que emplean enfoques de aprendizaje automático (ML),  
+b) enfoques basados en lógica y conocimiento, y 
+c) enfoques estadísticos (incluyendo estimación bayesiana).  
+BEREC observa que, en el momento de redactar este informe, esta definición está siendo discutida por los legisladores y, por lo tanto, está sujeta a cambios en el proceso legislativo. Sin predecir el resultado del proceso legislativo y considerando que actualmente no hay una definición comúnmente aceptada de sistema de IA, BEREC se basa en la definición de la Ley de IA para la preparación de este informe. La falta de una definición común de IA también fue planteada por los interesados en sus respuestas a la encuesta. 
+La visión general proporcionada en el Anexo I de este Informe contiene detalles técnicos adicionales sobre estas técnicas de IA y otros aspectos técnicos de los sistemas de IA considerados durante la preparación de este Informe.BoR (22) 191 
+
+8 
+
+La última ola de IA ha sido posible gracias a las técnicas de ML. ML se basa en el uso de una gran cantidad de datos para enseñar a las máquinas a resolver problemas determinados. Con base en estos datos, el software puede identificar nuevos patrones y crear nuevas reglas. Un tipo concreto de ML es el aprendizaje profundo o redes neuronales, que buscan imitar el procesamiento del cerebro humano. Los datos de entrada se procesan en diferentes capas. La salida de cada capa se utiliza como entrada para la siguiente capa.
+
+En consecuencia, la IA actualmente se basa en varios habilitadores o entradas: acceso a datos confiables y una gran cantidad de datos, así como capacidad para almacenar y procesar estos datos (es decir, potencia de procesamiento y almacenamiento de datos) y conectividad. Debe tenerse en cuenta que, más allá de la aplicación de sistemas de IA por parte de los proveedores de telecomunicaciones, sus servicios pueden jugar un papel importante para el uso de la IA, por ejemplo, a través de la provisión de servicios de conectividad de baja latencia o a través de datos de movilidad. Además, se espera que tecnologías como las arquitecturas de computación en el borde contribuyan a explotar plenamente el potencial de la IA, haciéndola más accesible y mejorando su rendimiento. Las dificultades para acceder a uno o más de estos habilitadores pueden implicar desequilibrios en las posibilidades de desarrollar y adoptar la IA por parte de diferentes jugadores.
+
+Los estándares juegan un papel clave al facilitar la interoperabilidad y el cambio, y así mitigar los efectos de bloqueo potenciales. Según van der Vorst et al. (2020), la estandarización ayuda a reducir los costos de desarrollo y el tiempo de llegada al mercado, facilita la supervisión del mercado, y mejora la igualdad de condiciones, así como la interoperabilidad y la innovación, garantizando el control ex ante.
+
+A lo largo de estas líneas, la falta de estándares armonizados para la IA para facilitar su uso en toda Europa también se mencionó como una preocupación por parte de los encuestados.
+
+La Ley de IA ancla la conformidad de los sistemas de IA de alto riesgo con el Reglamento en la conformidad con los estándares relevantes. Por lo tanto, los estándares aprobados por CEN-CENELEC son clave para la implementación de la Ley de IA. Estos pueden incluir estándares relacionados con los datos utilizados para el entrenamiento, el diseño o la clasificación de enfoques computacionales para sistemas de IA.
+
+Además, la Ley de IA fomenta la conformidad voluntaria para todos los tipos de sistemas de IA, así como el desarrollo de códigos para cuestiones importantes como la sostenibilidad social y ambiental.
+
+Más allá de la Ley de IA, un organismo de estandarización relevante en particular para el sector de las telecomunicaciones es la Unión Internacional de Telecomunicaciones (UIT), que ha publicado una variedad de estándares para aplicaciones de IA relacionadas con las telecomunicaciones, y ha establecido múltiples grupos de trabajo.BoR (22) 191 
+
+9 
+
+grupos dedicados a temas específicos, como la Iniciativa Global sobre IA y Comunes de Datos30. 
+En la UE, el Instituto Europeo de Estándares de Telecomunicaciones (ETSI) también está llevando a cabo un trabajo extenso relacionado con la IA en el sector de las telecomunicaciones. En promedio, los encuestados calificaron las inquietudes sobre la falta de estándares de IA con un 3 en una escala de 1 (no importante) a 5 (muy importante), mientras que un encuestado destacó que la supervisión de la calidad del producto/servicio de IA en el que dependen y que es suministrado por un tercero, presenta un desafío para ellos, expresando el deseo de marcos de certificación de terceros (como ISO).  
+El ecosistema de IA está conformado por una multitud de partes interesadas e instituciones. Se presenta una visión general de algunos de estos actores en el ANEXO III. Sin embargo, es importante tener en cuenta que las actividades de estos actores tienen lugar en varios niveles. A nivel de la UE, muchas de las actividades se centran en la propuesta de Ley de IA y marco de responsabilidad, y abarcan partes interesadas tan diversas como autoridades de protección de datos, proveedores de hardware y software, así como organismos de estandarización. A nivel de Estado miembro, las estrategias de IA suelen dar forma a la manera en que las empresas, la investigación y las organizaciones no gubernamentales (ONG) se involucran, y qué temas se priorizan. Más allá de la UE, el Consejo de Europa está trabajando en un tratado con respecto a los impactos de los sistemas de IA en los derechos humanos.  
+4. INTELIGENCIA ARTIFICIAL EN TELECOMUNICACIONES  
+La IA es una tecnología transversal que puede aplicarse a una variedad de casos de uso. En el sector de las telecomunicaciones, los procesos están altamente digitalizados y los datos digitales31 están disponibles para entrenar y operar sistemas de IA, lo que facilita la adopción de tecnologías de IA. Además, la escala de las redes de telecomunicaciones y la complejidad de gestionar redes, así como la gestión de la relación con el cliente, incentivan la adopción de sistemas automatizados.  
+Mapear el impacto de la IA en el sector de las telecomunicaciones requiere un compromiso detallado con los actores involucrados, los conjuntos de datos con los que se entrenan los sistemas de IA, el hardware requerido para ejecutar sistemas de IA, así como una comprensión de cómo los productos y servicios de telecomunicaciones que integran IA están siendo utilizados por y afectan a los consumidores. Con este informe, BEREC busca proporcionar una visión general inicial de los temas y algunas áreas clave de aplicación en el sector de las telecomunicaciones, que podrían proporcionar una base para un análisis más profundo en otros flujos de trabajo.  
+                                                 
+aprendizaje en redes futuras, incluyendo IMT-2020 (https://www.itu.int/ITU-T/recommendations/rec.aspx?rec=14134), la Recomendación ITU-T Y.3116 sobre tipificación de tráfico IMT-2020 basada en un enfoque de inteligencia artificial (https://www.itu.int/ITU-T/recommendations/rec.aspx?id=14855), la Recomendación ITU-T Y.3178 sobre un marco funcional de provisión de servicios de red basados en inteligencia artificial en redes futuras, incluyendo IMT-2020 (https://www.itu.int/ITU-T/recommendations/rec.aspx?id=14613) y otros. 
+30 https://www.itu.int/en/ITU-T/extcoop/ai-data-commons/Pages/default.aspx   
+31 Siempre y cuando este uso esté en línea con la legislación de protección de datos relevante (por ejemplo, RGPD y Directiva de Privacidad Electrónica).BoR (22) 191 
+10 
+ 
+4.1. Beneficios 
+Las tecnologías de IA prometen considerables ahorros en términos de costos y pueden ayudar a automatizar 
+procesos complejos y/o repetitivos. Las soluciones basadas en IA se esperan que ayuden a los jugadores del mercado de telecomunicaciones – operadores de redes, proveedores de equipos y proveedores de aplicaciones – a proporcionar servicios personalizados a los usuarios y mejorar la calidad de la red, mediante la extracción de valor del análisis de grandes cantidades de datos y la aplicación de procesos de predicción y toma de decisiones mejorados. Los proveedores de ECN/S recopilan información muy valiosa tanto de sus clientes (por ejemplo, perfil de tráfico, geolocalización, uso del servicio) como de sus redes (por ejemplo, indicadores de rendimiento, estadísticas, dispositivos). Estas fuentes de datos podrían ser explotadas de manera eficiente con técnicas de IA para optimizar la operación de la red, mejorar el servicio al cliente o detectar nuevas oportunidades comerciales.  
+Es importante destacar que las aplicaciones de IA prometen ahorros significativos: en el caso de topologías de red virtuales en conexión con redes fijas, una aplicación se calculó que ahorró hasta un 20% en CapEX y un 25% en OpEX (Mata et al., 2018, p. 51)32. La importancia de los ahorros de costos también se destacó en la encuesta entre los encuestados.  
+El ritmo rápido de la innovación tecnológica inherente a la evolución de la red, el crecimiento exponencial de los datos y los dispositivos conectados y los requisitos de servicio cada vez más desafiantes dan como resultado una infraestructura de red cada vez más compleja. La inteligencia de red y la automatización son necesarias para gestionar la expansión y densificación de la infraestructura de red y los dispositivos en redes de comunicaciones, especialmente para las redes de próxima generación como 5G, donde la IA es una fuerza impulsora detrás de la innovación y la transformación digital de los modelos de negocio.  
+Según la encuesta realizada por BEREC, los principales motivos para utilizar sistemas de IA fueron mantener la competitividad al proporcionar o adoptar soluciones innovadoras, mantener la flexibilidad y agilidad (por ejemplo, monitorear problemas emergentes y facilitar la intervención), obtener garantías de seguridad y optimizar operaciones. Los dos motivos menos prioritizados fueron la personalización y la consideración de los sistemas de IA como impulsores de nuevos ingresos comerciales (ver Figura 4 ¿Cuáles son los beneficios que persigue o prioriza al evaluar si implementar una nueva solución de IA? Calificación promedio de los encuestados (n=7) en el ANEXO II).  
+Otra fuente de información complementaria que destaca el valor de la IA para el sector de las telecomunicaciones es el informe recientemente publicado por Ericsson33 basado en una encuesta a más de 80 proveedores de servicios de comunicaciones (CSPs) en todo el mundo. En este informe, la mayoría de los proveedores cree que la IA puede resultar en reducciones de OpEX de TI y red, así como en rendimientos sobre la inversión entre el 5 y el 10 por ciento. La mayoría de ellos tiene implementaciones de IA en curso o planificadas, principalmente enfocadas en la experiencia del cliente y del servicio, seguridad y operaciones de TI.BoR (22) 191 
+11 
+ 
+y destaca la mejora de la experiencia del cliente y la optimización de las operaciones de la red como los principales beneficios de la implementación de IA.  
+4.2. Riesgos 
+Aunque la tecnología de IA está trayendo beneficios a la operación y la provisión de servicios en las redes de telecomunicaciones, hay varios factores que deben tenerse en cuenta al evaluar el impacto de los sistemas de IA en este campo.  
+Los riesgos descritos se basan en las respuestas de la encuesta realizada por BEREC con expertos del mercado y se centran en aquellos percibidos como los más relevantes. Sin embargo, BEREC nota que hay riesgos adicionales. Algunos ejemplos incluyen el potencial bloqueo de un operador a un proveedor determinado cuando se vuelve dependiente de un modelo de IA. Otro ejemplo podría ser que un proveedor entrena su modelo de IA utilizando los datos de un operador específico y reutiliza el mismo modelo "entrenado" para otro operador. Esto permite ganar eficiencias en términos de tiempo y costos de capacitación, pero plantea preguntas sobre la propiedad del modelo y, potencialmente, sobre la privacidad.  
+Según la encuesta de BEREC, los riesgos y desafíos de implementar sistemas de IA relacionados con la detección de sesgos en los datos, la responsabilidad en caso de error y el acceso a datos confiables fueron las áreas de mayor preocupación para los encuestados (ver Figura 5 ¿Cuáles de los siguientes riesgos y desafíos le preocupa actualmente más? Promedio de calificación de los encuestados (n=7, excepto para "Otros riesgos de competencia", donde n=6) en el ANEXO II).  
+4.2.1. Disponibilidad de datos no sesgados y confiables  
+Aunque no todos los enfoques computacionales para sistemas de IA requieren grandes cantidades de datos, el acceso a conjuntos de datos de alta calidad es crucial para entrenar y desplegar sistemas de IA. Los datos de baja calidad y, en particular, los datos sesgados llevarán a salidas de baja calidad y sesgadas, y pueden afectar negativamente no solo al usuario de IA, sino también a otros stakeholders. El riesgo de datos sesgados fue uno de los principales motivos de preocupación de los encuestados (junto con la responsabilidad en caso de error) en el contexto de la implementación y/o desarrollo de IA. Al mismo tiempo, destacaron el papel importante del ecosistema de datos: dos tercios de los encuestados están de acuerdo en que los sistemas de IA impulsarán la necesidad de gobernanza de datos para compartir datos con socios o terceros, y que los proveedores de servicios en la nube tendrán un papel en el manejo de datos de los usuarios finales y los CSP (ver Error! Fuente de referencia no encontrada.).  
+Los sistemas de IA requieren recursos significativos durante su desarrollo y uso. Además de los datos adecuados para entrenar y probar sistemas de IA, también se necesita personal capacitado. Los recursos informáticos necesarios para el despliegue de sistemas de IA no son desdeñables. Los encuestados calificaron las preocupaciones sobre el acceso a datos como relativamente altas, mientras que la escasez de expertos técnicos no fue una preocupación dominante. Las asimetrías en el acceso a estos recursos pueden, a su vez, llevar a una brecha entre los operadores de telecomunicaciones más pequeños y más grandes.Proveedores. Sin embargo, los riesgos de competencia asociados con el acceso desigual a los recursos 
+fueron considerados como dos de los riesgos que recibieron las calificaciones más bajas por parte de los encuestados. 
+
+En el sector de las telecomunicaciones, la brecha digital sigue siendo un problema importante que puede 
+agravarse si las mejoras en la red impulsadas por la tecnología de IA solo se aplican a las implementaciones urbanas. Es posible que haya menos datos disponibles en áreas rurales en comparación con áreas urbanas, lo que puede llevar a resultados diferentes para los usuarios rurales y urbanos. Esto se refleja en las inquietudes expresadas por los encuestados sobre los riesgos creados por la incertidumbre sobre la fiabilidad de los sistemas de IA debido a los escenarios considerados durante su capacitación. Los encuestados calificaron este riesgo con un promedio de 3,6 (sobre 5, siendo 5 "alta importancia de este riesgo"). 
+
+Además, la falta de acceso a datos y/o sistemas de IA para iniciativas locales o regionales que despliegan redes en áreas rurales podría llevar a una desventaja para estos actores en comparación con los proveedores de telecomunicaciones y digitales establecidos. 
+
+4.2.2. Responsabilidad en caso de error 
+
+La implementación de soluciones basadas en IA en redes implica a varios actores de la cadena de valor. Además de los operadores de redes y proveedores de suministros, los proveedores de algoritmos/aplicaciones de IA y los proveedores externos de datos utilizados por los sistemas de IA pueden contribuir, junto con los integradores especializados en proporcionar soluciones personalizadas de extremo a extremo. Dada la naturaleza heterogénea del ecosistema y la automatización de los sistemas de IA, hay incertidumbre sobre la responsabilidad y la responsabilidad de cada actor en caso de resultados inesperados o erróneos. Aunque los acuerdos de nivel de servicio (SLA) pueden incluir disposiciones al respecto, la responsabilidad de quién es responsable de las decisiones tomadas por los sistemas de IA puede ser incierta. 
+
+La importancia de la responsabilidad en caso de error está siendo reconocida por los encuestados, que la clasifican en segundo lugar. 
+
+4.2.3. Falta de confianza en la toma de decisiones 
+
+Los sistemas de IA permiten el procesamiento de grandes cantidades de datos, la automatización de procesos y la detección de patrones en conjuntos de datos. Sin embargo, la complejidad de los sistemas de IA, en particular los sistemas de IA que utilizan enfoques de ML, puede hacer que la evaluación de los resultados sea un desafío importante. 
+
+Los métodos y procedimientos que garantizan que los resultados presentados por los sistemas de IA necesitan ser entendidos y evaluados. En particular, la mejora de la explicabilidad de los resultados será crucial para garantizar que los conflictos entre las partes interesadas en el sector de las telecomunicaciones puedan ser abordados. 
+
+La explicabilidad de la IA se refiere a los medios que permiten a los usuarios entender y confiar en los resultados de la IA. Cuando se trata de decisiones o perfiles que involucran a individuos, las disposiciones del artículo 22 del RGPD establecen el derecho del sujeto de datos a obtener intervención humana y una explicación de la decisión tomada (Rec 71 RGPD). Hay varios marcos técnicos para la IA Explicable y mejorar la transparencia, como la herramienta What-if (flujo de tensor), LIME, DeepLIFT, Shapley, etc.BoR (22) 191 
+13 
+
+Los encuestados calificaron las inquietudes sobre la opacidad de los sistemas de IA con un promedio de 3,4 (siendo 5 la calificación más alta). Se han implementado varias medidas técnicas para asegurar la explicabilidad y aumentar la confianza en la toma de decisiones por parte de los stakeholders que respondieron, como sistemas de registro y informes, niveles de explicación adaptados a grupos de stakeholders, documentación detallada y triggers con umbrales para identificar desviaciones críticas.
+
+4.2.4. Privacidad 
+
+En el contexto de compartir datos, también son muy relevantes los aspectos de privacidad. En particular, si los datos utilizados por los sistemas de IA se manejan con salvaguardias adecuadas para prevenir la vigilancia de usuarios individuales. Los encuestados mencionaron que se guían por las disposiciones del RGPD y el marco regulatorio para las telecomunicaciones (Código Europeo de Comunicaciones Electrónicas -EECC- y Directiva de Privacidad), y desarrollan procesos para asegurar que el acceso y el uso de datos sean compatibles con los requisitos legales, tanto en interés de la protección de la privacidad como para asegurar la confidencialidad empresarial. Un respondiente notó que la confidencialidad empresarial se asegura a través de acuerdos de no divulgación, pero agregó que estos eran insuficientes para proteger su estrategia empresarial.
+
+La privacidad de los datos, la seguridad y la integración de IA son los principales desafíos que enfrentan los CSP cuando implementan soluciones de IA mencionadas en el informe de Ericsson. Las inquietudes sobre la privacidad de los datos encontradas en el informe parecen surgir de la renuencia a compartir datos entre diferentes partes de la misma organización.
+
+4.2.5. Seguridad 
+
+La investigación en ciberseguridad sigue siendo un campo importante para la IA, en particular para detectar y prevenir ciberataques. Al mismo tiempo, es necesario tomar medidas adecuadas para asegurar que estos sistemas de IA para la ciberseguridad sean robustos y confiables. Los sistemas de IA desplegados por los proveedores de telecomunicaciones también deben ser adecuadamente seguros para prevenir ataques malintencionados con impactos potencialmente amplios. Como muchos algoritmos de IA no son deterministas, los sistemas de IA pueden ser abusados. Son vulnerables a ataques adversarios automatizados, a menudo liderados por otros sistemas de IA, donde se manipula los datos para engañar al modelo y obtener resultados incorrectos.
+
+Otro ejemplo de riesgo de seguridad sería el acceso no autorizado a los datos debido a la falta de control cuando se combinan datos en toda la empresa. Las inquietudes sobre las amenazas de seguridad a los sistemas basados en IA y los datos asociados ocuparon el cuarto lugar cuando se compararon las calificaciones promedio proporcionadas por los encuestados.
+
+La seguridad de la IA es uno de los áreas en las que la Agencia de Ciberseguridad de la UE (ENISA) también está trabajando, y se publicó un informe de paisaje de amenazas sector-agnóstico.BoR (22) 191 
+
+14 
+
+En consonancia con las conclusiones, se promueve el desarrollo de una caja de herramientas de IA, con medidas de mitigación específicas para las amenazas de IA identificadas en el panorama basadas en evaluaciones de riesgo.
+
+4.3. Otros desafíos 
+
+En respuesta a la encuesta de BEREC, los expertos del mercado incluyeron otros desafíos o impactos anticipados que deberían considerarse más a fondo con el aumento en la adopción de soluciones de IA (ver Figura 6 ¿Anticipa alguno de los siguientes cambios en la arquitectura de la red de los CSP como resultado del aumento en la adopción de soluciones de IA? en el ANEXO II). La proliferación del uso de sistemas de IA también puede tener un impacto en los requisitos y el diseño de las redes de telecomunicaciones. Los sistemas de IA basados en instancias en la nube pueden requerir baja latencia para funcionar adecuadamente y podrían llevar a la descentralización en términos de distribución de centros de datos. El uso de sistemas de IA dentro de las redes de telecomunicaciones puede requerir nuevo hardware, como chips de procesamiento. En particular, en el contexto de OpenRAN, podrían surgir problemas con la integración de diferentes componentes de hardware y software (el desafío de integrar IA en sistemas heredados también fue mencionado por uno de los encuestados). Los sistemas de IA a menudo se despliegan junto con la infraestructura de IoT, como sensores, y el gran número de dispositivos conectados a un sistema puede afectar la carga de la red en caso de mal funcionamiento.
+
+Cinco de los seis encuestados coincidieron en que los sistemas de IA impulsarían la necesidad de arquitecturas abiertas y desagregadas, mientras que dos tercios apoyaron la afirmación de que "las soluciones de IA impulsarán aún más la necesidad de computación de borde múltiple y el aumento del uso de nuevos conjuntos de chips que puedan manejar grandes cantidades de datos en el borde de la red". La ubicación del procesamiento de datos también es una cuestión crucial: si en el borde, favorecido para móviles, o en el centro, también impacta el papel potencial de terceros en el ecosistema de datos. Por otro lado, la softwarización y virtualización de las redes fueron mencionadas por los encuestados como casos de uso fuertes para IA en el sector de las telecomunicaciones.
+
+Los sistemas de IA pueden contribuir a la gestión eficiente de las redes de telecomunicaciones y, por lo tanto, reducir su impacto ambiental. El Informe de BEREC 'Sostenibilidad: Contribución de BEREC para limitar el impacto del sector digital en el medio ambiente' destacó el potencial de la IA para contribuir al efecto habilitador de las TIC para lograr un impacto ambiental positivo en la sección sobre iniciativas de partes interesadas: un informe del Grupo de Trabajo de la OCDE sobre Infraestructuras y Servicios de Comunicación (WPCISP) sobre tendencias futuras establece que el uso de sistemas de IA podría considerarse al evaluar el impacto ambiental de las redes de comunicaciones. Al mismo tiempo, el desarrollo y despliegue de sistemas de IA es muy intensivo en recursos si no se gestiona adecuadamente. Esto podría afectar al sector de las telecomunicaciones.BoR (22) 191 
+15 
+
+a través de emisiones de carbono incrementadas, incluso si esos sistemas no son desplegados por los proveedores mismos, como en el caso de aplicaciones de IA basadas en la nube y en dispositivos.39 
+Los sistemas de IA a menudo no se despliegan por sí solos, sino que se integran en sistemas más grandes compuestos por otros hardware, software o vinculados a otros sistemas de IA. Por esta razón, es vital que los sistemas de IA se prueben adecuadamente junto con los demás componentes del sistema antes de su despliegue, y que las interacciones entre diferentes sistemas de IA puedan rastrearse adecuadamente. Estas medidas permiten intervenciones rápidas para solucionar posibles errores o interrupciones. Para mitigar estos riesgos, los encuestados mencionaron desarrollar sistemas de gestión de procesos para analizar y clasificar sistemas automatizados, incluyendo auditoría interna, definir el impacto, ventajas y desafíos durante las fases iniciales de desarrollo, y minimizar el riesgo de fallos por diseño, así como asegurar suficiente supervisión y capacidad de intervención humanas. 
+Además, los desafíos también incluyen diseñar las conexiones entre sistemas de IA de manera jerárquica y construir triggers de alerta para notificar a los centros de operaciones de red y seguridad. 
+En cuanto a las barreras regulatorias existentes para la adopción de IA por parte de los proveedores de telecomunicaciones, la mayoría de los encuestados estuvieron de acuerdo en que los casos de uso en el contexto de las telecomunicaciones no deberían considerarse de alto riesgo en el contexto de la Ley de IA, y que los enfoques de "toque ligero", como directrices o marcos voluntarios, son más adecuados. En particular, se destacó la necesidad de que los reguladores desarrollen una visión holística del uso de IA en las telecomunicaciones, así como los riesgos de marcos legales y competencias superpuestas. Los encuestados actualmente no ven impedimentos regulatorios para el despliegue de IA en el sector de las telecomunicaciones, y uno de los encuestados está de acuerdo en que el EECC proporciona la base para el uso de IA en el sector de las telecomunicaciones.  
+4.3.1. Tendencias futuras  
+Según los encuestados, la adopción de IA en los procedimientos operativos de cada CSP se convertirá en la norma en aproximadamente seis a diez años. La escala de los cambios requeridos en los procesos y arquitecturas, la necesidad de estándares más maduros, desafíos relacionados con sistemas heredados y las dificultades para desarrollar simulaciones de gemelos digitales completamente desarrolladas de los cambios desencadenados por IA en las redes se mencionaron como factores que retrasan este período de adopción.  
+Según los resultados de la investigación de escritorio y algunos jugadores del mercado, las tendencias futuras relacionadas con los sistemas de IA en el sector de las telecomunicaciones pueden incluir los cambios en las redes impulsados o habilitados por sistemas de IA, en particular aquellos basados en tecnologías de red en la nube40, 
+                                                 
+39 Gibney (2022): Cómo reducir la huella de carbono en constante crecimiento de la IA. https://www.nature.com/articles/d41586-022-01983-7   
+40 Xavier & Kantarci, 2018: https://link.springer.com/article/10.1007/s12243-018-0629-4BoR (22) 191 
+16 
+
+como la virtualización de funciones de red (NFV)41 y la redes definidas por software (SDN) con 
+impactos importantes en la configuración y diseño arquitectónico de las redes.42 La softwarización 
+de las redes impulsada por las tecnologías SDN y NFV permite una implementación, configuración y actualización más rápidas y fáciles de las funciones de red, proporcionando funcionalidades de control programable y gestión de recursos esenciales para implementar nuevas características mejoradas como la segmentación de red en redes móviles. La segmentación de red divide la infraestructura física de la red en múltiples redes virtuales para admitir servicios empresariales, aplicaciones y casos de uso diversos, y representa un cambio de paradigma en la forma en que se diseñarán y operarán las redes 5G y más allá (6G). Incorporar soluciones basadas en IA podría mejorar la automatización de la gestión de la red y la optimización del rendimiento de sistemas a gran escala.43. 
+
+Además, la investigación también apunta hacia el desarrollo de aplicaciones de red en chip, la operación conjunta de redes y recursos informáticos, así como el uso de datos de tráfico junto con intenciones declarativas para la orquestación de la red. 
+42 Con sistemas de IA, el papel de las redes también podría cambiar, por ejemplo, en casos en que las redes (como redes de fibra óptica) o routers se utilizan como sensores para aplicaciones de IA44 o para gestionar respuestas en caso de desastres.45 Esta investigación muestra que los sistemas de IA podrían impactar lo que las redes pueden hacer, así como cómo funcionan las redes. En el caso de la red basada en intención, por ejemplo, en lugar de confiar en ingenieros para trazar el camino por el que una red debería operar, se proporciona un objetivo de alto nivel y un sistema de orquestación identifica el proceso óptimo y lo ejecuta.BoR (22) 191 
+17 
+ 
+ 
+Figura 1 Visualización de la orquestación de redes basada en intención declarativa46 
+El crecimiento exponencial de las aplicaciones móviles y servicios, así como el desarrollo de 
+nuevos casos de uso, como soluciones personalizadas basadas en 5G, desafiarán la gestión 
+de las infraestructuras de redes fijas y móviles, aumentando la complejidad de la orquestación 
+de los diferentes segmentos involucrados en la entrega de servicios de red de extremo a extremo. 
+El concepto de Gestión de Redes y Servicios sin Toque Cero (ZSM) -estandarizado por ETSI- 
+ha surgido para orquestar y administrar automáticamente los recursos de red mientras se 
+garantiza la Calidad de Experiencia (QoE) demandada por los usuarios. El objetivo es 
+habilitar redes autónomas impulsadas por políticas y reglas de alto nivel, que serán capaces 
+de autoconfiguración, auto-monitoreo, auto-sanación y auto-optimización sin intervención 
+humana. La tecnología de IA se está adoptando como uno de los habilitadores clave para 
+llevar la toma de decisiones inteligentes al marco de gestión de redes ZSM, donde las 
+operaciones serán impulsadas por datos, predictivas y proactivas, lo que permitirá la agilidad 
+empresarial
+47. 
+Además de estos aspectos relacionados con la infraestructura material, otros casos de uso 
+pueden implementarse, por ejemplo, la segmentación de suscriptores para aumentar la 
+recaudación (por ejemplo, incitar a los suscriptores a utilizar toda su asignación de datos 
+para incentivarlos a comprar recargas) 48. Otro ejemplo sería el uso de IA para fines 
+comerciales (por ejemplo, análisis de churn para retención de clientes en el área de CRM) 
+con el fin de seguir y predecir continuamente la próxima compra.BoR (22) 191 
+18 
+
+Las decisiones de los consumidores objetivo49. Aunque tales esfuerzos pueden parecer lejanos, 
+el desarrollo de marcos de explicabilidad para tales casos de uso muestra que tales casos de uso no son tan exóticos como parecen a primera vista.
+50 Ya sea y cómo tales prácticas afecten los derechos del usuario y en qué medida se requieran requisitos adicionales de transparencia es más allá del tema principal de investigación aquí, pero podría explorarse más a fondo en el futuro. Este trabajo futuro potencial sobre el impacto de la IA en el usuario final podría tener en cuenta que la gestión de clientes fue señalada por varios encuestados como un área clave para la implementación de sistemas de IA en el sector.  
+En la opinión de los encuestados, una serie de temas se volverán importantes en los próximos años, que parcialmente giran en torno al marco jurídico para la IA (implementación de la Ley de IA, explicabilidad del aprendizaje profundo), estándares de IA para la implementación y operación a gran escala, y ética (esta última considerada un tema candente para los responsables políticos). Desde la perspectiva del desarrollo y gestión de redes de telecomunicaciones, operaciones sin tocar, automatización de procesos robóticos, calidad de servicio de aplicación (con redes y aplicaciones que deciden conjuntamente cómo manejar paquetes, flujos y servicios individuales) y agregación de transmisión multi-temática fueron considerados como temas futuros. Finalmente, el tema de los datos para el desarrollo de sistemas de IA (incluyendo la documentación de la infraestructura, el uso de infraestructura crítica y no crítica, así como la integridad de los datos de infraestructura) se consideró relevante para el futuro. 
+5. ÁREAS SELECCIONADAS DE CASOS DE USO DE INTELIGENCIA ARTIFICIAL  
+Los casos de uso descritos en este informe fueron preseleccionados por las NRA considerando aquellos que se consideraron más relevantes según su mandato. Por lo tanto, este capítulo no pretende ser exhaustivo, sino más bien ilustrativo, con el fin de proporcionar una visión general de la variedad de aplicaciones de sistemas de IA en el sector de las telecomunicaciones dentro de estas áreas seleccionadas por las NRA respondientes. Otros sistemas de IA mencionados por los encuestados incluyen el apoyo a medidas de sostenibilidad (por ejemplo, reduciendo el consumo de electricidad de las redes y servicios de comunicaciones electrónicas), aplicaciones de viaje del cliente (por ejemplo, relacionadas con la gestión de la relación con el cliente), cumplimiento óptico y aseguramiento, mantenimiento predictivo, gestión de rebanadas de extremo a extremo y provisión de servicios basados en la ubicación.BoR (22) 191 
+
+19 
+
+5.1. Planificación y Mejora de la Capacidad de la Red 
+5.1.1. Descripción del caso de uso 
+La planificación y mejora de la capacidad de la red son actividades dentro del sector de las telecomunicaciones que requieren recursos masivos, tanto financieros como materiales. Esto se complica aún más por el hecho de que las redes están diseñadas para manejar el uso futuro predicho, ya que están construidas para durar décadas. Al mismo tiempo, la velocidad de desarrollo, especialmente en el sector móvil, requiere modificaciones frecuentes de las redes (despliegue, actualización o migración), lo que significa que la planificación y mejora de la red son actividades continuas. Aunque gran parte de la literatura se centra en el uso de aplicaciones de IA en redes móviles, también existen aplicaciones de IA para redes fijas. 
+Precisamente porque la planificación y mejora de la red es una actividad tan intensiva en recursos y continua, las aplicaciones de IA que reducen el costo de despliegue (financiero o material) son muy atractivas para los proveedores de telecomunicaciones. Esto también fue notado por los encuestados. 
+Para los proveedores de telecomunicaciones es importante predecir el uso de una red y planificar la infraestructura en consecuencia. La planificación de la capacidad de la red tiene como objetivo proporcionar tales predicciones y optimizar el despliegue o gestión de la infraestructura para manejar el uso predicho. Esto también puede significar que las redes pueden ser utilizadas durante más tiempo: por ejemplo, en el caso de las redes de fibra óptica, la multiplexación por división de espacio utilizando modelos de IA puede aumentar la capacidad de una fibra individual y prolongar la vida útil de la infraestructura existente, retrasando la necesidad de desplegar nuevos cables de fibra óptica.
+
+51 
+5.1.2. Aplicaciones relacionadas 
+Los sistemas de IA para facilitar la planificación y mejora de la red pueden aplicarse tanto a redes fijas como móviles. Pueden, por ejemplo, predecir sitios prioritarios, identificar ubicaciones óptimas o rutas para el despliegue, maximizar la eficiencia energética, minimizar el número requerido de transmisores o estaciones base, o diseñar nuevas arquitecturas de red. Por ejemplo, Chu et al. (2021) desarrollaron un modelo de aprendizaje profundo capaz de reconocer posibles puntos de montaje de antenas en el contexto de la implementación de acceso inalámbrico fijo para ayudar a desarrollar informes de estimación de cobertura. 
+Según los encuestados, las aplicaciones actualmente implementadas incluyen sistemas de IA para la predicción de tráfico, la softwarización y virtualización de la red, la optimización de rutas y la planificación de cables de mejora o actualización de redes 5G.52 
+
+51 Jatoba-Neto et al., 2018: https://opg.optica.org/jocn/abstract.cfm?uri=jocn-10-12-991 
+52 El ejemplo de planificación de redes 5G se centró principalmente en servicios eMBB y FWA en la etapa de planificación.Optimización de rutas y optimización de actualización de cables incluyen aplicaciones como toma de decisiones asistida por datos para la reconstrucción de cobre, o toma de decisiones automatizadas y migración para rutas de fibra internas. 
+
+Las técnicas de predicción de demanda de tráfico y capacidad permiten simular varios escenarios posibles y adaptar el diseño de la red y las inversiones para asegurar el rendimiento de la red y la calidad del servicio (QoS) requeridos por los clientes. Una aplicación identificada a través de la investigación de escritorio sería la simulación del impacto de diferentes formas de soluciones de conmutación.53 En el caso de la softwarización y virtualización de la red, los sistemas de IA se consideran habilitadores clave, ayudando a llevar a cabo el cambio a operaciones de red dinámicas debido a su capacidad para procesar grandes conjuntos de datos en tiempo real y ejecutar tareas de manera automatizada. Otro ejemplo es el uso de IA en la optimización de la Red de Entrega de Contenido (CDN). Esto permite identificar proactivamente patrones de tráfico de red y responder adecuadamente a la demanda de tráfico de comunicaciones, para que los usuarios puedan experimentar un rendimiento de contenido mejorado. Es decir, la IA ayuda en este caso a abordar mejor el problema de qué servidor de borde la CDN dirigirá la solicitud del usuario a.
+
+Los desafíos para el desarrollo de sistemas de IA para planificación y actualización de redes incluyen la falta de acceso a cantidades suficientes de datos confiables y la falta de capacidad computacional para entrenar y desplegar estos modelos. Estos desafíos se pueden resolver de varias maneras, por ejemplo, mediante el uso de técnicas específicas, como redes adversas generativas,55 o combinando enfoques dirigidos por datos y modelos. Con enfoques de aprendizaje automático, los problemas de corrupción de datos son igualmente importantes para las fases de entrenamiento y despliegue. Los encuestados también notaron que la necesidad de acceder a datos de diferentes fuentes y en diferentes formatos sigue siendo un desafío.
+
+Los encuestados indicaron que planean analizar datos de tráfico y rendimiento para planificar capacidades de red con centros de mitigación y automatización, emplear sistemas de IA para mantenimiento predictivo, automatizar el procesamiento de datos para la planificación de capacidad de red y optimizar redes 4G. En cuanto al mantenimiento predictivo, uno de los encuestados notó que los modelos predictivos ayudan a anticipar problemas potenciales en la red relacionados con la degradación del servicio o fallos potenciales relacionados con varios aspectos (como obsolescencia y fallo de equipo, problemas de carga, optimización del uso de energía, etc.) que pueden ayudar a establecer un plan de acción para mitigar el impacto en los clientes.
+
+Un caso de uso detallado proporcionado en el contexto de la encuesta se refiere al uso de sistemas de IA para la planificación de capacidad para reducir el consumo de electricidad. Con base en datos históricos, la capacidad para sitios móviles puede reducirse o apagarse en momentos en que se predice que la carga sea menor en ciertos momentos (noches, fines de semana) o en ciertas áreas (áreas de casas de verano), mientras que la capa de conectividad sigue funcionando. Si el tráfico aumenta, las capas adicionales de capacidad pueden activarse.BoR (22) 191 
+21 
+
+Se reanudó nuevamente. A través de estas medidas, se estima un ahorro de energía de un factor de aproximadamente 2,8 sin degradación de la red.56  
+Otro caso de uso concreto proporcionado por un experto del mercado se refiere a la mitigación de la congestión en las redes móviles. En particular, la aplicación de IA para el equilibrio de carga de movilidad en la red de radio, con el objetivo de descargar óptimamente el tráfico de celdas congestionadas a celdas vecinas con carga reducida.    
+En el contexto de la planificación de capacidad, algunos de los desafíos identificados incluyeron lidiar con las compensaciones de diferentes tipos de implementación y los costos de inversión asociados.51   
+5.1.3. Conclusiones e implicaciones regulatorias 
+Tanto la investigación de escritorio como las respuestas de la encuesta indican que hay muchos ámbitos potenciales en los que se podrían desarrollar y aplicar sistemas de IA para apoyar actividades relacionadas con la planificación y actualizaciones de la red. Los stakeholders prevén que la IA jugará un papel importante en este dominio en telecomunicaciones en el futuro. En el lado regulatorio, las NRA consideran que es muy relevante que BEREC siga de cerca los avances tecnológicos que la IA puede traer a la planificación y monitoreo de la red, y que esté al tanto de las posibles implicaciones para los objetivos estratégicos de conectividad y mercados abiertos y sostenibles. Algunos de los problemas que podrían surgir se presentan aquí de manera ilustrativa. 
+Muchos gobiernos financian la implementación de banda ancha (fija/móvil). Utilizar herramientas de IA podría ayudar a reducir el costo de implementación en diferentes escenarios, como el caso de seleccionar los mejores puntos de ubicación para instalar celdas (en particular, la implementación de pequeñas celdas), o las rutas más adecuadas para la implementación de fibra. Si estos sistemas de IA podrían ser compartidos por operadores y municipalidades utilizando un enfoque de commons de IA como el propuesto por la UIT57, merecería una investigación adicional.  
+Los ahorros potenciales que se podrían lograr, particularmente en el contexto de la planificación y actualizaciones de la red, muestran que los operadores tienen un incentivo para utilizar modelos de IA en sus redes.  
+Dado que otros stakeholders, además de los proveedores de telecomunicaciones tradicionales, pueden estar involucrados en la implementación de la red, surge la pregunta de si los proveedores de redes alternativos (por ejemplo, municipalidades en el caso de la implementación de redes de fibra óptica) tienen acceso a los datos y modelos robustos necesarios para lograr ahorros similares. Finalmente, los diferentes niveles de disponibilidad de datos para regiones específicas y un enfoque en áreas urbanas en lugar de rurales58 pueden llevar a niveles desiguales de madurez o aplicación de modelos de IA.  
+La transparencia sobre los pesos y compensaciones incluidos en los algoritmos de IA a nivel de red puede ser necesaria, por ejemplo, si los MVNO presentan quejas sobre ser afectados negativamente por algoritmos desplegados por sus MNOs anfitriones para administrar la capacidad. En tales casos, las NRA yProveedores de telecomunicaciones (22) 191 
+22 
+
+Los proveedores de telecomunicaciones pueden necesitar encontrar enfoques comunes para evaluar el impacto de los sistemas de IA y asegurar la explicabilidad. 
+Por ejemplo, el uso de sistemas de IA para reducir el consumo de electricidad de las redes móviles muestra que se pueden obtener beneficios significativos al emplear sistemas de IA para medidas de sostenibilidad. Sin embargo, algunos usuarios pueden experimentar demoras en recibir la capacidad total y no ser conscientes de tales medidas. Este problema en particular puede ser exacerbado si los usuarios en áreas rurales son afectados de manera diferente por tales medidas que los usuarios en áreas urbanas. Finalmente, tales sistemas de IA pueden no estar completamente bajo el control de los proveedores de telecomunicaciones, ya que pueden estar incrustados en el hardware de la red. 
+
+5.2. Modelado de canales, predicción y propagación 
+5.2.1. Descripción del caso de uso 
+El modelado de canales es uno de los temas de investigación más importantes para las comunicaciones inalámbricas, ya que el canal de propagación determina el rendimiento de cualquier sistema de comunicación que opera en él. En particular, el modelado de canales es un proceso de exploración y representación de características de canales en entornos reales, lo que proporciona directrices para la planificación y optimización de la red. Los modelos de canales se basan en datos recopilados durante campañas de medición en escenarios representativos. El uso de antenas de múltiples entradas y salidas (MIMO), formación de haces y ondas milimétricas en las nuevas generaciones de redes de comunicación inalámbrica crea la necesidad de desarrollar nuevos modelos de canales, posiblemente con la ayuda de algoritmos de IA. 
+
+La literatura disponible proporciona descripciones de varios modelos desarrollados para predecir el uso del canal, algunos de ellos basados en redes neuronales. Jiang y Schotten (2016)59 consideran que el desafío en la predicción del canal es la estimación de parámetros. Esta estimación se basa en las respuestas de impulso del canal actuales y pasadas. Para desarrollar el modelo, han utilizado redes neuronales recurrentes (RNN), una clase de aprendizaje automático que utiliza tanto datos de entrenamiento como memoria de estados pasados, mientras que las fases son las mismas que en cualquier técnica de IA (entrenamiento e inferencia). Los resultados han mostrado la efectividad de la RNN contra la información del estado del canal desactualizada, mientras que tienen una complejidad computacional moderada. El predictor puede ser aplicado en canales de fading MIMO plano y selectivo de frecuencia.BoR (22) 191 
+
+23 
+
+Ding y Hirose (2014)60 propusieron métodos de predicción basados en redes neuronales de valores complejos. Estos incluyen una combinación de tiempo y frecuencia, y reducen los costos de aprendizaje. 
+Rappaport et al. (2017)61 mencionan la importancia de los modelos de canal para simular la propagación de una manera "reproducible y costo-efectiva" y para el diseño y comparación de interfaces de radio aéreo y despliegue de sistemas. La visión general de diferentes modelos y estándares ha demostrado que los modelos de propagación son vitales para el mejoramiento de la industria móvil. 
+
+5.2.2. Aplicaciones relacionadas 
+
+Los resultados de la encuesta dentro de BEREC apuntan hacia un alto interés en el tema, la mayoría de las respuestas se encuentran en el rango superior de la escala. Las respuestas para toda la categoría de planificación y monitoreo están justificadas, en principio, teniendo en cuenta el objetivo estratégico relacionado con la promoción de la conectividad. Algunos respondientes mencionaron que algunas de las aplicaciones ya están relacionadas con las actividades regulatorias, uno señaló específicamente el modelado de canal. 
+
+De las cinco respuestas recibidas de la industria sobre la implementación o los planes para implementar aplicaciones de IA para el modelado de canal, predicción y propagación, tres fueron positivas, lo que indica un interés en este área. Los detalles proporcionados por los respondientes muestran la importancia del monitoreo de la red en tiempo real, lo que permite la detección temprana de anomalías, patrones y tendencias, y, por lo tanto, tiempos de diagnóstico y reparación mejorados en la red. También se señaló que el modelado de canal es proporcionado principalmente por los proveedores de equipo de radio móvil.  
+
+Las respuestas son aún más relevantes en el contexto en que la mejora de la predicción y los modelos de toma de decisiones, y la reducción de costos son algunos de los beneficios percibidos más altos de la implementación de soluciones de IA. 
+
+Al mismo tiempo, el respondiente que indicó que las aplicaciones son proporcionadas principalmente por los proveedores mencionó como un riesgo/desafío específico la dependencia de la calidad del producto entregado y el control de calidad, lo que podría mitigarse mediante una certificación de un tercero (por ejemplo, ISO). 
+
+5.2.3. Conclusiones e implicaciones regulatorias 
+
+Tanto los reguladores como los stakeholders consideran que el modelado de canal es un aspecto importante para el monitoreo de la red. Para los NRAs, esto es especialmente relevante en el contexto de promover la conectividad, así como para sus propias actividades, y para los stakeholders en relación con los beneficios en términos de reducción de costos y QoS.BoR (22) 191 
+24 
+ 
+5.3. Compartir Espectro Dinámico  
+5.3.1. Descripción del caso de uso  
+El espectro de radio es un recurso económico fundamental en el sector de las comunicaciones electrónicas, 
+y su importancia ha aumentado en los últimos años debido a la expansión masiva del tráfico de servicios inalámbricos62. Dado que, por naturaleza, el espectro es un recurso escaso, es crucial tener una gestión adecuada para asegurar que se utilice de manera eficiente y que maximice todo el valor que puede entregar. El considerando 107 del EECC establece que el espectro de radio es un recurso público escaso con un importante valor público y de mercado. Es un insumo esencial para las redes y servicios de comunicaciones electrónicas basadas en radio, y, en la medida en que se relaciona con dichas redes y servicios, debería asignarse y asignarse de manera eficiente por las autoridades reguladoras o competentes nacionales de acuerdo con objetivos y principios armonizados que rigen su acción, así como según criterios objetivos, transparentes y no discriminatorios, teniendo en cuenta los intereses democráticos, sociales, lingüísticos y culturales relacionados con el uso del espectro de radio.  
+La gestión clásica del espectro, basada en una política de asignación de espectro fija, conduce a un uso ineficiente debido a la subutilización. Por ejemplo, según diferentes estimaciones para varios países, solo una fracción del espectro de radio asignado se utiliza realmente, en algunos casos con tasas de ocupación muy bajas63 64. Por lo tanto, un enfoque dinámico para la gestión del espectro podría aumentar la eficiencia65.  
+Bajo su Plan de Acción 5G, la CE quiere impulsar los esfuerzos de la UE para la implementación de infraestructuras y servicios 5G en toda Europa. Junto con el EECC, y entre otras cosas, quiere asegurar la asignación y disponibilidad oportuna del espectro de radio66. La CE ha identificado y cuantificado los requisitos de espectro que se necesitarán para cumplir con su plan.BoR (22) 191 
+
+Objetivos bajo diferentes escenarios de compartición. En el escenario sin compartición, se necesitarían alrededor de 76 GHz para satisfacer las necesidades de los usuarios, mientras que en un escenario de compartición total, 19 GHz serían suficientes, lo que implicaría una reducción drástica en los requisitos de espectro.
+
+5.3.2. Aplicaciones relacionadas
+
+Las técnicas de ML se utilizan para optimizar el flujo de datos entre estaciones base y redes móviles. Una red funcionando correctamente necesita parámetros diferentes que definan la capacidad y eficiencia del espectro de radio, como la distancia a los usuarios y los usuarios conectados. Esos parámetros pueden ser mejorados por la IA.
+
+El Servicio de Radio de Banda Ancha Ciudadana (CBRS) permite un mapeo dinámico del espectro, resolviendo parcialmente algunos de los problemas de subutilización. Bajo este sistema, varias plataformas automáticas certificadas (Sistemas de Acceso al Espectro, SAS) están autorizadas para otorgar permisos dinámicos a dispositivos (CBSD) para utilizar canales asignados según información de geolocalización, información en tiempo real de una red de detección (Capacidad de Detección Ambiental, ESC) y una base de datos de licencias prioritarias otorgadas.
+
+Según Ying-Chang Liang (2020), los beneficios más relevantes de aplicar técnicas de IA al manejo dinámico del espectro son la extracción automática de características (AFE), porque los esquemas de IA pueden extraer automáticamente características de los datos. Otros beneficios se relacionan con la robustez en el entorno dinámico (RDE), lo que implica que, gracias al enfoque basado en datos y el aprendizaje continuo, el manejo del espectro no se ve afectado por los cambios en el entorno de radio, y la implementación descentralizada (DI), lo que significa que el controlador central ya no es necesario y cada dispositivo puede obtener autonomamente su recurso de espectro requerido; y la reducción de complejidad (RC).
+
+Siguiendo a Ying-Chang Liang (2020), hay tres aplicaciones recientes importantes de técnicas de ML que podrían contribuir a un mejor manejo del espectro y resolver parcialmente problemas relacionados con la precisión, el rendimiento, la complejidad y la subutilización.
+
+• Aprendizaje automático para la detección del espectro
+La detección del espectro es una tecnología primaria para la radio cognitiva. Su propósito es evitar interferencias con usuarios licenciados y ayudarlos a detectar el estado del espectro y su disponibilidad.BoR (22) 191 
+26 
+
+Disponibilidad71. Con el fin de aumentar la precisión de la detección de espectro, se han desarrollado varios algoritmos de detección de espectro: detector de correlación-estimador, detector de energía semi-ciego y detección de energía combinada ciega. 
+Recientes evidencias sugieren que los métodos basados en técnicas de aprendizaje profundo realizan mejor que los métodos de detección de espectro tradicionales (es decir, método de relación de autovalores máximos y mínimos y método de entropía de dominio de frecuencia).
+
+72. 
+• Aprendizaje automático para la clasificación de señales 
+La capacidad de clasificar señales es una tarea fundamental que tiene muchas aplicaciones diferentes, y en una era de comunicación inalámbrica masiva, es más importante que nunca identificar y clasificar señales electromagnéticas con herramientas rápidas y precisas. En los últimos años, las técnicas de aprendizaje profundo se están aplicando para detectar señales de radiofrecuencia. Pueden identificar la presencia de una señal sin requerir información de protocolo completa, y también se pueden utilizar para detectar ondas no comunicativas, como señales de radar.
+
+73. Para lograr un mejor rendimiento con baja complejidad computacional, las técnicas de aprendizaje automático se han introducido para resolver problemas de clasificación y han demostrado un rendimiento superior al de los métodos convencionales.
+
+• Aprendizaje de refuerzo profundo para acceso dinámico de espectro 
+El acceso dinámico de espectro convencional se basa en un nodo de control centralizado que es responsable de la asignación de espectro a los usuarios. Antes de tomar decisiones, este nodo centralizado necesita recopilar información en toda la red. Por ejemplo, información sobre la posición de los usuarios y las estaciones base. Esta información es compleja y dispersa. Las dificultades para obtener esta información obstaculizan el funcionamiento adecuado de la red cuando hay un número suficientemente grande de usuarios, lo que puede llevar a un rendimiento pobre. 
+Para resolver este problema, se puede utilizar el aprendizaje de refuerzo. Esta técnica consiste en un proceso de aprendizaje, donde un agente puede tomar decisiones periódicas, observar los resultados y luego ajustar automáticamente su estrategia para lograr la política óptima.
+
+74. Sin embargo, también hay limitaciones, principalmente relacionadas con la cantidad de tiempo necesaria para alcanzar una solución, ya que requiere adquirir conocimientos sobre todo el sistema. Afortunadamente, el aprendizaje de refuerzo profundo (DRL) puede superar esas limitaciones y mejorar la velocidad de aprendizaje y el rendimiento de los algoritmos. Por lo tanto, permite que los nodos de control centralizados resuelvan problemas no convexos y complejos, logren soluciones óptimas sin información de red completa y precisa.BoR (22) 191 
+27 
+ 
+5.3.3. Conclusiones e implicaciones regulatorias 
+La realización del acceso dinámico al espectro con radio cognitiva depende en gran medida de la 
+voluntad de los reguladores de abrir el espectro para el acceso no licenciado, pero también implica 
+un componente técnico que requiere un enfoque multidisciplinario desde diferentes campos, como 
+aprendizaje automático, redes de computadoras, teoría de la información o procesamiento de señales. 
+En los últimos años, ha habido una tendencia hacia un enfoque más flexible en la regulación del 
+espectro. Por ejemplo, en noviembre de 2008, la Comisión Federal de Comunicaciones (FCC) presentó 
+un documento con propuestas para eliminar regulaciones innecesarias que restringían el desarrollo 
+de los mercados de espectro75. En el Reino Unido, la Oficina de Comunicaciones (OFCOM) propuso 
+permitir el uso exento de licencia de espectro intercalado para dispositivos cognitivos76.  
+La evidencia revisada en esta sección muestra que existe espacio para mejorar la gestión del 
+espectro, y las técnicas de IA son una tecnología adecuada para fomentar este nuevo enfoque 
+dinámico que se necesitará para satisfacer la demanda futura. Estos mecanismos de gestión 
+dinámica del espectro basados en IA han demostrado lograr un mejor rendimiento y robustez que 
+los esquemas convencionales. Sin embargo, también hay desafíos que deben abordarse, tanto 
+tecnológicos como regulatorios. Para maximizar el valor de estos algoritmos, los reguladores 
+deben pasar de un enfoque fijo a uno dinámico y más flexible. 
+5.4. Optimización de la Calidad del Servicio y Clasificación del Tráfico 
+5.4.1. Descripción del caso de uso 
+La optimización de la calidad del servicio (QoS) es fundamental para prevenir y solucionar la 
+congestión en la red y proporcionar a los usuarios finales el nivel de servicio que requieren de 
+la red. Una de las tareas más importantes de la QoS es lidiar con el tráfico en tiempo real que 
+requiere un uso intensivo de ancho de banda, como videollamadas y servicios de streaming. 
+Con la adopción de 5G, la demanda de comunicación en tiempo real, por ejemplo para aplicaciones 
+de realidad virtual (VR), aumenta. Esto hace que la herramienta de optimización de QoS sea 
+esencial para los proveedores de servicios de internet (ISPs), si desean continuar brindando a los 
+usuarios finales el nivel de servicio que requieren.  
+Las respuestas recibidas de los stakeholders indican que la IA se aplica para lograr una mejor QoS / 
+QoE, típicamente en las siguientes aplicaciones (no exhaustiva): predicción de congestión de RAN, 
+pronóstico de tráfico de red, clasificación y enrutamiento de tráfico de red, control de congestión, 
+mantenimiento predictivo, gestión de fallos y soluciones de mitigación de seguridad. 
+Los ISPs pueden emplear varias técnicas de QoS en su red, como clasificación, marcación, 
+policía, modelado, evitación de congestión y cola. Estos métodos se basan en una serie de 
+mediciones, incluyendo latencia, tasa de error o jitter. La IA puede ser utilizada para optimizar 
+la QoS mediante...BoR (22) 191 
+28 
+
+Por ejemplo, analizando colectivamente un número de estos parámetros, como aquellos relacionados con el entorno radioeléctrico, la calidad de la señal percibida o el número de paquetes perdidos. 
+
+Todas las técnicas de QoS son particularmente adecuadas para la adopción de IA y pueden beneficiarse de la automatización de procesos, ya que pueden ser procesadas y analizadas fácilmente en todas las capas de la red desde su sistema de control. La adopción de IA puede mejorar la QoS y evitar la sobre-provisión de servicios, lo que permite un uso más eficiente de los recursos de la red. La próxima sección se centra en la adopción de IA en la clasificación de tráfico, policía y cola, ya que estas técnicas son una parte clave de los mecanismos de QoS. 
+
+5.4.2. Aplicaciones relacionadas 
+
+Con un número creciente de aplicaciones y servicios transmitidos y operadores OTT compartiendo la misma red, la gestión del tráfico se vuelve más sofisticada. La tecnología madura actualmente implementada en redes carece de capacidad para acomodar sobrecargas impredecibles de un tipo de tráfico específico. En cambio, ciertas técnicas de ML pueden utilizarse para lograr una gestión del tráfico óptima influyendo en las políticas de enrutamiento o ingeniería de tráfico, evitando la pérdida de tráfico o sobrecarga para cargas masivas de tráfico. Sin embargo, cualquier medida de gestión del tráfico debe respetar las disposiciones del Reglamento de la Internet Abierta (OIR) 77. 
+
+La segmentación de red es una de las técnicas más importantes para garantizar la QoS en redes 5G, lo que significa que es una arquitectura que permite la división de la red en redes virtuales multiplexadas e independientes que comparten la misma infraestructura física. La IA puede ayudar a crear cada slice aislada de extremo a extremo y diseñada para cumplir con los requisitos necesarios para una aplicación específica. En Balmer et al. (2020), los ISP indicaron que también ven un papel para los fabricantes de equipo en este área. Por ejemplo, los proveedores de equipo proporcionan cada vez más células 5G que utilizan IA para optimizar la gestión del tráfico.78 
+
+5.4.3. Conclusiones e implicaciones regulatorias 
+
+Las NRA han identificado el uso de IA en QoS y clasificación de tráfico como un área de interés especial. El OIR y las Directrices de BEREC sobre la implementación de este reglamento (Directrices de BEREC OI) 79 son los instrumentos regulatorios más relevantes para la QoS y la gestión del tráfico. 
+
+Esta sección resume brevemente las disposiciones relevantes y indica su relación con el empleo de IA en estos casos de uso. 
+
+El OIR establece normas para los ISP cuando proporcionan servicios de acceso a Internet a los usuarios finales. El artículo 3(3) del Reglamento establece que todo el tráfico debe ser tratado por igual, independientemente del 
+
+78 Balmer, R.E., Levin, S.L., y Schmidt, S. (2020) "Aplicaciones de Inteligencia Artificial en Telecomunicaciones y otras industrias de redes" Política de Telecomunicaciones 44(6), p. 6. 
+79 Directrices de BEREC sobre la Implementación del Reglamento de la Internet Abierta, BoR (22) 81, 
+https://www.berec.europa.eu/es/document-categories/berec/regulatory-best-practices/guidelines/directrices-de-berec-sobre-la-implementación-del-reglamento-de-la-internet-abierta-0.BoR (22) 191 
+29 
+
+El remitente o receptor, el contenido accedido o distribuido, las aplicaciones o servicios utilizados o 
+proporcionados, o el equipo terminal utilizado. El trato igualitario también significa no discriminación 
+ni restricción o interferencia con el tráfico. Esta disposición, sin embargo, no impide que los ISP 
+implementen medidas de gestión de tráfico razonables. Para ser consideradas "razonables", las 
+medidas de gestión de tráfico deberían basarse en requisitos objetivamente diferentes de calidad 
+de servicio (QoS) para categorías específicas de tráfico. Estas medidas no deben monitorear 
+contenido específico (es decir, cualquier cosa desde la carga útil del protocolo de capa de 
+transporte). 
+
+Además, el Reglamento contiene reglas para la provisión de servicios diferentes a los servicios 
+de acceso a Internet, que están optimizados para contenido, aplicaciones o servicios específicos, 
+también conocidos como servicios especializados. El artículo 3.5 especifica que los ISP solo 
+pueden ofrecer dichos servicios si cumplen con el requisito de necesidad y si la capacidad de la 
+red es suficiente. Estas reglas se aplican independientemente del uso de IA en estos servicios. 
+
+Jull y Schmidt (2009) encontraron que un enfoque basado en principios es superior a las reglas 
+prescriptivas "en situaciones en las que la tecnología puede superar rápidamente cualquier regla 
+prescriptiva a corto plazo".80 
+Balmer et al. (2020) indicaron que para la IA en servicios de telecomunicaciones, generalmente 
+será suficiente regular los resultados, como la confiabilidad, o regular a través de principios 
+como la razonabilidad, la necesidad y la no discriminación.81 Considerando que el OIR y las 
+Directrices OI de BEREC siguen un enfoque basado en principios, esto contribuye a su durabilidad. 
+
+La optimización de QoS es un tema desafiante a nivel técnico, pero estos desafíos pueden 
+manifestarse de manera diferente en situaciones específicas. Por ejemplo, la optimización de 
+handover (por ejemplo, basada en la predicción de movilidad del usuario, como en Bahra y 
+Pierre, 2021)82 en regiones fronterizas y/o en situaciones de roaming puede tener un efecto en 
+los usuarios finales debido a los sistemas de facturación diferentes aplicados para roaming y 
+uso doméstico. Otro ejemplo donde la optimización de QoS es crucial para los usuarios finales 
+es el handover sin problemas para habilitar el uso de vehículos autónomos. Esto puede requerir 
+una cooperación más estrecha entre los proveedores de telecomunicaciones a través de las fronteras. 
+
+Es importante tener en cuenta que no solo los casos de uso de IA en QoS o clasificación de tráfico 
+pueden tener implicaciones relacionadas con el OIR. La adopción de IA en otros lugares de la red o 
+en otras técnicas también puede afectar a los usuarios. Por ejemplo, la posibilidad de apagar 
+antenas 5G si no hay usuarios en el área para ahorrar energía, puede tener un efecto en la QoS 
+para el primer usuario que ingresa al área de servicio de una BTS, durante el 'handover' entre 
+celdas.83Últimamente, es importante tener en cuenta que para que las técnicas de IA y ML funcionen correctamente, se requieren conjuntos de datos muy grandes. Los ISP, especialmente los más pequeños, pueden querer trabajar más estrechamente juntos y compartir más datos para poder ofrecer servicios más innovadores o especializados a los usuarios finales.84 En resumen, optimizar la QoS a través de la adopción de IA permite un uso más eficiente de los recursos de la red. Contribuye a la capacidad de las redes para sostener cada vez más tráfico en tiempo real que requiere ancho de banda alto sin congestión. Independientemente de la presencia y uso de IA, las Directrices OIR y OI de BEREC garantizan el trato igualitario del tráfico y regulan la capacidad de la red y la necesidad de servicios especializados.
+
+5.5. Optimización de la seguridad y detección de amenazas
+
+La investigación sobre IA relacionada con propósitos de seguridad, especialmente en el contexto de las telecomunicaciones, es extensa. El tema amplio de la optimización de la seguridad se puede describir como fortalecer proactivamente una red para responder mejor a las amenazas de seguridad en evolución, así como a eventos planificados y no planificados.85 Hay varias propuestas para lograr este objetivo a través de la introducción de IA y especialmente del aprendizaje automático.
+
+La tecnología de ML se ha vuelto mainstream en un gran número de dominios, y las aplicaciones de técnicas de ML en ciberseguridad son numerosas, como ilustran Hanada et al. (2019)86. Ejemplos incluyen análisis de malware, especialmente para la detección de malware de día cero, análisis de amenazas, detección de intrusiones basada en anomalías de ataques prevalecientes en infraestructuras críticas, y muchos otros. Debido a la ineficacia de los métodos basados en firmas para detectar ataques de día cero o incluso variantes ligeras de ataques conocidos, la detección basada en ML se está utilizando en muchos productos de ciberseguridad.
+
+La convergencia de la ciencia de datos y la ciberseguridad en los últimos años, como describen Sarker et al. (2020)87, dio lugar al concepto de ciencia de datos de ciberseguridad, que proporciona soluciones más efectivas a las amenazas cibernéticas que los métodos tradicionales.
+
+Benzaïd et al. (2020)88 describen a la IA como fundamental para habilitar la gestión de seguridad inteligente, adaptable y autónoma en redes 5G y más allá, debido a su capacidad para descubrir patrones ocultos en un conjunto grande de datos multidimensionales y variables en el tiempo y entregar respuestas más rápidas y precisas.BoR (22) 191 
+31 
+ 
+Las decisiones precisas, mientras que las capacidades y vulnerabilidades de la IA la convierten en una espada de doble filo que también puede poner en peligro la seguridad de las redes futuras.  
+Un informe de ENISA89 que destaca las contribuciones de la estandarización para mitigar los riesgos técnicos y, por lo tanto, la confianza y la resiliencia en el ecosistema 5G, más bien aboga por la seguridad por diseño y bases sólidas con métodos probados. La mención de la IA dentro del informe se limita a la consideración de nuevas tecnologías con respecto a tácticas de detección.  
+Sin embargo, muchas soluciones a la variedad de desafíos de seguridad relacionados que enfrenta el sector de las telecomunicaciones podrían beneficiarse del uso de la IA. Probablemente los casos de uso más comunes se pueden resumir como detección de violaciones de seguridad y detección de amenazas. La IA basada en ML puede entrenarse para reconocer comportamientos desviados (detección de anomalías) y, por lo tanto, detectar correctamente ataques de seguridad. La IA también se puede implementar para analizar un gran número de alertas emitidas por soluciones de seguridad para reaccionar a violaciones de seguridad o amenazas dentro de la red.  
+Según Zaman et al. (2018)90, un sistema de detección de intrusiones se puede describir como un software que monitorea una o varias computadoras para actividades malintencionadas (ataques) que tienen como objetivo robar o censurar información o corromper protocolos de red.  
+Se han presentado various enfoques para mejorar los sistemas de detección y prevención de intrusiones (IDPS) tradicionales. Un ejemplo de un IDPS se puede ver en la Figura 2, que muestra una representación de un IDPS típico (fuente Dilek et al., 2015) Figura 2. Este sistema "puede detectar posibles intrusiones y tratar de prevenirlas. Los sistemas de detección y prevención de intrusiones proporcionan cuatro funciones de seguridad vitales: monitoreo, detección, análisis y respuesta a actividades no autorizadas."  91   
+                                                 
+89 Cosquer, F., Zamora, F., Zugenmaier, A. (2022, marzo) Estándares de ciberseguridad 5G, ENISA. DOI 10.2824/700472 
+90 Zaman, M., & Lung, C. H. (2018, abril). Evaluación de técnicas de aprendizaje automático para detección de intrusiones en redes. En NOMS 2018-2018 IEEE/IFIP Simposio de Operaciones y Manejo de Redes (pp. 1-5). IEEE. 
+91 S. Dilek, H. Caku y M. Aydin, (2015), "Aplicaciones de técnicas de inteligencia artificial para combatir el cibercrimen: una revisión", Revista Internacional de Inteligencia Artificial y Aplicaciones, p. 24.BoR (22) 191 
+32 
+ 
+Desafortunadamente, es bastante difícil determinar exactamente si y cuánto de esta investigación 
+ha encontrado su camino en el mercado. Muchos vendedores afirman tener soluciones impulsadas por IA 
+mientras que las limitaciones inherentes a ML introducen nuevas incertidumbres, como conjuntos de datos 
+limitados, algoritmos de caja negra y alto costo de recursos humanos y potencia de computación. Debido 
+a estas circunstancias, muchos expertos en el campo de la seguridad son cautos con respecto al hype que 
+rodea a la IA. 
+9293 
+Según las respuestas de la encuesta, los stakeholders emplean una variedad de técnicas de detección de 
+anomalías y reconocimiento de patrones para detectar amenazas y ataques temprano. Debido a la gran 
+cantidad de datos que pasan por las redes y la naturaleza evolutiva de las ciberamenazas, la identificación 
+eficaz y mitigación de tales amenazas requiere capacidad de análisis automatizado, así como toma de 
+decisiones autónoma, para asegurar respuestas rápidas y precisas a las amenazas. Tal capacidad de IA 
+                                                 
+92 Los tres principales casos de uso de IA en seguridad cibernética https://www.datacenterknowledge.com/security/top-three-use-
+cases-ai-cybersecurity   
+93 Taddeo, M., McCutcheon, T., & Floridi, L. (2019). Confianza en la inteligencia artificial en la seguridad cibernética es una 
+espada de doble filo. Inteligencia de Máquina Naturaleza, 1(12), 557-560. Figura 2 representación de un IDPS típico (fuente Dilek et al., 2015)BoR (22) 191 
+33 
+
+Los sistemas ayudan a reducir el número de eventos que los técnicos deben atender, reducir el número de alertas de falsos positivos y incluso activar controles preventivos. Sin embargo, en comparación con las respuestas de los stakeholders sobre temas más centrales como la planificación y gestión de redes, las respuestas sobre temas de seguridad fueron bastante escasas.
+
+5.6. Detección y Prevención de Fraude
+
+Si bien las ECN/S siempre han estado expuestas al fraude, el número de ataques y su impacto están aumentando particularmente en los últimos años. La Asociación de Control de Fraude de Comunicaciones (CFCA)94 estima que la pérdida total de ingresos globales de telecomunicaciones en 2021 debido al fraude es del 2,22% de los ingresos ($39,890 millones), lo que representa un aumento del 28% ($11,600 millones) en comparación con 2019. Además, debe considerarse que el fraude no solo afecta a los proveedores de telecomunicaciones, sino que a menudo también tiene como objetivo a sus usuarios.
+
+Según Europol95, algunos de los motivos detrás de esta tendencia son la mayor automatización y difusión de las ECN/S. Una red se vuelve 10 veces más escalable, lo que significa que los ataques que utilizan esa infraestructura tendrán 10 veces más efecto, daño y costo. Además, los delincuentes también se benefician de las velocidades ECS aumentadas y las utilizan en contra del propio operador. La capacidad aumentada de las redes permite más casos de fraude durante el tiempo requerido para detectar y responder al ataque.
+
+Algunos de los fraudes más comunes en el sector de las telecomunicaciones incluyen:
+
+ Suplantación: ocultar la identidad de origen para cometer fraudes modificando la dirección IP, la Identificación de Línea de Llamada (CLI) o la Identificación Automática de Número (ANI). Un ejemplo de suplantación es la modificación de la CLI de llamadas desde terceros países para beneficiarse de las tarifas de terminación reguladas de la UE.
+
+ Wangiri/Un Anillo y Caída: un fraude de llamada de devolución basado en llamadas perdidas masivas. Si el usuario responde, la llamada, sin saberlo, se cobra como una tarifa premium.
+
+ Fraude de Suscripción: creación de identidades falsas para acceder a servicios sin intención de pagar.
+
+ Piratería de PBX96 permite a los estafadores tomar el control de líneas telefónicas explotando redes telefónicas inseguras y, en última instancia, realizar llamadas fraudulentas.
+
+ Las cajas SIM se utilizan para enrutar llamadas internacionales a través de Internet utilizando VoIP y terminar esas llamadas a través de un teléfono local. El llamante paga la llamada como una tarifa internacional.BoR (22) 191 
+34 
+
+La llamada, el operador local recibe la revenue de una llamada local mientras que los estafadores retienen 
+la diferencia.  
+Al mismo tiempo, las aplicaciones para la detección de fraude han evolucionado y se han vuelto más 
+sofisticadas, a menudo utilizando IA basada en ML para una detección y prevención más rápidas de los fraudes, 
+como estafas de mensajes de texto y llamadas automáticas que llegan al público. Un ejemplo es la verificación 
+asistente virtual97.  
+Los sistemas de detección de fraude suelen confiar en un método basado en reglas para la identificación de fraude 
+telecomunicaciones. Se analiza el tráfico de datos98 contra un conjunto de reglas para encontrar anomalías que 
+pueden ser casos de fraude potenciales. Esas reglas necesitan ser actualizadas y adaptadas constantemente a 
+cambios en el comportamiento del consumidor. Los modelos de detección basados en IA ML son capaces de adaptarse 
+y crear nuevas reglas para la detección de fraude. Por ejemplo, el reciente Informe del Comité de Comunicaciones 
+Electrónicas, Informe 338 (junio de 2022) sobre el spoofing de CLI99 explícitamente apoya "el fomento de la 
+instalación por parte de los operadores de herramientas de análisis de patrones de tráfico basadas en inteligencia 
+artificial".  
+Sin embargo, según el Informe de pérdida de fraude CFCA 2021, el uso de sistemas de gestión de fraude basados 
+en IA para detectar fraude sigue siendo bajo.  
+ 
+Figura 3 Herramientas de la industria utilizadas para detectar fraude. Fuente: Informe de pérdida de fraude CFCA 2021 
+Las respuestas a la encuesta de BEREC apuntan en la misma dirección. La mayoría de los stakeholders del mercado 
+participantes en la encuesta han desplegado o planean desplegar aplicaciones de IA dentro de sus operaciones de 
+red con el fin de detectar y prevenir el fraude. Los encuestados reconocieron la capacidad de la IA, junto con 
+otras medidas, mediante algoritmos de detección de anomalías, para detectar patrones de uso inusuales de servicios 
+de red y voz.  
+Esta entrada se analiza y se actúa sobre ella posteriormente por especialistas humanos. Además,BoR (22) 191 
+35 
+
+Los encuestados señalan que los proveedores especializados en soluciones de detección y prevención del fraude 
+están desarrollando actualmente nuevas soluciones de I+D basadas en IA. 
+
+La mayoría de las autoridades nacionales de regulación (NRAs) son competentes para la implementación del artículo 97(2) del Código Europeo de Comunicaciones Electrónicas (EECC) (anteriormente, en los mismos términos, artículo 28(2) de la Directiva de Servicio Universal). Esta disposición permite bloquear el acceso a números o servicios en casos específicos cuando esté justificado por razones de fraude o mal uso, y requiere que los proveedores de servicios de comunicaciones electrónicas retengan los ingresos relevantes de interconexión o otros servicios en tales casos. En este contexto, la detección y prevención del fraude cometido mediante servicios de comunicaciones electrónicas (EC S) ha sido objeto de varios informes y actividades de BEREC, incluyendo un procedimiento de coordinación para abordar el fraude transfronterizo. 
+
+Según el informe de BEREC sobre cuestiones transfronterizas bajo el artículo 28(2) de la Directiva de Servicio Universal, solo unos pocos NRAs han implementado métodos proactivos para detectar este tipo de fraude. Por lo tanto, la mayoría de las NRAs dependen de las denuncias recibidas de los usuarios finales y los proveedores de ECS. BEREC reconoce en este informe que ya en 2010 la mayoría de los operadores europeos utilizaban sistemas automatizados para detectar el fraude.
+
+6. USO DE SOLUCIONES DE INTELIGENCIA ARTIFICIAL POR PARTE DE LAS NRAs
+
+6.1. Uso de la inteligencia artificial en el sector público
+
+Aunque se nota que hay poca información disponible sobre el impacto del uso de la inteligencia artificial en el sector público, van Noordt y Misuraca (2022) describen cómo los sistemas de IA podrían y están siendo utilizados para mejorar procesos relacionados con la toma de decisiones políticas, la entrega de servicios públicos y la gestión interna de las autoridades públicas.
+
+Tabla 1. Visión general de las funciones de IA en el gobierno (van Noordt y G. Misuraca, 2022, p. 4)
+
+Función de gobernanza 
+Uso potencial de IA 
+Toma de decisiones políticas 
+1. Detectar problemas sociales más rápido 
+2. Mejorar las decisiones políticas (y estimar los efectos potenciales en la política) 
+3. Monitorear la implementación de la política (y evaluar la política existente) 
+4. Mejorar la participación ciudadana en la toma de decisiones políticasBoR (22) 191 
+
+36 
+
+Servicios Públicos 
+1. Mejorar los servicios de información de la organización 
+2. Mejorar la entrega de servicios públicos a empresas y ciudadanos 
+3. Desarrollar nuevos servicios públicos innovadores 
+
+Gestión Interna 
+1. Mejorar la asignación de recursos humanos 
+2. Mejorar los servicios de reclutamiento de la organización pública 
+3. Mejorar la gestión financiera de la organización 
+4. Mejorar la detección de fraude y/o corrupción 
+5. Mejorar el mantenimiento 
+6. Mejorar los procesos de contratación pública 
+7. Mejorar la seguridad organizativa (ciberseguridad) 
+8. Otro 
+
+Según los autores, la toma de decisiones políticas podría mejorar gracias a la capacidad de los sistemas de IA para procesar grandes cantidades de diferentes tipos de datos, como imágenes, texto, audio, video o flujos de datos de sensores, de manera automatizada. Esto permitiría a las autoridades públicas, incluyendo a las autoridades reguladoras nacionales (NRAs), incluir no solo más tipos y cantidades de datos en sus procesos de toma de decisiones, sino también involucrar a más partes interesadas, en particular a los ciudadanos, en el desarrollo de políticas y facilitar un enfoque inclusivo para la acción regulatoria. Una medida simple sugerida por van Noordt y Misuraca sería reducir la barrera lingüística utilizando herramientas para traducir documentos de manera automatizada.
+
+De los 250 casos analizados en detalle por los autores, 
+alrededor del 23% se clasificaron como pertenecientes a esta categoría.  
+Para la entrega de servicios públicos, los autores sugieren que es posible mejorar mediante herramientas que personalicen o automatizen las interacciones con los servicios públicos, como solicitudes de información. La automatización de tareas repetitivas, por ejemplo, informes, podría liberar al personal de las NRAs para dedicar más tiempo a apoyo personalizado y otras tareas. En la muestra analizada por los autores, el 46% de los casos cayeron dentro de esta categoría.  
+Este aspecto se relaciona con el tercer área, IA para mejorar la gestión interna. Aquí, los autores mencionan herramientas de IA para la priorización de recursos, como inspecciones, para monitorear operaciones del personal, digitalizar o anonimizar documentos, así como identificar anomalías, o para la contratación, por ejemplo, apoyando la redacción de contratos. Las NRAs también podrían utilizar sistemas de IA para sus propios fines de ciberseguridad. Los autores encontraron que alrededor del 30% de los casos analizados se utilizaron para fines de gestión interna.  
+                                                 
+101 La Comisión Europea proporciona una herramienta de traducción gratuita, que parece estar entrenada principalmente en documentos legales/policy para fragmentos de texto (https://webgate.ec.europa.eu/etranslation/translateTextSnippet.html) así como para documentos (https://webgate.ec.europa.eu/etranslation/translateDocument.html).BoR (22) 191 
+37 
+ 
+6.2. Adopción de la IA por parte de las Autoridades Reguladoras Nacionales (NRAs) 
+Algunas NRAs han estudiado el uso de la IA en el sector de las telecomunicaciones, como el estudio de ARCEP sobre los Redes del Futuro102, o el documento de consulta de TRAI sobre el uso de la IA y los macrodatos para la calidad del servicio, la gestión del espectro y la seguridad de la red103. Sin embargo, las respuestas a la encuesta de BEREC a las NRAs muestran que la adopción de la IA por parte de las NRAs aún está en su infancia. Muy pocas de las NRAs que participaron en el estudio de BEREC han emprendido o planean realizar estudios para explorar formas de adoptar la IA en los procesos internos de la NRA. Aquellos que respondieron afirmativamente mencionaron los siguientes temas: 
+ Introducción de la tecnología de IA en las operaciones internas de la NRA  
+ Modelado de canales de radio, incluyendo nuevas técnicas disponibles para el compartir espectro entre servicios con igual y desigual estatus;   
+ Detección de contenido ilegal/prohibido en línea con IA 
+ Plataforma de gestión de relaciones con clientes, incluyendo una clasificación de quejas de clientes utilizando herramientas de aprendizaje automático y análisis de texto; 
+ Monitorear el mercado para asegurar que los productos en venta en línea cumplan con las normas de seguridad de productos en la UE (herramienta SAFE AI) 104. La herramienta de búsqueda SAFE emplea la IA en forma de reconocimiento de imágenes y ML para identificar productos peligrosos y no conformes en venta en línea. SAFE es financiado por la CE y está disponible para todas las autoridades de vigilancia del mercado de la UE/EFTA interesadas.   
+La investigación de escritorio de BEREC sobre los estudios y iniciativas públicamente disponibles que han llevado a cabo las NRAs y los gobiernos ha resultado en la siguiente lista de estudios e iniciativas emprendidas por las NRAs y los gobiernos: 
+ El gobierno de Canadá ha otorgado un contrato a Ecopia AI para proporcionar datos de mapeo de próxima generación para abordar la brecha digital identificando mejor las brechas de conectividad para acelerar la implementación de la infraestructura de banda ancha en todo el país105.BoR (22) 191 
+38 
+ 
+ La Autoridad Australiana de Comunicaciones y Medios está desarrollando aún más sus procesos de análisis de datos106 y también está abierta a propuestas para probar la tecnología de Acceso Dinámico de Espectro107.  
+ OFCOM investigó el uso de IA para medir experiencias en línea108.  
+ La FCC ha establecido un Grupo de Trabajo del Consejo Asesor Tecnológico sobre Inteligencia Artificial y Computación para analizar el impacto que la IA puede tener en las redes nacionales. Las propuestas de este Grupo de Trabajo incluyen la adopción de IA en el mapeo de banda ancha, IA para la detección de interferencia de radiofrecuencia y para generar más conocimientos a partir de las bases de datos que la FCC gestiona109.  
+ Según el Consejo de Estado francés, las autoridades de competencia están considerando el uso de sistemas de IA para detectar cárteles formados a través de colusión algorítmica110, 111.  
+Para las autoridades reguladoras nacionales (NRAs) que consideran la adopción de tecnologías de IA, BEREC destaca que los siguientes factores pueden ser considerados:112  
+ Los datos utilizados para entrenar sistemas de IA deben ser revisados exhaustivamente en busca de sesgos y calidad (van Noordt & Misuraca, 2022, p. 3). Los Principios de Buena Práctica para la Ética de Datos en el Sector Público desarrollados por la OCDE podrían proporcionar un punto de partida útil113. En general, se ha observado que los problemas de disponibilidad y accesibilidad de datos a menudo se subestiman114.BoR (22) 191 
+39 
+ 
+ Los resultados de los sistemas de IA deben llevar a resultados equitativos para diferentes tipos de partes interesadas que pueden ser explicados (van Noordt y Misuraca, 2022, p. 3).  
+ La introducción de un sistema de IA puede requerir capacitación de calificación para el personal115, así como cambios en el flujo de datos dentro de las NRA o sus capacidades de procesamiento.  
+ Las evaluaciones de impacto deberían completarse antes de la implementación, y se deberían establecer estructuras de responsabilidad adecuadas.116  
+Desde una perspectiva diferente, las NRA podrían apoyar la implementación de la Ley de IA a nivel nacional, en particular cuando se utiliza IA en la provisión de ECN/S.   
+7. CONCLUSIONES  
+La IA es una tecnología transversal que se puede aplicar a una variedad de casos de uso. En el sector de las telecomunicaciones, los procesos están altamente digitalizados y los datos digitales están disponibles para el entrenamiento y la operación de sistemas de IA, lo que facilita la adopción de tecnologías de IA.  
+Además, la escala de las redes de telecomunicaciones y la complejidad de la gestión de redes, así como la gestión de la relación con el cliente, incentivizan la adopción de sistemas automatizados.  
+Aunque los beneficios potenciales de la IA son supremos, también hay riesgos asociados con el uso de la IA, que varían según el contexto de implementación. Los datos imparciales y confiables son la base para la toma de decisiones informadas. Pero cómo los algoritmos utilizan los datos a menudo no está claro, lo que puede llevar a una falta de confianza en la toma de decisiones automatizadas. La privacidad y la seguridad también siguen siendo aspectos importantes que justifican una estrecha supervisión de las soluciones de IA.  
+Con la creciente importancia de la IA, las NRA deben familiarizarse con los riesgos asociados con la IA, los métodos de supervisión y los métodos de evaluación. Un buen conocimiento de la IA es necesario para estudiar el resultado de la IA, o el funcionamiento del algoritmo en sí mismo.  
+Mientras que los operadores han encontrado muchas formas de aplicar soluciones de IA, las NRA no han hecho mucho uso de la IA hasta ahora. La literatura y algunos ejemplos de reguladores en Europa y en el extranjero muestran un buen número de casos de uso para la IA. Las soluciones de IA podrían ser utilizadas para la toma de decisiones políticas, servicios públicos o gestión interna. BEREC espera que la IA madure con el tiempo, tanto con los operadores como con las NRA, y así la IA juegue un papel cada vez más importante para BEREC. Por lo tanto, BEREC continuará apoyando a las NRA en la comprensión del uso y las implicaciones de la IA en el sector. Un posible área de trabajo futuro de BEREC en este campo podría ser evaluar si y cómo la IA afecta los derechos del usuario y las características de los sistemas de IA para la gestión del cliente.   
+                                                 
+115 Para este propósito, las NRA podrían considerar Elementos de IA como punto de partida, que es un curso en línea popular desarrollado por la Universidad de Helsinki y MinnaLearn: https://www.elementsofai.com/ 
+116 https://algorithmwatch.org/en/accountability-in-the-use-of-ai-for-public-administrations/BoR (22) 191 
+40 
+ 
+BEREC señala que las ANR podrían desempeñar un papel en la implementación de la Ley de IA a nivel nacional, en particular cuando se utiliza IA en la provisión de ECN/S, coordinando con otros organismos relevantes y brindando apoyo técnico basado en su conocimiento especializado y experiencia en el sector. Las ANR también deberían estar equipadas para abordar las inquietudes de competencia sectorial que podrían surgir en el futuro con respecto a la aplicación de la IA.Anexo I. Técnicas para sistemas de IA
+
+Las técnicas utilizadas en la literatura revisada se pueden agrupar en una serie de subcampos. Este anexo explica brevemente estas técnicas y hace referencia a áreas en las que se han aplicado en telecomunicaciones117. Otras técnicas pueden incluir sistemas expertos y otros enfoques, que no se abordan en la investigación incluida en este informe.
+
+Es importante tener en cuenta que muchos sistemas de IA aplican una combinación de técnicas de diferentes campos. Por ejemplo, un sistema de IA para asegurar la calidad del servicio y la asignación dinámica de ancho de banda en redes ópticas pasivas (PON) puede basarse tanto en algoritmos genéticos (que se consideran parte del grupo de métodos de búsqueda y teoría de la optimización) como en redes neuronales (un método de aprendizaje).
+
+Los sistemas cognitivos, aunque también se aplican en telecomunicaciones (por ejemplo, para la detección de fallos, mapeo de topología o virtualización de redes), difieren de los enfoques de IA en que combinan algunas de estas técnicas con otros enfoques.118
+
+Métodos de búsqueda y teoría de la optimización
+
+Este grupo de técnicas incluye formulaciones matemáticas (por ejemplo, programación lineal entera mixta), búsqueda en anchura y búsqueda tabú, así como un grupo de técnicas relacionadas con algoritmos de búsqueda local y metaheurísticas. Este subgrupo incluye optimización basada en enseñanza-aprendizaje, enfriamiento simulado y algoritmos genéticos, así como un subgrupo adicional de métodos relacionados con la inteligencia de enjambre (que a su vez incluye técnicas como optimización de colonia de hormigas, algoritmos de colmena artificial, algoritmos de búsqueda gravitacional, algoritmos de luciérnaga y optimización de enjambre de partículas).
+
+Estas técnicas se aplican, entre otras, para redes ópticas supervivientes, colocación de regeneradores, establecimiento de conexiones, asignación de recursos, colocación de unidades de red óptica (ONU), transmisores, garantías de QoS y asignación dinámica de ancho de banda en PON, reconfiguración de redes y reducción/estimación de pérdida de ráfaga.
+
+Modelos estadísticos
+
+El grupo de técnicas basadas en modelos estadísticos incluye métodos bayesianos, filtros de Kalman y modelos de Markov ocultos.
+
+Las aplicaciones de modelos estadísticos incluyen transmisores, receptores, mitigación de no linealidad, soluciones estadísticas para predicciones, garantías de QoS y asignación dinámica de ancho de banda en PON.BoR (22) 191 
+42 
+ 
+PONs, reducción/estimación de pérdida de ráfaga, detección de fallo/avería, identificación de deterioro lineal 
+y establecimiento de conexión.  
+Algoritmos de toma de decisiones 
+Las técnicas agrupadas como algoritmos de toma de decisiones incluyen procesos de decisión de Markov. 
+Estos son un tipo de algoritmo de aprendizaje por refuerzo que busca optimizar su rendimiento 
+determinando automáticamente su comportamiento ideal.  
+La asignación de recursos, el establecimiento de conexión y el número de centros de datos intra 
+son algunos de los posibles aplicaciones de estas técnicas en telecomunicaciones.  
+Métodos de aprendizaje 
+Con mucho, la rama más conocida de las técnicas de IA, los métodos de aprendizaje incluyen el subgrupo 
+de métodos de aprendizaje probabilísticos (que incluyen aprendizaje bayesiano y maximización de 
+expectativas) y aprendizaje automático. A través del aprendizaje automático, se puede construir un 
+modelo matemático basado en un conjunto de datos. Este modelo predice/infiere variables desconocidas 
+anteriormente en función del conjunto de datos original y se puede aplicar a nuevos conjuntos de 
+datos, por ejemplo, para clasificar o categorizar datos.  
+El aprendizaje automático se puede subdividir aún más en aprendizaje por refuerzo (que incluye 
+aprendizaje Q), aprendizaje supervisado y aprendizaje no supervisado. El grupo de técnicas 
+clasificadas como aprendizaje supervisado incluye redes neuronales (que a su vez también 
+abarcan redes neuronales profundas), máquinas de vectores de soporte, regresión lineal, regresión 
+logística, bosques aleatorios y aprendizaje basado en instancias (como K-vecinos más cercanos o 
+razonamiento basado en casos). 
+Las técnicas de aprendizaje no supervisado incluyen análisis de componentes principales y 
+agrupación K-medias. 
+Las aplicaciones de los enfoques de aprendizaje automático en el contexto de las telecomunicaciones 
+incluyen la asignación de recursos, reconocimiento de formato de modulación, recepción/mitigación 
+de no linealidad, establecimiento de conexión, identificación de deterioro lineal, reducción/estimación 
+de pérdida de ráfaga, reconfiguración de red, redes definidas por software, garantías de QoS y 
+asignación dinámica de ancho de banda, centros de datos intra, control de amplificación óptica, 
+monitoreo de OSNR, ROADM inteligente, estimación de QoT, así como transmisores.  
+Teoría de juegos 
+La teoría de juegos surgió de las matemáticas aplicadas como un marco para entender cómo los 
+individuos toman decisiones o actúan para maximizar sus ganancias en situaciones con reglas 
+predefinidas. 
+Esta rama teórica se puede aplicar en el desarrollo de IA de varias maneras. Por ejemplo, 
+basándose en la teoría de juegos, dos redes neuronales pueden combinarse en una red adversarial 
+generativa.Red de (22) 191 
+43 
+
+donde una red neuronal crea una salida que luego es juzgada por la segunda red neuronal como verdadera o falsa. El objetivo de la interacción consecutiva entre estas dos redes neuronales es maximizar la calidad de la salida de la red neuronal generadora. Las aplicaciones de IA en telecomunicaciones basadas en teoría de juegos incluyen soluciones para el establecimiento de conexiones y soluciones estadísticas para la predicción.BoR (22) 191 
+44 
+ 
+ANEXO II. Resumen de las respuestas a la encuesta  
+ 
+Figura 4 ¿Cuáles de los siguientes beneficios persigue o prioriza al evaluar la implementación de una nueva solución de IA? Calificación promedio de los encuestados (n=7) 
+ 4.6
+4.3
+4.14.1
+4.0
+4.0
+3.93.93.9
+3.73.7
+3.4
+3.3
+3.012345
+Mantener la competitividad al proporcionar o adoptar…
+Flexibilidad y agilidad, por ejemplo, monitorear emergentes…
+Obtener garantías de seguridad
+Optimización de operaciones
+Reducción de costos (OpEx y/o CapEx)
+Mejora de modelos de predicción y toma de decisiones
+Acortar el ciclo de implementación de nueva tecnología…
+Mejora de la experiencia del cliente
+Implementación de redes y respuesta rápida a…
+Apoyo a la sostenibilidad - Reducir el…
+Alineación con la estandarización eliminando la intervención humana…
+Derivar valor de la minería de grandes cantidades de datos
+Impulsor de nuevos ingresos empresariales
+Personalización y escalabilidad
+Escala de 1 (no importante) a 5 (muy importante)BoR (22) 191 
+45 
+ 
+Figura 5 ¿Cuáles de los siguientes riesgos y desafíos les preocupa actualmente más? Calificación promedio 
+de los encuestados (n=7, excepto para "Otros riesgos de competencia", donde n=6) 
+ 4.1
+3.9
+3.7
+3.6
+3.6
+3.4
+3.3
+3.1
+3.1
+2.7
+12345
+Sesgo de datos no detectado que podría entrañar resultados engañosos
+Responsabilidad en caso de error (aplicación de datos/IA, proveedor/operator/integrador)
+Disponibilidad/acceso a datos adecuados y confiables (para entrenar aplicaciones de IA)
+Amenazas de seguridad a sistemas basados en IA y datos asociados
+Incertidumbre sobre la confiabilidad debido a los escenarios considerados durante el entrenamiento de IA (por ejemplo, modelado de entornos urbanos...)
+Incertidumbre sobre la confiabilidad de las decisiones y acciones ejecutadas por algoritmos de IA, debido a su opacidad
+Falta de estándares de IA/certificación
+Escasez de experticia técnica en IA
+Riesgos de competencia debido al acceso asimétrico a la tecnología y los datos de IA
+Otros riesgos de competencia, p. ej. colusión o engaño al usuario final (por favor, enumere)Calificación promedio desde 1 (no importante) hasta 5 (muy importante)BoR (22) 191 
+46 
+ 
+ 
+Figura 6 ¿Anticipa algún cambio en la arquitectura de la red de los CSP como resultado del aumento en la adopción de soluciones de IA? 5565
+2011
+012345678Las soluciones de IA impulsarán aún más la necesidad de computación en el borde móvil y la adopción de nuevos conjuntos de chips que puedan manejar grandes cantidades de datos en el borde de la red aumentará. Los proveedores de servicios en la nube y otros socios manejarán diversos datos tanto de los usuarios finales como de los CSP. Las soluciones de IA impulsarán la necesidad de arquitecturas abiertas y desagregadas. Las soluciones de IA impulsarán la necesidad de gobernanza de datos en el ecosistema de partes interesadas, para compartir datos con socios o terceros.
+
+Número de respuestas
+TOTAL ACUERDO TOTAL DESACUERDOAnexo III. Órganos públicos y partes interesadas clave en el contexto de la IA
+
+ÓRGANOS PÚBLICOS Y 
+ORGANIZACIONES DE NORMALIZACIÓN 
+TAREAS Y ACTIVIDADES RELACIONADAS CON LA IA
+
+ORGANIZACIONES INTERNACIONALES
+
+Unión Internacional de Telecomunicaciones (UIT) La UIT ha publicado una variedad de normas para aplicaciones de IA relacionadas con las telecomunicaciones119 y ha establecido múltiples grupos de trabajo dedicados a temas específicos, como la Iniciativa Global sobre IA y Comunes de Datos120.
+
+Consejo de Europa El Consejo de Europa ha establecido un Comité sobre Inteligencia Artificial121, centrado en los impactos de los derechos humanos de las tecnologías de IA.
+
+UE
+CE La CE está encargada de aprobar las normas desarrolladas por CEN-CENELEC para la implementación de la Ley de IA, así como de desempeñar un papel en la Junta Europea de IA que se establecerá bajo esa Ley. Además, el Art. 39 EECC otorga a la CE el poder de publicar normas no obligatorias o de solicitar a CEN, CENELEC o ETSI que desarrollen tales normas.
+
+ORGANIZACIONES DE NORMALIZACIÓN EUROPEAS
+Comité Europeo de Normalización (CEN) &
+Comité Europeo de Normalización Electrotécnica (CENELEC) Un Comité Técnico Conjunto CEN-CENELEC sobre Inteligencia Artificial ha sido establecido. Las normas aprobadas por CEN-CENELEC122 son clave para la implementación de la Ley de IA. Estas pueden incluir normas relacionadas con los datos utilizados para entrenar sistemas de IA123, para...
+
+119 Por ejemplo, las Directrices para análisis y diagnóstico de redes inteligentes ITU-T E.475 (https://www.itu.int/rec/T-REC-E.475-202001-I/en), la Recomendación ITU-T Y.3174 sobre un Marco para el manejo de datos para habilitar el aprendizaje automático en redes futuras, incluyendo IMT-2020 (https://www.itu.int/ITU-T/recommendations/rec.aspx?rec=14134), la Recomendación ITU-T Y.3116 sobre tipificación de tráfico basada en enfoque de inteligencia artificial para la gestión IMT-2020 (https://www.itu.int/ITU-T/recommendations/rec.aspx?id=14855), la Recomendación ITU-T Y.3178 sobre un Marco funcional de provisión de servicios de red basados en inteligencia artificial en redes futuras, incluyendo IMT-2020 (https://www.itu.int/ITU-T/recommendations/rec.aspx?id=14613) y otros.
+
+120 https://www.itu.int/en/ITU-T/extcoop/ai-data-commons/Pages/default.aspx
+121 https://www.coe.int/en/web/artificial-intelligence/cai
+122 https://www.cencenelec.eu/areas-of-work/cen-cenelec-topics/artificial-intelligence/
+123 Por ejemplo, la norma ISO/IEC ISO/IEC CD 5259-1 (https://www.iso.org/standard/81088.html?browse=tc).BoR (22) 191 
+
+48 
+
+Estandarización 
+(CENELEC) del diseño de sistemas de IA124 o para la clasificación de enfoques computacionales para sistemas de IA125. 
+
+Instituto Europeo de Estándares de Telecomunicaciones 
+(ETSI) En junio de 2020, ETSI publicó un documento blanco: Inteligencia Artificial y direcciones futuras para ETSI126. El trabajo relacionado con IA en ETSI está en curso en las siguientes áreas: Sistemas 5G; Optimización de Red y Aseguramiento de Servicio de Fin a Fin; IoT, Adquisición y Gestión de Datos, Gobernanza y Procedencia; Seguridad y Privacidad; Pruebas y Aplicaciones de Salud y Sociales de IA (por ejemplo, uso de IA para geo-localización en caso de emergencias).  
+
+Nacional 
+
+La mayoría de los Estados miembros han desarrollado estrategias de IA que establecen sus prioridades127. Las autoridades reguladoras y de protección de datos también juegan un papel importante en el desarrollo del enfoque de Europa para la regulación de IA.  
+
+Mercado  
+
+PARTICIPANTES CON ROLES RELACIONADOS CON IA 
+Proveedores de ECN/S Los proveedores de telecomunicaciones muestran grados variables de actividad relacionada con IA; algunos están activamente comprometidos en la investigación, y muchos han desarrollado sus propias estrategias de IA. Algunas de estas actividades también se organizan a nivel europeo, por ejemplo, a través de la GSMA128.  
+IA y proveedores de hardware 
+Los proveedores de sistemas de IA o del hardware requerido para el uso de estos sistemas forman una parte importante del ecosistema y suelen estar estrechamente involucrados en esfuerzos de estandarización.BoR (22) 191 
+49 
+ 
+ONG/sociedad civil ONG como AlgorithmWatch129 o la Fundación de Software Verde130 se especializan en monitorear el uso de sistemas de IA y su impacto potencial en la sociedad. 
+ 
+                                                 
+129 https://algorithmwatch.org/en/projects/   
+130 La Fundación de Software Verde desarrolló una herramienta para monitorear la intensidad de carbono del software 
+(https://github.com/Green-Software-Foundation/software_carbon_intensity/blob/dev/Software_Carbon_Intensity/Software_Carbon_Intensity_Specification.md  ) que fue aplicada por Dodge et al. (2022) en AI basada en la nube: https://arxiv.org/abs/2206.05229Anexo IV. Siglas
+
+AI - Inteligencia Artificial
+ANI - Identificación Automática de Número
+CBRS - Servicio de Radio Ciudadana de Banda Ancha
+CEN-CENELEC Comité Europeo de Normalización (CEN) y
+Comité Europeo de Normalización Electrotécnica (CENELEC)
+CDN - Red de Distribución de Contenido
+CLI - Identificación de Línea de Llamada
+CFCA - Asociación de Control de Fraude de Comunicaciones
+CSP - Proveedor de Servicios de Comunicación
+CE - Comisión Europea
+ECN/S - Redes y Servicios de Comunicación Electrónica
+EECC - Código Europeo de Comunicaciones Electrónicas
+ETSI - Instituto Europeo de Normas de Telecomunicaciones
+UE - Unión Europea
+RGPD - Reglamento General de Protección de Datos
+IDPS - Sistemas de Detección y Prevención de Intrusos
+IoT - Internet de las Cosas
+ISP - Proveedor de Servicios de Internet
+ISO - Organización Internacional para la Normalización
+UIT - Unión Internacional de Telecomunicaciones
+MIMO - Entrada Múltiple Salida Múltiple
+ML - Aprendizaje Automático
+NFV - Virtualización de Funciones de Red
+OSNR - Relación Señal-Ruido Óptica
+OTT - Sobre la parte superior
+PBX - Centralita Privada
+PONs - Redes Ópticas Pasivas
+QoS - Calidad de Servicio
+QoT - Calidad de Transmisión
+RAN - Red Abierta de Acceso por Radio
+ROADM - Multiplexor Óptico Reconfigurable de Adición-Supresión
+RNN - Redes Neuronales Recurrentes
+SLA - Acuerdo de Nivel de Servicio
+SDN - Redes Definidas por Software
+ZSM - Gestión de Red y Servicio sin ToqueBoR (22) 191 
+
+
+ANEXO V. PARTICIPANTES EN EL ESTUDIO 
+
+
+TRANSATEL 
+Telefónica, S.A. Liberty Global Telia Company Asociación Europea de Telecomunicaciones Competitivas (ECTA)  KPN Telefónica Alemania  Turkcell 
+Amazon Web Services 
+Dialogic innovación e interacción

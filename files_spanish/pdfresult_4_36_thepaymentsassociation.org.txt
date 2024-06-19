@@ -1,0 +1,606 @@
+Utilizando IA de manera inteligente:
+Maneras inteligentes de utilizar la Inteligencia Artificial en Pagos
+Guía de la Asociación de Pagos sobre IA
+Patrocinado porLa asociación de pagos.org
+
+He estado fascinado por el advenimiento y crecimiento de la Inteligencia Artificial (IA) en general durante los últimos 5-8 años. Mi pasión es 'pagos' y, en particular, el movimiento transfronterizo de fondos, que ha visto mejoras significativas en eficiencia en los últimos años. Creo que el crecimiento de la IA en esta área acelerará esa mejora y reducirá costos mientras se acercan los pagos a tiempo real. En este documento blanco, verá los diversos usos que la IA está adoptando en el ámbito de los pagos y cómo esto está impulsando un cambio para mejor. Al final del día, todos queremos ver los pagos invisiblemente tejidos en la trama de la vida cotidiana sin necesidad de pensar en ellos, pero sin sacrificar la conveniencia por la seguridad. Veamos qué nos depara la próxima década para los pagos - ya estoy emocionado y esperando con interés el viaje y poder asistir a la industria con la creciente cartera de herramientas de Fable Fintech.
+
+Aceptación de un sistema de pago como este depende de la confianza, y la moraleja de la 'fábula' de IA es que tal confianza debe ser ganada. Fable Fintech está lista para ganar y demostrar esa confianza.
+
+Nashaud Contractor
+CEO
+
+Prólogo del patrocinador
+
+En este documento blanco, verá los diversos usos que la IA está adoptando en el ámbito de los pagos y cómo esto está impulsando un cambio para mejor.asociación de pagos.org1 Prólogo
+3 ¿Qué es inteligencia artificial?
+3 Introducción
+4 Impulsos de IA
+5 ¿Qué es IA y cómo se aplica?
+6 ¿Cuál es la diferencia entre IA y ML?
+7 Casos de uso de inteligencia artificial
+7 IA y pagos
+7 Banca transaccional y tesorería
+8 Gestión de documentos
+8 Puntuación crediticia
+9 Fraude
+10 Cumplimiento
+11 KYC y AML
+12 Robót y chatbots
+14 Blockchain
+15 Adopción, futuro y barreras potenciales
+15 Adopción
+16 Tamaño del mercado
+17 Factores críticos de éxito
+17 Datos limpios
+17 Datos agregados
+17 Supervisión efectiva de IA
+17 Responsabilidad de IA
+18 Redes Adversariales Generativas
+18 Apoyo a nivel de C
+18 Construyendo sobre habilidades actuales
+19 Externalización selectiva
+19 Colaboración
+19 Regulación habilitadora
+20 El futuro de IA en pagos
+21 Conclusiones
+22 Acerca de la Asociación de Pagos Índice de contenidos
+2thepaymentsassociation.org¿Qué es la inteligencia artificial?
+
+Introducción
+
+El concepto de inteligencia artificial (IA) ha estado presente durante mucho tiempo y ahora está haciendo importantes avances en los servicios financieros. La IA tiene un impacto significativo en áreas como la detección de fraude y cumplimiento, la puntuación crediticia, la predicción de dificultades financieras, la asesoría robótica y el comercio algorítmico en muchas empresas de servicios financieros. Por ejemplo:
+
+* El 70% de todas las empresas de servicios financieros utiliza el aprendizaje automático para predecir eventos de flujo de caja, afinar las puntuaciones crediticias y detectar fraude1
+* El 54% de las organizaciones de servicios financieros con 5,000+ empleados ha adoptado la IA2
+
+Esto se debe a que la IA puede realizar procesos a gran escala más rápido y rápido que los humanos. También puede hacer inferencias que un humano podría pasar por alto al detectar patrones y vincular fuentes de información aparentemente dispares. Sin embargo, la aplicación de la IA en pagos no ha sido bien investigada, ni se entiende bien su aplicación en pagos.
+
+Fable Fintech,3 un patrocinador comunitario de The Payments Association, especializado en remesas internacionales, encargó este informe para abordar esta brecha, por lo que la comunidad de pagos está agradecida. También agradecemos la entrada de aquellos que asistieron a dos talleres de mesa redonda de CEO, donde se exploró el potencial de la IA en pagos. Su entrada en esta investigación fue tanto formativa como esencial.
+
+‘IA en pagos: ¿Hecho o fábula?’
+Una mesa redonda de CEO fue organizada por The Payments Association y Fable Fintech en agosto de 2021 para discutir el papel de la IA en pagos. Los invitados incluyeron:
+
+* Naushad Contractor, Director Ejecutivo, Fable Fintech
+* Tony Craddock, Director General, The Payments Association
+* Robert Courtneidge, Asesor Independiente de la Industria de Pagos
+* Srini Kasturi, Jefe Global de Pagos Masivos, Barclays Corporate Banking
+* Satish Chander, Consultor de Gestión, CFS-Zipp
+* Mitch Trehan, Jefe de Cumplimiento y MLRO, Banking Circle
+* Tribh Grewal, Director - Mercados Internacionales, Discover Financial Services
+* David Hunter, Presidente, The Payments Association
+* Bruce McIntyre, Socio Senior, Novitas
+* Raymond Lee, Director de Asociaciones Estratégicas, Phos
+* Mark Hartley, Jefe de Tarjetas y Pagos Internacionales, Infosys
+* Artun Kumrulu, Director Ejecutivo, Futuristech Consultancy
+* Bhairav Trivedi, Director Ejecutivo, Crown Agents Bank
+* Andy Turner, Director de Gestión de Productos para Mensajes Financieros, Bottomline Technologies
+* David Birch, Embajador Global, Consult Hyperion
+* Spencer Hanlon, Jefe Global de Pagos de Viajes y Jefe de Europa, Nium
+* Ray Brash, Director Ejecutivo, PPS
+* Ritesh Tendulkar, Jefe de Innovación, Modulr
+* Stephen Quinn, Director, The Acquire Network
+* Richard Stockley, Director de Asociaciones, CurrencyCloud
+* Sukhi Srivatsan, Director País, AZA Finance
+* Ian Clowes, Presidente, Paynetics UK
+
+1 Digital Banking Maturity: How Banks are Responding to Digital (R)evolution, Deloitte; 2020
+2 Economist Intelligence Unit Study, The Road Ahead: Artificial Intelligence and the Future of Financial Services, The Economist; 2020
+3 Para obtener más información sobre los servicios proporcionados por Fable Fintech, visite www.fablefintech.com o póngase en contacto con lucinda.groves@fablefintech.comLa Asociación de Pagos
+Impulsores de la IA
+
+Los impulsores empresariales de las tecnologías de IA son:
+
+Incrementar los ingresos a través de la personalización aumentada de los servicios a clientes y empleados. Uno de los habilitadores más poderosos de una experiencia del cliente fuerte es la personalización. Al aprovechar diferentes tipos de IA, las empresas pueden desbloquear conocimientos sobre el comportamiento del consumidor. Esto permite la toma de decisiones personalizadas y la capacidad de ofrecer lo que un cliente quiere y necesita en el momento en que lo necesita.
+
+Reducir costos a través de eficiencias generadas por una mayor automatización, reducir tasas de error y mejorar la utilización de recursos. Mejores procesos y eficiencia también contribuyen a la centrada en el cliente – cada vez más según los productos bancarios y de inversión se han vuelto ampliamente estandarizados. El análisis impulsado por IA puede mejorar cómo se entregan estos servicios, proporcionando diferenciación y contribuyendo a una ventaja competitiva al mejorar las experiencias del cliente. Más del 50% de 2,056 tomadores de decisiones de TI y línea de negocio recientemente encuestados dicen que la experiencia del cliente es su principal impulsor para la adopción de IA.
+
+Descubrir nuevas oportunidades previamente no realizadas basadas en una capacidad mejorada para procesar y generar conocimientos a partir de vastas cantidades de datos, según un estudio que involucra más de 25 casos de uso.
+
+Impulsar el crecimiento reduciendo el riesgo y optimizando procesos para reducir costos. Esto es especialmente cierto para cualquier cosa que sea basada en volumen y dependa de la velocidad y la precisión, como el procesamiento de pagos o la regulación.
+
+Satisfacer al regulador. Los reguladores de todo el mundo requieren procesos y toma de decisiones auditables, y la IA puede ayudar a las empresas de pagos a proporcionar esto de manera costo-efectiva y no manual.
+
+Potencia de cálculo más rápida. Aunque la mejora anual histórica de aproximadamente el 40% en el rendimiento de la unidad central de procesamiento (CPU) en computación está disminuyendo, la combinación de CPUs empaquetadas con procesadores alternativos está mejorando a una tasa de más del 100% anual. Aunque la "Ley de Moore" ya no es estrictamente cierta, la potencia de cálculo sigue creciendo exponencialmente cada año, lo que permite que la IA utilice capacidades de cálculo más rápidas y más baratas.
+
+Agradecimientos a…
+
+David Birch
+Embajador Global
+Consultor
+Hyperion
+Mike Doyle
+Oficial de Tecnología Jefe
+Cinnte Solutions
+Brian Halpin
+SVP, Estrategia y Transformación del Cliente
+Blue Prism
+Martin Runow
+Jefe Global de Pagos y Digital, Barclays Corporate Banking
+Alessandro Tonchia
+Jefe de Estrategia, Banca Privada y Patrimonio
+InvestCloud
+James Thomas
+Director Ejecutivo
+Itemize
+Gergo Varga
+Gerente de Contenido
+SEON
+Yin Lu
+Jefe Global de Producto para RegBrain, CUBE
+
+4 Estrategias de IA Vistas 2020, IDC Corporate, Resumen Ejecutivo; abril de 2020
+5 Banco del futuro: ¿Pueden los bancos cumplir con el desafío de la IA?, McKinsey & Co; septiembre de 2020
+
+¿Qué es la inteligencia artificial (IA)?Fuente: https://es.wikipedia.org/wiki/Ley_de_Moore#/media/File:Moore’s_Law_Transistor_Count_1970-2020.png
+thepaymentsassociation.org
+
+Estas aplicaciones de IA dependen en gran medida de tener grandes volúmenes de datos estructurados para analizar y aprender. Buscan anomalías dentro de un mar de puntos de datos. Según un informe de Fortune Business Insights, "El mercado de inteligencia artificial"6, el ML es probable que vea el mayor crecimiento, debido a su capacidad para detectar patrones y tendencias y extraer datos "en masa".
+
+Otras aplicaciones de IA se centran en datos no estructurados e información y dependen más de la toma de decisiones intuitivas. El procesamiento del lenguaje natural (NLP), que extrae conclusiones de datos de lenguaje natural, y la IA semántica (entendimiento del texto) son buenos ejemplos. Pueden utilizarse para analizar grandes cantidades de datos no estructurados para construir un perfil, relacionando aparentemente información no relacionada.
+
+¿Qué es IA y cómo se aplica?
+
+Todas las aplicaciones de IA intentan replicar, en la medida de lo posible, la capacidad humana, pero a escala. La IA significa diferentes cosas para diferentes personas y se utiliza para una variedad de aplicaciones. La confusión más común sobre la IA es el aprendizaje automático (ML) o el entrenamiento de máquinas para buscar y reconocer patrones dentro de conjuntos de datos, con ML prediciendo luego qué sucederá a continuación. El ML es simplemente un subconjunto de IA y, de hecho, uno de muchos, pero a menudo se confunden.
+
+La razón cognitiva (CR) - la réplica del proceso de juicio humano - es otro subconjunto dentro de esta aplicación de IA amplia, al igual que el aprendizaje profundo (DL) - aprendizaje por ejemplo, que nuevamente es un subconjunto de ML.
+
+"La IA puede mejorar masivamente cualquier proceso que tenga grandes volúmenes de datos y sea complejo. Cumplimiento, fraude y auditoría son buenos ejemplos. En el Reino Unido, por ejemplo, el Esquema de Pagos Rápidos significa que la transferencia de datos es instantánea. Esto ha requerido que los sistemas y procesos puedan verificar el fraude en casi tiempo real. También hay una necesidad de puntuación de riesgo en tiempo real y esto es otra cosa que estaremos impulsando agresivamente en los próximos tres a seis meses".
+
+JAMES THOMAS
+DIRECTOR EJECUTIVO
+ITEMIZE
+
+6 Fortune Business Insights: Tamaño del mercado de IA, participación y análisis de impacto de COVID-19, Fortune Business Insights; 2021
+
+Ley de Moore: El número de transistores en microchips se duplica cada 2 años
+
+La ley de Moore describe la regularidad empírica de que el número de transistores en circuitos integrados se duplica aproximadamente cada dos años. Este avance es importante para otros aspectos del progreso tecnológico en computación, como la velocidad de procesamiento o el precio de los computadoras.
+
+¿Qué es la inteligencia artificial (IA)?La asociación de pagos.org reúne información dispar para construir un perfil y utiliza esto para dibujar inferencias y conclusiones sobre alguien o algo. Los usos comunes se encuentran dentro de los chatbots o al personalizar una oferta.
+
+La Visión por Computadora es cómo los ordenadores pueden obtener una comprensión de alto nivel a partir de imágenes digitales o videos. Busca entender y automatizar tareas que el sistema visual humano normalmente lleva a cabo.
+
+El informe de Fortune Business Insights (arriba) predice que el NLP crecerá debido a su capacidad para ayudar con las preferencias del cliente, el comportamiento de compra, los procesos de toma de decisiones y la personalización. La figura de arriba muestra que el Aprendizaje Automático fue el uso más grande de la IA en 2020, pero que el NLP y la Visión por Computadora también son significativos.
+
+Algunas aplicaciones de la IA se predicen que madurarán a medida que las inferencias se vuelvan más mainstream; es decir, la IA se utilizará para llevar a cabo análisis que ningún cerebro humano podría hacer en términos de conectar cosas. El gráfico conceptual de Silicon Angle (arriba) muestra el gasto relativo en aplicaciones de modelado de IA versus aplicaciones de inferencia a lo largo de la década actual.
+
+¿Cuál es la diferencia entre IA y ML?
+
+La inteligencia artificial es un campo de la ciencia de la computación que hace que un sistema de computadora pueda mimetizar la inteligencia humana. Si comenzamos por dividir la IA en sus dos palabras, tenemos "Artificial", que se refiere a algo que es creado por humanos o una creación no natural, y "Inteligencia", que significa la capacidad de entender o pensar. Hay una concepción errónea de que la Inteligencia Artificial es un sistema, no lo es; la IA se implementa en el sistema. Una definición común es que "es el estudio de cómo entrenar a las computadoras para que puedan hacer cosas que actualmente un humano puede hacer mejor". Por lo tanto, es una inteligencia donde queremos agregar todas las capacidades a una máquina que los humanos pueden ofrecer hoy en día.
+
+El Aprendizaje Automático es el aprendizaje en el que una máquina puede aprender por sí misma sin ser programada explícitamente. Es una aplicación de la IA que proporciona al sistema la capacidad de aprender automáticamente y mejorar con la experiencia. Una definición es así, "el aprendizaje automático es un subcampo de la inteligencia artificial que permite a las máquinas aprender de datos pasados o experiencias sin ser programadas explícitamente". Luego, la máquina puede utilizar los aprendizajes para hacer predicciones o tomar decisiones utilizando los datos históricos sin ser programada explícitamente. El aprendizaje automático utiliza generalmente una gran cantidad de datos estructurados y semi-estructurados para que un modelo de aprendizaje automático pueda generar resultados precisos o hacer predicciones basadas en los datos.
+
+El ML se puede dividir en tres tipos:
+
+1. Aprendizaje supervisado
+2. Aprendizaje por refuerzo
+3. Aprendizaje no supervisado
+
+En resumen, esto significa que todo el aprendizaje automático es IA, pero no toda IA es aprendizaje automático. La IA resuelve tareas que requieren inteligencia humana, mientras que el ML es un subconjunto de la inteligencia artificial que resuelve tareas específicas mediante el aprendizaje de datos y la realización de predicciones.
+
+División indicativa A medida que la IA madura, la inferencia dominará
+
+Visión por Computadora Otro
+Procesamiento de lenguaje natural
+% del gastoInferenciaModelado
+Aprendizaje automático
+Fuente: https://www.fortunebusinessinsights.com/industry-reports/artificial-intelligence-market-100114
+Fuente: https://siliconangle.com/2021/04/10/new-era-innovation-moores-law-not-dead-ai-ready-explode/
+
+2020 2030 2025
+Detección de fraude, adtech, precios, clima, categorización, recomendación, motores, cadenas de suministro, procedencia de medicamentos...
+Conducción autónoma nivel 3, optimización del tráfico, AR/VR, red eléctrica, nuevos sistemas de pago, manufactura en tierra, diagnósticos de máquinas, fábricas inteligentes, centros de llamadas inteligentes...
+Teléfono inteligente, Alexa, reconocimiento facial, NLP, conducción autónoma de bajo nivel (p. ej., advertencias de carril), Navegador Brave (BAT), DeFi/Bloqueo, JuegosAutos, atención médica, servicios financieros, retail,Teléfono inteligente, Alexa, reconocimiento facial, 
+NLP, conducción autónoma de bajo nivel (p. ej., 
+advertencias de carril), Navegador Brave (BAT), DeFi/
+Blockchain, JuegosAutos, atención médica, servicios financieros, 
+minorista, medios de comunicación, gobierno/defensa, 
+seguridad cibernética, educación¿Qué es la inteligencia artificial (IA)?La asociación de pagos
+IA y pagos
+
+El valor de la IA en la industria de pagos ha sido, hasta la fecha, principalmente enfocado en la optimización. Cualquier función que tenga un alto volumen, alta frecuencia y datos estructurados relativamente puede beneficiarse de la IA. Sin embargo, a medida que la IA madura, se volverá cada vez más útil en pagos para inferencias y análisis, además de la optimización.
+
+Banco de transacciones y tesorería
+La IA puede ayudar a que el Banco de Transacciones y la Tesorería se vuelvan más eficientes, con menos riesgos y costos más bajos al utilizar ML y Deep Learning de tres maneras.
+
+En primer lugar, la IA puede ayudar con la investigación de pagos y soporte; identificando cuando algo ha salido mal y arreglándolo para proporcionar un sistema de pagos rápido y sin problemas, cumpliendo así con las expectativas de los clientes de procesamiento de pagos rápidos y eficientes. En segundo lugar, la IA puede ayudar en la toma de decisiones sobre la ruta de pagos. Esto se vuelve más relevante con el crecimiento continuo de métodos y rutas de pago. Finalmente, la IA puede ayudar con la transferencia de fondos de una cuenta a otra según ciertas condiciones, mejorando así la capacidad de la función de tesorería para detectar brechas de liquidez y compensar rápidamente la deuda corporativa y el crédito contra el capital en tiempo real. Puede modelar con precisión el impacto probable, por ejemplo, al buscar el mejor grupo de liquidez dentro de un mercado de divisas extranjeras. El tesorero puede utilizar patrones históricos para identificar lo que se necesita y cuándo llenar brechas o realinear activos existentes.
+
+"La ruta de pedidos es un buen ejemplo de IA en uso. El cliente final no se preocupa por qué vía ha viajado un pago - el trabajo es hacer que viaje por la mejor vía y hacerlo rápidamente y sin problemas. Un buen sistema debería utilizar IA para hacer esto".
+
+MARTIN RUNOW
+DIRECTOR GERENTE, JEFE GLOBAL DE PAGOS, FX Y DIGITAL
+BANCO CORPORATIVO BARCLAYS
+
+Casos de uso de inteligencia artificial
+7La Asociación de Pagos.org
+Casos de Uso en Servicios Financieros
+
+Gestión de Documentos
+La gestión de documentos se presta bien para implementar IA en pagos. La IA se utiliza para leer cuentas por pagar y facturas para automatizar un proceso y decidir qué hacer a continuación. La Captura y Reconciliación de Facturas convierte documentos en conjuntos de datos ricos para aplicaciones financieras. También verifica la información y agrega contenido con fuentes adicionales. Al reconciliar datos de facturas con órdenes de compra y otra información, la automatización mejorada con IA reduce la necesidad de reconciliación manual costosa y mejora la eficacia de las funciones de cumplimiento y auditoría.
+
+El Reconocimiento Óptico de Caracteres (OCR) ha estado disponible durante mucho tiempo, pero esto es equivalente a que un niño aprenda sus letras, en comparación con la IA, que es equivalente a leer palabras completas y entender lo que significan en el contexto de un capítulo en un libro. En la extracción de datos de documentos, los caracteres son fáciles de extraer, pero la IA puede deducir, por ejemplo, si una fila de números en un documento es una fecha, una orden de compra o el monto total.
+
+Esto es aún más desafiante "en la naturaleza", más allá de los jardines amurallados donde se pueden mandar formatos de factura. Donde cualquier empresa está utilizando software de contabilidad, los formatos y estructuras de documentos, incluso utilizando el mismo software, pueden variar enormemente y no hay un conjunto "formal" de reglas que funcionen, ya que hay muchas variaciones. Solo la IA puede hacer el salto para extraer datos significativos de una imagen tan compleja.
+
+Calificación de Crédito
+La IA es una herramienta valiosa para la calificación de crédito, que determina la capacidad de pago y la probabilidad de incumplimiento en una variedad de escenarios, produciendo un modelo matemático basado en métodos estadísticos y teniendo en cuenta una gran cantidad de información. Tradicionalmente, la calificación de crédito solo consideraba la historia de pagos del solicitante, la carga de deuda existente, la longitud y variedad de la historia de crédito y si había solicitado crédito en otro lugar. Este sistema produce resultados "desactualizados" con poca relevancia en la economía en constante evolución.
+
+Estudio de Caso
+Gestión de Documentos – Itemize
+La plataforma Itemize reconcilia datos de facturas con órdenes de compra y otra información para reducir la reconciliación manual, mejorar el cumplimiento y automatizar funciones de auditoría. El servicio está disponible a través de APIs fácilmente implementadas para producción en tiempo real o por lotes.
+
+Captura de Datos de Recibos y Coincidencia también convierte documentos de recibos en conjuntos de datos ricos para aplicaciones financieras. La plataforma lee imágenes de recibos, archivos PDF, correos electrónicos y archivos de texto en cualquier diseño. Utilizando Visión por Computadora, Inteligencia Artificial, Aprendizaje Automático y otras tecnologías, la plataforma captura datos ricos, verifica información financiera y agrega contenido con fuentes adicionales. La plataforma también reconcilia datos de recibos con información de transacciones financieras, como datos de tarjeta de crédito o información de informes de viajes y entretenimiento (T&E), para apoyar el cumplimiento y los controles de política.
+
+Además, la Captura y Procesamiento de IVA ayuda a automatizar el seguimiento, informes y reembolsos de IVA empresarial. La plataforma captura datos de IVA y impuestos sobre las ventas ricos, verifica información y agrega contenido con fuentes adicionales. La plataforma también reconcilia datos de documentos con información de transacciones financieras, como datos de tarjeta de crédito o información de informes de viajes y entretenimiento (T&E), para apoyar las necesidades de seguimiento, informes y reembolsos de IVA. Solo la IA puede hacer el salto para extraer datos significativos de una imagen tan compleja.La Asociación de Pagos.org Casos de Uso en Servicios Financieros
+
+La IA permite análisis en una base muy detallada y personalizada, y utiliza una variedad de factores en tiempo real, incluyendo ingresos actuales, historial laboral y potencial de ganancias. Estos datos están siendo más accesibles a medida que se expande la "Banca Abierta/Banca Abierta" a nivel global - véase el Informe de la Asociación de Pagos sobre Banca Abierta: "Poder al Pueblo: Cómo la Banca Abierta está Revolucionando la Forma en que Accedemos y Manejamos nuestro Dinero". Esto resulta en una puntuación crediticia más completa y prospectiva que es más personalizada y sensible a cambios pequeños, ya sean positivos o no. La puntuación crediticia se combina luego con precios basados en riesgos, incluyendo la tasa de interés, para hacer una oferta o no, y para definir los términos y precio. Esto ha sido particularmente útil para apoyar la inclusión financiera. En particular, los solicitantes con archivos de crédito pobres o delgados que de otra manera habrían tenido sus solicitudes rechazadas automáticamente tendrán datos adicionales utilizados para evaluarlos.
+
+El uso de IA en la puntuación crediticia puede entregar resultados impresionantes. Un estudio de caso publicado recientemente citó una solución de IA que detectó el 83% de la deuda mala no detectada por una puntuación crediticia. Esto redujo drásticamente la exposición del banco al riesgo crediticio. Si se siente cómodo con esta tasa de incumplimiento, el banco podría prestar a un 77% más de personas, no solo generando más ganancias sino también llevando a una mayor inclusión financiera.
+
+Fraude
+
+La IA se utiliza en pagos para identificar fraude. Identifica rupturas en patrones de comportamiento o la existencia de contrapartes sospechosas o actividad de una contraparte, reconociendo lo que es inusual y si una contraparte tiene alguna sanción o bandera roja en su contra.
+
+La adopción creciente de herramientas digitales y pagos digitales por parte de los consumidores ha resultado en un aumento significativo del fraude en la última década. En particular, las transacciones "No Presente en la Tarjeta" (CNP) han aumentado dramáticamente, con estas transacciones representando el 27% de todas las transacciones de débito en 2019 y aumentando 10 veces más rápido que las transacciones "Presente en la Tarjeta". El potencial de fraude también ha aumentado, con empresas que se esfuerzan por cumplir con las expectativas de los consumidores. El 92% de los consumidores espera una experiencia rápida, sin fricciones y segura.
+
+Cada vez que un consumidor gasta, los detalles de esa transacción crean una huella digital relacionada con sus preferencias, comportamientos y actitudes. Con la aplicación de IA, la industria puede utilizar estos datos para identificar anomalías que podrían indicar fraude potencial:
+
+1. ¿Quién?: número de teléfono, información de KYC, número de tarjeta
+2. ¿Cuándo?: hora del día, día de la semana
+3. ¿Dónde?: ubicación del gasto, dirección del terminal de punto de venta, comerciante
+4. ¿Qué?: moneda, código MCC
+5. ¿Cómo?: dispositivo, seguimiento del mouse/pantalla
+
+Los falsos positivos se informan como el área de pérdida más grande para los comerciantes, alrededor del 10-15%. La IA puede reducir falsos positivos aplicando una capa secundaria de cuestionamiento a algo que ha sido marcado como potencialmente sospechoso. Esto mejora la precisión y la eficiencia, y también apoya los impulsores de costo y servicio al cliente para la adopción de IA.La asociación de pagos.org
+
+La IA apoya el cumplimiento – a veces referido como gobernanza – aplicando regulaciones específicas, reglas de la empresa y políticas a un área de negocio particular, entendiendo cómo se deben implementar y luego mapeándolas en infraestructuras y procesos internos. La IA necesita poder leer toda la internet regulatoria y aplicarla donde sea relevante, así como entender qué políticas y procedimientos internos tiene una empresa. Para hacer esto, se despliegan crawlers personalizados. Estos se complementan con ML y IA Semántica para analizar lo que los crawlers han recopilado y entender cómo aplicarlo, utilizando clasificación, lenguaje y traducción para producir algo utilizable.
+
+El mercado global de IA para cumplimiento y gobernanza se proyecta que alcance los 1.016 millones de dólares estadounidenses para 2026, creciendo a una tasa anual compuesta del 65,5% desde una base de 50 millones de dólares en 2020. Identificar fraude puede ser como encontrar una aguja en un pajar, por lo que el acceso a grandes cantidades de datos limpios y utilizables es crítico, y es más exitoso en sectores con grandes flujos de transacciones de pago. Este requisito de escala puede ser desafiante para las organizaciones más pequeñas, aunque las principales empresas de fraude a menudo agregan datos anonimizados para proporcionar piscinas lo suficientemente profundas para apoyar análisis efectivos.
+
+Además, los ciberdelincuentes aprovechan la IA para detectar patrones o anomalías dentro de un sistema que podría ser vulnerable a ataques, por lo que los bancos necesitan utilizar herramientas de IA para ejecutar rutinariamente en segundo plano de pagos institucionales y minoristas, buscando patrones sospechosos o secuencias, como un pago regular que de repente cambia de IBAN o dirección IP.
+
+Cumplimiento
+La IA habilita a las empresas a entender y cumplir con las obligaciones regulatorias a un alto nivel. El fraude, la calificación crediticia y el riesgo contribuyen a esto, pero estas aplicaciones downstream no pueden funcionar efectivamente a menos que haya una comprensión a alto nivel de los requisitos y dónde se tocan.
+
+Casos de uso en servicios financieros
+
+"El volumen, velocidad y complejidad de la regulación y el ritmo de cambio desde la crisis de 2008 significa que la IA es necesaria para mantenerse al día con todo. La IA es inevitable."
+
+YIN LU
+JEFE GLOBAL DE PRODUCTO PARA REGBRAIN, CUBE
+
+Estudio de caso
+Cumplimiento - CUBE
+Un gran banco estadounidense tenía una solución automatizada de cambio regulatorio preexistente, pero no estaba impulsando la automatización o la eficiencia. Por su propia admisión, el sistema funcionaba, pero el banco no estaba seguro de que su oferta existente fuera hermética. La organización había estado utilizando un sistema de cambio regulatorio heredado durante algún tiempo. Estaba pasando por un cambio organizacional y quería racionalizar operaciones de cumplimiento en toda la empresa. Además de ineficiencias procedimentales, el banco también estaba buscando llenar algunos vacíos que habían aparecido en su inventario regulatorio existente. Quería un producto que mapeara sus regulaciones relevantes a través de sus controles y se integrara con su programa de gobernanza, riesgo y cumplimiento existente.
+
+CUBE desplegó soluciones de IA para abordar las ineficiencias existentes del banco y consolidar todos sus sistemas en una solución. Como resultado, el banco aumentó la eficiencia en sus procesos de cumplimiento en un 50%.
+
+12 Mercado de gobernanza de IA por componente, Markets and Markets; 2020La asociación de pagos.org causas, preferencias de inversión moral o ética y planes de sucesión empresarial o personal.
+
+La importancia de mejorar KYC/AML no puede subestimarse, ya que el lavado de dinero es un drenaje financiero masivo en la economía global. Se estima que el lavado de dinero es alrededor del 5% del producto interno bruto global o $2 billones anuales. Las organizaciones también sienten el dolor a través de multas de los reguladores. De hecho, 58 instituciones financieras pagaron casi el doble de multas globales en 2019 que en 2018, lo que ascendió a £6,200 millones en penas. Los reguladores estadounidenses fueron los más activos, otorgando 25 penas que totalizaron $2,290 millones. El siguiente más grande es el Reino Unido, con 12 multas que totalizaron £297,3 millones ($388,4 millones).
+
+KYC y AML AI pueden reducir costos y riesgos al automatizar muchas tareas de Conozca a su Cliente (KYC) y Anti-Lavado de Dinero (AML) que actualmente se realizan manualmente por especialistas en cumplimiento y delincuencia financiera. Esto libera tiempo para que esos profesionales realicen evaluaciones más exhaustivas de los riesgos y aborden casos individuales de manera más diligente.
+
+KYC/AML es un término genérico para un número de áreas importantes, incluyendo la diligencia debida básica y mejorada (EDD), propiedad beneficiaria última y monitoreo de transacciones. Para EDD en particular, AI puede utilizar inferencias para proporcionar un análisis más amplio de posibles asociaciones comerciales y relaciones individuales.
+
+La automatización de tareas analíticas básicas se puede realizar a gran escala por máquinas, lo que garantiza la completitud y velocidad del análisis, incluso con millones de puntos de datos y decenas de miles de documentos en múltiples idiomas. Esto ayuda a revelar riesgos que los analistas humanos podrían pasar por alto. Sin embargo, los sistemas automatizados deben configurarse para reflejar la política de la empresa en cuanto a procesos y tipo de información que debería activar una bandera roja.
+
+La información y los datos recopilados dentro del proceso KYC/AML se pueden utilizar para incorporar a un cliente y informar una proposición personalizada. El sector de gestión de patrimonios utiliza esto, donde la demanda de un servicio altamente personalizado y una relación comprometida con un asesor de inversiones es alta. El AI permite que el asesor proporcione al cliente lo que necesita en relación con sus circunstancias, brindándole acceso a insights.
+
+Estudio de caso
+KYC/AML – InvestCloud
+El AI puede ayudar de tres maneras. En primer lugar, la capacidad de entender a los clientes en términos de riesgo de cumplimiento y reputacional que podrían traer consigo. ¿Cuál es su exposición a cosas que no son deseables o aceptables? ¿Ha habido alguna cobertura adversa? ¿Son asociados cercanos de partes no deseadas? ¿Participan en actividades sensibles en jurisdicciones riesgosas?
+
+El AI también puede realizar una diligencia debida similar en las contrapartes de una transacción para identificar si la transferencia de dinero podría estar asociada con actividades nefarias.
+
+Y en tercer lugar, al analizar patrones de pago (montos, frecuencia, destinos), el AI puede identificar comportamientos y flujos que son sospechosos o que no se alinean con las actividades de pago indicadas por el cliente al abrir la cuenta.La Asociación de Pagos.org
+Casos de Uso en Servicios Financieros
+
+Robos y chatbots
+
+Los Robos y chatbots se basan en la capacidad de descifrar la información que proporciona el cliente y, por lo tanto, ofrecer sugerencias que se ajustan a los objetivos de riesgo y inversión.
+
+La intención es que la IA traduzca y tenga sentido de lo que el cliente está diciendo, aunque actualmente se basa más en lo que hacen personas similares. Sin embargo, a medida que crecen las capacidades de la IA, junto con la gama de información utilizada - estructurada, no estructurada y holística -, la IA podrá traducir lo que el cliente necesita, incluso cuando se expresa mal, para ayudar a identificar las necesidades y perfiles de riesgo del cliente.
+
+En el futuro, un Robo mejorado con IA podría calcular qué debería invertir un cliente, por ejemplo, para sentirse cómodo en la jubilación o dejar un legado específico a sus familiares.
+
+Robos AI personales.
+
+David Birch, Embajador Global, Consult Hyperion
+
+En lugar de utilizar el Robo de un banco solo para una cosa, como el seguro, y otro para algo más, cada persona podría tener su propio Robo personal. El Robo podría aprender de una amplia gama de información y datos para realizar tareas como elegir qué seguro es más adecuado, incluyendo descifrar la letra pequeña, por ejemplo.
+
+El Robo necesitaría acceso a la gama completa de datos personales que se ajustarían a un producto utilizando una base algorítmica para que la elección del producto fuera racional y guiada por la "mejor opción" en lugar de por marca o información basada en percepciones.
+
+Utilizando el mismo concepto, y si se otorga acceso a la información requerida, el bot personal de una persona podría sentarse en una cola de centro de llamadas y registrar la solicitud inicial en su nombre, o establecer su propia agenda de salud financiera personal. Dado el volumen de datos de entrada que se requeriría, la persona necesitaría supervisar el proceso y aplicar medidas anti-bias aquí. El Robo de IA tendría un papel de defensor, proporcionando información de fondo y traduciendo cosas para el cliente no informado.
+
+Las empresas ya están aplicando la IA en aplicaciones bancarias para agregar datos y personalizar ofertas a los clientes utilizando el banco abierto.
+
+"El estándar de IA cuando se trata de información contextual debe ser alto, de lo contrario, la gente no los utilizará. Los bancos minoristas pueden utilizar datos para proporcionar información sobre lo que una persona podría necesitar según sus transacciones de cuenta corriente actuales o si han tenido un cambio importante en la vida. Hecho con sensibilidad, esto es algo bueno de tener".
+
+MARTIN RUNOW
+DIRECTOR GERENTE, JEFE GLOBAL DE PAGOS, FX Y DIGITAL
+BANCO CORPORATIVO BARCLAYSLa Asociación de Pagos
+Casos de Uso en Servicios Financieros
+
+Mientras tanto, los chatbots han recibido una gran cantidad de atención. Cuando funcionan bien, pueden brindar una experiencia más rica, pero cuando no lo hacen, son una gran fuente de frustración para los clientes. Los chatbots no deberían solo reconocer la intención del cliente, sino que también deberían tener una visión de 360 grados del cliente para contextualizar esa intención. El aprendizaje automático puede ayudar a determinar la mejor respuesta utilizando todos los datos del cliente y comparar la intención y los datos con situaciones que ha encontrado en el pasado.
+
+Uno de los chatbots más conocidos es Kasisto, introducido por el banco DBS en 2017. Utiliza algoritmos de inteligencia artificial para crear una experiencia similar a la humana para los clientes que solicitan detalles sobre sus cuentas y transacciones. El banco redujo su riesgo de error humano y mejoró su tiempo de respuesta mediante su capacidad para acceder a la información mucho más rápido que un humano. Kasisto fue un pionero y en su momento, muchos clientes no se dieron cuenta de que estaban hablando con una computadora que utilizaba NLP para comunicarse. Desde entonces, ha sido ampliamente replicado con otras iteraciones bien conocidas, como "Arbie" de RBC, descrito como un cajero digital y puede manejar transferencias de dinero, pagos de facturas y estados de cuenta. "MIA", desarrollado por la subsidiaria de BBVA, Garanti Bank en Turquía, utiliza NLP en dispositivos móviles para permitir que sus clientes realicen transacciones.
+
+El uso óptimo de chatbots para mejorar la experiencia del cliente es en conjunción con un ser humano, es decir, pasar por seguridad con un chatbot para determinar la intención y luego pasar a un agente humano para cualquier cosa que requiera juicio y intervención humanos. También reduce el costo del banco de emplear personal para responder a preguntas rutinarias. "Los chatbots pueden descomponer una conversación en pequeños bloques, algunos de los cuales pueden manejar, algunos de los cuales no pueden. Por lo tanto, la intervención humana sigue siendo necesaria. También necesitas la aprobación del usuario para convencerse a sí mismo de que está teniendo una conversación real con una persona que se preocupa, no una máquina".
+
+GERGO VARGA
+GERENTE DE CONTENIDO
+SEON
+13La Asociación de Pagos.org
+Casos de Uso en Servicios Financieros
+Blockchain
+Al utilizar una blockchain, la IA puede aportar poder de cálculo adicional a los pagos. La blockchain es, según muchos, ya una forma eficiente de almacenar datos, especialmente sobre la historia de una transacción de pago y tanto la fuente como el destino de los fondos. Pero la IA también puede utilizarla para refinar el proceso de toma de decisiones y proporcionar insights accionables, como agentes de programación autónomos para recibir y enviar dinero en una blockchain.
+La combinación de inteligencia artificial y blockchain podría introducir innovaciones radicales en el futuro. Según la Corporación Internacional de Datos, los gastos globales en IA aumentaron a casi $57.6 mil millones en 2020.15. Curiosamente, alrededor del 51% de las empresas aprovecharon la combinación de IA y blockchain. Las tendencias existentes de aplicación de IA en una blockchain mejorarían la blockchain al introducir las siguientes funcionalidades:
+Protección de datos
+Potencia de cálculo inteligente
+Monetización de datos
+Creación de conjuntos de datos diversos
+Por ejemplo, la IA incrustada en "contratos inteligentes" ejecutados en una blockchain se puede utilizar para reordenar, pagos o compras de acciones basadas en umbrales y eventos establecidos. La IA puede resolver disputas y seleccionar el método de enrutamiento más sostenible. También puede suavizar los procesos de toma de decisiones en torno a préstamos y créditos, basándose en datos del solicitante almacenados en una blockchain, lo que elimina la necesidad de solicitarlos nuevamente.
+La capacidad de una blockchain para almacenar datos también ayuda al proceso de IA. Debido a que un principio central de la blockchain es su transparencia, puede ayudar a rastrear y auditar el proceso de toma de decisiones. Específicamente, puede documentar con precisión dónde provienen los datos, cómo se han utilizado y con qué otros conjuntos de datos y variables, y rastrear cómo se ha tomado una decisión mediante un algoritmo.
+La IA no se limita a casos de uso que involucran grandes cantidades de datos estructurados. También se puede utilizar de manera más contextual para abordar la inferencia y áreas que requieren acceder a varios conjuntos de datos estructurados y no estructurados, que son más desafiantes para la lectura de máquinas. La IA permite que la toma de decisiones se realice con detalle, rápidamente y de manera auditada.La asociación de pagos.orgAdopción
+
+Antes de la pandemia de Covid-19, 
+el interés y la adopción de la IA en 
+los pagos eran lentos pero constantes. Ahora, 
+las instituciones financieras están viendo la IA como un medio para aplicar eficiencia y 
+ahorrar costos en sus operaciones. Como 
+muestra el gráfico a continuación, las organizaciones 
+consideradas "líderes" por Deloitte otorgan un valor mucho mayor a la adopción de la IA, con un 25% que la considera de importancia estratégica crítica.
+
+Las capacidades de la IA también apoyan 
+los esfuerzos de digitalización en curso. A medida que crece la adopción de canales digitales por parte de los consumidores, también crece la necesidad de comunicarse y atenderlos rápidamente y de manera efectiva.
+
+La encuesta de 2020 del Banco de Inglaterra sobre el impacto de Covid en el aprendizaje automático y la ciencia de datos.16 Dice que el 50% de los encuestados considera que el ML es importante para las operaciones futuras debido a la pandemia. 
+Muestra una aplicación común de ML por parte de los bancos durante este tiempo para lidiar con las consultas de los clientes y que el ML resultó en una mayor eficiencia operativa para los bancos del Reino Unido al procesar un mayor volumen de solicitudes de préstamos garantizados por el gobierno.
+
+Los reguladores también están respondiendo al aumento del uso de la IA y buscan abordar los riesgos asociados con la implementación de sistemas de IA en el sector financiero. Estos incluyen riesgos para la inclusión financiera de los consumidores y la estabilidad. También incluyen riesgos relacionados con la privacidad, la discriminación ilegal, actos o prácticas desleales y la seguridad y confiabilidad de las instituciones financieras. Sin embargo, también están empezando a explorar cómo la IA podría tener un impacto positivo en su propia función, notablemente mediante la extensión de la RegTech en SupTech. 
+Comprensiblemente, esto está en su infancia, ya que es inherentemente complejo y el riesgo sistémico de hacer algo malo es considerable.
+
+Adopción, futuro y barreras potenciales
+16 El impacto de Covid en el aprendizaje automático y la ciencia de datos en el sector bancario del Reino Unido: Boletín trimestral, Banco de Inglaterra; 2020
+17 Tendencias y marcos de política para la IA en finanzas, Biblioteca de la OCDE; 2021Adopción de la IA: fronteras mejor reconocen la importancia estratégica de la adopción de la IA
+
+No muy importante  Algo importante  Muy importante  Importancia estratégica crítica
+Líderes Seguidores Principiantes
+8%
+8%
+59%
+25%
+6%
+6%
+18%
+70%
+54%
+38%
+6%
+2%
+15%La asociación de pagos.orgEl nivel significativo de inversión 
+La IA está disfrutando actualmente de inversores de capital riesgo, lo que da alguna indicación sobre la posible adopción futura de la IA. Las cifras de la OCDE muestran que, a nivel global, las startups orientadas a la IA en 2020 en la industria financiera y de seguros, ocuparon el séptimo lugar en términos de la cantidad de capital riesgo (CR) que atrajeron, con una inversión total de CR de más de 4.000 millones de USD en todo el mundo, concentrada en startups de IA estadounidenses. 
+
+Buenos ejemplos de esta inversión incluyen a Stripe, que desarrolla y proporciona soluciones de infraestructura financiera para que las empresas puedan aceptar pagos en línea. Stripe también ofrece detección y prevención de fraude utilizando ML. 
+
+Mientras tanto, OakNorth UK opera una plataforma integrada con IA que proporciona soluciones de banca en línea, como cuentas de ahorro personales, préstamos y servicios de financiamiento de crédito empresarial. 
+
+Tamaño del mercado 
+Según un informe de McKinsey, "El libro de jugadas de la IA para ejecutivos", el valor total potencial de la IA para la industria bancaria global podría alcanzar los 1 billón de USD (ver abajo). El informe dice que, impulsado por la IA avanzada, la función de riesgo podría totalizar 372.900 millones de USD o el 50% del valor, y que las finanzas y la TI podrían alcanzar el 100% del valor impulsado por la IA avanzada.18 
+
+18 El libro de jugadas de la IA para ejecutivos: Inteligencia Artificial en los negocios, McKinsey & Co.; 2021 
+
+Adopción, futuro y barreras potenciales 
+El valor anual potencial de la IA y el análisis para la banca global podría alcanzar hasta 1 billón de USD. 
+
+Valor anual potencial de la IA y el análisis para la banca global 
+$1 billón 
+100% del valor impulsado por la IA avanzada 
+50% Valor tradicional de la IA y el análisis $660.900 millones 
+IA avanzada $361.500 millones 
+Mercadotecnia y Ventas 
+$624.800 millones 
+$363.800 millones $261.100 millones 
+Riesgo 
+$372.900 millones 
+$288.600 millones $84.300 millones 
+RRHH 
+$14.200 millones 
+$8.600 millones $5.700 millones 
+Finanzas y TI 
+$8.000 millones 
+$0.000 millones $8.000 millones 
+Otras operaciones 
+$2.400 millones 
+$0.000 millones $2.400 millonesLa asociación de pagos.org
+Factores críticos de éxito
+
+El futuro para la implementación de IA en pagos parece prometedor. Pero para cumplir con esa promesa, es necesario hacerlo bien y mantener la confianza en la IA a lo largo de la cadena de valor, incluyendo al usuario final. Definir el papel de la IA y su alcance es un punto de partida crítico para esto. Luego, los factores esenciales para el éxito necesitan ser adheridos, que incluyen lo siguiente:
+
+Datos limpios
+La IA utiliza experiencias pasadas para informar el futuro, por lo que necesita datos confiables, exhaustivos y limpios para trabajar. La aplicación de la IA en diferentes áreas de análisis depende fuertemente del acceso a la cantidad adecuada de datos relevantes - no tener suficientes datos es tan inútil como tener demasiados. Los datos necesitan ser integrados, extraídos de varias fuentes y luego limpiados y estructurados para que la IA pueda trabajar con ellos. La atención al detalle es crítica, con consideración de si hay suficientes datos, si son utilizables y qué hacer si no.
+
+Datos agregados
+Una vez que los datos son considerados suficientes y utilizables, estos datos necesitan ser agregados. Esto es especialmente importante cuando se pide a la IA que lea, limpie, una y combine múltiples conjuntos de datos internos y externos (aparentemente no relacionados) para hacer predicciones. Cada conjunto de datos necesita tener sentido por sí solo y junto con otros conjuntos de datos.
+
+Supervisión efectiva de la IA
+La IA está en constante evolución, por lo que requiere supervisión constante, pruebas vigorosas y desarrollo para mejorar la toma de decisiones, como cómo y por qué evitar sesgos inconscientes, compartir datos, privacidad, seguridad y poder explicar cómo se está aplicando. Si el proceso y las reglas no pueden ser seguidas y explicadas, entonces las decisiones y acciones se vuelven no responsables y no auditables. Por lo tanto, se necesita una metodología exhaustiva que sea rastreada y auditada para fines de cumplimiento.
+
+Responsabilidad de la IA
+La distinción entre un conjunto de "caja negra" o "caja blanca" es importante para la responsabilidad. Hay un cambio hacia algoritmos de ML de "caja blanca" porque las cajas negras no son completamente replicables y carecen de rastreo, transparencia y oportunidades para establecer inferencia causal. Un algoritmo de "caja blanca" fomenta la explicabilidad y la responsabilidad, y esto madura y evoluciona a medida que la función de IA se desarrolla más, obtiene más datos para analizar y puede aprender de sus experiencias previas.
+
+Según Gartner, "la confianza, la transparencia, la equidad y la auditabilidad de las tecnologías de IA continúan siendo de creciente importancia para una amplia gama de partes interesadas".
+
+Adopción, futuro y barreras potenciales
+"Lo que hemos empezado es aplicar IA a procesos siloizados. Pero se pueden obtener sinergias útiles y precisión al vincular diferentes áreas. Por ejemplo, al vincular KYC y AML, se obtiene una imagen más completa y un conjunto de datos más grande con más interrelaciones y conectividad. Esto puede ayudar a obtener una comprensión más completa del comportamiento del cliente".
+
+ALESSANDRO TONCHIA
+JEFE DE ESTRATEGIA, BANCA PRIVADA Y PATRIMONIO, INVESTCLOUDLa asociación de pagos.org El informe de Gartner también establece que "la IA responsable ayuda a lograr la equidad, aunque los sesgos estén integrados en los datos; ganar confianza, aunque los métodos de transparencia y explicabilidad estén evolucionando; y asegurar el cumplimiento regulatorio, mientras lucha con la naturaleza probabilística de la IA".
+
+El tema vital aquí es que las preguntas formuladas a un algoritmo de IA se enfrentan a sus objetivos estratégicos a largo plazo: mantener la estabilidad, fomentar la competencia, proteger a los consumidores mientras se asegura un campo de juego nivelado.
+
+Redes Adversarias Generativas (GANs)
+
+Las Redes Adversarias Generativas (GANs) son donde las redes se enfrentan entre sí para mejorar. Son típicamente no supervisadas y utilizan un marco de "ganancia cero-suma" cooperativa para aprender. Se entrenan a sí mismas generando nuevas instancias sintéticas de datos que pueden pasar por datos reales. Se utilizan principalmente en la generación de imágenes, la generación de video y la generación de voz. El potencial de las GANs es enorme. Pueden aprender a imitar cualquier distribución de datos y pueden recrear imágenes, música, voz y prosa. Sin embargo, las GANs también pueden ser utilizadas para crear noticias falsas y Deepfakes, por lo que se debe tener cuidado en su implementación.
+
+Apoyo a nivel de C
+
+El mayor desafío al adoptar la IA en los pagos es que el papel del ser humano en la operación, no solo en cuanto a la habilidad adecuada dentro de la organización, sino también proporcionar apoyo a nivel de C para asegurar que los proyectos y implementaciones sucedan cuando compiten con otras prioridades por la atención y los recursos de la empresa.
+
+Cuando los ejecutivos de nivel C presentan la introducción de la IA como un desarrollo positivo y una oportunidad para mejorar y re capacitar, esto facilita el cambio cultural y la adopción de la IA es rápida. Si la IA se entiende como una forma de alejar a las personas de tareas mundanas hacia la adquisición de habilidades y capacidades para dominar el mundo digital y impulsar la IA hacia adelante, entonces la aceptación cultural es mucho más probable en toda la empresa.
+
+Edificar sobre habilidades actuales
+
+La aplicación de la IA dentro de una organización requiere edificar sobre habilidades actuales. Hay una escasez de personas con un conjunto de habilidades interdisciplinarias en ML y ciencia computacional, alfabetización de datos, historia y matemáticas. Las habilidades requeridas para construir la IA se pasan por alto con facilidad.
+
+Además de la aplicación horizontal de la IA, se necesita un enfoque mucho menos compartimentado para desarrollar las habilidades y la experiencia adecuadas para integrar el conocimiento y la experiencia de los analistas financieros, ingenieros de datos, científicos de datos, gerentes de riesgos, auditores internos y desarrolladores de aplicaciones de ML.
+
+Adopción, futuro y barreras potenciales
+
+Hay una escasez de personas con un conjunto de habilidades interdisciplinarias en ML y ciencia computacional, alfabetización de datos, historia y matemáticas.La asociación de pagos.org
+Externalización selectiva
+
+Construir modelos de IA sofisticados 
+en casa puede ser problemático 
+desde una perspectiva de escalabilidad, 
+ya que la mayoría de las empresas 
+simplemente no tienen el poder 
+computacional requerido para 
+realizar IA a gran escala. IA como 
+un servicio (IAaaS) ha surgido como 
+la mejor manera de adoptar IA en 
+términos de costo y eficiencia. 
+La capacidad puede ajustarse hacia 
+arriba o hacia abajo según sea necesario. 
+Y IAaaS hace que sea mucho más fácil 
+experimentar y escalar las capacidades 
+de IA una vez que los proyectos comienzan 
+a crecer y se vuelven comercialmente 
+atractivos.
+
+La nube hace que las capacidades 
+inteligentes sean accesibles sin 
+requerir habilidades avanzadas en IA. 
+AWS, Microsoft Azure y Google Cloud 
+Platform ofrecen opciones que no 
+requieren conocimientos profundos de IA 
+ni un equipo de científicos de datos. 
+
+Colaboración
+Adoptar un enfoque colaborativo 
+para IA y aprovechar la experiencia 
+técnica y la infraestructura basada 
+en la nube, al igual que otras áreas 
+no centrales del negocio se externalizan, 
+reducirá las barreras para IA. Luego 
+podremos tener más aplicaciones de IA 
+preconstruidas para casos de uso específicos, 
+al igual que hacemos con soluciones de Fintech 
+que pueden conectarse a la pila de tecnología 
+de una empresa utilizando APIs abiertas.
+
+Regulación habilitadora
+Ha habido informes de sesgo, discriminación, 
+invasividad en datos privados y violaciones 
+de derechos humanos, lo que ha llevado 
+a la Unión Europea a proponer la 
+Ley de Inteligencia Artificial20, que 
+tiene como objetivo imponer restricciones 
+en IA para eliminar estas instancias. 
+Mientras que la ley afectaría a todas 
+las industrias, habría un enfoque particular 
+en sectores de alto impacto, que incluyen 
+tanto la banca como las industrias financieras. 
+Mientras que estas regulaciones parecen 
+tener en mente el interés público y los valores, 
+podrían parecer una solución impráctica, 
+especialmente si otros países buscan implementarlas. 
+Según el Centro de Innovación de Datos, 
+estas nuevas regulaciones costarían a la 
+economía europea más de 30 millones de dólares 
+para implementar y administrar.21
+
+Adopción, futuro y barreras potenciales
+"Se necesita talento dentro de las empresas 
+para asegurarse de que la IA se pueda 
+implementar, entregar y evolucionar. 
+El talento necesita ser desarrollado, 
+desplegado y mantenido. Hay una brecha 
+masiva de habilidades en este sentido..."
+
+YIN LU
+JEFE GLOBAL DE PRODUCTO PARA 
+REGBRAIN, CUBELa asociación de pagos.org
+Adopción, futuro y barreras potenciales
+
+El futuro de la IA en los pagos
+
+La IA comenzará a hacer una diferencia significativa cuando se aplique en toda la organización en lugar de solo en silos o funciones específicas. Un ejemplo obvio de esto es cuando se utiliza la Automatización de Procesos Robóticos (RPA) o Trabajadores Digitales para automatizar un proceso determinado y comunicarse a través de verticales. La IA se puede aplicar encima de esta gestión de procesos horizontales para producir un resultado general mejor. La pila tecnológica central se puede utilizar mejor donde los Trabajadores Digitales no dependen de la IA, sino que se utilizan en conjunción con el personal físico, con actividades asignadas a cada uno según sus habilidades y capacidades. La IA se puede utilizar para asegurarse de que los datos y procesos se conecten y fluyan, mientras que las personas llenan los vacíos y brindan supervisión humana cuando las tareas se vuelven complicadas y requieren juicio. Los Trabajadores Digitales se encuentran entre los dos.
+
+Aquí, la IA aplica el trabajo cerebral sobre el músculo de los Trabajadores Digitales. Trabaja de manera inteligente, utiliza datos y documentación para decidir cómo actuar algo y instruye a la RPA en consecuencia. Esto utiliza principalmente ML, pero también puede involucrar NLP, dependiendo de lo que se le pida a la IA que interprete y decida. Luego, la IA proporciona la traducción y dirección que el Trabajador Digital requiere. La IA utiliza decisiones previas para hacer una recomendación y la RPA es el orquestador.
+
+"La IA suele ocurrir dentro de silos distintos. Esto necesita cambiar si los bancos quieren aprovechar al máximo las oportunidades que se ofrecen. Rara vez hay un equipo empresarial integral en su lugar."
+
+BRIAN HALPIN
+VP, Asesoría - Estrategia y Transformación del Cliente
+BLUE PRISM
+20the payments association.org
+
+Conclusión
+
+Se prevé que el mercado global de IA alcance los 360.36 mil millones de USD para 2028, con una tasa de crecimiento anual compuesta (CAGR) del 33,6% entre 2021 y 2028, partiendo de una base de 35,92 mil millones de USD en 2020, según Fortune Business Insights.
+
+Los líderes ya han reconocido la importancia estratégica de la IA y están impulsando la adopción holística de la IA en toda la empresa. Sin embargo, en la mayoría de las organizaciones, incluyendo muchas en pagos, la IA se está utilizando actualmente como un parche para solucionar puntos débiles específicos. Sin embargo, habrá un punto de inflexión cuando las organizaciones en pagos entiendan el valor que sus competidores están extrayendo del uso de la IA y no quieran quedarse atrás. Esto requerirá la reingeniería de procesos que originalmente se diseñaron para tener humanos involucrados y rediseñarlos para máquinas. De esta manera, la IA eventualmente se convertirá en parte de cada iniciativa importante, desde clientes y riesgos, hasta finanzas, fuerza laboral y gestión de la cadena de suministro.
+
+Sin embargo, las empresas de pagos deben equilibrar cuidadosamente los beneficios de adoptar la IA versus el costo de la inacción. Los estándares y expectativas de los consumidores han cambiado y, a menos que las empresas cumplan con los factores críticos de éxito destacados en este informe, la IA es una distracción costosa. Las empresas que integren la IA en su ADN para impulsar la innovación, la centralidad del cliente y la eficiencia operativa cosecharán los beneficios de menores costos, mayor cumplimiento, ingresos aumentados y reguladores más satisfechos.La Asociación de Pagos (anteriormente 
+la Asociación de Pagos Emergentes o EPA) 
+es una comunidad para todas las empresas 
+de pagos, sin importar su tamaño, capacidad, 
+ubicación o estatus regulatorio. Su propósito 
+es empoderar a la comunidad más influyente 
+en pagos, donde las conexiones, la colaboración 
+y el aprendizaje dan forma a una industria 
+que funciona para todos. Trabaja en estrecha 
+colaboración con partes interesadas de la 
+industria como el Banco de Inglaterra, la FCA, 
+el Tesoro HM, el PSR, Pay.UK, Finanzas del 
+Reino Unido y Finanzas Innovadoras.
+
+A través de su programa integral de actividades 
+y con la guía de un Consejo Asesor Independiente 
+de CEOs de pagos líderes, La Asociación de Pagos 
+facilita las conexiones y construye los puentes 
+que unen el ecosistema y lo hacen más fuerte. 
+Estas actividades incluyen un programa de 
+eventos digitales y presenciales mensuales, 
+incluyendo una conferencia anual, PAY360, 
+la cena de los Premios de Pagos Emergentes, 
+mesas redondas de CEOs y actividades de capacitación. 
+La Asociación de Pagos también dirige 
+cinco grupos de trabajo de partes interesadas 
+que abarcan la inclusión financiera, la regulación, 
+el delito financiero, los pagos transfronterizos 
+y el banco abierto. Los voluntarios en estos 
+grupos representan las vistas colectivas de la 
+industria y trabajan juntos para asegurarse 
+de que los grandes problemas que enfrenta la 
+industria se aborden de manera efectiva. La asociación 
+también conduce investigaciones originales que 
+se ponen a disposición de los miembros y las 
+autoridades. Estas incluyen informes blancos mensuales, 
+entrevistas reveladoras y consejos de los CEOs más 
+exitosos de la industria.
+
+Acerca de La Asociación de Pagos
+
+El Edificio de las Noticias, 
+3 calle London Bridge, 
+SE1 9SG, Reino Unido
+Tel: +44 (0) 20 7378 9890
+Web: thepaymentsassociation.org
+Correo electrónico: info@emergingpayments.org
+ @EPAssoc
+La Asociación de Pagos

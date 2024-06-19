@@ -1,0 +1,141 @@
+Casos de Uso de la Inteligencia Artificial y 
+Aprendizaje Automático en 
+Ciencias de la Vida en Fase Tardía 
+Steven Labkoff, MD, FACP, FACMI, FAMIA 
+Jefe Global, Clínica y Ciencias de la Vida, Quantori 
+15 de mayo de 2023 Documento TécnicoCasos de Uso de IA y ML en Ciencias de la Vida en Fase Tardía Documento Blanco 
+One Broadway, 14th Floor, Cambridge, MA 02142 
+
+ÍNDICE 
+Resumen Ejecutivo 3
+Reclutamiento de Pacientes y Selección de Elegibilidad 4
+2Optimización del Diseño de Ensayos Clínicos 4
+Monitoreo en Tiempo Real y Análisis de Datos 5
+Modelado predictivo y simulación 5
+Descubrimiento de Biomarcadores en Apoyo a la Medicina Personalizada 6
+Detección de Eventos Adversos y Farmacovigilancia 7
+Control y Validación de la Calidad de los Datos 8
+Reutilización de Fármacos y Terapias de Combinación Nuevas 9
+Cumplimiento Regulatorio y Gestión de Riesgos 10
+Mirando hacia el Futuro 11Casos de Uso de IA y ML en Ciencias de la Vida en Fase Tardía Documento Blanco 
+One Broadway, 14th Floor, Cambridge, MA 02142 
+
+RESUMEN EJECUTIVO 
+
+Estamos viviendo una de las eras más transformadoras de nuestra vida. El auge de la inteligencia artificial (IA) trabajable y usable, junto con el aprendizaje automático (ML), está transformando tantas cosas en nuestras vidas diarias que pronto nos preguntaremos cómo fue posible la vida antes de la IA. El desarrollo de nuevos medicamentos y terapias es uno de los áreas que está a punto de cambiar más dramáticamente que la mayoría, gracias a estas nuevas tecnologías. La IA y el ML tienen un potencial inmenso en varios aspectos de las ciencias de la vida, incluyendo ensayos clínicos. En ensayos clínicos de fase 3 que involucran pruebas a gran escala de un medicamento o tratamiento potencial, la IA y el ML pueden ser cruciales para optimizar procesos, mejorar la eficiencia y mejorar la toma de decisiones. Este documento discutirá diez de los casos de uso más transformadores en la fase de desarrollo de medicamentos tardía, incluyendo ensayos clínicos de fase III, Asuntos Médicos, Seguridad y Asuntos Regulatorios. A continuación, se presentan diez casos de uso prominentes de IA y ML en el desarrollo clínico tardío: 
+
+Reclutamiento de pacientes y selección de elegibilidad 
+Descubrimiento de biomarcadores en apoyo de la medicina personalizada 
+Optimización del diseño de ensayos clínicos 
+Detección de eventos adversos y farmacovigilancia 
+Monitoreo de ensayos clínicos 
+Control y validación de la calidad de los datos de ensayos clínicos 
+Análisis de datos de ensayos clínicos 
+Reutilización de medicamentos y terapias de combinación novedosas 
+Modelado predictivo y simulación 
+Cumplimiento regulatorio y evaluación y gestión de riesgosCasos de Uso de IA y ML en Ciencias de la Vida en Fase Tardía - Documento Blanco
+One Broadway, 14th Floor, Cambridge, MA 02142
+
+RECLUTAMIENTO DE PACIENTES Y SELECCIÓN DE ELEGIBILIDAD
+La fase III del desarrollo clínico es una de las etapas más costosas del desarrollo de fármacos. Estos ensayos requieren cientos a miles de pacientes en brazos intervención y control. Encontrar pacientes que se ajusten a los criterios de elegibilidad para la inclusión en ensayos clínicos puede ser, a veces, una tarea abrumadora. No solo debes identificar pacientes elegibles, sino que también debes establecer contacto, validar el interés en nombre del paciente y obtener el consentimiento informado para permitir que el paciente participe en el estudio. En el caso de enfermedades raras, encontrar estos pacientes puede ser excepcionalmente difícil. Un área donde la IA y el ML pueden tener un impacto es ayudar a cribar pacientes en conjuntos de datos de registros de salud electrónicos (EHR). En muchos hospitales hoy en día, hay programas de opt-out donde la información de los pacientes puede ser consultada para la inclusión en ensayos clínicos (y contacto) a menos que opten por no participar. Sin embargo, incluso con permiso para revisar los datos y contactar a estos pacientes, encontrar pacientes elegibles sigue siendo un desafío. Los algoritmos de IA y ML pueden acelerar dramáticamente el proceso de cribado y servir listas de pacientes elegibles mucho más rápido y con mayor precisión que los métodos actuales. Asegurarse de que los ensayos puedan encontrar suficientes pacientes elegibles reducirá el tiempo necesario para llenar los ensayos y realizar los estudios necesarios.
+
+OPTIMIZACIÓN DEL DISEÑO DE ENSAYOS CLÍNICOS
+Otro desafío para el trabajo de ensayos clínicos incluye crear ensayos que no solo tengan suficiente poder estadístico, sino que también diseñen el ensayo de manera que se optimicen las posibilidades de que una o más observaciones sean estadísticamente significativas. Esto ha sido, en el pasado, el dominio de los bioestadísticos. Se necesitan realizar cálculos de poder complejos y crear modelos predictivos para encontrar modelos predictivos que ayuden a optimizar el diseño del ensayo. Además, se necesitan escenarios "¿qué pasa si" para optimizar los criterios de inclusión/exclusión del ensayo.
+La IA y el ML pueden automatizar gran parte de este proceso, identificando patrones y proporcionando predicciones más rápido que los humanos, lo que aumenta la eficiencia y la productividad. Por ejemplo, la IA puede analizar grandes volúmenes de datos de ensayos previos para ayudar a diseñar protocolos de ensayo que tengan más probabilidades de tener éxito. Esto podría involucrar optimizar la elección de puntos finales, niveles de dosificación, o criterios de inclusión y exclusión de pacientes, por nombrar solo algunos.
+En segundo lugar, la IA y el ML pueden optimizar la selección y reclutamiento de pacientes, uno de los aspectos más desafiantes del diseño de ensayos clínicos. Los modelos predictivos pueden ser utilizados para analizar EHR y otras fuentes de datos para identificar pacientes que probablemente cumplan con los criterios de elegibilidad del ensayo y tengan una alta probabilidad de adherirse al protocolo. Al identificar a los pacientes adecuados para el ensayo, la IA y el ML pueden reducir la probabilidad de abandono de participantes, lo que mejora la eficiencia del ensayo y reduce los costos. Estas tecnologías también pueden ser utilizadas para predecir cómo responderá un paciente a un tratamiento particular, lo que permite un enfoque más personalizado para el tratamiento.Casos de Uso de IA y ML en Ciencias de la Vida en Fase Tardía Documento Blanco 
+One Broadway, 14th Floor, Cambridge, MA 02142 
+
+MONITOREO EN TIEMPO REAL Y ANÁLISIS DE DATOS 
+
+La IA también se puede utilizar en monitoreo en tiempo real para detectar desviaciones de protocolo, señales de seguridad o anomalías en las acciones de pacientes o clínicos, lo que permite tomar medidas correctivas inmediatas. Este monitoreo en tiempo real puede mejorar significativamente la precisión de los resultados y acelerar el proceso de ensayo clínico en general, lo que acelera el desarrollo de tratamientos efectivos. En resumen, la IA y el ML son prometedores para la optimización del diseño de ensayos clínicos, mejorando la eficiencia, reduciendo costos y acelerando el camino hacia nuevos tratamientos.
+
+Los modelos de ML pueden ayudar a identificar patrones en las respuestas de los pacientes (ya sean relacionadas con la dosis de un compuesto o una serie de respuestas de resultados informados por los pacientes), lo que puede predecir resultados de ensayo mucho antes que los métodos tradicionales. Estos conocimientos podrían permitir a los diseñadores de ensayos hacer ajustes durante el ensayo, lo que aumenta sus posibilidades de éxito. De hecho, al tratar diferentes conjuntos de datos como un conjunto multimodal para un paciente determinado, los algoritmos de ML pueden crear enfoques novedosos para la agrupación, lo que permite obtener conocimientos no obvios sobre eventos adversos (EA) y eventos adversos graves (EAG).
+
+MODELADO PREDICTIVO Y SIMULACIÓN 
+
+Una de las cosas que la IA puede hacer a gran escala es crear y ejecutar varios modelos predictivos. Este enfoque interactivo puede ser largo y tedioso si se realiza manualmente, o incluso mediante algoritmos asistidos por computadora. No solo la IA puede recomendar modelos predictivos, sino que también puede analizar los resultados y ejecutar muchas más iteraciones en los conjuntos de datos de lo que se puede hacer hoy en día. Cuantas más iteraciones se realicen, más modelado se puede lograr y más sutiles son los conocimientos que no podrían ser identificados por un ser humano que pueden surgir debido al número de iteraciones posibles utilizando estas técnicas. Y cuanto más conjuntos de datos se puedan agregar a la mezcla (alineados con el mismo paciente), más probable es que se identifiquen nuevos conocimientos.Casos de Uso de IA y ML en Ciencias de la Vida en Fase Tardía Documento Blanco 
+One Broadway, 14th Floor, Cambridge, MA 02142 
+
+DESCUBRIMIENTO DE BIOMARCADORES EN APOYO A 
+LA MEDICINA PERSONALIZADA 
+
+Los biomarcadores juegan un papel crítico en el desarrollo clínico en fase tardía, sirviendo como valiosos indicadores de la respuesta fisiológica a una intervención terapéutica. Sin embargo, el descubrimiento y la validación de tales biomarcadores siguen siendo tareas desafiantes. Por ejemplo, mientras trabajaba en una empresa de ciencias de la vida de primer nivel a principios de la década de 2010, la organización tenía como objetivo que el 50% de sus moléculas en desarrollo tuvieran un biomarcador identificado. Estos biomarcadores pueden ayudar a determinar qué pacientes responderán a un medicamento, qué pacientes experimentarán un efecto adverso (AE) o qué pacientes tendrán la mejor expectativa de algún otro resultado. La IA y los algoritmos proporcionan herramientas poderosas para acelerar este proceso, permitiendo a los investigadores buscar patrones significativos en grandes volúmenes de datos complejos. Un enfoque clave utiliza algoritmos de ML para analizar datos multivariables de ensayos clínicos o registros médicos electrónicos, incluyendo datos genómicos, proteómicos y metabolómicos. Estos algoritmos pueden identificar patrones y correlaciones en estos datos que pueden ser indicativos de biomarcadores potenciales. Por ejemplo, perfiles de expresión génica específicos, niveles de proteínas o cambios metabólicos pueden estar vinculados a la progresión de la enfermedad o la respuesta al tratamiento.
+
+Además del reconocimiento de patrones, la IA y el ML también pueden utilizarse para predecir la relevancia y validez de biomarcadores potenciales. La efectividad de un biomarcador determinada no solo se determina por su presencia, sino también por su valor predictivo en la indicación de la progresión de la enfermedad o la respuesta al tratamiento. Utilizando algoritmos de aprendizaje supervisado, los investigadores pueden entrenar modelos de IA con datos de biomarcadores conocidos y luego aplicar estos modelos a nuevos datos no clasificados. De esta manera, el sistema de IA puede predecir si un biomarcador determinado es probable que sea significativo en un contexto clínico específico. Por ejemplo, un modelo de IA podría predecir la efectividad de un biomarcador en la predicción de la respuesta de un paciente a un tratamiento novedoso basado en patrones vistos en ensayos clínicos previos.
+
+La IA y el ML también tienen potencial en la integración y análisis de datos del mundo real (RWD) y evidencia del mundo real (RWE) para el descubrimiento de biomarcadores. En el desarrollo clínico en fase tardía, RWD y RWE proporcionan información crucial sobre la efectividad y los efectos secundarios de un tratamiento en una población más amplia. Los algoritmos de IA y ML pueden integrar y analizar RWD de diversas fuentes, como registros médicos electrónicos, datos de reclamos de seguros y datos generados por pacientes. Al analizar estos datos, estos algoritmos pueden ayudar a identificar nuevos biomarcadores o biomarcadores sustitutos que no sean evidentes en entornos de ensayos clínicos controlados. Estos biomarcadores pueden luego ser utilizados para personalizar tratamientos de manera más efectiva para individuos, avanzando en la medicina de precisión.Casos de Uso de IA y ML en Ciencias de la Vida en Fase Tardía Documento Blanco 
+Una Broadway, Piso 14, Cambridge, MA 02142 
+
+DETECCIÓN DE EVENTOS ADVERSOS Y 
+FARMACOVIGILANCIA 
+
+Dado el gran volumen de datos generados durante los ensayos clínicos en fase tardía, así como cuando un medicamento es aprobado y está en uso en la población general, la revisión y análisis manual de eventos adversos (EA) potenciales es tanto tiempo-consumidora como intensiva en recursos. Y para agregar presión a la mezcla, tan pronto como se identifica un EA, debe ser reportado a la FDA en 15 días hábiles. La IA y el ML pueden automatizar este proceso, mejorando la velocidad, precisión y exhaustividad de la revisión de datos para identificar EA y EAS. Los algoritmos de ML pueden ser entrenados para revisar notas clínicas, retroalimentación del paciente y otras formas de datos no estructurados para identificar instancias de EA. Esto puede ser en modo de generación de hipótesis o en AE clínicamente identificado. Estos algoritmos pueden procesar cantidades masivas de información más rápido que los humanos pueden. Los algoritmos de aprendizaje automático también pueden mejorar su precisión con el tiempo a medida que "aprenden" de más datos. Además, la IA puede utilizar el procesamiento de lenguaje natural para interpretar descripciones de texto libre de EA, aumentando el volumen y tipos de datos que pueden ser analizados.
+
+En la segunda etapa de ensayos clínicos y la fase de poscomercialización, la IA y el ML pueden ayudar en la detección de EA raros o inesperados. Los métodos tradicionales podrían perder estos eventos debido a su baja frecuencia o porque ocurren en poblaciones de pacientes no adecuadamente representadas en ensayos clínicos. Los algoritmos de ML, particularmente aquellos que utilizan aprendizaje no supervisado, pueden identificar patrones y asociaciones que de otra manera pasarían desapercibidos en grandes conjuntos de datos. Por ejemplo, la IA puede analizar RWD de EHR o redes sociales para detectar EA no identificados durante ensayos clínicos simplemente por tener la oportunidad de analizar más flujos de datos en el mundo real. Estas tecnologías pueden proporcionar una advertencia temprana de posibles problemas de seguridad una vez que un medicamento está en el mercado.
+
+Además, la IA y el ML pueden ayudar en la evaluación de causalidad, que es la determinación de si un medicamento causó un EA en particular. La IA puede analizar la historia médica de un paciente, información genética y exposición a otros medicamentos para evaluar la probabilidad de que un medicamento específico causó un EA. Esto también podría involucrar análisis comparativos con pacientes similares que no experimentaron el EA. Al hacer que este proceso sea más preciso y eficiente, la IA y el ML pueden mejorar significativamente la seguridad de los medicamentos en ensayos clínicos y poscomercialización.Casos de Uso de IA y ML en Ciencias de la Vida en Fase Tardía Documento Blanco 
+One Broadway, 14th Floor, Cambridge, MA 02142 
+
+CONTROL Y VALIDACIÓN DE CALIDAD DE DATOS 
+
+Uno de los áreas que actualmente es muy intensiva en mano de obra es la tarea de control de calidad de datos. Asegurarse de que los datos no solo se recopilen correctamente, sino que también se ingresen en los sistemas correctamente sin errores. Si esto no se hace correctamente, la calidad del análisis posterior puede ser cuestionada. La IA y el ML pueden automatizar estos procesos, aumentando su velocidad y precisión. Por ejemplo, los algoritmos de ML pueden revisar datos clínicos en tiempo real, identificando inconsistencias, datos faltantes o valores atípicos que pueden indicar errores de datos. Este enfoque permite la identificación y rectificación rápidas de problemas, asegurando la integridad de los datos a lo largo del ensayo. Además, ya que los modelos de IA comienzan a aprovechar el procesamiento del lenguaje natural, también pueden utilizarse para validar datos no estructurados, como notas clínicas, ampliando la amplitud de los datos que pueden ser validados.
+
+La IA y el ML también pueden mejorar la calidad de los datos prediciendo y previniendo posibles problemas de calidad de datos antes de que ocurran. Al analizar datos históricos de ensayos clínicos pasados, los algoritmos de ML pueden identificar patrones que pueden indicar posibles problemas de calidad de datos en el futuro. Esta capacidad predictiva permite un enfoque proactivo en el control de calidad de datos, ya que los problemas potenciales pueden abordarse antes de que afecten el ensayo. Por ejemplo, si un sistema de IA predice una alta probabilidad de datos faltantes en ciertos campos basándose en ensayos pasados, se pueden implementar controles adicionales o recordatorios para asegurar la recopilación completa de datos.Casos de Uso de IA y ML en Ciencias de la Vida en Fase Tardía - Documento Blanco
+One Broadway, 14º piso, Cambridge, MA 02142
+
+REENFOQUE DE MEDICAMENTOS Y TERAPIAS DE COMBINACIÓN NOVEL
+
+Una cosa que un modelo computacional puede hacer que los humanos no pueden hacer (al menos, no fácilmente) es crear y probar hipótesis sobre combinaciones de medicamentos. Este es generalmente un proceso muy laborioso. Esto se hace generalmente mediante pruebas empíricas durante el desarrollo de medicamentos en fase temprana. Sin embargo, al ingerir grandes volúmenes de datos en múltiples dominios, un análisis multimodal puede crear hipótesis sobre qué medicamentos, y en qué combinaciones, pueden tener un mayor grado de éxito probable. Un ensayo clínico formal puede ser necesario para probar estas hipótesis.
+
+Las tecnologías de IA y ML tienen un gran potencial en el reenfoque de medicamentos y el descubrimiento de combinaciones de medicamentos novel. El reenfoque de medicamentos, o la identificación de nuevos usos para medicamentos aprobados o investigacionales que están fuera del alcance de la indicación médica original, es un enfoque estratégico en el desarrollo de medicamentos. La IA y ML pueden simplificar este proceso analizando grandes y diversos conjuntos de datos biológicos, farmacológicos y clínicos para identificar asociaciones potenciales entre medicamentos y enfermedades. Por ejemplo, los algoritmos de ML pueden analizar datos "ómicos" (como genómica, proteómica o metabolómica) para identificar patrones que sugieran que un medicamento utilizado para una enfermedad podría ser efectivo para otra (donde una enzima o marcador genómico determinado sea común a ambas enfermedades). Además, la IA puede analizar texto de literatura científica y bases de datos de ensayos clínicos para identificar nuevas indicaciones potenciales para medicamentos existentes.
+
+La terapia de combinación de medicamentos, donde se utilizan dos o más medicamentos juntos, es común en el tratamiento de enfermedades complejas como el cáncer o las enfermedades infecciosas. Sin embargo, la exploración experimental de combinaciones de medicamentos potenciales es vasta y requiere un número inasumible de pruebas. Los algoritmos de IA y ML pueden analizar datos de estudios previos sobre medicamentos individuales, prediciendo cómo diferentes medicamentos podrían interactuar cuando se utilizan en combinación. Esto puede ayudar a identificar combinaciones de medicamentos prometedoras que tengan efectos sinérgicos o combinaciones que podrían llevar a interacciones adversas. Aunque los ensayos clínicos aún pueden ser necesarios para probar estas combinaciones, la identificación de tales combinaciones posibles puede ahorrar años del ciclo de desarrollo, ahorrando tiempo, dinero y, eventualmente, vidas.
+
+Además, la IA y ML pueden apoyar el diseño y la ejecución de ensayos clínicos para probar medicamentos reenfocados o combinaciones de medicamentos novel. Estas tecnologías pueden predecir poblaciones de pacientes que probablemente responderán bien al medicamento reenfocado o terapia de combinación, ayudando en la selección y reclutamiento de pacientes. También pueden predecir los resultados de estos ensayos, guiando modificaciones en el diseño del ensayo y aumentando su probabilidad de éxito. En conclusión, la IA y ML pueden revolucionar el reenfoque de medicamentos y el descubrimiento de combinaciones de medicamentos novel, haciendo que estos procesos sean más eficientes y exitosos, acelerando finalmente el desarrollo de nuevas estrategias terapéuticas.Casos de Uso de IA y ML en Ciencias de la Vida en Fase Avanzada 
+Documento Técnico 
+One Broadway, 14th Floor, Cambridge, MA 02142 
+
+CUMPLIMIENTO REGULATORIO Y GESTIÓN DE RIESGOS 
+
+10El cumplimiento regulatorio es un proceso complejo y multifacético que incluye asegurar el 
+cumplimiento de regulaciones y estándares, rastrear cambios en la legislación y mantener la 
+documentación adecuada. Los métodos tradicionales de gestión de estas tareas pueden ser 
+laboriosos y propensos a errores humanos. Asegurar que la presentación de un programa de 
+desarrollo a la FDA o a otro organismo regulatorio sea completa y abarque todos los dominios de 
+exploración puede ser un proceso intensivo en mano de obra. Sin embargo, la IA y el ML pueden 
+automatizar estos procesos, mejorando la eficiencia y reduciendo el potencial de errores. Por 
+ejemplo, los algoritmos de IA pueden monitorear los cambios regulatorios en tiempo real, notificar a 
+los stakeholders relevantes sobre actualizaciones en regulaciones y leyes, y aplicar automáticamente 
+cambios necesarios a los protocolos de cumplimiento. Los algoritmos de ML pueden analizar 
+problemas de cumplimiento previos y predecir riesgos futuros, permitiendo una gestión de riesgos 
+proactiva. 
+
+La IA y el ML también pueden ayudar a gestionar riesgos identificando y abordando problemas 
+potenciales antes de que ocurran. En la industria de las ciencias de la vida, los riesgos pueden surgir 
+en áreas como ensayos clínicos, fabricación de medicamentos y vigilancia posterior al mercado. La IA 
+puede monitorear datos de procesos de manufactura en tiempo real, identificando desviaciones de 
+estándares de calidad y habilitando acciones correctivas inmediatas. En la vigilancia posterior al 
+mercado, la IA puede analizar datos del mundo real (RWD), como historias clínicas electrónicas y 
+redes sociales, para identificar problemas de seguridad potenciales con medicamentos comercializados. 
+Y, si se dispone de datos adicionales emparejados, como genómica o proteómica, esos datos pueden 
+agregarse al análisis para obtener resultados más precisos y precisos. 
+
+Además de estas aplicaciones prácticas, la IA y el ML también pueden proporcionar una visión 
+completa de los problemas de riesgo y cumplimiento, permitiendo una toma de decisiones más 
+informada. Al integrar y analizar datos de varias fuentes, estas tecnologías pueden generar una visión 
+holística del riesgo en diferentes áreas de la organización. Esto incluye, por ejemplo, identificar áreas 
+de alto riesgo, predecir el impacto de riesgos potenciales y evaluar la efectividad de las estrategias de 
+mitigación de riesgos.Casos de Uso de IA y ML en Ciencias de la Vida en Fase Tardía Documento Blanco 
+One Broadway, 14th Floor, Cambridge, MA 02142 
+
+MIRANDO HACIA ADELANTE 
+
+11Mientras que podrías pensar que los casos de uso enumerados anteriormente están en el dominio de la ciencia ficción, los ingenieros de Quantori están trabajando hoy en día con organizaciones de ciencias de la vida de primer nivel en todo el mundo para explotar la promesa de la IA y el ML para producir enfoques novedosos en el proceso de I+D en fase tardía. Desde un sistema de visión artificial que se utilizó durante la pandemia para calificar y leer radiografías de tórax, hasta utilizar aprendizaje multimodal para generar nuevas hipótesis para objetivos de fármacos en el desarrollo de fármacos neurológicos, los científicos, ingenieros y clínicos de Quantori están creando soluciones que están llevando estos casos de uso desde las páginas de la ciencia ficción a soluciones del mundo real hoy en día.
+
+Nuestro enfoque está en Ciencias de la Vida. Nuestros equipos están compuestos por científicos con doctorado y maestría. Nuestros ingenieros están bien versados en cómo aprovechar todo lo que la computación en la nube tiene para ofrecer para llevar estos casos de uso de IA a la vida. Estamos en el núcleo de ayudar a algunas de las organizaciones más grandes y visionarias a llevar estas tecnologías y soluciones a la vida para avanzar en el descubrimiento de nuevos fármacos, encontrar nuevos objetivos, aprovechar datos multimodales e incluso el microbioma intestinal para ayudar a nuestros clientes a avanzar en sus objetivos.
+
+Si su organización está considerando llevar la IA a la vida para resolver algunos o todos estos desafíos, por favor, póngase en contacto con nosotros. Podemos proporcionar ejemplos específicos de nuestros científicos resolviendo estos problemas hoy en día y acelerando el proceso de I+D para avanzar en las pipelines para nuestros clientes de Ciencias de la Vida.Desarrollamos sistemas, aplicaciones e infraestructuras tecnológicas de vanguardia para empresas de biotecnología, farmacéuticas y de atención médica que aceleran el descubrimiento de fármacos y mejoran los resultados para los pacientes. Nuestro enfoque innovador aprovecha el poder de la ingeniería de datos y la informática, el aprendizaje automático, tecnologías emergentes y la experiencia en la nube para impulsar la investigación y el desarrollo y, en última instancia, cerrar la brecha entre los datos significativos y el éxito del paciente.
+
+15 de mayo de 2023
+Steven Labkoff, MD, FACP, FACMI, FAMIA
+Jefe Global, Ciencias Clínicas y Vida, Quantori

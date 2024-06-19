@@ -1,0 +1,204 @@
+UIPATH.COM | CASOS DE USO DE IA PARA SERVICIOS FINANCIEROS 1
+Casos de Uso de IA para 
+Servicios FinancierosServicios 
+Financieros
+Caso de Uso
+Cuando los robots de software pueden razonar sobre datos y utilizar 
+inteligencia artificial (IA) para tomar decisiones, desbloqueas nuevas 
+posibilidades que transforman la RPA y enteras industrias. Puedes 
+alcanzar nuevos niveles de productividad, inaugurar una nueva era de 
+trabajo más satisfactorio y expandir la automatización a todo tipo de 
+nuevas áreas.
+En lugar de extraer datos estructurados, los robots mejorados con IA 
+pueden procesar ahora datos semi-estructurados y no estructurados. 
+Pueden minar procesos y tareas, convertir el habla en texto, clasificar 
+correos electrónicos y asistir a los humanos en casos de uso que son 
+probabilísticos y tienen muchas variables.
+Las organizaciones de Servicios Financieros son pioneras en iniciativas 
+de transformación digital. Están aprovechando la RPA y la IA para 
+acelerar la cumplimentación, aumentar la eficiencia operativa y 
+entregar experiencias de cliente mejoradas. Este eBook revela algunos 
+de los casos de uso de IA más populares en Servicios Financieros.Noticias Desfavorables 
+Revisión de Gastos de Vida 
+Evaluación
+El desafío
+Como parte integral de la gestión de riesgos 
+y evaluación de diligencia debida del cliente, 
+las instituciones financieras recopilan 
+y analizan menciones de medios adversos 
+de sus clientes. En caso de cualquier mención 
+creíble de actividades criminales o sospechosas, 
+necesitan realizar un análisis detallado. El proceso 
+es largo, propenso a errores y requiere búsquedas 
+manuales y validación.
+
+La solución tradicional
+Las soluciones de detección de noticias negativas 
+tradicionales, muchas de las cuales se basan en reglas, 
+solo ofrecen "coincidencia de cadenas" y, por lo tanto, 
+a menudo llevan a una alta incidencia de falsos positivos. 
+Y estas soluciones no son lo suficientemente inteligentes 
+como para priorizar o clasificar las alertas. Las organizaciones 
+financieras terminan gastando mucho esfuerzo manual 
+para tamizar todas las alertas.
+
+La solución de UiPath
+UiPath Document Understanding extrae resultados 
+de fuentes de noticias internas y externas, clasifica (y 
+clasifica) artículos de noticias en categorías criminales 
+potenciales (por ejemplo, terrorismo, lavado de dinero, 
+arrestos, demandas, etc.) con puntuaciones de confianza. 
+Además, extrae pasajes relevantes de los artículos para 
+referencia fácil.
+
+La evaluación de gastos de vida
+Los bancos evalúan los gastos de vida de los clientes 
+en una serie de categorías, como comestibles, suscripciones 
+y gasolina, para tomar una decisión sobre solicitudes de préstamos.
+
+La solución tradicional
+Para cada cuenta dada, necesitan asignar una base de 
+datos de transacciones extraídas de múltiples recursos 
+a una aplicación y luego evaluar cuánto gasta esa cuenta 
+en cada una de las diferentes categorías. Con eso, pueden 
+evaluar el gasto de una cuenta en comparación con su 
+ingreso. El viejo método implica extraer datos manualmente 
+y el proceso era muy tiempo consumidor.
+
+La solución de UiPath
+Para hacer eso a gran escala (un banco puede tratar 
+con miles de solicitudes), necesitan utilizar el aprendizaje 
+automático (ML) para predecir a qué categoría pertenece 
+cada transacción. Con UiPath AI Fabric, los bancos pueden 
+categorizar rápidamente transacciones, generar un informe 
+y enviarlo por correo electrónico a empleados relevantes. 
+Por ejemplo, el Heritage Bank, el banco mutual más grande 
+de Australia, categorizó el 90% de estas transacciones con 
+un 98% de precisión. La vieja solución solo podía recopilar 
+el 40-50% de las transacciones y requería mucho trabajo 
+en segundo plano. AI Fabric ayudó a reducir el trabajo en 
+segundo plano mientras mejoraba la experiencia del cliente 
+y del empleado.
+
+Investigaciones muestran que el costo total de cumplimiento 
+de anti-lavado de dinero (AML) para las instituciones financieras 
+de EE. UU. es de $25,300 millones al año. Utilizando IA, 
+aprendizaje automático y otras tecnologías, las empresas 
+toman menos tiempo en la diligencia debida y logran una mayor 
+eficiencia en el cumplimiento.UIPATH.COM | CASOS DE USO DE IA PARA SERVICIOS FINANCIEROS 3Clasificación de correos electrónicos del cliente 
+Siguiente oferta más adecuada
+
+El desafío
+Los bancos reciben un gran número de correos electrónicos diarios relacionados con consultas sobre sus cuentas, solicitudes de servicio de cuenta, quejas, problemas con pagos, etc. Normalmente, los equipos de servicio al cliente y soporte de cumplimiento procesan estos correos electrónicos manualmente: crean un registro de solicitud de servicio y resuelven la solicitud en un sistema bancario, responden al cliente por correo electrónico y, finalmente, cierran la solicitud en el sistema. 
+El proceso lleva un gran cantidad de tiempo y resulta en una gran insatisfacción del cliente debido al ciclo de servicio prolongado. También es muy intensivo en recursos. Un banco grande típico tiene cientos de miembros del equipo de operaciones dedicados a clasificar, crear tickets y enrutar tickets a equipos apropiados.
+
+La solución de UiPath
+UiPath Document Understanding y AI Fabric extraen texto de correos electrónicos del cliente, clasifican automáticamente correos electrónicos del cliente en diferentes categorías y carpetas, y crean automáticamente nuevos casos para cada correo electrónico en la aplicación de gestión de casos de Salesforce y otras aplicaciones. Un proveedor líder de soluciones de lealtad y pago, por ejemplo, recibe 300,000 correos electrónicos de sus clientes cada mes. 
+Utilizando AI Fabric, la empresa automatizó la recepción del 60% de las consultas de servicio al cliente y las clasificó en más de 15 categorías diferentes. Vea este video para aprender más sobre el caso de uso de clasificación de correos electrónicos de UiPath.
+
+El desafío
+En los centros de llamadas de los bancos, el 75% del tiempo de los representantes de servicio al cliente se ha gastado en investigación manual. Personalizando respuestas y ofertas de productos a cada llamador individual en tiempo real, los bancos pueden mejorar la experiencia del cliente y aumentar la rentabilidad de manera significativa.
+
+La solución de UiPath
+Así es como UiPath puede ayudar. Cuando un cliente llama, los robots buscan la cuenta del cliente y envían datos a un modelo de aprendizaje automático desarrollado por clientes o socios de UiPath. El modelo hace predicciones basadas en datos existentes y nuevos datos recopilados en la llamada. Los robots envían los resultados de la predicción y scripts al agente. El agente promueve productos al cliente según la predicción del modelo. La relevancia, la oportunidad y la personalización aumentan la tasa de conversiones y reducen el tiempo promedio de manejo de llamadas.
+
+85%
+77% de las organizaciones de servicios financieros 
+están utilizando actualmente IA.
+de los ejecutivos senior 
+anticipan que la IA tenga 
+importancia empresarial alta o muy alta 
+en los próximos dos años.La IA es una herramienta indispensable
+
+Fuente: Transformando paradigmas: Encuesta global de IA en servicios financierosUIPATH.COM | CASOS DE USO DE IA PARA SERVICIOS FINANCIEROS 4
+
+Otros casos de uso populares de IA en el sector de Servicios Financieros incluyen la indexación de documentos hipotecarios, la extracción de datos de estados financieros, el procesamiento de estados de cuenta bancaria y la clasificación de disputas de tarjeta.
+
+Índice de documentos hipotecarios
+Extracción de documentos hipotecarios
+
+Predicción de pérdida de clientes
+
+Clasificación de correos electrónicos de clientes
+Detección de noticias negativas
+
+Extracción de estados financieros
+Análisis financiero
+
+Precios basados en riesgos para préstamos
+Extracción de documentos de finanzas comerciales
+Aprobación de préstamos personales
+Filtrado de sanciones
+Extracción de estados de cuenta bancaria
+Detección de fraude
+Clasificación de gastos
+Identificación de entidades KYC
+Clasificación de alertas AML
+Clasificación de disputas de tarjetas
+Gestión de clientes
+Predicción de impagos de préstamos
+Optimización de precios
+
+"Cuando comienzas a utilizar IA de las diversas maneras que ofrece UiPath, realmente amplía el tipo de proceso que puedes automatizar desde una perspectiva de automatización".
+David Johnston, Gerente de Automatización Inteligente y Excelencia en Procesos en Heritage Bank
+
+Banca al por menor
+Mercados de capitales
+Banca comercial
+No solo Servicios Financieros, la IA también se puede aplicar en muchos otros sectores empresariales, como Atención Médica, Minorista, Servicios Profesionales y otros. Visite la página web de UiPath AI para encontrar más casos de uso.UIPATH.COM | CASOS DE USO DE IA PARA SERVICIOS FINANCIEROS 5
+Iniciante
+Modelos
+UiPath AI Fabric admite modelos de aprendizaje automático desarrollados por nuestros clientes y socios. También admite modelos fuera de la caja, incluyendo modelos propietarios y de código abierto, para que nuestros clientes puedan beneficiarse de la IA sin necesidad de experiencia en ciencia de datos avanzada.
+Algunos modelos extraen texto y tablas (y los clasifican) de estados financieros y documentos hipotecarios. Algunos modelos leen y agrupan texto de entrada en diferentes clases, desde muy negativo hasta muy positivo, para procesar rápidamente revisiones de clientes o correos electrónicos. Otros modelos resumen el cuerpo del correo electrónico y utilizan lenguaje natural para formar oraciones coherentes. Para aprender más sobre estos modelos, visite la documentación de UiPath AI Fabric y la documentación de Comprensión de Documentos.UiPath  
+Comprensión de  
+DocumentosAnálisis de  
+Lenguaje de  
+Código Abierto  
+Comprensión de  
+Lenguaje de  
+Código Abierto  
+Otros
+Extracción de  
+Facturas  
+Extracción de  
+Recibos  
+Extracción Semi-  
+Estructurada Genérica  
+Extracción de  
+Órdenes de  
+Compra  
+Extracción de  
+Facturas de  
+Servicios Públicos
+Traducción de  
+Idiomas  
+Detección de  
+Idiomas  
+Análisis de  
+Sentimiento  
+Reconocimiento de  
+Entidades con  
+NombrePreguntas y  
+Respuestas  
+Clasificación de  
+Texto  
+Resumen de  
+Texto  
+Clasificación de  
+Datos Tabulares  
+Moderación de  
+Imágenes  
+Detección de  
+Objetos  
+Segmentación de  
+Imágenes  
+Similitud  
+Semántica
+Automatice más al  
+llevar la IA a la RPA:  
+Póngase en contacto con  
+VentasPruebe los productos  
+de IA de UiPath de  
+forma gratuita:   
+Nube
+En el sitio

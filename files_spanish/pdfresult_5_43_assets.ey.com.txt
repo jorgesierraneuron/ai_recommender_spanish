@@ -1,0 +1,1023 @@
+Soluciones habilitadas por inteligencia artificial 
+en mercados de capitales
+Documento de discusiónDescalificaciones
+
+Este material ha sido preparado solo con fines informativos y educativos generales y no está destinado, y no debe ser considerado, como asesoramiento contable, tributario, jurídico u otro asesoramiento profesional. Por favor, consulte con sus asesores para obtener asesoramiento específico.
+
+Ni la organización EY ni ninguna de sus firmas miembros asumirán ninguna responsabilidad whatsoever por el contenido, exactitud o seguridad de cualquier sitio web de terceros que estén enlazados (a través de hipervínculo o de otra manera) o se mencionen en esta presentación.
+
+Las opiniones de terceros expresadas en este webcast no necesariamente reflejan las opiniones de la organización EY global o sus firmas miembros. Además, deben ser vistas en el contexto del momento en que se hicieron.
+
+Página 2ORDEN DEL DÍA
+
+Página 3
+Visión general de la inteligencia artificial (IA) en mercados de capitales
+
+Casos de uso de IA en mercados de capitales
+Los beneficios de la adopción de IA en mercados de capitales
+ IA en mercados de capitales (MC)
+ Funciones de mercados de capitales
+ Ejemplos de aplicaciones de IA en mercados de capitales1
+32
+ Áreas donde se ha observado beneficio
+ Generación de ingresos habilitada por IA en mercados de capitales
+ Mejora de la eficiencia habilitada por IA en mercados de capitales
+ Gestión de riesgos habilitada por IA en mercados de capitales
+Créditos de EY 4
+ Desafíos y riesgos de IA en CM
+ Análisis detallado de desafíos y riesgos en casos de uso seleccionados
+ Comparación de casos de uso de IA según beneficios, riesgos y niveles de adopción
+ Consideraciones regulatorias en la adopción de IA en mercados de capitales
+ Enfoque de EY para la IA responsable
+Desafíos y riesgos asociados con la adopción de IA en mercados de capitales 5Informe sobre IA en mercados de capitales preparado en colaboración entre la OSC y EY
+
+Le invitamos al lector a consultar el informe sobre IA en mercados de capitales preparado en colaboración entre la OSC y EY: 
+Inteligencia artificial (IA) | Oficina de Innovación de la OSC. El informe explora los casos de uso actuales de la IA, los impulsores de valor y los desafíos. Al explorar estos casos de uso, la OSC y EY buscan concienciar sobre las muchas formas en que la IA está empezando a transformar los mercados de capitales y ayudar a los participantes del mercado, innovadores y responsables políticos de Ontario mientras luchan con el potencial transformador de la IA.
+
+Página 4Visión general de la IA en 
+mercados de capitales
+Página 5Promesa de IA en mercados de capitales (CM)
+
+•En los últimos años, las soluciones de IA se han utilizado cada vez más para abordar diversos casos de uso en mercados de capitales.
+•Este gran aumento en la popularidad de la IA en mercados de capitales se debe a la capacidad de estos métodos para generar nuevos beneficios y eficiencias dentro de las organizaciones a través de:
+Automatización de procesos que reducen el trabajo manual y repetitivo (reducen costos, aumentan la productividad y mejoran la eficiencia)
+Su capacidad para procesar una gran variedad y volumen de datos (big data) para mejorar los procesos de toma de decisiones del mercado (por ejemplo, ganancias por mejoras en la gestión de riesgos mediante predicciones mejoradas del riesgo de liquidez)
+Su fuerte capacidad para superar algunas limitaciones de los métodos tradicionales (por ejemplo, el método de inversión de media-varianza, la predicción del riesgo de liquidez a través del análisis de sentimiento, etc.) y producir mejoras en el rendimiento.
+•Estos modelos (incluyendo el aprendizaje por refuerzo (RL) y el aprendizaje profundo (DL)) se han utilizado en diferentes áreas del mercado de capitales (por ejemplo, gestión de activos, manipulación del mercado, insights de trading y gestión de la calidad de los datos) para tres funciones diferentes: generación de ingresos, mejora de la eficiencia y gestión de riesgos.
+•El grado de madurez del uso de IA varía significativamente en diferentes dominios.
+•A pesar de la gama de ventajas ofrecidas por la IA a las organizaciones en CM, su adopción en CM conlleva riesgos y desafíos que deben ser abordados y gestionados.
+•Estos desafíos pueden categorizarse en las siguientes áreas principales: explicabilidad, desafíos relacionados con los datos, gobernanza efectiva, ética y desafíos regulatorios.
+•Para asegurar que un sistema de IA sea efectivo dentro de CM, su adopción en cualquier área de CM debe desarrollarse con estrategias de gestión de riesgos y directrices regulatorias adecuadas.
+Un marco de gobernanza sólido es esencial para fomentar una cultura de responsabilidad y accountability en la utilización de IA dentro de una organización.
+Este marco permite a las instituciones financieras aprovechar al máximo los beneficios ofrecidos por la IA mientras protegen a los clientes y a la sociedad en general de posibles daños. Adopción de IA en CM Los desafíos
+Página 6Adopción de IA en funciones de mercados de capitales
+
+Back office
+Oficina intermedia
+Oficina frontal
+Generación de ingresos
+
+Los participantes de los mercados de capitales buscan generar ingresos mediante actividades que impulsan las ganancias y el crecimiento de la empresa. Estas actividades incluyen trading, asignación de activos y generación de estrategias de ventas.
+
+1 2
+Mejora de la eficiencia
+
+Los participantes de los mercados de capitales se esfuerzan por mejorar la eficiencia en sus operaciones para lograr ahorros de costos, mejorar procesos y optimizar el rendimiento. Esto resulta en una mejor asignación de recursos, una velocidad de ejecución mejorada y una satisfacción del cliente/empleado mejorada.
+
+2 1
+Gestión de riesgos
+
+Los participantes de los mercados de capitales enfrentan varios riesgos inherentes en sus operaciones, como la volatilidad del mercado, el riesgo de crédito, el riesgo de liquidez o el riesgo operativo. La IA puede ser utilizada en actividades de mitigación de riesgos como la diversificación, estrategias de cobertura, modelos de evaluación de riesgos, cumplimiento regulatorio y sistemas de control interno.
+
+3 3
+Escala de adopción de IA
+Importancia industrial
+Página 7Los Beneficios de la Adopción de IA en 
+Mercados de Capitales
+Página 8Página 9
+Ventajas del uso de IA en mercados de capitales
+
+Mejora del rendimiento (generación de ingresos)
+• Los modelos de IA se observan tener un rendimiento predictivo consistentemente mejor en comparación con la mayoría de los modelos tradicionales debido a su capacidad para analizar grandes volúmenes y diversidad de tipos de datos de varias fuentes
+• Un mayor rendimiento predictivo se traduce en mayores ganancias económicas (confirmado por la academia y la industria), ya que estos modelos pueden procesar tanto conjuntos de datos estructurados como no estructurados, proporcionando más información útil que la mayoría de los modelos estadísticos
+
+Mejora del servicio al cliente
+• Mejorar la excelencia en el servicio al cliente a través de herramientas de IA de terceros es un área prominente de aplicaciones de IA
+• Dentro de este dominio, se pueden observar una amplia gama de aplicaciones de IA, que van desde funcionalidades de chatbot hasta servicios de asesoramiento personalizados
+
+Nuevas formas de trabajar
+• Los algoritmos de IA permiten el análisis y uso de volúmenes y tipos de datos que no son factibles para otros modelos (por ejemplo, IA puede procesar tanto datos estructurados como no estructurados, a diferencia de la mayoría de los modelos estadísticos)
+• Esto se traduce en mejoras en estrategias, capacidad de gestión de riesgos y optimización del esfuerzo humano
+
+Mejora de la gestión de riesgos
+• Las técnicas avanzadas de IA mejoran la gestión de riesgos. Por ejemplo, los proveedores de servicios financieros pueden reducir eficazmente los riesgos relacionados con la liquidez mediante una previsión precisa de la liquidez del mercado, gracias a la gran capacidad de estos modelos para procesar una variedad de conjuntos de datos bajo condiciones económicas realistas
+• Los métodos de aprendizaje por refuerzo pueden proporcionar un valor agregado en la cobertura dinámica en P&L y desviación estándar en comparación con los métodos tradicionales
+
+Ganancia de eficiencia (mejora)
+• Automatización: esto incluye, pero no se limita a, la automatización de tareas de back-office como la gestión de datos, la reconciliación y la generación de informes, así como asegurar el cumplimiento regulatorio a través de medidas como el Anti-Lavado de Dinero (AML) y Conoce a tu Cliente (KYC)
+• Reducción significativa de tareas manuales y repetitivasPágina 10 Casos de uso de IA en Mercados de Capitales
+
+ASIGNACIÓN DE ACTIVOS ANÁLISIS DE OPERACIONES PREVISIÓN DE PRECIOS DE ACTIVOS NEGOCIACIÓN DE ALTA FRECUENCIA VENTAS Y MARKETING
+
+RESUMEN
+
+Aprovechando las capacidades de IA, 
+mejorar la asignación de recursos entre 
+diferentes clases de activos para maximizar 
+el rendimiento de la inversión.Utilizar el Procesamiento de Lenguaje Natural (PLN) y otros métodos de IA para 
+extraer información de noticias y 
+otras fuentes de datos diversas, 
+permitiendo obtener valiosas perspectivas comerciales.Apoyar la predicción de precios de activos 
+utilizando datos históricos y transversales, 
+descubriendo interacciones no lineales 
+entre numerosas variables.Utilizar las capacidades de IA en la negociación 
+de alta frecuencia para mejorar la precisión 
+de la predicción, donde las operaciones se 
+ejecutan a velocidades extremadamente rápidas.La IA habilita un marketing eficiente y efectivo, 
+incluyendo segmentación de clientes, 
+generación de leads, análisis predictivos y 
+asistencia de chatbot.
+
+VENTAJAS
+
+Desarrollar estrategias de asignación de activos dinámicas
+Rendimientos más consistentes que los métodos tradicionales
+Extraer valiosas perspectivas de fuentes de datos no estructuradas
+Superar las limitaciones de accesibilidad para analizar datos no estructurados
+Extraer valiosas perspectivas de fuentes de datos no estructuradas no explotadas, ampliando el alcance del conocimiento
+Mejorar la precisión de la predicción
+Capturar dependencias intrincadas presentes en Series de Tiempo Financieras (STF)
+Aprovechar las perspectivas derivadas de fuentes de datos no estructuradas y alternativas
+Mejora la comprensión de la dinámica de ventas y marketing
+
+ADOPCIÓN
+
+TECNICAS DE IA MUESTRAS
+Aprendizaje por Refuerzo, 
+Aprendizaje Profundo, 
+Procesamiento de Lenguaje Natural, 
+Transformadores, 
+Memoria a Corto y Largo Plazo, 
+Otros métodos de IA generativos
+
+Generación de Ingresos 
+Baja Medio Alta
+1.Exploratorio: El potencial de IA es reconocido y su utilidad se prueba a través de un concepto de prueba.
+2.Intermedio: IA se utiliza tácticamente y se exploran casos de uso adicionales.
+3.Avanzado: IA se incluye estratégicamente en los procesos empresariales.
+
+Niveles de Adopción
+Generación de ingresos habilitada por IA en mercados de capitales
+Nota: Consulte el Apéndice A para explicaciones sobre los métodos de IA.Página 11 Casos de uso de IA en Mercados de CapitalesAUTOMATIZACIÓN DE PROCESOS DE NEGOCIACIÓN MEJORA DE LA CALIDAD DE EJECUCIÓN APROVECHANDO INSIGHTS 
+DESDE TEXTO/DOCUMENTO
+SERVICIOS AL CLIENTE Y SOPORTE 
+RESUMENIntegrar un sistema de IA con una plataforma de ejecución de operaciones para automatizar procesos como generar informes de operaciones y presentarlos a las autoridades reguladoras. Minimizar pérdidas en la ejecución de operaciones depende de aprovechar condiciones de liquidez favorables. La previsión precisa de la liquidez ayuda a mejorar la ejecución de operaciones.Los modelos de NLP se utilizan para extraer información de documentos, por ejemplo, ingiriendo información de documentos regulatorios y asignándola a requisitos regulatorios.Varios beneficios al aprovechar tecnologías de IA avanzadas para mejorar las interacciones con los clientes, simplificar procesos y mejorar la experiencia del cliente en general. 
+VENTAJASReducir la carga de trabajo de oficinaMejora de la ejecuciónExtraer información de datos de texto,
+Mejora predicción de liquidez que los métodos tradicionalesReducir la carga de trabajo
+Mayor productividad
+Toma de decisiones informadasReducir la carga de trabajo
+Mayor velocidad
+Toma de decisiones informadas
+ADOPCIÓN
+TECNICA DE IA DE MUESTRA1NLP y herramientas de terceros Red Neuronal Convolucional, Aprendizaje por Refuerzo, NLPNLP y herramientas de terceros NLP y herramientas de terceros Mejora de la eficiencia con IA en mercados de capitales
+Mejora de la Eficiencia 
+Nota: Consulte el Apéndice A para explicaciones sobre métodos de IA
+Niveles de Adopción
+1.Exploratorio: Se reconoce el potencial de la IA y se prueba su utilidad a través de un concepto de prueba.2.Intermedio: La IA se utiliza tácticamente y se exploran casos de uso adicionales.3.Avanzado: La IA se incluye estratégicamente en los procesos empresariales.Niveles de Adopción Baja Media AltaPágina 12 Casos de uso de IA en Mercados de CapitalesCLASIFICADOR DE MERCADO DE FUTUROS MEJORA DE CALIDAD DE DATOS VIGILANCIA COMERCIAL DE COBERTURA
+RESUMENSe explora un marco de trabajo basado en IA para analizar y categorizar condiciones del mercado en el mercado de futuros con el fin de optimizar la ejecución de operaciones en futuros. En los mercados de capitales, la calidad de los datos es fundamental para los usuarios de IA. Los datos precisos y confiables son esenciales para entrenar modelos de IA y generar insights valiosos. Se está explorando el uso de IA para desarrollar estrategias que ayuden a mantener un perfil de riesgo-rentabilidad deseado tomando la posición opuesta de la cartera. La manipulación del mercado es una actividad fraudulenta perpetrada por individuos u organizaciones. Se está utilizando IA para detectar tales manipulaciones del mercado.
+
+VENTAJASOptimizar la ejecución de operaciones, lo que resulta en una minimización de la pérdida de valorIdentificar anomalías en los datos
+Mejora del rendimiento del modeloLas estrategias de cobertura se mejoran al integrar condiciones del mercado realistas, incluyendo costos de transacciónLos métodos de IA se observan para resultar en menos falsos positivos que los enfoques basados en reglas
+
+ADOPCIÓN
+TÉCNICA DE IA DE MUESTRA1Métodos de clustering y semi-supervisados de IA Clustering Aprendizaje Automático por RefuerzoHerramientas de IA respaldadas por proveedores basadas en aprendizaje de transferencia, aprendizaje profundo y otros métodos de aprendizaje automático Gestión de riesgos habilitada por IA en mercados de capitales
+Gestión de Riesgos 
+Nota: Consulte el Apéndice A para explicaciones sobre métodos de IA
+Niveles de adopción
+1. Exploratorio: Se reconoce el potencial de IA y se prueba su utilidad a través de pruebas de concepto.
+2. Intermedio: Se utiliza IA de manera táctica y se exploran casos de uso adicionales.
+3. Avanzado: Se incluye estratégicamente IA en procesos empresariales.Niveles de adopción Bajo Medio AltoCasos de uso de IA en mercados de capitales
+Página 13Predicción de precios de activos
+
+Página 14Enfoque y desafíos
+
+•Una amplia gama de modelos basados en redes neuronales (así como bosques aleatorios y otros modelos de regresión) se utilizan para reemplazar métodos tradicionales. Son opacos y pueden ser difíciles de interpretar. Sin embargo, algunos modelos muy sofisticados están demostrando tener un gran poder predictivo (por ejemplo, TFT de Google).
+
+•Los modelos de NLP avanzados (por ejemplo, BloombergGPT / GPT-4) se están utilizando para derivar factores de predicción (incrustaciones) a partir de noticias financieras y otros datos de texto en línea disponibles para predecir precios de activos.
+
+Objetivo de gestión de riesgos
+
+•Aprovechar los avances en algoritmos de IA para mejorar el rendimiento de los modelos de predicción de precios. La ventaja se debe principalmente a la capacidad de los modelos de IA para aprender eficientemente de datos de alta dimensionalidad.
+
+•Utilizar soluciones de IA para desarrollar nuevos factores de predicción a partir de datos no estructurados. Hay una mayor disponibilidad de datos no estructurados, como datos de texto, imágenes de satélite, datos de redes sociales, raspado de web (por ejemplo, reseñas de productos), etc.
+
+Caso de uso de IA
+
+Aplicación objetivo
+
+•La predicción de precios de activos es uno de los temas más importantes en el mercado financiero.
+
+•La idea es utilizar la información disponible para predecir patrones de precios de activos futuros mediante la utilización de una abundancia de datos disponibles.
+
+•Tradicionalmente, los modelos de precios de activos como los modelos de factores que utilizan métodos estadísticos se utilizaron para este propósito.
+
+•El rápido progreso en IA (nuevos modelos de predicción de series temporales) y la mayor disponibilidad de grandes volúmenes de datos estructurados y no estructurados ha catalizado la adopción de IA en la predicción de precios de activos.
+
+Puntos dolorosos actuales
+
+•Con un aumento constante de los factores de predicción (datos de alta dimensionalidad), la mayoría de los métodos estadísticos estándar funcionan mal.
+
+•Los datos no estructurados no pueden ser procesados por métodos estadísticos tradicionales.
+
+•Combinar datos del mercado financiero con variables financieras de la empresa causa desafíos para el análisis estadístico. Los algoritmos de IA permiten combinar los dos conjuntos de datos distintivos de manera modelo-libre para la predicción de precios.
+
+•Los algoritmos de IA permiten la incorporación de información subjetiva en la predicción de precios.
+
+•La mala calidad de los datos puede llevar a predicciones de rendimiento inexactas con soluciones de IA. Por lo tanto, la calidad de los datos debe ser verificada utilizando enfoques como modelos de DL para detectar problemas en el conjunto de datos.
+
+•Los factores insignificantes en los modelos de precios de activos reducen la capacidad de predicción en cualquier modelo. Como resultado, los métodos de detección de factores insignificantes (es decir, pruebas estadísticas) deben ser utilizados junto con modelos de IA.
+
+Gobierno de IA
+Asignación de activos
+Inversión/Negociación
+Cobertura
+Riesgo de liquidez
+Mercados de capitales
+Negociación de alta frecuencia
+Precios de activosAsignación de Activos
+Página 15
+Enfoque y desafíos
+
+•Se utiliza el RL para seleccionar una acción óptima (estrategia de inversión) que maximiza una función de recompensa (por ejemplo, objetivo de MV o retorno acumulado)
+•Los modelos basados en NN se utilizan para la selección inicial de acciones y para ayudar en la selección de hiperparámetros (por ejemplo, en la estrategia Lasso-MV)
+
+Objetivo de gestión de riesgos
+•Se utilizan modelos de IA (por ejemplo, modelos de aprendizaje por refuerzo) para proporcionar estrategias de inversión que reemplazan métodos tradicionales que se basan en la estimación de correlaciones de activos
+•Se utilizan modelos de IA (por ejemplo, modelos de red neuronal) para buscar estrategias de inversión efectivas en problemas de inversión de alta dimensionalidad
+
+Caso de uso de IA
+Aplicación objetivo
+•La asignación de activos consiste en encontrar la mejor manera de asignar recursos en un conjunto de activos (como acciones, bonos y efectivo) para maximizar el rendimiento de la inversión
+•Desde el trabajo seminal de Markowitz (1952 con el principio de Varianza Media (MV)) se han propuesto varias estrategias de inversión, incluyendo la varianza mínima global, la estrategia ingenua, la estrategia más diversificada, la estrategia objetivo (máxima relación de Sharpe), etc.
+•Las soluciones de IA pueden ser ampliamente utilizadas para mejorar el rendimiento de esas estrategias o proponer nuevas estrategias.
+
+Puntos de dolor actuales
+•La estimación de los parámetros de oportunidad de inversión (correlaciones de activos y rendimientos esperados) sigue siendo una tarea difícil para los individuos en ambos ámbitos académico y empresarial
+•Los conjuntos de datos de alta dimensionalidad en la asignación de activos siguen siendo un desafío fundamental para los participantes en los mercados de capitales. Por ejemplo, en problemas de optimización de varianza-media, el método de máxima verosimilitud no proporciona una solución efectiva
+•Los gestores de activos agregan restricciones prácticas que impiden soluciones de esquina en algoritmos de IA
+•Se deben mantener esfuerzos para mejorar la explicabilidad de los modelos de IA mediante el uso de soluciones de IA adecuadas según el objetivo de inversión (por ejemplo, en el marco de trabajo continuo de MV, el RL proporciona una solución interpretable)
+•La mala calidad de los datos puede llevar a la selección de una estrategia con un rendimiento pobre. Por lo tanto, la calidad de los datos debe ser verificada, utilizando métodos tradicionales y avanzados de DL para detectar problemas en el conjunto de datos
+
+Gobierno de IA
+Asignación de Activos
+Inversión/Negociación
+Cobertura
+Riesgo de liquidez
+Mercados de capitales
+Negociación de alta frecuencia
+Precios de activosNegociación de alta frecuencia
+
+Página 16Enfoque y desafíos
+
+•Utilizar una variedad de arquitecturas de aprendizaje profundo para realizar predicciones de series temporales de alta frecuencia en datos con frecuencias variadas
+•Los modelos de transformadores han mostrado resultados superiores debido a su capacidad para procesar grandes cantidades de datos y arquitectura paralela
+•Simplificar el entorno de evaluación es un desafío, ya que pueden no tener en cuenta varios factores del mercado, como el impacto, el precio real y las cantidades disponibles
+
+Objetivo de gestión de riesgos
+
+•Una familia de modelos de aprendizaje profundo llamada Transformadores, que pueden capturar dependencias a largo plazo y son inherentemente paralelizables, lo que los hace un buen candidato para estrategias de trading de baja latencia
+•Los modelos de IA que se optimizan para series temporales de alta frecuencia tienen el potencial de lograr predicciones mejores cuando se comparan con métodos estocásticos tradicionales o modelos de aprendizaje profundo secuenciales, ya que el tamaño del conjunto de entrenamiento aumenta
+
+Caso de uso de IA
+Aplicación objetivo
+
+•La predicción de series temporales de alta frecuencia es un área de desarrollo activo de IA. Se han desplegado con éxito varios métodos estocásticos y de aprendizaje profundo basados en series temporales
+•La predicción de alta frecuencia depende de various entradas de datos, ya que son no estacionarias y exhiben estacionalidad a diferentes escalas, considerando factores como tendencias, deriva, autocorrelación y heterocedasticidad
+
+Puntos de dolor actuales
+
+•Los enfoques actuales para predecir series temporales financieras utilizan modelos de aprendizaje profundo basados en regresión y estocásticos
+•Las estrategias de trading de baja latencia requieren modelos eficientes que consideren complejidades del mercado mientras mantienen la eficiencia computacional
+•Muchos modelos estocásticos pueden simplificar en exceso la complejidad de los mercados financieros, mientras que otros modelos de aprendizaje profundo basados en series temporales son difíciles de paralelizar, lo que hace que sea desafiante utilizarlos con ejecuciones de milisegundos
+•El trading algorítmico puede resultar en pérdida de capital y requiere monitoreo de riesgos continuo. Las estrategias deben ser negociadas en papel inicialmente antes de la negociación en vivo, mientras se evalúan riesgos como precio, liquidez, cumplimiento y riesgos regulatorios
+•Se requiere una prueba de estrés rigurosa con factores del mercado realistas, ya que el entorno de trading se simplifica y el rendimiento del modelo se evalúa utilizando métricas basadas en modelos, en lugar de razonamiento matemático
+
+Gobierno de IA
+Asignación de activos
+Inversión/Negociación
+Cobertura
+Riesgo de liquidez
+Mercados de capitales
+Negociación de alta frecuencia
+Precios de activosPredicción del riesgo de liquidez
+
+Página 17Enfoque y desafíos
+
+•Se utiliza NLP para extraer sentimiento de las redes sociales para predecir el riesgo de liquidez. También se utiliza para predecir el riesgo de liquidez basado en índices financieros y volumen de comercio histórico.
+•Se utiliza RL durante una perspectiva económica extrema para aprender de los datos y seleccionar la acción óptima (riesgo de liquidez predicho) que minimiza una función de pérdida (Error Cuadrático Medio).
+
+Objetivo de gestión de riesgos
+
+•Aprovechar los avances en algoritmos de IA para mejorar el rendimiento de los modelos de predicción del riesgo de liquidez, aprovechando la capacidad de los modelos de IA para aprender de conjuntos de datos alternativos (por ejemplo, datos no estructurados, incluyendo redes sociales) para predecir más precisamente el riesgo de liquidez.
+•Utilizar modelos de IA para evaluar el riesgo de liquidez del mercado durante períodos económicos malos.
+
+Caso de uso de IA
+
+Aplicación objetivo
+
+•El riesgo de liquidez surge cuando un activo no puede ser negociado lo suficientemente rápido para prevenir o minimizar pérdidas.
+•Es uno de los riesgos más importantes en los mercados financieros y tiene un efecto directo en casi todas las decisiones financieras (por ejemplo, decisión de inversión: puede aumentar la pérdida).
+•Los modelos de IA constituyen métodos prometedores para mejorar el rendimiento de la predicción de liquidez, aprovechando las interacciones no lineales y aprendiendo a través de noticias y datos.
+
+Puntos dolorosos actuales
+
+•La evaluación de la liquidez del mercado en períodos de perspectiva económica extrema (períodos de crisis financieras, Covid-19) es un desafío y los métodos tradicionales no pudieron predecir correctamente este riesgo durante la crisis financiera de 2007-09.
+•Los servicios de microblogging, que generalmente son ignorados por los métodos estadísticos, pueden enriquecer la información que los inversores utilizan para tomar decisiones financieras en los mercados bursátiles.
+•Hay varias medidas de liquidez disponibles (por ejemplo, spread citado y spread efectivo), y el rendimiento de la predicción podría depender de la medida seleccionada. Los usuarios deben verificar la robustez de los modelos de IA con diferentes medidas de liquidez.
+•Las medidas de riesgo de liquidez son variables altamente volátiles y, combinadas con su carácter dinámico, las hacen difíciles de modelar. Los modelos de IA deben utilizarse con una especificación de modelo apropiada para garantizar la mejora del rendimiento de la predicción.
+
+Gobierno de IA
+Asignación de activos
+Inversión/Comercio
+Cobertura
+Riesgo de liquidez
+Mercados de capitales
+Comercio de alta frecuencia
+Precios de activosCobertura
+Página 18Enfoque y desafíos
+•Utilizar métodos basados en RL para modelar diversas estrategias de cobertura, como media-varianza, opción y cobertura Gamma y Vega
+•Los agentes de RL se entrenan con datos simulados, lo que permite generar grandes volúmenes de datos sintéticos para entrenar a los agentes de RL
+•Los agentes de RL se entrenan con múltiples factores de aversión al riesgo para generar múltiples estrategias de riesgo mientras se enfocan en rendimientos generales
+•Existen varios desafíos en torno a asegurar que el comportamiento de los datos simulados se correlacione bien con las condiciones del mercado real, lo que requeriría monitorear y comprender el modelo
+
+Objetivo de gestión de riesgos
+•La creciente popularidad de los modelos de RL se debe también a su naturaleza de entrenarse con datos simulados, lo que permite refinar el modelo hasta alcanzar el rendimiento deseado
+•Los métodos de cobertura basados en RL introducen un marco de toma de decisiones escalable y agnóstico al modelo para la gestión de inventarios financieros
+•Los modelos de cobertura de RL también se utilizan para probar y modificar dinámicamente varios parámetros de cobertura según los requisitos de volatilidad y apetito de riesgo
+
+Caso de uso de IA
+Aplicación objetivo
+•La cobertura es una función importante de los mercados de capitales. La investigación reciente se ha centrado en utilizar modelos de aprendizaje por refuerzo avanzados
+•La naturaleza dinámica de las estrategias de cobertura hace que utilizar modelos de aprendizaje por refuerzo sea una elección lógica, ya que pueden aprender varias estrategias
+•Mucho de este trabajo aún está en su infancia y se requiere la prueba de estrategias
+
+Puntos de dolor actuales
+•La gestión de inventarios financieros depende en gran medida de la toma de decisiones humanas y ajustes heurísticos
+•Las aproximaciones de cobertura no analíticas agregan más riesgo operativo
+•El cambio brusco de la prima de nuevos obstáculos para productos estructurados plantea desafíos en la estrategia de cobertura
+•Interpretar los modelos de RL es desafiante, y algo a considerar al implementar estos modelos en condiciones del mercado real
+•Ya que el comportamiento de los agentes de RL puede ser desafiante, crear un entorno de prueba (sandbox) es útil para realizar pruebas de sensibilidad y robustez
+•Existen aspectos de riesgo del modelo potenciales al implementar modelos de RL, lo que requeriría un marco de gestión de riesgos del modelo bien definido
+•La clave es probar la robustez de las suposiciones y luego realizar pruebas en datos históricos del mundo real
+
+Gobierno de IA
+Asignación de activos
+Inversión/Operaciones
+Cobertura
+Riesgo de liquidez
+Mercados de capitales
+Operaciones de alta frecuencia
+Precios de activosMercados de capitalesManipulación del mercado
+Página 19Enfoque y desafíos
+Detección de manipulación:
+•Se utilizan modelos supervisados entrenados con datos públicos para detectar la manipulación en valores. 
+Los métodos de detección de anomalías basados en deep learning también se pueden utilizar para este propósito.
+Causar manipulación:
+•El crecimiento de agentes de trading de IA también es una causa de preocupación, ya que tienen el potencial de aprender unos de otros y resultar en manipulación del mercado automatizada.
+•Con la complejidad creciente de los modelos, monitorear las predicciones y patrones de comportamiento del modelo se vuelve desafiante.
+
+Objetivo de gestión de riesgos
+Detección de manipulación:
+•Se han explorado varios modelos dentro de la detección de manipulación del mercado, impulsados por el crecimiento de datos de código abierto disponibles: aprendizaje automático supervisado y detección de anomalías no supervisada.
+
+Caso de uso de IA
+Aplicación objetivo
+•La manipulación del mercado es un aspecto crítico para monitorear actividades maliciosas que podrían disruptar el mercado o afectar la formación de capital.
+•Hay dos áreas de enfoque principales en las que la IA puede impactar la manipulación del mercado: 1. Detección de manipulación del mercado y 2. Causar manipulación del mercado.
+•Otro aspecto es la consideración de agentes de IA que toman decisiones de comercio automatizadas basadas en políticas optimizadas, lo que aprovecha modelos de aprendizaje por refuerzo.
+
+Puntos de dolor actuales
+Detección de manipulación:
+•La detección de manipulación del mercado se basa en enfoques basados en reglas, y el mercado de valores requiere algoritmos de IA escalables para apoyar la identificación de actividades de manipulación del mercado.
+
+Causar manipulación:
+•Los agentes de trading de IA tienden a aprender según estrategias óptimas que podrían llevar eventualmente a colusiones del mercado entre agentes.
+•Los riesgos de colusión del mercado podrían ser intencionales (colusión algorítmica humana) o no intencionales (agentes de IA aprenden políticas similares que llevan a la colusión). Esto podría ser un riesgo potencial dependiendo de la madurez tecnológica.
+•Mantener sistemas "human-in-the-loop" dentro de todos los procesos de toma de decisiones de IA para garantizar la responsabilidad y la rendición de cuentas.
+•Asegurar el desarrollo y la implementación de IA confiables mediante la afirmación de principios de gestión de riesgos de modelos, gobernanza de datos y principios fundamentales de IA.
+
+Gobierno de IA
+Asignación de activos
+Inversión/Trading
+Cobertura
+Riesgo de liquidez
+Trading de alta frecuencia
+Precios de activosGobierno de Mercados de Capital IA
+
+Página 20
+Enfoque y desafíos
+
+•Medición del Riesgo: Los riesgos no bien definidos y menos entendidos son difíciles de medir, como la construcción de métricas confiables o riesgos relacionados con terceros.
+•Tolerancia al Riesgo es muy contextual para organizaciones y casos de uso específicos.
+•Priorización del Riesgo: Mitigar completamente el riesgo es intensivo en recursos. Sin embargo, la priorización del riesgo es desafiante.
+•Riesgos residuales son aquellos que permanecen después del tratamiento del riesgo, por ejemplo, error humano.
+•Falta de Explicabilidad: La incapacidad de explicar un sistema de IA hace que parezca opaco.
+•Falta de Interpretabilidad: Interpretar la salida de un sistema de IA es una tarea desafiante.
+•Justicia: Probar un sistema de IA para cualquier discriminación que pueda causar.
+
+Objetivo de Gestión de Riesgos
+El gobierno de IA tiene como objetivo abordar los riesgos planteados por los sistemas de IA que no están cubiertos actualmente por los estándares de gobernabilidad diseñados para sistemas tradicionales.
+
+Caso de Uso de IA
+Aplicación objetivo
+•La gobernabilidad efectiva de la IA fuerte puede ayudar a mitigar una variedad de riesgos, incluyendo aquellos relacionados con la parcialidad, la confiabilidad, la responsabilidad y la transparencia en los modelos de IA.
+•El gobierno de IA también juega un papel crítico en asegurar el cumplimiento con los marcos legales y regulatorios.
+
+Puntos de dolor actuales
+Los riesgos planteados por los sistemas de IA son únicos en comparación con los sistemas tradicionales. Ejemplos son:
+•Sesgo del Modelo: Los datos no representativos utilizados en el entrenamiento del modelo de IA pueden resultar en sesgo en la predicción del modelo. El sesgo también puede resultar de la especificación del modelo inexacta.
+•No Explicable: La falta de explicabilidad en los modelos de IA reduce la confianza en los sistemas de IA, ya que podrían haber riesgos desconocidos en el modelo.
+•No Interpretación: La falta de interpretabilidad reduce la significación de la salida del modelo.
+
+Nivel de Organización:
+•Mantener una función de riesgo independiente.
+•Utilizar un enfoque de mitigación de riesgos integrado y priorizar el riesgo según la probabilidad de ocurrencia e impacto.
+•Vigilancia humana y sistema de monitoreo continuo en lugar.
+•Integrar estrategia de mitigación de sesgo.
+•Reconsiderar la neutralidad tecnológica.
+
+Nivel de Modelo:
+•Evaluar el nivel de interpretabilidad y explicabilidad necesarios y diseñar el sistema en consecuencia.
+•Modificar la función de pérdida al agregar restricciones financieras para obtener más interpretabilidad. Por ejemplo, incorporar la teoría de precios de activos sin arbitraje en la estimación de precios de activos.
+•Las técnicas de reducción de características pueden mejorar la explicabilidad inherente del modelo, además de utilizar herramientas de explicabilidad de modelos de IA convencionales.
+•Documentar la metodología, incluyendo limitaciones.
+
+Gobierno de IA
+Asignación de Activos
+Inversión/Trading
+Cobertura
+Riesgo de Liquidez
+Trading de Alta Frecuencia
+Precios de ActivosFinanzas basadas en blockchain (dirección futura)
+
+Las aplicaciones de tecnologías de registro distribuido (DLT), como la blockchain, se han proliferado en los últimos años en la finanza. El rápido crecimiento de aplicaciones basadas en blockchain se sostiene por los supuestos beneficios de velocidad, eficiencia y transparencia que tales tecnologías innovadoras podrían ofrecer, impulsadas por la automatización y la desintermediación.
+
+La adopción generalizada de DLT en la finanza puede ser impulsada por esfuerzos para aumentar la eficiencia a través de la desintermediación, incluyendo en:
+
+1. Mercados de valores (emisión y pos-venta/liquidación y compensación)
+2. Pagos (monedas digitales de bancos centrales)
+3. Tokenización de activos (por ejemplo, valores, commodities y otros activos no financieros)
+
+La implementación de IA en finanzas basadas en DLT/blockchain puede ayudar a:
+-reducir vulnerabilidades de seguridad y proteger contra la comprometida de la red (por ejemplo, en aplicaciones de pago)
+-detectar actividad fraudulenta o irregular
+-verificaciones de Anti-Lavado de Dinero/Financiamiento del Terrorismo (AML/CFT)
+-asistir en procesos de cumplimiento y gestión de riesgos
+
+Por ejemplo, la tokenización podría mejorar la transparencia en los datos y la información transaccional sobre el emisor y las características del activo a través de mecanismos mejorados de grabación y compartir información. Además, los registros de seguridad basados en DLT pueden proporcionar mayor transparencia a través de un registro claro de propiedad beneficiaria con certeza en cualquier momento. La transparencia también puede lograrse en términos de cumplimiento regulatorio y interacciones con reguladores: las restricciones regulatorias programadas se aplican automáticamente, y el regulador puede ser notificado automáticamente a través de contratos inteligentes cuando se modifican o desactivan las restricciones. Los reguladores también pueden tener información en tiempo real sobre eventos específicos en la cadena de bloques de interés para ellos.Credenciales de EY
+Página 22Página 23
+Credenciales EY junto con nivel de madurez
+Documentación de modelo automatizada utilizando
+IA generativa - Anti-lavado de dinero con modelo de IA Segmentación de clientesActivación de capacidad utilizando Grandes Modelos de Lenguaje (LLMs)Marco de confianza de IA
+Mejora de la calidad de los datos del mercado
+Clasificador de mercados de futurosCobertura dinámicaAnálisis de operaciones con noticiasAsignación de activos
+Nivel de madurez Caso de uso potencial En curso Listo para producción En producciónAsignación de Activos
+Página 24
+MODELO DE BASE DE DATOS HISTÓRICOS FUNCION DE APROXIMACIÓN DE RENDIMIENTO
+Datos históricos para el DJIA, 
+que se compone de 30 
+acciones y el índice es ponderado por precio 
+Definir el modelo de base y las métricas clave de rendimiento, que incluyen: 
+Ratio de Sharpe y asignación de cartera de mínima varianza 
+Entrenar a un agente de RL en los datos históricos para maximizar el rendimiento ajustado por riesgo utilizando métodos de Actor-Crítico 
+Comparar el rendimiento entre la teoría de la cartera moderna y el agente de aprendizaje por refuerzo 
+EY madurez
+Enfoque de los equipos de EY
+•El modelo de optimización multi-paso toma estos parámetros como entradas en cada timestep: precios de activos, factores macroeconómicos y VIX. Estos se utilizan para actualizar el modelo para el próximo timestep. 
+•Se calculan los requisitos de efectivo (solidez + pasivos) y el rendimiento sobre activos para el timestep. El modelo se recompensa según las acciones tomadas anteriormente: rendimiento, costos de reallocación y penalización por insuficiencia de efectivo.
+•El modelo incorpora y adapta su estrategia según las características del timestep actualizado, donde se asignan los activos. El modelo se recompensa según la asignación de activos realizada en el timestep anterior.
+
+Resultados y Beneficios Objetivo
+•Asignar activos dinámicamente para proporcionar rendimientos estables en un entorno volátil.
+•Utilizar un modelo de optimización multi-paso (Aprendizaje por Refuerzo) que maximiza el rendimiento ajustado por riesgo medido por la Ratio de Sharpe 
+•Los datos utilizados son los del DJIA de código abierto.
+•Se utiliza una ventana de simulación de 10 años en el modelo.
+•Proporcionar estimaciones de cVAR, Pérdida Esperada y Rendimiento para una amplia variedad de escenarios económicos.
+
+Aplicación objetivo
+•Desarrollar un marco para optimizar la asignación de activos a través de tipos de activos (Bonos del Gobierno, Bonos Corporativos, Acciones, Acciones Públicas de Capitalización Pequeña Alternativa y Efectivo).  
+•El efectivo se utiliza para cumplir con los requisitos de solvencia y pasivos. 
+Puntos dolorosos actuales
+•Es desafiante identificar una asignación óptima de activos, especialmente en un entorno macroeconómico volátil.
+•La asignación de activos es un problema de optimización multi-paso con objetivos de optimización a corto y largo plazo.
+•Un modelo que produzca rendimientos más altos (un superávit más alto) sin violar los requisitos de solvencia.
+•Debido a la naturaleza del aprendizaje por refuerzo, la asignación de activos producirá un rendimiento más estable en entornos macroeconómicos.
+Desafío:
+•Ampliar el alcance de los datos a un rango más amplio de acciones y comportamiento del mercado podría afectar el comportamiento del modelo. Por lo tanto, esto requeriría pruebas en un entorno de sandbox antes de implementarlo en condiciones del mercado real.Caso de uso de IAHere is the translation:
+
+Insights comerciales con noticias
+Página 25EY madurez
+Enfoque de los equipos de EY
+• Generar estadísticas descriptivas y extraer frases clave utilizando la lista de palabras y frases clave proporcionadas por la empresa. (Método 1)
+• Utilizando un léxico proporcionado por la empresa, derivar una puntuación de sentimiento básica de los artículos. (Método 2)
+• Dado un conjunto de temas, utilizar métodos semi-supervisados para encontrar las palabras clave para un tema y utilizarlas para encontrar la distribución de probabilidad del tema de un artículo. (Método 3)
+
+Resultados y beneficios Objetivo
+• Identificar insights financieros clave, como características de polaridad y resumen de temas o temas, desde datos no estructurados como artículos de noticias utilizando modelos de lenguaje.
+
+Aplicación objetivo
+• La extracción de información de noticias es un proceso manual que puede ser tiempo-consumidor y costoso.
+• Este proceso puede ser optimizado mediante el uso de Procesamiento de Lenguaje Natural (NLP) y aprendizaje automático para activar insights automatizados y extracción de sentimiento para estrategias comerciales.
+
+Puntos de dolor actuales
+• Consumir, interpretar y extraer información de noticias es tiempo-consumidor y ocupa recursos.
+• Confíar en recursos humanos para leer las noticias puede resultar en latencia de insights y probabilidad de noticias/insights perdidas que podrían afectar los mercados de capital.
+• Estadísticas descriptivas sobre noticias y temas clave.
+• Puntuación de sentimiento sobre temas seleccionados por partes interesadas.
+• Identificación de temas emergentes, continuos y retirados.
+
+Desafío:
+• La naturaleza dinámica de los datos de noticias requiere un monitoreo cercano y continuo.
+
+Caso de uso de IA
+Método 1
+Entradas
+• Datos de noticias
+• Lista de palabras para un tema
+Pasos intermedios
+• Limpieza de datos
+• Estadísticas descriptivas
+• Resumen de artículos abstractos
+• Extracción de frases clave utilizando text rank
+Salida
+• Estados sobre conteo de noticias y conteo de palabras
+• Lista de palabras de tema extraídas del cuerpo que pueden ser utilizadas para refinar la lista
+
+Método 2
+Pasos intermedios
+• Limpieza de datos
+• Encontrar puntuación de sentimiento básica utilizando léxico
+• Uso de embeddings de palabras para mejorar el léxico
+• Encontrar la puntuación de sentimiento a nivel de oración utilizando algoritmos de aprendizaje supervisado
+Salida
+• Puntuación de sentimiento del artículo utilizando léxico
+• Lista de palabras semánticamente cercanas para modificar el léxico
+• Puntuación de sentimiento avanzada utilizando oraciones
+Entradas
+• Datos de noticias
+• Lista de palabras para un tema
+
+Método 3
+Pasos intermedios
+• Limpieza de datos
+• Uso de técnicas de clustering semi-supervisadas para encontrar palabras de tema
+• Uso de embeddings de palabras para encontrar probabilidades de tema por artículo
+• Encontrar temas emergentes y retirados sobre un período de tiempo
+Salida
+• Lista de subtemas principales para un tema dado
+• Capacidad de derivar probabilidad de tema por artículo
+• Lista de temas emergentes, retirados y continuos sobre un período de tiempo
+Entradas
+• Datos de noticias
+• Lista de palabras para un temaCobertura dinámica
+
+Página 26
+ENTORNO
+INTERACCIÓN *APRENDIZAJE Q *FUNCION
+APROXIMACIÓN *ITERACIÓN *
+Para cada episodio y cada estado, obtener una acción desde la política epsilon-avaro, y los estados subsiguientes dados un par X = (s, a), obtener Y como la recompensa más el valor q máximo del estado siguiente. Dados los pares (X, Y) para un lote de episodios, utilizar técnicas de aprendizaje supervisado para regresión no lineal para estimar Y como una función de X. Iterar el proceso completo con la aproximación actualizada de la función q (es decir, política epsilon-avaro actualizada) y tasa de exploración epsilon actualizada.
+
+Madurez EY
+Enfoque de los equipos EY
+•Simular escenarios de mercado y costos de trading utilizando movimiento browniano y Black Scholes.
+•Determinar la línea base y los criterios de éxito, basados en la estrategia de cobertura delta.
+•Entrenar el modelo RL en el entorno de simulación.
+•Ejecutar el modelo RL en una ventana de validación.
+•Comparar el rendimiento del modelo RL y el modelo de línea base, según las métricas de "ganancia y pérdida (PnL)" y volatilidad.
+
+Resultados y beneficios Objetivo
+•Construir un modelo de optimización multi-paso (Aprendizaje por Refuerzo) para la cobertura eficiente de una cartera de opciones.
+•El modelo incorpora restricciones del mercado realistas como decisiones de trading discretas, costos de trading no lineales y restricciones de liquidez.
+
+Aplicación objetivo
+•La cobertura delta es óptima para la cobertura de opciones si no se consideran la fricción del mercado y los costos de trading.
+•El objetivo es diseñar un enfoque de cobertura automatizado que tenga en cuenta condiciones del mercado realistas.
+
+Puntos de dolor actuales
+•La cobertura es un problema de optimización multi-paso que lleva costos de trading y puede resultar en fricción del mercado.
+
+Caso de uso de IA
+•El uso de redes neuronales con RL resulta en una mejora en la ganancia y pérdida (P&L) en comparación con la línea base, pero la desviación estándar aumenta en comparación con la línea base.
+
+Desafío:
+•Modelar la función de recompensa para el caso de uso de cobertura dinámica puede ser desafiante, ya que la benchmarking se realiza contra una estrategia de cobertura delta muy conservadora.Mercados de futuros clasificador
+
+Página 27EY madurez
+Enfoque de los equipos de EY
+
+• Las fuentes de datos externas utilizadas se categorizan en tres componentes: datos estándar de futuros, datos de profundidad del mercado y datos subyacentes.
+• Los datos internos utilizados se refieren al volumen, precio, tipo de ejecución, fecha y hora.
+• Las características utilizadas para el modelo de clasificación son la desigualdad de volumen de oferta y demanda, el volumen de transacciones firmadas, el costo inmediato de la orden del mercado, la dispersión de oferta y demanda y el volumen de dispersión cruzada. Este enfoque se utiliza para mejorar la segmentación.
+• Por último, los datos de orden etiquetados contienen un indicador de deslizamiento y la magnitud de la consideración de deslizamiento, con la salida final que define los clusters de condiciones del mercado que contienen información sobre el tipo de ejecución y la tasa de deslizamiento.
+
+Resultados y beneficios Objetivo
+• Entrenar un modelo de IA en datos históricos del mercado y de órdenes para agrupar las condiciones del mercado actual que informen sobre diferentes estilos de ejecución de operaciones.
+• En el futuro, combinar la identificación de las condiciones del mercado actual con el estado de la orden en tiempo real crea la oportunidad de reducir aún más el deslizamiento cambiando el estilo de ejecución de la orden para las órdenes que no funcionan bien en una base intradía.
+
+Aplicación objetivo
+• Optimizar el deslizamiento al asignar el estilo de ejecución óptimo a las condiciones del mercado.
+• Monitorear el rendimiento del costo de la operación intradía y cambiar los estilos de operación según la dinámica del mercado.
+
+Puntos de dolor actuales
+• Alto deslizamiento para ciertas mezclas de activos
+• Limitada visibilidad del deslizamiento por clase de activos, región y contrato
+
+Caso de uso de IA
+• Capacidad de monitorear el rendimiento del costo de la operación intradía y cambiar los estilos de operación según la dinámica del mercado.
+• Escalar y utilizar varios clusters del mercado, ya que estos varían según el contrato y el tipo de instrumento.
+
+Desafío:
+• Requiere una fuerte colaboración entre los participantes del mercado de capitales y los analistas.
+
+SELECCIÓN DE FUTUROS
+INGENIERÍA DE DATOS
+CLUSTERIZACIÓN GUIADA Y VISUALIZACIÓN
+Realizar clustering inicial en la lista de futuros para identificar similitudes entre ellos
+Realizar ingeniería de datos en características clave que se requieren para la clusterización guiada y clasificación
+Clusterización semisupervisada realizada para cada uno de los futuros seleccionados iniciales, para obtener información sobre las condiciones del mercado
+Modelo de clasificación entrenado para cada futuro inicial que recomienda un tipo de ejecución y incorpora resultados de clusterización guiada
+Panel de control interactivo que permite explorar los resultados del modeloMejora de la calidad de los datos del mercado
+Página 28Aplicación objetivo
+•La eficiencia del capital puede mejorar para 
+obtener un mejor rendimiento sobre el patrimonio neto (RoE), mediante mejoras en la calidad de los datos. 
+•Al aprovechar las técnicas de IA para identificar y remediar problemas de calidad de datos, se puede mejorar la calidad de los datos con una intervención manual mínima.
+
+Puntos de dolor actuales
+•Los puntos de datos anómalos se monitorean actualmente utilizando modelos de línea de base estadística que realizan varias suposiciones paramétricas.
+•La remediación de datos todavía se realiza según el juicio empresarial.
+•Estadísticas descriptivas sobre 
+noticias y temas clave.
+•Puntuación de sentimiento sobre temas seleccionados por 
+partes interesadas.
+•Identificación de temas emergentes, continuos y retirados.
+Desafío:
+•La naturaleza dinámica de los datos de noticias requiere un monitoreo cercano y continuo.
+
+Casos de uso de IA
+Reducción de dimensionalidad SOM
+Clustering K-Means 
+Clustering DBSCAN 2ª capa de 
+ClusteringIdentificar representantes de cada cluster
+Entrenar modelos de ML en los representantes, producir predicciones y 
+generar intervalos de confianza
+n = 1159
+m = 501Madurez EY
+Enfoque de los equipos de EY
+
+Detección de anomalías:
+•Investigar la calidad de los datos, identificar 
+técnicas de preprocesamiento y 
+métodos de detección de outliers no supervisados 
+basados en la potencia de cálculo disponible.
+•Implementar un modelo de votación que utilice tanto el 
+modelo de línea de base como los modelos de IA para aumentar 
+la eficiencia.
+
+Rellenado de brechas en series temporales:
+•Identificar métodos de clustering no supervisados con una historia adecuada para el entrenamiento, utilizando métodos de forecasting de series temporales de aprendizaje profundo.
+
+Resultados y beneficios Objetivo
+•Construir un modelo de clustering que detecte 
+anomalías en los datos de series temporales del mercado, con 
+este enfoque destinado a complementar 
+métodos estadísticos existentes.
+•Utilizar modelos de clustering, junto con modelos de aprendizaje profundo para reemplazar o complementar 
+enfoques de rellenado existentes. 
+•Mayor precisión y sensibilidad al riesgo debido a 
+un mejor rendimiento del modelo.
+•Un aumento en la eficiencia del capital, lo que lleva a un aumento en el RoE.
+•Solución flexible, capaz de 
+implementarse junto con soluciones existentes en lugar de reemplazarlas.
+•50% de reducción del trabajo manual en el monitoreo, 
+habilitando más recursos en análisis.
+
+Desafío:
+•Interpretar análisis de clustering y razonamiento empresarial.Marco de confianza de IA
+Página 29Aplicación objetivo
+•El aumento del uso de modelos de IA en tiempos recientes ha llamado la atención de los reguladores. Se define una guía de supervisión formal sobre un mecanismo recomendado para gestionar el uso de aplicaciones de IA en instituciones financieras.
+•El modelo de IA conlleva nuevos riesgos debido a la falta de transparencia, alta dependencia de los datos y su calidad, y sesgo en la selección del modelo.
+Puntos dolorosos actuales
+•Ausencia de una estructura de gobernanza formal.
+•Ausencia de controles adecuados en torno a la equidad y aspectos de privacidad de las aplicaciones de IA.
+•Estadísticas descriptivas sobre noticias y temas clave.
+•Puntuación de sentimiento sobre temas seleccionados por los stakeholders.
+•Identificación de temas emergentes, continuos y retirados.
+Desafío:
+•La naturaleza dinámica de los datos de noticias requiere un monitoreo cercano y continuo.Caso de uso de IA
+Madurez de EY
+Enfoque de los equipos de EY
+•Asegurar que el propósito empresarial, la gobernanza y la participación de los stakeholders estén debidamente identificados y alineados.
+•Revisar e identificar fuentes de riesgo específicas para aplicaciones de IA.
+•Instituir procesos para abordar riesgos idiosincrásicos planteados por aplicaciones de IA.
+•Asegurar que la solución de gobernanza de IA sea escalable y desplegable con la infraestructura tecnológica adecuada, y monitoreada continuamente.Resultados y beneficios objetivos
+•El marco de gobernanza de IA de EY, que abarca cuatro componentes clave de riesgo: Riesgo ético, Evaluación de impacto de privacidad, Pruebas de rendimiento y Pruebas de implementación y despliegue.
+•Estos elementos juegan un papel crítico dentro de la implementación de metodologías de IA compatibles. Estos se desplegaron dentro de los 5 bancos más grandes de Canadá.
+•Definición de herramientas de IA y clasificación según la complejidad y el impacto empresarial.
+•Identificación de actividades de componentes de gestión de riesgos de IA.
+•Distribución de la propiedad utilizando la matriz RACI (responsable, accountable, consult, inform).
+Desafío:
+•La IA confiable requiere ser ágil, para asegurar que los marcos estén alineados con la tecnología en evolución.Análisis de riesgo ético
+Realizado por el desarrollador de herramientas analíticas y revisado por el equipo de riesgo de IA
+Evaluación de impacto de privacidad
+Realizado por el designado de privacidad y revisado por el equipo de riesgo de IA
+Pruebas de rendimiento
+Realizado por los equipos de análisis y revisado por el equipo de riesgo de IA
+Pruebas de implementación y despliegue
+Realizado por los equipos de análisis y revisado por el equipo de riesgo de IAComponentes de gestión de riesgos de IAActivación de capacidad utilizando Modelos de Lenguaje Grande (LLMs)
+
+Página 30Aplicación objetivo
+
+•Un gran administrador de patrimonio está ejecutando un programa para integrar OpenAI en plataformas centrales con el fin de (i) mejorar el acceso al contenido interno por parte de los empleados (Asesores Financieros, Asociados de Servicio), (ii) mejorar la productividad de los empleados y (iii) mejorar la experiencia del cliente.
+
+•Los LLMs se pueden utilizar en mercados de capitales para tareas como análisis de mercado, gestión de cartera y comercio. Estos son particularmente útiles para entidades de gestión de activos y patrimonio.
+
+Puntos de dolor actuales
+
+•La búsqueda está limitada a una búsqueda de palabras clave y crea ineficiencias al buscar en el contexto de la consulta.
+•Los metadatos del contenido carecen de consistencia y a menudo enfrentan problemas de completitud y precisión.
+•Los chatbots se basan en un conjunto de preguntas frecuentes predeterminadas, por lo que las respuestas se limitan a esas áreas de contenido.
+•Estadísticas descriptivas sobre noticias y temas clave.
+•Puntuación de sentimiento sobre temas seleccionados por partes interesadas.
+•Identificación de temas emergentes, continuos y retirados.
+
+Desafío:
+•La naturaleza dinámica de los datos de noticias requiere un monitoreo cercano y continuo.
+
+Caso de uso de IA
+Madurez de EY
+Enfoque de los equipos de EY
+
+•Los LLMs pueden mejorar la búsqueda creando embeddings más ricos para la búsqueda contextual y acomodando la consulta de lenguaje natural.
+•Los LLMs se pueden utilizar para automatizar la generación de metadatos que pueden ser revisados y posteriormente publicados por los autores.
+•Los chatbots internos impulsados por LLM pueden ser utilizados para analizar contenido, encontrar/sintetizar la respuesta correcta a las consultas de los usuarios.
+
+Resultados y beneficios objetivos
+
+•Gestión del conocimiento interno: Mejorar el acceso y la recuperabilidad de la base de conocimientos de la organización a través de Asistente Virtual, búsqueda mejorada y creación de metadatos de calidad (Resumen, Taxonomía, Preguntas frecuentes).
+•Análisis de centro de llamadas: Aumentar la productividad de los agentes y la experiencia del cliente derivando insights de interacción para la registrazione de CRM, flagging oportunidades y riesgos en conversaciones y mejor capacitación de la fuerza laboral.
+•Esforz y productividad más altos: Accediendo/buscar información, etiquetando contenido, etc.
+•Contenido de alta calidad y consistente: Nuevo contenido generado, por ejemplo, título de conocimiento, palabras clave, Preguntas frecuentes, notas, etc.
+•Mejor servicio y compromiso con el cliente: Entendiendo las necesidades y experiencias del usuario (sentimiento, etc.).
+•Activos reutilizables para la adopción y escalabilidad de LLM: suite de pruebas/evaluación y gobernanza de LRC mejorada, etc.
+
+Desafío:
+•Requiere medidas de seguridad específicas de la aplicación y evaluaciones para asegurar que se despliegue un sistema seguro.
+
+APOYO DE EY
+Áreas de soporte
+
+•Diseño y desarrollo de caso de uso
+•Pruebas de modelo (Suite de pruebas)
+•Diseño de estado futuro BAU
+•Documentación de MRM/Legal/RiesgoSegmentación de clientes
+Página 31Aplicación objetivo
+•Para recomendar efectivamente un producto a un nuevo cliente o vender más a un cliente existente, es importante que una empresa entienda las preferencias del cliente. Sin embargo, los clientes no siempre revelan sus preferencias directamente, y una empresa puede no tener información directa sobre ellos.
+•Las recomendaciones adecuadas pueden ser útiles en los negocios porque ayudan a mejorar la experiencia del cliente, aumentar la participación y, en última instancia, impulsar las ventas.
+•Además, las recomendaciones personalizadas también pueden ayudar a aumentar el valor promedio de la orden al animar a los clientes a comprar más artículos o artículos de mayor precio.
+•Proporcionar las recomendaciones adecuadas puede ayudar a las empresas a mejorar su línea de fondo y mantenerse competitivas en el mercado.
+Puntos de dolor actuales
+•Los algoritmos de clustering tradicionales no son efectivos para manejar datos muy dimensionales, complejos y dispersos.
+•Crear clusters basados en el juicio empresarial es tiempo-consumidor y poco eficiente dada la naturaleza dinámica de la base de clientes.
+•Estadísticas descriptivas sobre noticias y temas clave.
+•Puntuación de sentimiento sobre temas seleccionados por partes interesadas.
+•Identificación de temas emergentes, continuos y retirados.
+Desafío:
+•La naturaleza dinámica de los datos de noticias requiere un monitoreo cercano y continuo.
+Caso de uso de IA
+Madurez de EY
+Enfoque de los equipos de EY
+•Se calcula la distancia de pares utilizando una métrica de distancia adecuada para encontrar una medida de similitud.
+•La elección de la métrica de distancia es una decisión crítica y puede variar según los datos.
+•Se utiliza el algoritmo de clustering de grafos en los datos con un número especificado de clusters.
+•Se obtienen el número requerido de clusters ya sea desde la intuición empresarial, el método de valor propio, minimizando la varianza total, desde trabajos previos, etc.
+•Se sugiere la recomendación más popular en el cluster para los miembros del cluster.
+•Discusión con el equipo empresarial, identificar el problema en la formación de clusters y sugerir recomendaciones.
+•Cambiar la métrica de distancia o el número de clusters o aplicar lógica adicional desde la perspectiva empresarial para hacer que los clusters sean significativos.
+Resultados y beneficios Objetivo
+•Implementar un sistema de recomendación para mejorar la personalización de las recomendaciones de productos, lo que resultaría en una mayor satisfacción del cliente.
+•Además, proporcionar recomendaciones de productos personalizadas resultaría en aumentos en las ventas.
+El algoritmo de clustering de grafos proporciona clusters que, a diferencia de las metodologías de clustering tradicionales, tienen los siguientes beneficios:
+1.Un gran número de clusters, lo que permitiría recomendaciones más dirigidas.
+2.Tamaños de clusters uniformes, lo que resulta en recomendaciones robustas.
+EY APOYO ÁREAS
+Recopilar todas las variables continuas y categóricas utilizadas para la segmentación. Construir una matriz de afinidad que utilice cada punto como un nodo en el cluster. Los bordes de los clusters representan la fuerza entre los nodos. Continuar eliminando los bordes entre los nodos para obtener los clusters.Anti-Lavado de Dinero con modelo de IA
+
+Página 32Aplicación objetivo
+
+• En los mercados de capitales, las reglas de AML se utilizan para detectar y reportar actividades sospechosas potencialmente relacionadas con el lavado de dinero y la financiación del terrorismo, como el fraude de valores y la manipulación del mercado. El objetivo de este enfoque es proteger la integridad del sistema financiero.
+
+• Con el rápido progreso en IA (por ejemplo, nuevos modelos de predicción de series temporales) y la mayor disponibilidad de grandes volúmenes de datos estructurados y no estructurados, se pueden utilizar varios modelos de IA para proporcionar nuevas reglas de AML.
+
+Puntos dolorosos actuales
+
+• El formato de regla tradicional y los sesgos históricos no detectan patrones de lavado de dinero cambiantes/nuevos.
+• La confianza en fuentes de datos tradicionales y reglas de lavado de dinero conduce a un exceso de positivos falsos.
+• El enfoque actual se basa en investigaciones humanas costosas y tiempo-consumidoras.
+• Estadísticas descriptivas sobre noticias y temas clave.
+• Puntuación de sentimiento sobre temas seleccionados por partes interesadas.
+• Identificación de temas emergentes, continuos y retirados.
+
+Desafío:
+• La naturaleza dinámica de los datos de noticias requiere un monitoreo cercano y continuo.
+
+Caso de uso de IA
+Madurez de EY
+Enfoque de los equipos de EY
+
+• Un modelo de IA se entrena utilizando aprendizaje activo, adaptándose continuamente a nuevos datos.
+• El modelo de IA genera alertas puntuadas según su nivel de prioridad y las categoriza automáticamente según características importantes.
+• Se implementa NLP antes de la fase de triage manual para filtrar la prensa adversa antes de la investigación humana.
+• El modelo se entrena inicialmente con etiquetas históricas producidas por la UIF. Para optimizar el entrenamiento y minimizar el ruido, el subconjunto de entrenamiento consiste en instancias seleccionadas por su valor informativo.
+• Se utiliza aprendizaje sensible al costo para minimizar el costo en lugar de minimizar las malclasificaciones (ya que los falsos negativos son más costosos que los falsos positivos).
+• Se utilizan reconocimiento de entidades nombradas, modelado de temas y análisis de sentimiento para automatizar la pantalla de prensa adversa.
+• Se crea un tablero en la herramienta de inteligencia empresarial del cliente, proporcionando estadísticas resumidas, categorización de alertas y priorización de alertas.
+
+Resultados y Beneficios
+Objetivo
+
+• Aprovechar la capacidad del sistema de IA para mejorar el proceso de AML incorporando diferentes datos.
+
+Datos Dirigidos y Adaptativos
+• Utilizar inteligencia artificial permite identificar patrones de lavado de dinero nuevos que no han sido identificados aún.
+• Redirigir nuevos datos al modelo permite el aprendizaje continuo y la adaptación del modelo a cambios en el comportamiento del cliente y situaciones macroeconómicas.
+• Utilizar un enfoque de modelo es menos explotable por los lavadores de dinero que utilizar un enfoque basado en reglas.
+
+Alertas Priorizadas
+• Los resultados de la predicción en forma de probabilidad de escalada permiten la priorización de alertas según el nivel de riesgo.
+• La visualización de alertas priorizadas a través de una interfaz de tablero conduce a una mayor eficiencia en la investigación.
+• La categorización de alertas basada en su firma de riesgo/perfil de riesgo permite una clasificación más fácil y dirigida.Automatización de la documentación de modelos utilizando IA generativa
+
+Página 33Aplicación objetivo
+
+• La documentación del modelo es muy importante durante el proceso de desarrollo del modelo para ayudar a todos los stakeholders, incluyendo el equipo de validación del modelo y los usuarios del modelo, a entender el proceso de desarrollo del modelo, las suposiciones subyacentes y las limitaciones potenciales. Para evitar algunas tareas repetitivas y difíciles relacionadas con el proceso de documentación del modelo, EY utiliza la IA generativa para automatizar este proceso.
+
+Puntos de dolor actuales
+
+• Actualmente, el proceso de documentación del modelo implica diferentes tareas repetitivas que pueden ser consumidoras de tiempo.
+• Leer guías para iniciar la documentación
+• Capturar información de diferentes fuentes
+• Ejecutar pruebas y escribir resultados de análisis mínimos
+• Formatear documento con resultados generados y tablas de insights
+• Estadísticas descriptivas sobre noticias y temas clave
+• Puntuación de sentimiento sobre temas seleccionados por los stakeholders
+• Identificación de temas emergentes, continuos y retirados
+
+Desafío:
+• La naturaleza dinámica de los datos de noticias requiere un monitoreo cercano y continuo.
+
+Caso de uso de IA
+Madurez de EY
+Enfoque de los equipos de EY
+
+• Utilizar el modelo de IA generativa para automatizar la documentación del modelo de riesgo crediticio para un gran banco canadiense.
+• Se seleccionó el desarrollo/re-desarrollo de modelos de AIRB PD para retail, ya que el desarrollo de modelos de retail es más sistemático en comparación con los portafolios de wholesale y es un punto de partida más adecuado.
+• Los siguientes pasos se utilizan:
+#1: Generación de plantilla y narrativa
+• Genera una plantilla de documento basada en informes históricos y narrativas que aprovechan datos existentes
+• Incorpora tablas (csv) y diagramas de imagen como parte de la creación de la plantilla
+• Formatea el texto en una plantilla de tabla predefinida
+#2: Generación de insights de tabla
+• Genera insights para matrices de correlación y tablas de umbrales, así como plantillas de tabla específicas para la documentación del modelo
+• El activo puede ser extendido a otros tipos de tablas con patrones similares ajustando la instrucción basada en la promesa. Resultados y beneficios
+
+Objetivo
+• El objetivo es utilizar la IA generativa para automatizar los diferentes pasos del proceso de documentación del modelo
+• Generar plantilla de documento basada en guías
+• Estandarizar la recopilación de entradas
+• Derivar insights detallados de salidas de análisis crudo
+• Sintetizar automáticamente resultados y formatear artefactos de documento (tablas, gráficos, etc.)
+• Documento borrador generado en minutos
+
+Aceleración del ciclo de vida del modelo
+• Establece el proceso de documentación al combinar la experiencia humana con capacidades de IA
+• Permite ajustes y afinamientos en tiempo real del contenido basados en la comprensión experta
+
+Optimización de recursos
+• Reduce la carga de trabajo manual para los expertos en documentación, permitiendo una mayor productividad
+• Consuma insights empresariales para entrenar y mejorar la automatización de la documentación de IA
+
+Consistencia de la documentación
+• Minimiza errores e inconsistencias en la documentación estandarizando documentos
+• Entrega contenido preciso y relevante que cumple con los objetivos y estándares organizativosDesafíos y riesgos asociados con la adopción de IA en los mercados de capitales
+Página 34Página 35IA en CM desafíos y riesgos 
+Desafíos y 
+Riesgos de la adopción de IA 
+en mercados de capitalesFalta de 
+explicabilidad/transparenciaPreocupaciones de 
+privacidadRiesgos de 
+concentraciónDilemas éticosSesgo y 
+discriminaciónDesafíos de 
+responsabilidadLos sistemas de IA pueden ser complejos y opacos, lo que hace difícil entender cómo funcionan y cómo se toman las decisiones. Esto puede crear desafíos de transparencia. En este contexto, las salidas de IA son complejas y las explicaciones no siempre están disponibles, con procesos de IA a menudo imposibles de entender para los usuarios no expertos. Por lo tanto, es difícil para los usuarios finales tener conocimiento y control sobre qué datos se están capturando y cómo se utilizan. 
+
+El uso inadecuado de datos o el uso de datos de baja calidad puede llevar a sesgos y resultados discriminatorios, lo que finalmente perjudica a los consumidores financieros.
+
+El uso de IA otorga una ventaja a los grandes jugadores, lo que puede limitar la capacidad de los proveedores de servicios financieros más pequeños para competir debido a las limitaciones de recursos y el acceso desigual a los datos.El uso de IA plantea preguntas éticas sobre el impacto en la autonomía humana, la dignidad y el bienestar, así como implicaciones sociales más amplias como la pérdida de empleos.Es difícil asignar responsabilidad cuando algo sale mal con un sistema de IA, especialmente si involucra a varias partes.
+
+Los sistemas de IA pueden recopilar, almacenar y procesar grandes cantidades de datos personales, lo que plantea preocupaciones sobre la privacidad y la protección de datos.Consideraciones regulatorias en la adopción de IA en mercados de capitales
+
+Consideraciones regulatorias
+
+•Dada la rápida evolución, los beneficios potenciales y los riesgos potenciales de la adopción generalizada de la IA, los organismos reguladores internacionales y nacionales buscan promover la adopción responsable de las tecnologías de IA.
+
+•Esto requiere que se establezcan medidas adecuadas para identificar, evaluar y mitigar los riesgos de daño o salida sesgada antes de que un sistema de IA sea puesto a disposición para su uso.
+
+•Estas consisten principalmente en la prueba rigurosa de los algoritmos utilizados antes de ser desplegados en el mercado, y la supervisión continua de su rendimiento a lo largo de su ciclo de vida.
+
+•Aunque muchos países tienen varias regulaciones existentes, algunas técnicas de IA avanzadas pueden no ser compatibles con estos requisitos regulatorios.
+
+La falta de transparencia y explicabilidad de algunos modelos de IA y la naturaleza dinámica de los modelos de aprendizaje profundo que se adaptan continuamente son ejemplos destacados de esta posible incompatibilidad.
+
+El enfoque tecnológicamente neutro que se aplica en la mayoría de las jurisdicciones para regular los productos del mercado financiero (en relación con la gestión de riesgos, la gobernanza y los controles sobre el uso de algoritmos) puede ser desafiado por la creciente complejidad de algunos casos de uso innovadores.
+
+•El gobierno ha introducido la Ley de Inteligencia Artificial y Datos (AIDA) como parte de la Ley de Implementación de la Carta Digital de 2022.
+
+•La AIDA propone nuevos requisitos para que las empresas garanticen la seguridad y la imparcialidad de los sistemas de IA de alto impacto en todas las etapas del ciclo de vida de IA, que abarcan el diseño, el desarrollo y la implementación (AIDA 2022).
+
+•Bajo la AIDA, las empresas que participan en actividades de IA reguladas serán responsables de los riesgos asociados con los sistemas de IA de alto impacto basados en su participación en el ciclo de vida del sistema de IA.
+
+Regulaciones en Canadá
+
+•En los EE. UU., no hay legislación federal integral sobre IA.
+
+•En su lugar, EE. UU. tiene un parche de varios marcos regulatorios de IA actuales y propuestos.
+
+La implementación de la Ley de Herramientas de Decisión Automatizadas (AEDT) requiere auditorías de equidad regulares para las empresas que utilizan IA en procesos de reclutamiento y promoción de empleados (AEDT, 2023).
+
+De manera similar, la Comisión de Oportunidades Iguales de Empleo (EEOC) lanzó una iniciativa sobre "justicia algorítmica" en el empleo.
+
+•El Instituto Nacional de Estándares y Tecnología (NIST) ha comenzado a trabajar para estandarizar los riesgos de IA y un enfoque para gestionarlos de manera "confiable".
+
+Se centra en sistemas de IA válidos y confiables, seguros, justos, explicables e interpretables, transparentes y responsables.
+
+Regulaciones en EE. UU.
+
+•La Unión Europea ha propuesto la Ley de Inteligencia Artificial, un nuevo marco jurídico para la IA.
+
+•Clasifica los sistemas de IA en cuatro niveles de riesgo: inaceptable, alto, limitado y mínimo.
+
+Cada nivel tiene requisitos específicos para el desarrollo y el uso.
+
+Los sistemas con riesgo limitado y mínimo tienen menos obligaciones, centrándose en la transparencia.
+
+Los sistemas de riesgo inaceptable están prohibidos, mientras que los sistemas de alto riesgo deben someterse a pruebas rigurosas, documentación de datos y supervisión humana (Comisión Europea, Ley de IA, 2021).
+
+•Además, la Unión Europea ha implementado el Reglamento General de Protección de Datos (RGPD) que establece responsabilidades para la protección de la privacidad, otorga ciertos derechos a los sujetos de datos y otorga poderes a los reguladores para imponer responsabilidad y multas por incumplimiento de los requisitos del RGPD (Comisión Europea, Ley de IA, 2021).
+
+Regulaciones en Europa
+
+Nota: Consulte el Apéndice B para obtener detalles sobre las regulaciones en diferentes regiones.Equipo de EY enfoque en IA responsable
+El marco de IA responsable desarrollado por los equipos de EY facilita a los clientes reducir los riesgos de IA mientras cumplen con las regulaciones emergentes de IA. Puede evaluar los riesgos de IA y construir controles a través de siete atributos de confianza, cuatro categorías de riesgo y tres dominios de gobernanza.
+
+Explicabilidad: se habilitan niveles adecuados de explicación para que los criterios de decisión de los sistemas de IA puedan ser razonablemente entendidos, cuestionados y/o validados por operadores humanos.
+
+Responsabilidad: hay una propiedad clara sobre los sistemas de IA y sus impactos en todo el ciclo de vida de desarrollo de IA.
+
+Confiabilidad: los resultados de los sistemas de IA se alinean con las expectativas de las partes interesadas y se realizan a un nivel deseado de precisión y consistencia, mientras se protegen contra el acceso no autorizado, la corrupción y/o ataques adversarios.
+
+Privacidad: los sistemas de IA se diseñan considerando los derechos de datos en cuanto a cómo se recopila, almacena y utiliza la información personal.
+
+Imparcialidad: los sistemas de IA se diseñan considerando las necesidades de todas las partes interesadas afectadas y para promover la inclusión y el impacto social positivo.
+
+Transparencia: se proporcionan niveles adecuados de apertura sobre el propósito, diseño e impacto de los sistemas de IA para que los usuarios finales y los diseñadores de sistemas puedan entender, evaluar y emplear correctamente las salidas de IA.
+
+Sostenibilidad: el diseño y despliegue de los sistemas de IA son compatibles con los objetivos de mantener la seguridad física, el bienestar social y la salud planetaria.
+
+IA ResponsableAutores
+
+Mario Schlener
+Socio, Líder de la Práctica de Gestión de Riesgos Financieros y Estrategia de Riesgo Empresarial, EY Canadá
+Líder de Innovación de la Alianza de Tecnología de Riesgos FS Global, EY
+mario.schlener@ey.ca.com
+
+Julio DeJesus, Ph.D.
+Director, Mercados de Capitales/Riesgo de Mercado/Tesorería
+julio.dejesus@ey.ca.com
+
+Brian Z. Gelfand
+Director, Activos Digitales y Líder de FMI, EY Canadá
+brian.gelfand@ey.ca.com
+
+Yara Elias, Ph.D.
+Gerente Senior, Líder de Riesgo de IA, Gestión de Riesgos Financieros, EY Canadá
+yara.elias@ey.ca.com
+
+Jithu Chandran
+Gerente Senior, Gestión de Riesgos Financieros, EY Canadá
+jithu.chandran@ey.ca.com
+
+Ravi Sundaram
+Gerente, Riesgo de IA, Gestión de Riesgos Financieros, EY India
+ravi.sundaram@ey.ca.com
+
+N’Golo Kone, Ph.D.
+Consultor Senior, Equipo de Riesgo de IA, Gestión de Riesgos Financieros, EY Canadá
+ngolo.kone@ey.ca.comEY|  Construyendo un mundo laboral mejor 
+
+EY existe para construir un mundo laboral mejor, ayudando a crear valor a largo plazo para clientes, personas y sociedad, y construyendo confianza en los mercados de capitales. 
+
+Habilitados por datos y tecnología, los diversos equipos de EY en más de 150 países proporcionan confianza a través de la aseguración y ayudan a los clientes a crecer, transformarse y operar. 
+
+Trabajando en aseguración, consultoría, derecho, estrategia, impuestos y transacciones, los equipos de EY hacen preguntas mejores para encontrar nuevas respuestas para los complejos problemas que enfrenta nuestro mundo hoy en día.
+
+EY se refiere a la organización global y puede referirse a una o más de las firmas miembros de Ernst & Young Global Limited, cada una de las cuales es una entidad legal separada. Ernst & Young Global Limited, una empresa limitada por garantía del Reino Unido, no proporciona servicios a clientes. La información sobre cómo EY recopila y utiliza datos personales y una descripción de los derechos que tienen los individuos bajo la legislación de protección de datos están disponibles en ey.com/privacidad. Las firmas miembros de EY no practican derecho donde esté prohibido por las leyes locales. Para obtener más información sobre nuestra organización, visite ey.com.
+
+© 2023 Ernst & Young LLP. Todos los derechos reservados.
+
+Una firma miembro de Ernst & Young Global Limited.
+
+Trabajo No. ESS 
+ED MMYY
+
+Esta publicación contiene información en forma de resumen, actualizada hasta la fecha de publicación, y tiene como objetivo brindar orientación general solo. No debe considerarse como una guía exhaustiva o un sustituto de asesoramiento profesional. Antes de tomar cualquier curso de acción, póngase en contacto con Ernst & Young o con otro asesor profesional para discutir estos asuntos en el contexto de sus circunstancias particulares. No aceptamos responsabilidad alguna por cualquier pérdida o daño ocasionado por su confianza en la información contenida en esta publicación.
+
+ey.com/ca

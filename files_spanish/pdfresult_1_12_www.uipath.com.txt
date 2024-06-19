@@ -1,0 +1,263 @@
+UIPATH.COM | CASOS DE USO DE IA PARA LA ATENCIÓN MÉDICA 1
+
+Casos de Uso de IA para la Atención Médica
+
+Caso de Uso
+
+La inteligencia artificial (IA) combinada con la automatización de procesos robóticos (RPA) ofrece una oportunidad sin precedentes para redefinir la práctica de la atención médica. La complejidad y el aumento de datos implican que las organizaciones de atención médica lidian con datos no estructurados, tareas administrativas, papeleo interminable y procesamiento de documentos que desvían su atención del cuidado del paciente. Para ayudar a los profesionales de la atención médica, UiPath ofrece soluciones tecnológicas que pueden ayudar a automatizar procesos complejos y mejorar la toma de decisiones en las organizaciones de atención médica. Esto contribuye a una serie de resultados positivos, como atención de alta calidad y oportuna, reducción de errores, mitigación de riesgos y mejora de la experiencia del paciente.UIPATH.COM | CASOS DE USO DE IA PARA LA ATENCIÓN MÉDICA
+
+Identificando Embarazos de Alto Riesgo
+Detección de Neumonía y COVID-19
+
+El desafío
+Los resultados clínicos son uno de los indicadores más importantes en la atención médica que se utilizan para determinar el curso del tratamiento y evaluar los riesgos relacionados. Sin embargo, las evaluaciones de resultados clínicos son en su mayoría manuales y se registran con frecuencia en papel, lo que hace que sea especialmente desafiante automatizar estos procesos.
+
+La solución de UiPath
+El proceso anterior en una clínica se automatizó con éxito mediante la solución de Amitech Solutions, una empresa de consultoría de atención médica y socio de UiPath. La clínica necesitaba cuatro a cinco semanas para predecir embarazos de alto riesgo, lo que es extremadamente riesgoso esperar tanto tiempo en tales casos. Utilizando la tela de IA de UiPath y la comprensión de documentos, diseñaron un bot que puede organizar, interpretar y validar documentos médicos presentados por pacientes para evaluar automáticamente los embarazos de alto riesgo. Esto ayudó a reducir el plazo de cuatro a cinco semanas a solo minutos, evitar el 44% de partos con bajo peso al nacer y ahorrar $11 millones anuales. Lea el caso de estudio completo aquí.
+
+El desafío
+El brote de COVID-19 que se propagó por todo el mundo en cuestión de meses planteó un desafío enorme a las organizaciones de atención médica en muchos países. Debido a los síntomas vagos y la falta de experiencia en el diagnóstico y tratamiento del nuevo coronavirus, fue vital definir rápidamente la neumonía que puede pasar desapercibida en el caso de COVID-19. Por lo tanto, la detección efectiva de pacientes infectados, principalmente mediante radiografías de tórax como rayos X o tomografía computarizada (TC), puede ayudar a proporcionar un tratamiento oportuno.
+
+La solución de UiPath
+Una combinación de aprendizaje automático (ML) y RPA en un modelo desplegable puede reducir los tiempos de diagnóstico en un 50% o más, mientras que también mejora la precisión y la atención al paciente. El diagnóstico rápido de neumonía es uno de tales casos, y puede ser aún más crítico para los pacientes diagnosticados con COVID-19. Basándonos en la tela de IA de UiPath, hemos construido un modelo de visión computarizada para detectar casos de COVID-19 a partir de imágenes de rayos X de tórax en segundos, mientras que usualmente puede tomar hasta 20 minutos. Obtenga más información sobre el modelo y vea cómo funciona en este video.
+
+34%
+40% de los profesionales de la atención médica consideran que la diagnóstica es la aplicación más importante de la IA
+creen que la IA se volverá crucial para la toma de decisiones clínicas en los próximos 5-10 añosLa IA es una herramienta indispensable
+Fuente: Transformando la atención médica con IA: El impacto en la fuerza laboral y las organizaciones
+
+Identificando Embarazos de Alto Riesgo
+Detección de Neumonía y COVID-19
+Recepción de pacientes y evaluación de la propensión al pago
+Haga clic en el caso de uso a continuación para saltar a esa información
+
+Evaluación de la propensión a la denegación de reclamos
+Procesamiento de facturas y órdenes de compra
+Reconciliación
+Clasificación de documentos médicos
+Detección de fraude de reclamos
+Clasificación ICD-10Cobro de Deudas de Pacientes 
+Colección y 
+Evaluación de Propensión al Pago 
+Evaluación de Propensión de Denegación de Reclamo
+
+El desafío
+La misión principal de un hospital es tratar a los pacientes, pero para mantener el hospital en funcionamiento, es importante cobrar los pagos de los pacientes. Los proveedores utilizan diferentes flujos de trabajo para cobrar deudas según la situación financiera única de cada paciente. Los hospitales luchan por cobrar las deudas de los pacientes. Mientras que esto consume mucho tiempo y costo para los hospitales, la colección sigue siendo difícil y engorrosa en muchos casos. Las tasas de deuda resultantes pueden afectar negativamente los días de cuentas por cobrar (A/R) y la línea de fondo del hospital.
+
+La solución de UiPath
+Los proveedores pueden simplificar su proceso de colección utilizando análisis de propensión al pago para clasificar con precisión las cuentas en el flujo de pago óptimo según la situación financiera única del paciente. Evaluar la propensión al pago puede ayudar a las organizaciones a cobrar rápidamente en casa las cuentas de pacientes identificadas con una alta probabilidad de cobro y ahorrar en costos de colección.
+
+Como solución, un modelo de aprendizaje automático (ML) se puede entrenar para predecir la probabilidad de que un paciente pague. Con base en estas predicciones, se pueden activar diferentes flujos de pago, asegurando así el enfoque de colección más efectivo para cada paciente individual.
+
+El desafío
+Un problema relacionado es la colección de dinero de reclamos de seguros. Un porcentaje alto de reclamos, hasta un 40%, tienden a ser denegados completamente o parcialmente, lo que afecta los días de cuentas por cobrar (A/R) y la capacidad de cobrar efectivo. Normalmente, este proceso tarda unos 2-3 meses, incluyendo el reconocimiento de una denegación (45-60 días), apelación (15-20 días) y determinación del pago y procesamiento (30 días).
+
+La solución de UiPath
+Afortunadamente, las organizaciones de atención médica han estado recopilando grandes cantidades de datos durante años. Utilizando estos datos históricos, en particular, los estados de los archivos EDI 837 de procesamiento de reclamos de atención médica y datos de contrato, es posible construir un modelo de ML que prediga la propensión de pago/denegación de un reclamo. Además, el modelo puede indicar qué debe ser examinado para mejorar la adjudicación. UiPath ha diseñado una suite de actividades para convertir archivos EDI (270/271, 276/277 y 835/837), estas actividades convierten los archivos EDI en diferentes conjuntos de datos para proporcionar entrada para el modelo de AI/ML para la predicción de denegación. Haga clic aquí para acceder a los detalles de la suite de actividades EDI.
+
+UIPATH.COM | CASOS DE USO DE IA PARA LA ATENCIÓN MÉDICA 3Identificando Embarazos de Alto Riesgo 
+Detectando Neumonía y COVID-19Cobro de Deudas de Pacientes 
+Colección y Evaluación de Propensión al PagoHaga clic en el Caso de Uso a continuación para saltar a esa información
+Evaluación de Propensión de Denegación de Reclamo
+Procesamiento de Facturas y Órdenes de Compra 
+ReconciliaciónClasificación de Documentos Médicos 
+Detección de Fraude de ReclamosClasificación ICD-10Procesamiento de Facturas 
+& Órdenes de Compra 
+ReconciliaciónClasificación de Documentos Médicos
+El desafío
+Aunque este caso de uso es común en 
+muchas industrias, el procesamiento de 
+facturas y órdenes de compra es un 
+factor importante que afecta la eficiencia 
+operativa de una organización de atención 
+médica. Por ejemplo, una empresa dental 
+estadounidense que proporciona servicios 
+de procesamiento de documentos para 
+diferentes consultorios dentales procesa 
+alrededor de 125,000 páginas de 
+documentos como facturas y órdenes de 
+compra cada año. Con la interrupción del 
+Covid-19, el papeleo se vuelve un desafío 
+aún mayor para los empleados que se 
+quedan en casa debido a la cuarentena.
+
+La solución de UiPath
+Para liberar a los empleados de su 
+rutina diaria de papeleo, UiPath ofreció 
+a la empresa dental utilizar modelos de ML 
+pre-entrenados para el procesamiento de 
+facturas y órdenes de compra. Con un 
+entrenamiento mínimo en algunos 
+documentos personalizados, la empresa 
+logró automatizar estos procesos y ahorrar 
+un 80-90% del tiempo y los costos 
+gastados en procesamiento de documentos. 
+A su vez, esto ayuda a sus clientes – 
+consultorios dentales – a asegurar una 
+colaboración mucho más eficiente con sus 
+pacientes, lo que les permite brindar una 
+experiencia del paciente increíble.
+
+El desafío
+La identificación y revisión de documentos 
+médicos es la parte central de múltiples 
+procesos de atención médica, desde la 
+cadena de valor de procesos de pagadores 
+y proveedores hasta el proceso de revisión 
+clínica. La identificación de documentos 
+es una tarea que consume tiempo debido 
+a la fusión de múltiples documentos como 
+el expediente del caso. El proceso requiere 
+analizar cada página del documento para 
+identificar el contenido y clasificar la página 
+en la categoría correspondiente. Miles de 
+FTEs están gastando de 15 a 45 minutos 
+para clasificar los documentos médicos según 
+el tipo de proceso.
+
+La solución de UiPath
+La solución de clasificación de documentos 
+basada en la comprensión de documentos 
+de UiPath tiene la capacidad de configurar 
+el clasificador según los requisitos del 
+proceso para clasificar los documentos 
+médicos en diferentes categorías como 
+tarjeta de seguro, informes médicos, 
+formularios de reclamo, etc. Y para 
+reorganizar en la secuencia requerida. 
+Además, el extractor de formularios fijos 
+inteligente ayuda a los clientes a extraer 
+datos de diferentes formularios de reclamo 
+y autorización para procesos de intake. 
+Algunos de los buenos demos están disponibles 
+aquí desde la comprensión de documentos 
+de UiPath y la recomendación de códigos 
+ICD-10.
+
+Identificando Embarazos de Alto Riesgo 
+Detectando Neumonía y COVID-19Cobro de 
+Recibos del Paciente y Evaluación de 
+Propensión al PagoHaga clic en el caso de 
+uso a continuación para saltar a esa información
+Evaluación de la Propensión a la Denegación 
+de Reclamos
+Procesamiento de Facturas 
+& Órdenes de Compra 
+ReconciliaciónClasificación de Documentos Médicos
+Detección de Fraude de Reclamos 
+Clasificación ICD-10
+
+4 UIPATH.COM | CASOS DE USO DE IA PARA LA ATENCIÓN MÉDICA
+80-90%
+del tiempo y los costos gastados en 
+procesamiento de facturas y órdenes de 
+compra utilizando modelos de ML de 
+UiPath fuera de la caja con un entrenamiento 
+mínimo. La IA es una herramienta 
+necesaria para ahorrar.5 UIPATH.COM | CASOS DE USO DE IA PARA LA ATENCIÓN MÉDICA
+
+Detección de Fraude de Reclamos
+Clasificación ICD-10
+
+El desafío
+El fraude y el abuso en los reclamos médicos se han convertido en una gran preocupación dentro de los pagadores de la atención médica debido a las pérdidas crecientes en ingresos. El procesamiento de reclamos médicos es una tarea manual agotadora realizada por unos pocos expertos médicos que tienen la responsabilidad de aprobar, modificar o rechazar las subvenciones solicitadas dentro de un plazo limitado desde su recepción.
+
+La solución de UiPath
+Una excelente manera de automatizar este proceso es entrenar un modelo de ML para predecir si un reclamo médico es fraudulento. En primer lugar, el modelo debe ser expuesto a un gran volumen de reclamos procesados previamente. Cuando toda esta información se analiza y estructura, la IA puede encontrar conexiones entre diferentes factores, lo que define los patrones de fraude.
+Como resultado, el modelo se entrena para evaluar nuevos reclamos de seguro. Si predice que un reclamo puede ser fraudulento, el reclamo y la explicación de la actividad sospechosa de fraude se pasan a una validación humana. Esto significa que un especialista puede investigar más a fondo el caso y tomar una decisión final sobre la detección de fraude de reclamos. Lea más sobre el procesamiento de reclamos de seguro aquí.
+
+El desafío
+Para determinar el código ICD-10 específico para cada encuentro, los proveedores y codificadores deben leer el registro médico completo, incluyendo diagnósticos de alta, historia médica, quejas principales y registros de operaciones. Con base en esos datos, pueden asignar varias páginas de documentación médica a más de 70,000 códigos de diagnóstico. Normalmente, este proceso toma alrededor de 20 minutos para un codificador profesional.
+
+La solución de UiPath
+Un algoritmo de IA/ML puede ayudar a reducir significativamente el tiempo de codificación ICD-10. Utilizando el aprendizaje automático supervisado basado en registros médicos clasificados y codificados previamente, un modelo de ML se puede entrenar para clasificar automáticamente varias páginas de registros médicos en un conjunto de códigos, es decir, definir los códigos de diagnóstico correspondientes para cada caso. También puede utilizar un flujo de trabajo preconstruido —UiPath Medical Claims Intelligent Extraction — ICD.
+
+Identificación de Embarazos de Alto Riesgo
+Detección de Neumonía y COVID-19
+Cobro de Recibos de Pacientes y Evaluación de Propensión al Pago
+Haga clic en el caso de uso a continuación para saltar a esa información
+Evaluación de la Propensión a la Denegación de Reclamos
+Procesamiento de Facturas y Órdenes de Compra
+Reconciliación
+Clasificación de Documentos Médicos
+Detección de Fraude de Reclamos
+Clasificación ICD-106 UIPATH.COM | CASOS DE USO DE IA EN ATENCIÓN MÉDICA
+
+“…incluso si tienes los mejores datos posibles y tienes el mejor modelo de análisis predictivo…la pieza de automatización es crítica...Realmente no puedes mover la aguja en la entrega de mejores resultados a menos que tengas esas tres cosas juntas.”
+
+Jeff Hatfield, Vicepresidente de Ventas y Mercadotecnia en Amitech
+
+Más Casos de Uso
+
+El potencial de los casos de uso de IA en el sector de la atención médica es enorme, ya que incluye la detección de enfermedades y condiciones de salud de alto riesgo basadas en los resultados de pruebas médicas y datos históricos. Mientras que esto puede mejorar significativamente la experiencia del paciente y ahorrar tiempo a los profesionales de la salud, en este caso, es justo decir que la IA puede salvar vidas de verdad. Ayudar a encontrar la raíz del problema de salud en minutos en lugar de días o semanas significa que los pacientes pueden recibir tratamiento de manera más oportuna.
+
+Atención Médica MinoristaServicios FinancierosServicios Profesionales
+
+Coincidencia de currículums  
+Ayuda en línea  
+Respuestas
+
+Predicción de abandono de clientes  
+Predicción de quejas de clientes – Clasificación por correo electrónico  
+
+Calidad – Inspección visual en tiempo real  
+Evaluación del riesgo de embarazo en tiempo real  
+
+Gestión de cuentas por cobrar de pacientes  
+Predicción de denegación de reclamos  
+Predicción de reclamos médicos fraudulentos  
+
+Predicción de readmisión  
+Evaluación de la calidad del empaquetado  
+Gestión de inventario  
+
+Planificación de merchandising  
+Recomendación de productos  
+Optimización de precios  
+Detección de fraude  
+Aprobación de préstamos personales  
+Identificación de entidad KYC  
+Clasificación de alertas AML  
+
+Extracción de información de identificación  
+Clasificación de oportunidades RFP  
+Guía de tratos  
+Extracción de datos de gráficos  
+Detección de anomalías en auditoría  
+Predicción de tasa de ganancia/perdida  
+Predicción de tasa de ganancia/perdida en juicios
+
+No solo en atención médica, sino que la IA también puede ser aplicada por muchos otros sectores empresariales, como Servicios Financieros, Minorista, Servicios Profesionales, y otros. Visite la página web de UiPath AI para encontrar más casos de uso.7 UIPATH.COM | CASOS DE USO DE IA PARA LA ATENCIÓN MÉDICA
+Iniciante
+Modelos
+UiPath AI Fabric admite modelos de aprendizaje automático desarrollados por nuestros clientes y socios. También admite modelos fuera de la caja, incluyendo modelos propietarios y de código abierto, para que nuestros clientes puedan beneficiarse de la IA sin necesidad de experiencia en ciencia de datos profunda.
+Algunos modelos extraen texto y tablas (y los clasifican) de estados financieros y documentos hipotecarios. Algunos modelos leen y agrupan texto de entrada en diferentes clases, desde muy negativo hasta muy positivo, para procesar rápidamente revisiones de clientes o correos electrónicos. Otros modelos resumen el cuerpo del correo electrónico y utilizan lenguaje natural para formar oraciones coherentes.
+Para aprender más sobre estos modelos, visite la documentación de UiPath AI Fabric y la documentación de Comprensión de Documentos.
+UiPath  
+Comprensión de Documentos  
+Código Abierto  
+Análisis de Lenguaje  
+Código Abierto  
+Comprender  
+Otros
+Extracción de Facturas  
+Extracción de Recibos  
+Extracción Genérica Semi-Estructurada  
+Extracción de Órdenes de Compra  
+Extracción de Facturas de Servicios Públicos
+Traducción de Idiomas  
+Detección de Idioma  
+Análisis de Sentimiento  
+Reconocimiento de Entidades con Nombre  
+Preguntas y Respuestas  
+Clasificación de Texto  
+Resumen de Texto  
+Clasificación de Datos Tabulares  
+Moderación de Imágenes  
+Detección de Objetos  
+Segmentación de Imágenes  
+Similitud Semántica
+Automatice más al llevar la IA a RPA:  
+Póngase en contacto con VentasPruebe productos de IA de UiPath de forma gratuita:   
+Nube
+En Premisas

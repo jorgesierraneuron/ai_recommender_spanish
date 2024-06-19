@@ -1,0 +1,64 @@
+MENÚ
+Análisis de peligros climáticos con IA
+El calor extremo es el principal asesino relacionado con el clima en los Estados Unidos, afectando desproporcionadamente a individuos de bajos ingresos y personas de color. La Administración Nacional Oceánica y Atmosférica (NOAA) utiliza la IA para analizar islas de calor urbanas, donde una comunidad o barrio altamente desarrollado experimenta temperaturas mucho más cálidas que las áreas cercanas. Al estudiar islas de calor urbanas con IA, la NOAA puede trabajar para proteger al público de los extremos climáticos.
+
+Procesamiento de retroalimentación de veteranos con IA
+El Departamento de Asuntos de Veteranos busca retroalimentación de veteranos sobre su experiencia al interactuar con el VA para mejorar la experiencia de los veteranos. El VA está utilizando la IA para agrupar automáticamente comentarios de texto libre en áreas de tema para asegurarse de que se capturen las tendencias principales y facilitar el procesamiento y la gestión efectiva de los comentarios. Todos estos esfuerzos aseguran que el VA pueda servir mejor a las necesidades de los veteranos.
+
+Búsqueda de patentes con IA
+Para procesar solicitudes de patentes, la Oficina de Patentes y Marcas de los EE. UU. debe determinar cómo se comparan las solicitudes de patentes con el estado del arte previo. La USPTO está utilizando la IA para ayudar a los examinadores a encontrar documentos relevantes y áreas adicionales de arte previo para buscar y ayudarlos en la adjudicación de nuevas solicitudes de patentes.
+
+Explora los usos gubernamentales de la IA
+Un sitio web oficial del gobierno de los Estados Unidos
+Aquí es cómo lo sabes
+El gobierno está utilizando la IA para servir mejor al público
+Los Estados Unidos se beneficiarán significativamente al aprovechar las oportunidades de la IA para mejorar los servicios gubernamentales. El gobierno federal está aprovechando la IA para servir mejor al público en una amplia variedad de casos de uso, incluyendo la atención médica, el transporte, el medio ambiente y la entrega de beneficios. El gobierno federal también está estableciendo guardias fuertes para asegurarse de que su uso de la IA mantenga a las personas seguras y no viole sus derechos.
+
+Válido a partir del 1 de septiembre de 2023.
+
+Descarga el caso de uso completo de la IA
+Inventario
+Lee las instrucciones provisionales para informes de agencia en 2024
+Departamento de Agricultura
+Departamento de Comercio
+Departamento de Educación
+Departamento de Energía
+Departamento de Salud y Servicios Humanos
+Departamento de Seguridad Nacional
+Departamento de Vivienda y Desarrollo Urbano
+Departamento del Interior
+Departamento de Justicia
+Departamento de Trabajo
+Departamento de Estado
+Departamento de Transporte
+Departamento del Tesoro
+Departamento de Asuntos de Veteranos
+Banco de Exportación-Importación de los Estados Unidos (EXIM)
+Administración Nacional de Aeronáutica y del Espacio
+Administración Nacional de Archivos y Registros
+Instituto Nacional de Estándares y Tecnología
+Fundación Nacional de Ciencias
+Junta Nacional de Seguridad del Transporte
+Cuerpo de Paz
+Administración de Pequeñas Empresas
+Administración de la Seguridad Social
+Agencia de los Estados Unidos para el Desarrollo Internacional
+Agencia de Protección Ambiental de los Estados Unidos
+Administración de Servicios Generales de los Estados Unidos
+Oficina de Gestión de Personal de los Estados Unidos
+Haz que se escuche tu vozSolo funciona la IA cuando funciona para todos. Háganos saber cómo la IA puede funcionar mejor para usted.
+
+Aprenda
+Más
+La Administración Biden-Harris se compromete a asegurar que EE. UU. lidere en innovación de IA segura, segura y confiable para aprovechar las oportunidades de la IA mientras se mitiguan sus riesgos.
+
+Acciones de la Administración
+Uso gubernamental de la IA
+Investigación y Enseñanza de la IA
+Traiga sus habilidades de IA a EE. UU.
+Haga oír su voz
+Solicite ahora
+Inventario de casos de uso de IA federal
+Comité Asesor Nacional de IA
+WhiteHouse.gov
+Declaración de Accesibilidad

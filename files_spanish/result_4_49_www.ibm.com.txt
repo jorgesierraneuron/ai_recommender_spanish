@@ -1,0 +1,180 @@
+Uso de inteligencia artificial generativa en la empresa
+Recuerda cómo te sentiste cuando sostuviste un smartphone en tu mano por primera vez? El diseño compacto y la interactividad táctil parecían un salto hacia el futuro. Antes de que pasara mucho tiempo, los smartphones se convirtieron en una herramienta esencial para la productividad y la comunicación empresarial en todo el mundo debido a todas las posibilidades que ofrecen.
+
+La inteligencia artificial generativa (IA) promete un salto similar en la productividad y el surgimiento de nuevos modos de trabajo y creación. Herramientas como Midjourney y ChatGPT están ganando atención por sus capacidades para generar imágenes realistas, videos y texto sofisticado y similar al humano, extendiendo los límites del potencial creativo de la IA. La IA generativa representa un avance significativo en el aprendizaje profundo y el desarrollo de la IA, con algunos sugiriendo que es un paso hacia el desarrollo de una "IA fuerte". Esta evolución demuestra que los computadores han superado ser simples dispositivos de procesamiento de números. Ahora son capaces de procesar lenguaje natural (NLP), comprender el contexto y exhibir elementos de creatividad.
+
+Por ejemplo, las organizaciones pueden utilizar la IA generativa para:
+
+Rápidamente convertir montañas de texto no estructurado en resúmenes de documentos específicos y utilizables, allanando el camino para una toma de decisiones más informada.
+Automatizar tareas tediosas y repetitivas.
+Simplificar flujos de trabajo con creación de contenido personalizada, descripciones de productos y copias de mercado listas.
+Diseñar contenido, campañas publicitarias y productos innovadores que construyan experiencias de cliente mejores.
+
+Desmitificando la IA generativa
+
+En el corazón de la IA generativa se encuentran bases de datos masivas de textos, imágenes, código y otros tipos de datos. Estos datos se alimentan a modelos generativos, y hay varios para elegir, cada uno desarrollado para destacar en una tarea específica. Las redes adversariales generativas (GANs) o autoencoders variacionales (VAEs) se utilizan para imágenes, videos, modelos 3D y música. Los modelos autoregresivos o modelos de lenguaje grandes (LLMs) se utilizan para texto y lenguaje.
+
+Al igual que estudiantes diligentes, estos modelos generativos absorben información y identifican patrones, estructuras y relaciones entre puntos de datos, lo que les permite aprender la gramática de la poesía, los trazos artísticos y las melodías musicales.
+
+La IA generativa utiliza algoritmos y técnicas de aprendizaje automático avanzados para analizar patrones y construir modelos estadísticos. Imagina cada punto de datos como una esfera brillante colocada en un paisaje multidimensional vasto. El modelo cartografía meticulosamente estas esferas, calculando las alturas relativas, valles, pendientes suaves y acantilados escarpados para crear un mapa de probabilidad, una guía para predecir dónde debería aterrizar la próxima esfera (es decir, el contenido generado).
+
+Ahora, cuando el usuario proporciona un prompt –una palabra, un boceto, un fragmento musical o una línea de código–, el prompt actúa como un faro, atrae al modelo hacia una región específica en ese mapa de probabilidad; el modelo entonces navega por este paisaje, eligiendo probabilísticamente el próximo elemento, el próximo y el próximo, guiado por los patrones que aprendió y el impulso del prompt del usuario.
+
+Cada salida es única, pero estadísticamente vinculada a los datos que el modelo aprendió. No es solo copiar y pegar; es construir creativamente sobre una base de conocimientos impulsada por la probabilidad y el prompt guía. Aunque los modelos avanzados pueden manejar tipos de datos diversos, algunos destacan en tareas específicas, como la generación de texto, resumen de información o creación de imágenes.
+
+La calidad de las salidas depende en gran medida de los datos de entrenamiento, ajustar los parámetros del modelo y la ingeniería de prompts, por lo que la fuente de datos responsable y la mitigación de sesgos son cruciales. Imagina entrenar un modelo de IA generativa en un conjunto de datos de solo novelas románticas. El resultado sería...No será utilizable si un usuario solicita al modelo que escriba un artículo de noticias factual.
+
+Aprovechando el valor de la IA generativa
+
+La IA generativa es una herramienta potente, pero ¿cómo aprovechan las organizaciones este poder? Hay dos caminos que la mayoría de las empresas están siguiendo para aprovechar el valor de la IA generativa:
+
+Herramientas listas para lanzar:
+La opción "IA para todos": plataformas como ChatGPT y Synthesia.io vienen pre-entrenadas en grandes conjuntos de datos, lo que permite a los usuarios aprovechar sus capacidades generativas sin construir y entrenar modelos desde cero. Las organizaciones pueden afinar estos modelos con datos específicos, empujándolos hacia salidas personalizadas para necesidades empresariales específicas. Interfaces de usuario amigables y herramientas de integración las hacen accesibles incluso para personas no técnicas.
+
+Estas opciones públicas ofrecen un control limitado, menos personalización del comportamiento del modelo y salidas, y el potencial de sesgo heredado de los modelos pre-entrenados.
+
+Modelos entrenados a medida:
+La mayoría de las organizaciones no pueden producir ni apoyar la IA sin una sólida asociación. Los innovadores que desean una IA personalizada pueden elegir un "modelo de fundación" como GPT-3 de OpenAI o BERT y alimentarlo con sus datos. Este entrenamiento personalizado moldea el modelo en una IA generativa perfectamente alineada con los objetivos empresariales. El proceso requiere habilidades y recursos de alto nivel, pero los resultados son más probablemente compatibles, personalizados y específicos del negocio.
+
+La mejor opción para una organización empresarial depende de sus necesidades específicas, recursos y capacidades técnicas. Si la velocidad, la asequibilidad y la facilidad de uso son prioridades, las herramientas listas para lanzar podrían ser la mejor opción. Los modelos entrenados a medida podrían mejorar si la personalización, el control y la mitigación del sesgo son críticos.
+
+Adopte un enfoque dirigido por casos de uso para la IA generativa
+
+La clave del éxito radica en adoptar un enfoque dirigido por casos de uso, centrándose en los problemas de su empresa y cómo la IA generativa puede resolverlos.
+
+Consideraciones clave:
+
+Pila tecnológica: Asegúrese de que su infraestructura tecnológica existente pueda manejar las demandas de los modelos de IA y el procesamiento de datos.
+
+Compatibilidad de modelos: Elija un modelo de IA generativa adecuado para sus necesidades específicas.
+
+Equipo de trabajo: Asamble un equipo con expertos en IA, ciencia de datos y su industria. Este equipo interdisciplinario ayudará a asegurar que su IA generativa sea un éxito.
+
+Datos: Los datos de alta calidad y relevantes son el combustible que impulsa el éxito de la IA generativa. Invierta en la higiene y estrategias de recopilación de datos para mantener su motor en funcionamiento.
+
+Casos de uso de la IA generativa
+
+La emoción por esta nueva tecnología se ha extendido rápidamente por diversas industrias y departamentos. Muchos líderes de marketing y ventas han actuado rápidamente y ya están integrando la IA generativa en sus flujos de trabajo. La velocidad y escala de la capacidad de la IA generativa para crear nuevo contenido y activos útiles es difícil de pasar por alto para cualquier disciplina que dependa de producir grandes volúmenes de contenido escrito o diseñado. La atención médica, los seguros y la educación son más cautos debido a los esfuerzos legales y de cumplimiento que deben realizar —y la falta de visibilidad, transparencia y regulación en la IA generativa.Generación de código:
+Los desarrolladores de software y programadores utilizan la IA generativa para escribir código. Los desarrolladores experimentados se apoyan en la IA generativa para avanzar en tareas de codificación complejas de manera más eficiente. La IA generativa se utiliza para actualizar y mantener automáticamente el código en diferentes plataformas. También juega un papel significativo en la identificación y corrección de errores en el código y en la automatización de las pruebas de código, lo que ayuda a asegurar que el código funcione como se espera y cumpla con los estándares de calidad sin requerir pruebas manuales extensivas. La IA generativa también resulta muy útil para crear rápidamente diferentes tipos de documentación necesarios para los codificadores, como documentación técnica, manuales de usuario y otros materiales relevantes que acompañan el desarrollo de software.
+
+Desarrollo de productos:
+La IA generativa se utiliza cada vez más por diseñadores de productos para optimizar conceptos de diseño a gran escala. Esta tecnología permite una evaluación rápida y ajustes automáticos, lo que simplifica significativamente el proceso de diseño. Ayuda en la optimización estructural, lo que garantiza que los productos sean fuertes, duraderos y utilicen materiales mínimos, lo que conduce a reducciones significativas de costos. Para tener el mayor impacto, el diseño generativo debe integrarse en todo el ciclo de desarrollo del producto, desde el concepto inicial hasta la fabricación y la adquisición. Además, los gerentes de productos están empleando la IA generativa para sintetizar retroalimentación de los usuarios, lo que permite mejoras de productos directamente influenciadas por las necesidades y preferencias de los usuarios.
+
+Ventas y marketing:
+La IA generativa está ayudando a las campañas de marketing al permitir la comunicación hiperpersonalizada con clientes potenciales y existentes a través de various canales, incluyendo correo electrónico, redes sociales y SMS. Esta tecnología no solo simplifica la ejecución de campañas, sino que también mejora la capacidad de escalar la creación de contenido sin sacrificar la calidad. En el ámbito de las ventas, la IA generativa mejora el rendimiento del equipo al proporcionar análisis profundos y perspectivas sobre el comportamiento del cliente. Los departamentos de marketing están utilizando esta tecnología para analizar datos, comprender patrones de comportamiento del consumidor y crear contenido que se conecta con su audiencia, lo que a menudo implica sugerir historias o mejores prácticas que se alinean con los intereses de la audiencia. La IA generativa juega un papel crucial en la segmentación dinámica de audiencias y la identificación de leads de alta calidad, lo que mejora significativamente la efectividad de las estrategias de marketing y los esfuerzos de alcance. Además, los prompts y entradas bien desarrollados dirigen modelos generativos para producir contenido creativo para correos electrónicos, blogs, publicaciones en redes sociales y sitios web. El contenido existente puede ser reimaginado y editado utilizando herramientas de IA. Las organizaciones también pueden crear generadores de lenguaje de IA personalizados entrenados en el tono y la voz de su marca para que coincidan con el contenido de la marca anterior.
+
+Gestión de proyectos y operaciones:
+Las herramientas de IA generativa pueden apoyar a los gerentes de proyectos con automatización en sus plataformas. Los beneficios incluyen la generación automática de tareas y subtareas, la utilización de datos históricos de proyectos para predecir cronogramas y requisitos, la toma de notas y la predicción de riesgos. La IA generativa permite a los gerentes de proyectos buscar y crear resúmenes instantáneos de documentos empresariales esenciales. Este caso de uso ahorra tiempo y permite a los usuarios enfocarse en estrategias de alto nivel en lugar de la gestión diaria de la empresa.
+
+Diseño gráfico y video:
+Con su capacidad para crear imágenes realistas y simplificar la animación, la IA generativa será la herramienta de elección para crear videos sin necesidad de actores, equipo de video o experiencia en edición. Los generadores de video de IA pueden crear videos instantáneamente en cualquier idioma que necesiten para servir a cada región. Aunque tomará un tiempo antes de que los videos creados con IA generativa puedan reemplazar efectivamente a los actores y directores humanos, las organizaciones ya están experimentando con la tecnología. Los usuarios también utilizan generadores de imágenes para editar fotos personales y crear retratos de negocios profesionales para uso en Slack o LinkedIn.generadores	de	imágenes	para	editar	fotografías	personales	y	crear	retratos.profesionales	de	negocios	para	usar	en	Slack	o
+LinkedIn.
+
+Gestión empresarial y de empleados
+:	En	el	servicio	al	cliente,	el	IA	generativa	se	puede	utilizar	en	todo	el	centro	de	llamadas.	Puede	hacer_que	la	documentación	necesaria	sea	fácil	de	acceder	y	buscar,	poniendo	la	información	de	resolución	de_casos	al	alcance	de	los	agentes	de_soporte.
+Las	herramientas	powered	by	IA	generativa	pueden	mejarar	significativamente	las	interacciones	entre	empleado	y	gestor.	Pueden	structurar	revisión_de_desempeño,	ofreciendo	a	gestores	y	empleado_un	marco_de_trabajo	más-transparente	para	la	retroalimentación	y	el_crecimiento.	Además,	los	portales	de_conversación	IA	generativa	pueden	proporcionar	a	los	empleado_retroalimentación	y	identificar	áreas_de_mejora	sin_involucrar_a_la_gestión.
+
+Soporte	al	cliente	y	servicio	al	cliente
+:	Mientras_que	los	chatbots	siguen	siendo	ampliamente	utilizados,	las	organizaciones	han	empezado	a	combinar
+tecnologías	para	cambiar	cómo	trabajan	los	chatbots.	Los	avances	de	IA	generativa	ayudan	a	crear	chatbots	más_innovadores	que	pueden	participar	en	conversaciones	naturalmente	fluídas,	permitiéndoles	entender	el_contexto	y_la_matiz	similar	a	cómo_un	representante	humano.	Los	chatbots	powered	by	IA	generativa	pueden	acceder	y_procesar	cantidades	masivas	de_información	para_responder	a	preguntas	de_clientes	y_agentes_con_precisión;	a	diferencia	de_los_agentes_humanos,	los	chatbots	de_IA	pueden_manipular_consultas_de_clientes	las	24	horas	del	día	para	proporcionar_una	experiencia_de_usuario_sin_interrupciones,	de_noche_o_de_día.	El	cambio_de_tradicionales	chatbots	a	compañeros_de_IA	generativa	está	todavía	en	sus	etapas_iniciales,	pero	el_potencial	es_indudable.	A_medida_que_la_tecnología_evuelve,	podemos_esperar	interacciones_de_IA_aún	más_sofisticadas	y_emocionantes,	difuminando	las_líneas_entre_la_asistencia_virtual	y_la_asistencia_humana.
+
+Detección_de_fraude_y_gestión_de_riesgos
+:	El	IA	generativa	puede_rápidamente_examinar_y_resumir	cantidades_masivas_de_datos	para_identificar	patrones	o	anomalías.	Los	subscriptores	y	ajustadores_de_reclamos	pueden_utilizar	herramientas_de_IA	generativa_para_examinar	pólizas	y_reclamos_para_optimizarResultados del cliente. La IA generativa puede generar informes y resúmenes personalizados adaptados a necesidades específicas y proporcionar información relevante directamente a underwriters, ajustadores y gerentes de riesgos, ahorrando tiempo y simplificando la toma de decisiones. Sin embargo, el juicio humano y la supervisión siguen siendo necesarios para tomar decisiones finales y asegurar resultados justos.
+
+Generación de datos sintéticos para capacitación y prueba
+Las empresas pueden aprovechar la IA para generar datos sintéticos para capacitar modelos de IA, probar nuevos productos y simular escenarios del mundo real. Esto puede reducir la dependencia de los datos reales, que pueden ser sensibles y deben permanecer privados o provenir de una fuente de datos externa costosa. Ya no limitados por las limitaciones de recopilar y preparar datos del mundo real, los ciclos de desarrollo pueden acelerarse. Con conjuntos de datos sintéticos disponibles, las empresas pueden iterar rápidamente en modelos de IA, probar nuevas características y llevar soluciones al mercado más rápido.
+
+Aquí hay puntos clave para la implementación ética de los casos de uso de IA generativa en su organización:
+
+Proteger datos sensibles: Utilice solo datos despersonalizados y no sensibles para evitar exponer información vulnerable y cumplir con las regulaciones.
+Mantenerse informado: Siga las noticias de la industria para identificar herramientas confiables y evitar prácticas de IA no éticas.
+Desarrollar una política de IA: Cree directrices para el uso interno de IA y las inversiones en herramientas de terceros, basándose en plantillas disponibles.
+Invertir en capacitación: La inversión en programas de reskilling y upskilling es crucial, permitiendo a los trabajadores desarrollar habilidades resistentes a la automatización.
+
+Las mejores prácticas están evolucionando rápidamente. Mientras que el potencial de la IA generativa es emocionante para muchas organizaciones, navegar este paisaje requiere un equilibrio entre progreso y prudencia.
+
+Futuro de la IA generativa
+Según McKinsey, la IA generativa no es probable que supere a los humanos en esta década. Sin embargo, podemos ver un salto significativo en las capacidades de la IA generativa para 2040. McKinsey espera que la IA alcance un nivel en el que pueda competir con el 25% superior de los performers humanos en una amplia gama de tareas. Es decir, la IA escribirá contenido creativo de alta calidad, resolverá problemas científicos complejos o tomará decisiones empresariales perspicaces al mismo nivel que los profesionales capacitados. Los trabajos que históricamente han sido a prueba de automatización se verán afectados aún más por la IA generativa. Los profesionales en educación, derecho, tecnología y las artes probablemente verán la IA generativa afectar su profesión pronto.
+
+Panelistas en un simposio de MIT sobre herramientas de IA exploraron various avenidas de investigación futura en IA generativa. Un área de interés significativo es la integración de sistemas perceptuales en la IA. Este enfoque permitiría que la IA imite los sentidos humanos como el tacto y el olfato, yendo más allá del enfoque convencional en el lenguaje y la imagen. También se discutió el potencial de los modelos de IA generativa para superar las capacidades humanas, particularmente en el contexto del reconocimiento emocional. Estos modelos avanzados podrían utilizar señales electromagnéticas para interpretar cambios en la respiración y el ritmo cardíaco de una persona, ofreciendo una comprensión más profunda de su estado emocional.
+
+Los expertos anticipan que el sesgo permanecerá como un aspecto persistente de la mayoría de los modelos de IA generativa. Este desafío dará lugar a nuevos mercados centrados en conjuntos de datos éticos. Además, un escenario dinámico se desarrollará, caracterizado por la competencia continua entre empresas y creadores de contenido que utilizan herramientas generativas.
+
+A medida que estas herramientas se vuelvan más comunes en el lugar de trabajo, inevitablemente traerán cambios en los roles laborales y requerirán nuevas habilidades. Junto con estos desarrollos, inevitablemente surgirán abusos de las capacidades generativas. A medida que los usuarios ganen el poder de crear diversas formas de contenido, incluyendo imágenes, audio, texto y video, es probable que aumente la posibilidad de uso malintencionado. Este escenario destaca la importancia de desarrollar mecanismos robustos para mitigar estos riesgos y asegurar el uso responsable de las tecnologías de IA generativa.Escenario	subraya	la	importancia	de	desarrollar	mecanismos	robustos	para	mitigar	tales	riesgos	y	garantizar	el	usо	responsable	de
+tecnologías	de	IA	generativas.
+
+La	IA	generativa	continuará	transformando	operaciones	empresariales	en	varias	industrias,	al igual	que	el	smartphone	transformó
+la	comunicación	comercial	y	la	productividad. Desde	automatizar	tareas	mundanas	hasta	fomentar	la	creatividad	en	la	creación	de	contenidos	y	más	allá,
+el	potencial	de	la	IA	generativa	es	vasto	y	variado.
+
+Sin	embargo,	navegar	consideraciones	éticas,	maximizar	la	seguridad	de	datos	y	adaptarse	a	las	prácticas	óptimas	evolutivas	son	paramount.
+Para	las	empresas	listas	para	explorar	el	espectro	completo	de	posibilidades	que	ofrece	la	IA	generativa,	la	guía	y	las	insights	están	a	sólo	un	click	de	distancia.
+Aprende	más	sobre	cómo	aprovechar	el	poder	de	la	IA	generativa	para	tu	negocio	explorando
+IBM	watsonx,
+la	plataforma	de	IA	y	datos	diseñada
+para	los	negocios.Explora IBM watsonx hoy
+
+···
+
+Notas al pie:
+1
+https://www.mckinsey.com/featured-insights/mckinsey-explainers/whats-the-future-of-generative-ai-an-early-view-in-15-charts
+2
+https://news.mit.edu/2023/what-does-future-hold-generative-ai-1129
+¿Te fue útil este artículo?
+Sí
+No
+Etiquetas
+inteligencia artificial
+|	
+IA generativa
+|	
+watsonx
+Tim Mucci
+Escritor del personal de IBM
+Tendencias
+INTELIGENCIA ARTIFICIAL 
+| 
+6 de mayo de 2024
+Redefiniendo ensayos clínicos: Adoptar IA para velocidad, volumen y diversidad
+8 minutos de lectura
+ - 
+Al utilizar IA en su proceso de adquisición de talentos, puede reducir el tiempo de contratación, mejorar la calidad de los candidatos y aumentar la inclusión y la diversidad.
+INTELIGENCIA ARTIFICIAL 
+| 
+7 de mayo de 2024
+Revolutiona tu estrategia de adquisición de talentos: Cómo la IA puede ayudarte a encontrar a los candidatos adecuados más rápido
+2 minutos de lectura
+ - 
+Nuestra solución de inteligencia artificial líder está diseñada para ayudarte a encontrar a los candidatos adecuados más rápido y de manera más eficiente.
+SEGURIDAD 
+| 
+6 de mayo de 2024
+La mejor apuesta de las empresas para el futuro: Seguridad de la IA generativa		
+4 minutos de lectura
+ - 
+Mientras la IA transforma y redefine cómo operan las empresas y cómo interactúan con ellas, la confianza en la tecnología debe construirse.MÁS DE INTELIGENCIA ARTIFICIAL
+| 
+17 de mayo de 2024
+Una nueva era en BI: Superar la baja adopción para hacer que las decisiones inteligentes sean accesibles para todos
+5 minutos de lectura
+ - 
+Las organizaciones de hoy en día se encuentran tanto empoderadas como abrumadas por los datos. Esta paradoja se encuentra en el corazón de la estrategia empresarial moderna: aunque hay una cantidad sin precedentes de datos disponibles, desbloquear insights acciónables requiere más que acceso a números. El impulso para mejorar la productividad, utilizar los recursos con sabiduría y impulsar la sostenibilidad a través de la toma de decisiones basada en datos es más fuerte que nunca. Sin embargo, las tasas de adopción bajas de herramientas de inteligencia empresarial (BI) presentan un obstáculo significativo. Según Gartner, aunque el número de empleados que utilizan…
+análisis y…
+| 
+15 de mayo de 2024
+El poder de la ejecución remota de motores para tuberías de datos ETL/ELT
+5 minutos de lectura
+ - 
+Los líderes empresariales arriesgan comprometer su ventaja competitiva si no implementan proactivamente la inteligencia artificial generativa (IA genérica). Sin embargo, las empresas que escalan la IA enfrentan barreras de entrada. Las organizaciones requieren datos confiables para modelos de IA robustos y insights precisos, pero el paisaje tecnológico actual presenta desafíos sin precedentes en cuanto a la calidad de los datos. Según la Corporación Internacional de Datos (IDC), los datos almacenados aumentarán un 250% para 2025, con datos que se propagan rápidamente en entornos locales y en la nube, aplicaciones y ubicaciones con calidad comprometida. Esta situación…
+exacerbará los silos de datos, aumentará los costos…
+| 
+14 de mayo de 2024
+Dónde comenzar: 3 líderes de IBM ofrecen orientación a nuevos oficiales jefes de IA
+4 minutos de lectura
+ - 
+El número de oficiales jefes de inteligencia artificial (CAIOs) ha aumentado casi tres veces en los últimos 5 años, según LinkedIn. Las empresas en various industrias están dándose cuenta de la necesidad de integrar la inteligencia artificial (IA) en sus estrategias centrales desde la cima para evitar quedar atrás. Estos líderes de IA son responsables de desarrollar un plan para la adopción y supervisión de la IA tanto en empresas como en el gobierno federal. Después de una reciente orden ejecutiva de la administración de Biden y un aumento meteórico en la adopción de la IA en…
+Boletines de noticias de IBM
+Obtenga nuestros boletines y actualizaciones de temas que entregan el liderazgo de pensamiento y insights sobre tendencias emergentes.
+Suscríbase ahora
+Más boletines de noticias

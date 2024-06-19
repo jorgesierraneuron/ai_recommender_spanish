@@ -1,0 +1,44 @@
+Patrocinado por  
+ 
+ 
+   
+ 
+DOCUMENTO BLANCO  
+Los tres principales casos de uso para el proceso de IA  
+Cómo la inteligencia artificial y el aprendizaje automático en tiempo real pueden mejorar el rendimiento de la planta y habilitar operaciones cada vez más autónomas  
+ 
+ 
+Aunque la producción de datos en las industrias de proceso ha explotado en los últimos años, nuestra capacidad para entenderlo ha quedado rezagada. Y mientras que las herramientas y la tecnología para analizar datos de series temporales, como los producidos en entornos de fabricación de proceso, se han vuelto más poderosas y fáciles de usar, su aplicación a menudo se ha centrado en una búsqueda manual de significado en conjuntos de datos históricos fuera de línea, no en la información que fluye en tiempo real desde la instrumentación del proceso.  
+Entonces, entra en escena la inteligencia artificial (IA) y el aprendizaje automático (ML). Cuando se combinan con análisis de datos automatizados en tiempo real, las metodologías de IA/ML pueden identificar variaciones desde condiciones de proceso normales mucho antes que los operadores humanos, lo que permite la inteligencia de máquina cerrada y operaciones cada vez más autónomas.  
+Los algoritmos de IA son particularmente hábiles para detectar el rendimiento deteriorado del equipo que puede presagiar tiempos de inactividad no programados, así como condiciones de funcionamiento subóptimas que erosionan la eficiencia general y afectan adversamente la calidad del producto o la producción.  
+Caso de uso #1: Predecir fallas de equipo más temprano  
+Con equipos rotativos como compresores y bombas, la abrasión y deterioro de partes pueden ocurrir más rápido de lo que se detecta a través de controles de mantenimiento periódicos. Predecir este tipo de problemas y tomar medidas efectivas temprano puede prevenir costosas paradas no programadas y trabajos de reparación reactivos.  
+Mientras que la detección directa de problemas de equipo rotativo se puede hacer utilizando datos de vibración y consumo de potencia, la simple observación de estas variables es insuficiente para la predicción temprana de problemas futuros. El aprendizaje automático se puede utilizar para desarrollar un modelo que amplifica efectivamente los cambios tempranos entre varias variables de proceso durante operaciones anómalas, lo que permite detectar fallas inminentes mucho antes.Patrocinado por
+
+
+ Caso de uso #2: Encontrar fuentes de degradación del rendimiento  
+La degradación del rendimiento debido a la incrustación de intercambiadores de calor, corrosión de tuberías y tanques, obstrucción de equipo debido a la polimerización y otros problemas a menudo se pueden detectar temprano mediante análisis de causa raíz.  
+Esto se hace típicamente analizando las diferencias entre períodos de operación normal y períodos en que se produjo una degradación del rendimiento, denominados condiciones anormales. Para identificar la causa raíz, se formula una hipótesis y luego se verifica utilizando datos del proceso. Cuando se pueden recopilar cantidades suficientes de datos de condiciones anormales, los algoritmos de aprendizaje automático pueden mostrar qué variable del proceso contribuyó más a la anormalidad.  
+Un problema con este enfoque es que los datos de condiciones anormales pueden ser limitados, en gran medida porque las plantas tratan de evitar operar en condiciones adversas. En este caso, los estados operativos se pueden dividir en varios grupos utilizando una técnica llamada clustering, con el grupo que incluye el estado de operación anormal examinado en detalle. Con base en las características de este grupo, se puede derivar la condición en la que la posibilidad de anormalidad es alta.  
+Otra técnica de aprendizaje automático que se puede utilizar para determinar qué cluster es anormal es enseñando al modelo las características asociadas con datos normales, y luego aplicando esas enseñanzas al conjunto de datos clusters bajo evaluación. Cuando se determina que un cluster es anormal, se pueden identificar y clasificar las variables del proceso con la contribución más alta.  
+Por ejemplo, cuando se produce corrosión y obstrucción en tuberías asociadas con una columna de destilación, el rendimiento de separación disminuye y la producción se ve obstaculizada. Aunque es posible detectar la situación en la que ocurre la anormalidad observando un aumento de la presión diferencial o cambios en muchas otras variables del proceso, el método descrito anteriormente se puede utilizar para clasificar la contribución de cada variable al problema, produciendo resultados más accionables.  
+Caso de uso #3: Modelar parámetros de calidad del producto  
+La calidad del producto puede variar debido a las diferencias en materiales brutos y condiciones ambientales cambiantes. Sin embargo, estas métricas a menudo no están disponibles en tiempo real porque se deben extraer muestras y analizarlas en un laboratorio.  
+Para superar este retraso —y evitar producir grandes cantidades de productos fuera de especificaciones en el ínterin—, utilice un modelo de IA para predecir la calidad del producto en tiempo real basado en datos del proceso. Estas técnicas predicen problemas de calidad del producto antes de que ocurran aplicandoPatrocinado por
+
+Un modelo de regresión lineal o un modelo de aprendizaje automático no lineal para procesar entradas en tiempo real.
+
+A veces, sin embargo, surgen problemas porque el modelo de predicción se creó a partir de datos pasados. Si el estado del proceso ha cambiado, por ejemplo, debido a la degradación del catalizador o variaciones en las materias primas, la predicción de la calidad del producto también se desviará. Sin embargo, si este desvío es reproducible, se puede corregir con un modelo justo a tiempo (JIT) para mejorar la precisión de la predicción.
+
+Superar las limitaciones del conjunto de datos
+
+Si el número de conjuntos de datos disponibles para entrenar un algoritmo de IA/ML es pequeño, los beneficios esperados a menudo no se obtienen. Este problema se puede abordar utilizando un simulador de proceso preciso para generar los datos necesarios para el aprendizaje. Con estas simulaciones, se pueden generar miles o decenas de miles de casos con diferentes combinaciones de condiciones de entrada, y el modelo aprende de esos datos generados.
+
+Después de este paso, el modelo de aprendizaje automático puede realizar rápidamente tareas como predicción, generación de estudios de caso y optimización. Además, cuando el modelo de ML detecta una anomalía en el proceso, es posible utilizar la simulación del proceso para encontrar contramedidas efectivas.
+
+En la actualidad, se requiere a menudo una intervención humana extensa para desarrollar aplicaciones de IA/ML avanzadas, a menudo denominadas IA impulsada por humanos. Pero en el futuro, la IA impulsada por datos será capaz de examinar datos y descubrir y resolver problemas de manera más autónoma.
+
+Finalmente, la IA impulsada por conocimientos creará conocimientos al examinar una unidad o proceso, y luego aplicará esos conocimientos en otras situaciones.
+
+Este documento técnico fue posible gracias a
+Yokogawa Electric Corp. Para obtener más información sobre cómo Yokogawa puede ayudar a mejorar el rendimiento de su planta con inteligencia artificial aplicada, visite https://www.yokogawa.com/special/artificial-intelligence/.

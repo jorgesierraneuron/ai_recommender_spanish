@@ -1,0 +1,303 @@
+IA y Aprendizaje Automático
+101	
+casos de uso del mundo real de IA
+desde las organizaciones líderes del mundo
+
+12 de abril de 2024
+
+
+Brian Hall
+Vicepresidente, Mercadotecnia de Producto, Google Cloud
+En Google Cloud Next '24, las principales empresas, gobiernos, investigadores y startups mostraron cómo ya están utilizando las soluciones de IA de Google para mejorar su trabajo.
+NubeDesde que la inteligencia artificial generativa captó la atención del mundo hace un año y medio, ha habido un debate vigoroso sobre qué es exactamente lo mejor para utilizar esta nueva tecnología. Mientras disfrutábamos de aquellos primeros chats divertidos y limericks ingeniosos, hemos descubierto rápidamente que muchas de las oportunidades más grandes de IA están claramente en la empresa.
+
+Nuestros clientes y socios en Google Cloud han encontrado un gran potencial para crear nuevos procesos, eficiencias e innovaciones con IA generativa. Para comprobarlo, no hay más que mirar a los más de 300 organizaciones que se presentan en el evento Next de esta semana en Las Vegas.
+
+En cuestión de meses, organizaciones como estas han pasado de que la IA ayudara a responder preguntas, a que la IA hiciera predicciones, hasta agentes de IA generativa. Lo que hace que los agentes de IA sean únicos es que pueden tomar acciones para lograr objetivos específicos, ya sea guiar a un comprador hacia el par de zapatos perfecto, ayudar a un empleado a encontrar los beneficios de salud adecuados, o apoyar al personal de enfermería con cambios de turno más suaves durante los cambios de turno.
+
+En nuestro trabajo con clientes, seguimos escuchando que sus equipos se centran cada vez más en mejorar la productividad, automatizar procesos y modernizar la experiencia del cliente. Estos objetivos se están logrando a través de los agentes de IA que están desarrollando en seis áreas clave: servicio al cliente; empoderamiento del empleado; ideación y producción creativa; análisis de datos; creación de código; y ciberseguridad.
+
+Estas capacidades especiales son posibles en gran parte gracias a la nueva capacidad multimodal de la IA generativa y los modelos de fundación de IA, que permiten a los agentes manejar tareas en una variedad de modos de comunicación, incluyendo texto, voz, video, audio, código y más. Con apoyo humano, los agentes pueden conversar, razonar, aprender y tomar decisiones.
+
+Los cientos de clientes que se unieron a nosotros en Next '24 para mostrar y discutir versiones tempranas de sus agentes de IA y soluciones de gen-IA han llegado a confiar en las tecnologías de Google Cloud, que incluyen nuestra IA.infraestructura, modelos Gemini, plataforma Vertex AI, Google Workspace y Google Distributed Cloud. También se unieron a nosotros más de 100 socios que apoyan la creación de agentes de IA y soluciones de IA, que puedes leer en detalle.
+
+Aquí tienes una instantánea de cómo 101 de estos líderes industriales están poniendo la IA en producción hoy en día, creando casos de uso del mundo real que transformarán mañana.
+
+Al igual que los grandes vendedores y personas de servicio, los agentes de clientes pueden escuchar atentamente, entender tus necesidades y recomendar los productos y servicios adecuados. Trabajan de manera fluida en canales que incluyen la web, móvil y punto de venta, y pueden integrarse en experiencias de productos con voz y video.
+
+1. ADT está construyendo un agente de cliente para ayudar a sus millones de clientes a seleccionar, ordenar y configurar su seguridad en el hogar.
+
+2. Alaska Airlines está desarrollando una experiencia de búsqueda de viajes personalizada utilizando técnicas de IA avanzadas, creando recomendaciones hiperpersonalizadas que atraen a los clientes desde el principio y fomentan la lealtad a través de contenido generado por IA.
+
+3. Best Buy está utilizando Gemini para lanzar un asistente virtual impulsado por IA generativa este verano que puede solucionar problemas de productos, reprogramar entregas de pedidos, administrar suscripciones de Geek Squad y más; los asociados de servicio al cliente en tienda y digitales también están obteniendo herramientas de IA para servir mejor a los clientes en cualquier lugar donde necesiten ayuda.
+
+4. La Autoridad de Movilidad Regional del Centro de Texas está utilizando Vertex AI para modernizar las operaciones de transporte para un viaje más suave y eficiente.
+
+5. Etsy utiliza el entrenamiento de Vertex AI para optimizar sus modelos de recomendaciones de búsqueda y anuncios, entregando sugerencias de listados mejores a los compradores y ayudando a los vendedores a crecer sus negocios.
+
+6. Los Golden State Warriors están utilizando la IA para mejorar el contenido de experiencia del fan en su aplicación de Chase Center.
+
+7. IHG Hotels & Resorts está construyendo un chatbot impulsado por IA generativa para ayudar a los huéspedes a planificar fácilmente su próxima vacación directamente en la aplicación móvil de IHG One Rewards.
+
+8. ING Bank tiene como objetivo ofrecer una experiencia del cliente superior y ha desarrollado un chatbot de IA para trabajadores para mejorar las capacidades de autoservicio y mejorar la calidad de las respuestas a las consultas de los clientes.9.
+Magalu, uno de los minoristas más grandes de Brasil, ha puesto el servicio al cliente en el centro de su estrategia de IA, incluyendo el uso de Vertex AI para crear "Cerebro de Lu" para alimentar un agente conversacional interactivo para Lu, la popular persona de marca de Magalu (el bot 3D tiene más de 14 millones de seguidores entre TikTok e Instagram).
+
+10.
+Mercedes Benz infundirá capacidades de comercio electrónico en su tienda en línea con un asistente de ventas inteligente impulsado por IA. Mercedes también planea expandir su uso de Google Cloud AI en sus centros de llamadas y está utilizando Vertex AI y Gemini para personalizar campañas de marketing.
+
+11.
+Oppo/OnePlus está incorporando modelos de Gemini y Google Cloud AI en sus teléfonos para ofrecer experiencias de cliente innovadoras, incluyendo resúmenes de noticias y grabaciones de audio, caja de herramientas de IA y más.
+
+12.
+Samsung está desplegando Gemini Pro e Imagen 2 en sus teléfonos inteligentes Galaxy S24 para que los usuarios puedan aprovechar características increíbles como la suma de texto, organización y edición de imágenes mágicas.
+
+13.
+La División de Servicios de Conductor y Vehículo del Estado de Minnesota ayuda a los hablantes no ingleses a obtener licencias y otros servicios con traducción en tiempo real bidireccional.
+
+14.
+La Universidad de Pepperdine tiene estudiantes y facultad que hablan muchos idiomas, y con Gemini en Google Meet, pueden beneficiarse de subtítulos y notas traducidos en tiempo real.
+
+15.
+Sutherland, una empresa de transformación digital líder, se centra en combinar la experiencia humana y la IA, incluyendo el aumento de sus equipos de cara al cliente mediante la superficie de respuestas sugeridas y la automatización de insights en tiempo real.
+
+16.
+Target utiliza Google Cloud para alimentar soluciones de IA en la aplicación de Target y Target.com, incluyendo ofertas personalizadas de Target Circle y Starbucks en Drive Up, su solución de recogida en la acera.
+
+17.
+Tokopedia, un líder del comercio electrónico indonesio, está utilizando Vertex AI para mejorar la calidad de los datos, lo que ha aumentado un 5% los productos únicos vendidos.
+
+18.
+US News vio un impacto de dos dígitos en métricas clave como la tasa de clics, el tiempo pasado en la página y el tráfico en sus páginas después de implementar Vertex AI Search.
+
+19.
+IntesaSanpaolo, Macquarie Bank y Scotiabank están explorando el potencial de la IA para transformar la forma en que vivimos, trabajamos, bancamos e invertimos, particularmente en cómo la nueva tecnología puede impulsar la productividad y la eficiencia operativa en el sector bancario. Vea la sesión para aprender más.
+
+Los agentes de empleados ayudan a los trabajadores a ser más productivos y colaborar mejor juntos. Estos agentes puedenOptimizar procesos, administrar tareas repetitivas, responder preguntas de empleados, así como editar y traducir comunicaciones críticas.
+
+1.
+Avery Dennison dio poder a sus empleados con IA generativa para habilitar colaboración segura, flexible y sin fronteras para mejorar la productividad y impulsar el crecimiento.
+
+2.
+Bank of New York Mellon creó un asistente virtual para ayudar a los empleados a encontrar información relevante y respuestas a sus preguntas.
+
+3.
+Bayer está construyendo una plataforma de radiología que asistirá a los radiólogos con análisis de datos, búsqueda inteligente y creación de documentos que cumplan con los requisitos de aprobación regulatoria en el sector de la atención médica. La empresa de biosciencias también está aprovechando BigQuery y Vertex AI para desarrollar soluciones médicas digitales y medicamentos más eficientemente.
+
+4.
+Bristol Myers Squibb está transformando sus procesos de documentos para ensayos clínicos utilizando Vertex AI y Google Workspace. Ahora, la documentación que tomaba semanas a los científicos les lleva minutos llegar a un borrador inicial.
+
+5.
+BenchSci desarrolla soluciones de IA generativa que permiten a los científicos entender conexiones complejas en la investigación biológica, ahorrándoles tiempo y recursos financieros y llevando nuevos medicamentos a los pacientes más rápido.
+
+6.
+Cintas está utilizando Vertex AI Search para desarrollar un centro de conocimientos interno para que los equipos de servicio al cliente y ventas encuentren información clave con facilidad.
+
+7.
+Covered California, el mercado de atención médica del estado, está utilizando Document AI para mejorar la experiencia del consumidor y del empleado al automatizar partes del proceso de documentación y verificación cuando los residentes solicitan cobertura.
+
+8.
+Dasa, la mayor empresa de diagnósticos médicos de Brasil, está ayudando a los médicos a detectar hallazgos relevantes en los resultados de las pruebas más rápido.
+
+9.
+DaVita aprovecha DocAI y Healthcare NLP para transformar la atención médica renal, incluyendo el análisis de registros médicos, la detección de insights críticos de pacientes y la reducción de errores. La IA permite a los médicos enfocarse en la atención personalizada, lo que resulta en mejoras significativas en la entrega de atención médica.
+
+10.
+Discover Financial ayuda a sus 10,000 representantes del centro de contacto a buscar y sintetizar información a través de políticas y procedimientos detallados durante las llamadas.
+
+11.
+HCA Healthcare está probando a Cati, un asistente virtual de atención médica que ayuda a asegurar la continuidad de la atención cuando un turno de atención médica termina y otro comienza. También están utilizando IA generativa para mejorar flujos de trabajo en tareas consumidoras de tiempo, como la documentación clínica, para que los médicos y enfermeras puedan enfocarse más en la atención al paciente.
+
+12.
+The Home Depot ha construido una aplicación llamada Sidekick, que ayuda a los asociados de la tienda a administrar el inventario y mantener los estantes surtidos; notablemente, los modelos de visión ayudan a los asociados a priorizar qué acciones tomar.
+
+13.
+Los Angeles Rams están utilizando IA en todo, desde análisis de contenido hasta scouting de jugadores.
+
+14.
+McDonald's aprovechará datos, IA y tecnologías de edge en miles de restaurantes para implementar innovaciones más rápido y mejorar las experiencias de empleados y clientes.
+
+15.
+Pennymac, un prestamista hipotecario nacional líder en EE. UU., está utilizando Gemini en varios equipos, incluyendo Recursos Humanos, donde Gemini en Docs, Sheets, Slides y Gmail está ayudando a acelerar el reclutamiento, la contratación y la incorporación de nuevos empleados.16. 
+Robert Bosch, el mayor proveedor automotriz del mundo, revoluciona el marketing a través de soluciones impulsadas por IA, simplificando procesos, optimizando la asignación de recursos y maximizando la eficiencia en más de 100 departamentos descentralizados.
+
+17. 
+Symphony, la plataforma de comunicaciones para la industria de servicios financieros, utiliza Vertex AI para ayudar a los equipos de finanzas y comercio a colaborar en múltiples clases de activos.
+
+18. 
+Uber está utilizando agentes de IA para ayudar a los empleados a ser más productivos, ahorrar tiempo y ser aún más efectivos en el trabajo. Para los representantes de servicio al cliente, han lanzado nuevas herramientas que resumen las comunicaciones con los usuarios y pueden incluso superficiar contexto de interacciones previas, para que el personal de primera línea pueda ser más útil y efectivo.
+
+19. 
+El Departamento de Asuntos de Veteranos de EE. UU. está utilizando IA en el borde para mejorar la detección de cáncer para miembros del servicio y veteranos. El Microscopio de Realidad Aumentada (ARM) se despliega en instalaciones de tratamiento militares remotas en todo el mundo. El dispositivo prototipo está ayudando a los patólogos a encontrar el cáncer más rápido y con mayor precisión.
+
+20. 
+La Oficina de Patentes y Marcas Registradas de EE. UU. ha mejorado la calidad y eficiencia de su proceso de examen de patentes y marcas registradas mediante la implementación de tecnologías impulsadas por IA.
+
+21. 
+Verizon está utilizando IA generativa para ayudar a los equipos de operaciones de red y experiencia del cliente a obtener las respuestas que necesitan más rápido.
+
+22. 
+Victoria's Secret está probando agentes de IA para ayudar a sus asociados en tienda a encontrar información sobre disponibilidad de productos, inventario y consejos de ajuste y talla, para que puedan hacer recomendaciones más personalizadas a los clientes.
+
+23. 
+Vodafone utiliza Vertex AI para buscar y entender términos y condiciones comerciales específicos en más de 10,000 contratos con más de 800 operadores de comunicaciones.
+
+24. 
+WellSky está integrando las capacidades de atención médica de Google Cloud y Vertex AI para reducir el tiempo pasado completando documentación fuera del horario laboral.
+
+25. 
+Woolworths, el minorista líder en Australia, aumenta la confianza de los empleados en las comunicaciones con "Ayúdame a escribir" en productos de Google Workspace para más de 10,000 empleados administrativos. También está utilizando Gemini para crear promociones de próxima generación, así como para ayudar rápidamente a los representantes de servicio al cliente a resumir todas las interacciones del cliente en tiempo real.
+
+26. 
+Box, Typeface, Glean, CitiBank y Securiti AI discuten el desarrollo de aplicaciones impulsadas por IA en toda la empresa, con retornos medibles sobre la inversión para casos de uso de marketing, servicios financieros y recursos humanos.
+
+27. 
+Highmark Health y Freenome se unen a Bristol Myers Squibb para explorar cómo la IA puede mejorar la eficiencia y la innovación en la entrega de atención médica, descubrimiento de medicamentos, planificación de ensayos clínicos y llevar medicamentos al mercado.Los agentes creativos pueden ampliar su organización con las mejores habilidades de diseño y producción, trabajando en imágenes, diapositivas y explorando conceptos con trabajadores. Muchas organizaciones están construyendo agentes para sus equipos de marketing, producción de audio y video, y todos los creativos que pueden necesitar una mano. Con agentes creativos, cualquier persona puede convertirse en diseñador, artista o productor.
+
+1. Belk ECommerce está utilizando inteligencia artificial generativa para crear mejores descripciones de productos, una tarea necesaria pero que consume tiempo para las tiendas digitales que a menudo se ha realizado manualmente.
+
+2. Canva está utilizando Vertex AI para alimentar su Magic Design para Video, ayudando a los usuarios a saltarse pasos de edición tediosos mientras crean videos compartibles y atractivos en cuestión de segundos.
+
+3. Carrefour utilizó Vertex AI para desplegar Carrefour Marketing Studio en solo cinco semanas, una solución innovadora para simplificar la creación de campañas dinámicas en varias redes sociales. En solo unos pocos clics, los marketers pueden construir campañas ultra personalizadas para entregar publicidad a los clientes que les importa.
+
+4. La Liga de Béisbol Profesional continúa innovando su plataforma Statcast, para que los equipos, los emisores y los fanáticos tengan acceso a insights en vivo durante el juego.
+
+5. Paramount actualmente confía en procesos manuales para crear los metadatos y resúmenes de video esenciales utilizados en su plataforma Paramount+ para mostrar contenido y crear experiencias personalizadas para los espectadores. VertexAI Text Bison ahora está ayudando a simplificar este proceso.
+
+6. Procter & Gamble utilizó Imagen para desarrollar una plataforma de IA interna para acelerar la creación de imágenes fotorealistas y activos creativos, lo que da a los equipos de marketing más tiempo para enfocarse en la planificación de alto nivel y entregar experiencias superiores para sus consumidores.
+
+7. WPP integrará las capacidades de IA generativa de Google Cloud en su sistema operativo de marketing inteligente, llamado WPP Open, que capacita a sus personas y clientes para entregar nuevos niveles de personalización, creatividad y eficiencia. Esto incluye el uso de modelos Gemini 1.5 Pro para supercargar la precisión y velocidad de las predicciones de rendimiento de contenido.Los agentes de datos son como tener analistas y investigadores de datos conocedores a tu alcance. Pueden ayudar a responder preguntas sobre fuentes internas y externas, sintetizar investigaciones, desarrollar nuevos modelos —y, lo mejor de todo, ayudar a encontrar las preguntas que aún no hemos pensado en hacer y luego ayudar a obtener las respuestas.
+
+1.
+AI21 Labs ofrece una integración de BigQuery llamada Respuestas Contextuales que permite a los usuarios consultar datos de manera conversacional y obtener respuestas de alta calidad rápidamente.
+
+2.
+Anthropic ha asociado con Google Cloud para ofrecer su familia de modelos Claude 3 en Vertex AI —proporcionando a las organizaciones más opciones de modelos para inteligencia, velocidad, eficiencia en costos y visión para casos de uso empresarial.
+
+3.
+El Instituto Asteroid está utilizando IA para descubrir asteroides ocultos en datos astronómicos existentes. Esto es un enfoque importante para los astrónomos que investigan la evolución del Sistema Solar, inversores y empresas que esperan volar misiones a asteroides, y para todos nosotros que queremos prevenir futuros impactos de asteroides grandes en la Tierra.
+
+4.
+Contextual está trabajando con Google Cloud para ofrecer a las empresas soluciones de IA personalizables, confiables y conscientes de la privacidad, basadas en bases de conocimientos internas.
+
+5.
+Cox 2M, la división de IoT comercial de Cox Communications, puede tomar decisiones empresariales más inteligentes y rápidas utilizando análisis impulsados por IA.
+
+6.
+Essential AI, un desarrollador de soluciones de IA empresariales, está utilizando los chips aceleradores TPU v5p optimizados para IA de Google Cloud para entrenar sus propios modelos de IA.
+
+7.
+Generali Italia, el proveedor de seguros más grande de Italia, utilizó Vertex AI para construir una tubería de evaluación de modelos que ayuda a los equipos de ML a evaluar rápidamente el rendimiento y desplegar modelos.
+
+8.
+Globo, una de las redes de medios más grandes de Brasil, está utilizando Extensiones de Servicio y CDN de Medios para luchar contra la piratería durante eventos en vivo bloqueando streams piratas en tiempo real.
+
+9.
+Hugging Face está colaborando con Google en ciencia abierta, código abierto, nube y hardware para permitir que las empresas construyan su propia IA con los últimos modelos abiertos de Hugging Face y hardware y software de Google Cloud.
+
+10.
+Kakao Brain, parte de la empresa tecnológica coreana Kakao Group, ha construido un modelo de lenguaje de IA a gran escala que es el modelo de lenguaje coreano más grande del mercado, con 66 mil millones de parámetros. También han desarrollado un generador de imágenes de texto llamado Karlo.11.
+Clínica Mayo ha dado acceso a miles de sus investigadores científicos a 50 petabytes de datos clínicos a través de la búsqueda de Vertex AI, acelerando la recuperación de información en múltiples idiomas.
+
+12.
+McLaren Racing está utilizando la IA de Google para obtener información al milisegundo durante las carreras y entrenamientos para obtener una ventaja competitiva.
+
+13.
+Mercado Libre está probando BigQuery y Looker para optimizar la planificación de capacidad y reservas con transportistas y aerolíneas para entregar envíos más rápido.
+
+14.
+Mistral AI utilizará la infraestructura optimizada para IA de Google Cloud para probar, construir y escalar sus modelos de lenguaje grandes, mientras se beneficia de los estándares de seguridad y privacidad de Google Cloud.
+
+15.
+MSCI utiliza el aprendizaje automático con Vertex AI, BigQuery y Cloud Run para enriquecer sus conjuntos de datos para ayudar a nuestros clientes a obtener información sobre alrededor de 1 millón de ubicaciones de activos para ayudar a gestionar riesgos relacionados con el clima.
+
+16.
+NewsCorp está utilizando Vertex AI para buscar datos en 30,000 fuentes y 2,500 millones de artículos de noticias actualizados diariamente.
+
+17.
+Orange opera en 26 países donde los datos locales deben mantenerse en cada país. Están utilizando la IA en Google Distributed Cloud para mejorar el rendimiento de la red y entregar capacidades de traducción super-responsivas.
+
+18.
+Spotify aprovechó Dataflow para la generación a gran escala de vistas previas de podcasts de ML, y planea seguir empujando los límites de lo posible con la ingeniería de datos y la ciencia de datos para construir experiencias mejores para sus clientes y creadores.
+
+19.
+UPS está construyendo un gemelo digital de toda su red de distribución, para que tanto los trabajadores como los clientes puedan ver dónde están sus paquetes en cualquier momento.
+
+20.
+Workday está utilizando el procesamiento de lenguaje natural en Vertex Search y Conversation para hacer que las percepciones de datos sean más accesibles para usuarios técnicos y no técnicos por igual.
+
+21.
+Woven — la inversión de Toyota en el futuro de la movilidad — está asociándose con Google para aprovechar cantidades masivas de datos y IA para habilitar la conducción autónoma, respaldada por miles de cargas de trabajo de ML en el Hypercomputador de IA de Google Cloud. Esto ha resultado en un ahorro del 50% en el costo total de propiedad para apoyar la conducción automatizada.
+
+22.
+El condado de Broward, Florida, y Southern California Edison están utilizando capacidades geoespaciales y IA para mejorar la planificación de infraestructura y el monitoreo, generar nuevos conocimientos y crear resiliencia regional para comunidades que enfrentan desafíos climáticos hoy y mañana.
+
+23.
+Kinaxis y Dematic están construyendo cadenas de suministro impulsadas por datos para abordar casos de uso logísticos, incluyendo modelado de escenarios, planificación, gestión de operaciones y automatización.
+
+24.
+NOAA y USAID son entre las agencias gubernamentales de EE. UU. que utilizan la IA de Google Cloud para desbloquear información crítica para mejorar las operaciones y los resultados de la misión — todo con un enfoque en la IA responsable. Vea la sesión para aprender más.Los agentes de código están ayudando a los desarrolladores y equipos de productos a diseñar, crear y operar aplicaciones más rápido y mejor, y a aumentar la velocidad en nuevos lenguajes y bases de código. Muchas organizaciones ya están viendo ganancias de productividad de dos dígitos, lo que conduce a una implementación más rápida y a un código más limpio y claro.
+
+1. Capgemini ha estado utilizando Code Assist para mejorar la productividad de la ingeniería de software, la calidad, la seguridad y la experiencia del desarrollador, con resultados tempranos que muestran ganancias en la carga de trabajo para la codificación y una calidad de código más estable.
+
+2. Commerzbank está mejorando la eficiencia de los desarrolladores a través de las características de seguridad y cumplimiento robustas de Code Assist.
+
+3. Quantiphi vio ganancias de productividad del desarrollador de más del 30% durante su piloto de Code Assist.
+
+4. Los desarrolladores de Replit tendrán acceso a la infraestructura, servicios y modelos de fundación de Google Cloud a través de Ghostwriter, la inteligencia artificial de desarrollo de software de Replit, mientras que los desarrolladores de Google Cloud y Workspace tendrán acceso a la plataforma de edición de código colaborativa de Replit.
+
+5. El hospital Seattle Children's está utilizando inteligencia artificial para impulsar la productividad de la ingeniería de datos y acelerar el desarrollo.
+
+6. Turing está personalizando Gemini Code Assist en su base de código privada, lo que permite a sus desarrolladores sugerencias de codificación personalizadas y contextualmente relevantes que han aumentado la productividad en un 30% y han hecho que la codificación diaria sea más agradable.
+
+7. Wayfair pilotó Code Assist, y los desarrolladores con el agente de código pudieron configurar sus entornos un 55% más rápido que antes, hubo un aumento del 48% en el rendimiento del código durante las pruebas unitarias, y el 60% de los desarrolladores informó que pudieron enfocarse en trabajo más satisfactorio.Los agentes de seguridad asisten a las operaciones de seguridad al aumentar radicalmente la velocidad de las investigaciones, automatizando el monitoreo y la respuesta para una mayor vigilancia y controles de cumplimiento. También pueden ayudar a proteger los datos y modelos de ciberataques, como la inyección de comandos malintencionados.
+
+1.
+BBVA utiliza la IA en Google SecOps para detectar, investigar y responder a amenazas de seguridad con mayor precisión, velocidad y escala. La plataforma ahora muestra datos de seguridad críticos en segundos, cuando anteriormente tomaba minutos o incluso horas, y entrega respuestas altamente automatizadas.
+
+2.
+Behavox utiliza tecnología de Google Cloud y LLMs para proporcionar soluciones de cumplimiento regulatorio y oficina frontal líderes en la industria para instituciones financieras globales.
+
+3.
+Charles Schwab ha integrado su propia inteligencia en el Google SecOps impulsado por IA, para que los analistas puedan priorizar mejor el trabajo y responder a las amenazas.
+
+4.
+Los ingenieros de operaciones de seguridad de Fiserv crean detecciones y libros de jugadas con mucho menos esfuerzo, mientras que los analistas obtienen respuestas más rápidas.
+
+5.
+Grupo Boticário, una de las empresas de retail y cosméticos más grandes de Brasil, emplea modelos de seguridad en tiempo real para prevenir el fraude y detectar y responder a problemas.
+
+6.
+La plataforma de operaciones de seguridad impulsada por IA de Palo Alto Networks, Cortex XSIAM, se basa en más de una década de experiencia en modelos de aprendizaje automático y la tienda de datos más completa, rica y diversa de la industria. Apoyada por la infraestructura en la nube avanzada de Google y servicios de IA avanzados, incluyendo BigQuery y modelos Gemini, la combinación ofrece protección a escala global y en tiempo casi real en todas las ofertas de ciberseguridad.
+
+7.
+Pfizer ahora puede agregar fuentes de datos de ciberseguridad, reduciendo los tiempos de análisis de días a segundos.
+
+Para encontrar a más clientes que utilizan nuestras herramientas de IA para construir agentes y soluciones para sus proyectos empresariales más importantes, visite el centro de clientes de Google Cloud y vea el próximo '24. Publicado en IA y Aprendizaje Automático.Síguenos
+ 
+ 
+ 
+ 
+Google Cloud
+Google Cloud
+Productos
+Privacidad
+Términos
+Ayuda
+Español
+Artículos relacionados
+IA y Aprendizaje
+Automático
+Por Dan Rowinski • Lectura de 6 minutos
+IA y Aprendizaje
+Automático
+Por Kaz Sato • Lectura de 6 minutos
+IA y Aprendizaje
+Automático
+Por John Froese • Lectura de 8 minutos
+IA y Aprendizaje
+Automático
+Por Caroline Yap • Lectura de 7 minutos
+IA en la pista: Cómo McLaren Racing aprovecha terabytes de datos en cada carrera para obtener una ventaja ganadora
+Naturaleza Infinita y la naturaleza de las industrias: Esta 'salvaje' demostración muestra las diversas posibilidades de la IA
+Dividendos de la IA: Las firmas financieras quieren capitalizar la IA genérica. Aquí están los mejores lugares para empezar.
+El Prompt: Las industrias que lideran en IA genérica no son las que pensaría

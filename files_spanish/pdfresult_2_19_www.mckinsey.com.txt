@@ -1,0 +1,89 @@
+La mayoría de los usos empresariales de la IA se centrarán en dos áreas.
+
+Un examen de más de 400 casos de uso de la IA reveló las dos áreas donde la IA puede tener el mayor impacto.
+
+Marzo 2019 © Caiaimage/Getty Images por Michael Chui, Nicolaus Henke y Mehdi Miremadi.Mientras la adopción general de la inteligencia artificial (IA) 
+sigue siendo baja entre las empresas (alrededor del 20 por ciento 
+en nuestro último estudio), los ejecutivos senior saben que 
+la IA no es solo un tema de moda. Las organizaciones de 
+diversos sectores están examinando de cerca la tecnología para 
+ver qué puede hacer por sus negocios. Y deberían hacerlo, ya 
+que estimamos que el 40 por ciento de todo el valor potencial 
+que se puede crear con análisis hoy en día proviene de las 
+técnicas de IA que caen bajo la sombrilla de "aprendizaje 
+profundo" (que utilizan múltiples capas de redes neuronales 
+artificiales, llamadas así porque su estructura y función están 
+inspiradas en la del cerebro humano). En total, estimamos que 
+el aprendizaje profundo podría representar entre 3,5 billones y 
+5,8 billones de dólares en valor anual.
+
+Sin embargo, muchos líderes empresariales todavía no están 
+exactamente seguros de dónde deberían aplicar la IA para 
+obtener las recompensas más grandes. Después de todo, 
+incorporar la IA en toda la empresa requiere una inversión 
+significativa en talento y actualizaciones en la pila tecnológica, 
+así como iniciativas de cambio drástico para asegurarse de que 
+la IA genere un valor significativo, ya sea a través de la toma 
+de decisiones mejorada o aplicaciones enfocadas en el 
+consumidor.
+
+A través de un examen detallado de más de 400 casos de uso 
+reales de IA en 19 industrias y nueve funciones empresariales, 
+hemos descubierto que un antiguo adagio resulta muy útil 
+al responder a la pregunta de dónde poner la IA para trabajar: 
+"Seguir el dinero". Las áreas empresariales que tradicionalmente 
+proporcionan el mayor valor a las empresas tienden a ser las 
+áreas donde la IA puede tener el mayor impacto. En organizaciones 
+minoristas, por ejemplo, marketing y ventas suelen proporcionar 
+un valor significativo. Nuestra investigación muestra que 
+utilizar la IA en datos de clientes para personalizar promociones 
+puede llevar a un aumento del 1 al 2 por ciento en ventas 
+incrementales para los minoristas físicos solamente. En 
+manufactura avanzada, por otro lado, las operaciones suelen 
+impulsar el mayor valor. Aquí, la IA puede habilitar la 
+previsión basada en los conductores causales subyacentes de la 
+demanda en lugar de resultados previos, mejorando la precisión 
+de la previsión en un 10 al 20 por ciento. Esto se traduce en una 
+reducción potencial del 5 por ciento en costos de inventario y 
+aumentos en la revenue del 2 al 3 por ciento.
+
+Aunque las aplicaciones de la IA abarcan una gama completa de 
+áreas funcionales, es en estas dos áreas transversales - 
+gestión de la cadena de suministro/fabricación y marketing y 
+ventas - donde creemos que la IA puede tener el mayor impacto, 
+al menos por ahora, en varias industrias (exhibición). En 
+combinación, estimamos que estos casos de uso representan más 
+de dos tercios de toda la oportunidad de IA. La IA puede crear 
+de 1,4 billones a 2,6 billones de dólares en valor en marketing 
+y ventas en todo el mundo, y de 1,2 billones a 2 billones de 
+dólares en gestión de la cadena de suministro y manufactura (alguno 
+del valor se acumula en las empresas, mientras que otro se 
+captura por parte de los clientes). En manufactura, el mayor valor 
+se genera en...
+
+Un antiguo adagio resulta muy útil al responder a la pregunta 
+de dónde poner la IA para trabajar: "Seguir el dinero".
+
+2 La mayoría de los usos empresariales de la IA estarán en dos áreas.Exhibición
+
+El impacto de la inteligencia artificial es probable que sea más sustancial en marketing y ventas, así como en la gestión de la cadena de suministro y manufactura, según nuestros casos de uso.
+
+Por análisis avanzados Por inteligencia artificial
+Riesgo Otras operaciones Estrategia y
+finanzas corporativas
+Servicios operativosDesarrollo de productosFinanzas y ITHRMarketing y ventas3,3-6,09,5-15,43,5-5,83,6-5,61,4-2,60,60,30,20,10,30,20,10,50,9-0,91,2-2,0
+Gestión de la cadena de suministro y manufactura
+0,20,2-0,40,9-1,3
+
+Nota: Las cifras pueden no sumar el 100% debido al redondeo.
+Fuente: Análisis del Instituto Global McKinsey
+
+3 La mayoría de los usos empresariales de la IA se encontrarán en dos áreasEl uso de la IA puede generar $0,5 billones a $0,7 billones en mantenimiento predictivo en empresas de todo el mundo. La capacidad de la IA para procesar grandes cantidades de datos, incluyendo audio y video, significa que puede identificar rápidamente anomalías para prevenir fallos, ya sea un sonido extraño en un motor de avión o una falla en una línea de ensamblaje detectada por un sensor.
+
+Otra forma en que los líderes empresariales pueden enfocarse en dónde aplicar la IA es simplemente mirar las funciones que ya están aprovechando técnicas de análisis tradicionales. Encontramos que el mayor potencial para que la IA cree valor es en casos de uso donde las técnicas de redes neuronales podrían proporcionar un rendimiento superior a las técnicas analíticas establecidas o generar insights y aplicaciones adicionales. Esto es cierto para el 69% de los casos de uso de IA identificados en nuestro estudio. Solo en el 16% de los casos de uso encontramos una solución de IA "verde" que fuera aplicable donde otros métodos de análisis no serían efectivos. (Aunque el número de casos de uso para el aprendizaje profundo aumentará rápidamente a medida que los algoritmos se vuelvan más versátiles y el tipo y volumen de datos necesarios para hacerlos viables se vuelvan más disponibles, el porcentaje de casos de uso de aprendizaje profundo "verde" puede no aumentar significativamente, porque las técnicas de aprendizaje automático establecidas también tienen espacio para mejorar y volverse más ubicuas).
+
+No queremos parecer entusiastas ingenuos. Aunque vemos el potencial económico en el uso de técnicas de IA, reconocemos los obstáculos tangibles y limitaciones para implementar la IA. Obtener conjuntos de datos lo suficientemente grandes y exhaustivos para alimentar el voraz apetito de datos de entrenamiento del aprendizaje profundo es un desafío importante. También lo es abordar las crecientes inquietudes sobre el uso de tales datos, incluyendo la seguridad, la privacidad y el potencial de transmitir sesgos humanos a los algoritmos de IA. En algunos sectores, como la atención médica y los seguros, las empresas también deben encontrar formas de hacer que los resultados sean explicables a los reguladores en términos humanos: ¿por qué la máquina llegó a esta respuesta? La buena noticia es que las tecnologías en sí mismas están avanzando y comenzando a abordar algunas de estas limitaciones.
+
+Más allá de estas limitaciones, hay desafíos organizativos más difíciles que las empresas enfrentan al adoptar la IA. Dominar la tecnología requiere nuevos niveles de expertise, y los procesos pueden convertirse en un obstáculo importante para la adopción exitosa. Las empresas deberán desarrollar procesos robustos de mantenimiento y gobernanza de datos y enfocarse en ambos, el "primer kilómetro", cómo adquirir y organizar esfuerzos de datos, y el mucho más difícil "último kilómetro", cómo integrar la salida de los modelos de IA en flujos de trabajo, que van desde los de los gerentes de ensayos clínicos y gerentes de fuerza de ventas hasta los oficiales de compras.
+
+Aunque las empresas deben permanecer vigilantes y responsables al implementar la IA, el alcance y el impacto beneficioso de la tecnología en las empresas, los consumidores y la sociedad hacen que valga la pena investigar oportunidades de IA. La búsqueda no es un prospecto simple, pero puede iniciarse evocando un concepto simple: seguir el dinero.
