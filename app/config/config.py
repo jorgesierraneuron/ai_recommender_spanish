@@ -44,4 +44,4 @@ class embeding_config(Enum):
     QDRANT_API_KEY = os.environ["QDRANT_API_KEY"]
     QDRANT_URL = os.environ.get("QDRANT_URL")
     MODEL = 'text-embedding-3-small'
-    COLLECTION = 'ai_recommender_knowledge'
+    COLLECTION = 'ai_recommender_knowledge_spanish'

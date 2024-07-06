@@ -35,15 +35,15 @@ def load_data(book_load: books_load, dataset_name: str, collection_name: str):
 def main():
 
    # Create database 
-    sofia_database = qdrant_manager(embeding_config.QDRANT_URL.value,embeding_config.QDRANT_API_KEY.value)
-    create_colection(sofia_database,'ai_recommender_knowledge',1536)
+    #se = qdrant_manager(embeding_config.QDRANT_URL.value,embeding_config.QDRANT_API_KEY.value)
+    #create_colection(sofia_database,'ai_recommender_knowledge_spanish',1536)
 
 #    Load data 
-    for file_path in files_paths('files'):
+    for file_path in files_paths('files_spanish', extension='txt'):
         try:
             print(f'Processing: {file_path}')
             load = books_load(file_path,300,50,f'{file_path}', 'Neuron Studios', embeding_config.OPENAI_KEY.value)    
-            status = load_data(load,'neuron_studios_internal_resources','ai_recommender_knowledge')
+            status = load_data(load,'neuron_studios_internal_resources','ai_recommender_knowledge_spanish')
             yield status
         except Exception as e:
             yield f"Error al cargar datos desde el archivo {file_path}: {str(e)}"

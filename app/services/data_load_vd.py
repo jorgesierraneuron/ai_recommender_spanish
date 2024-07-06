@@ -3,7 +3,7 @@ import uuid
 import openai
 from .qdrant_manager import qdrant_manager
 from app.config.config import embeding_config
-from langchain_community.document_loaders import PyPDFLoader
+from langchain_community.document_loaders import PyPDFLoader, TextLoader
 #from langchain.document_loaders import TextLoader, PyPDFLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.text_splitter import RecursiveCharacterTextSplitter
@@ -36,13 +36,13 @@ class books_load():
         )
         return len(tokens)
 
-    # def textLoader(self,path):
-    #     """
-    #     Load data from TXT file 
-    #     """
-    #     loader = TextLoader(path)
-    #     data = loader.load()
-    #     return data[0].page_content
+    def textLoader(self,path):
+        """
+        Load data from TXT file 
+        """
+        loader = TextLoader(path)
+        data = loader.load()
+        return data[0].page_content
 
 
     def pdfLoader(self,path):
@@ -91,17 +91,17 @@ class books_load():
         
         documents = []
         file_source = f"{self.file_source}"
-        data = self.pdfLoader(file_source)
+        data = self.textLoader(file_source)
       
-        for doc in data: 
-            chunks = self.chunkSplitter(self.chunk_size,self.overlap,doc.page_content)
-            for i,chunk in enumerate(chunks):
+        #for doc in data: 
+        chunks = self.chunkSplitter(self.chunk_size,self.overlap,data)
+        for i,chunk in enumerate(chunks):
                 documents.append({
-                                    "id": self.hashsingId(doc,i),
+                                    "id": i,
                                     "text": chunk.replace('\n',' '),
                                     "fuente": self.fuente,
                                     "Autor": self.autor,
-                                    "pagina": (int(doc.metadata['page']) + 1)
+                                    "pagina": i
                                 })
         output_path = self.saveDataset(documents,dataset_name)
         return {

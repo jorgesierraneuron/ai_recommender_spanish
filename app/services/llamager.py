@@ -17,7 +17,7 @@ class LLamager:
     
     qdrant = qdrant_manager(embeding_config.QDRANT_URL.value,embeding_config.QDRANT_API_KEY.value)
     History = history()
-    History.select_collection('ai_recommender','chats')
+    History.select_collection('ai_recommender','chats_spanish')
     rag_qdrant = QdrantRag(qdrant)
     
     def __init__(self,) -> None:
