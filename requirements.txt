@@ -14,3 +14,4 @@ gunicorn
 markupsafe
 fpdf
 Quart
+uvicorn
