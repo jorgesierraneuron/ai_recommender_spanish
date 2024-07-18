@@ -7,10 +7,10 @@ from app.config.config import embeding_config
 import time
 from openai import OpenAI
 from dotenv import load_dotenv
-from groq import (
-    Groq,
-    AsyncGroq
-)
+# from groq import (
+#     Groq,
+#     AsyncGroq
+# )
 
 load_dotenv()
 
@@ -42,9 +42,7 @@ class LLamager:
         
         user_message = messages['content']
         context = self.rag_qdrant.search(user_message, self.rag_model,self.collection_name)
-        #print(context)
         interaction_final = PromptFormatter.format_prompt(interaction, textFormat(), context)
-        print(interaction_final)
         return interaction_final
 
     @staticmethod
@@ -167,25 +165,25 @@ class LLamager:
         return chat_completion
 
 
-class AsyncLLamager(LLamager):
-    def __init__(self, option: str) -> None:
-        super().__init__(option= option)
-        self.client = AsyncGroq()
+# class AsyncLLamager(LLamager):
+#     def __init__(self, option: str) -> None:
+#         super().__init__(option= option)
+#         self.client = AsyncGroq()
 
-    async def conversation_handler(self, text: str, role: str, validator: bool):
-        return super().conversation_handler(text, role, validator)
+#     async def conversation_handler(self, text: str, role: str, validator: bool):
+#         return super().conversation_handler(text, role, validator)
 
-    async def process(self, text: str, role: str, validator: bool):
-        await self.conversation_handler(text, role, validator)
+#     async def process(self, text: str, role: str, validator: bool):
+#         await self.conversation_handler(text, role, validator)
 
-        completion = await self.client.chat.completions.create(
-            messages=self.validator_messages if validator else self.messages,
-            model=self.validator_model if validator else self.model,
-            temperature=0.5,
-            max_tokens=1024,
-            top_p=1,
-            stop=None,
-            stream=True,
-        )
+#         completion = await self.client.chat.completions.create(
+#             messages=self.validator_messages if validator else self.messages,
+#             model=self.validator_model if validator else self.model,
+#             temperature=0.5,
+#             max_tokens=1024,
+#             top_p=1,
+#             stop=None,
+#             stream=True,
+#         )
 
-        return completion
+#         return completion
