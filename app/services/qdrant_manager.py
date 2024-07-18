@@ -93,7 +93,7 @@ class qdrant_manager():
         a = self.qdrant_client.search(
         collection_name=collection,
         query_vector=vector,
-        limit=3,
+        limit=2,
         )
         return a
 

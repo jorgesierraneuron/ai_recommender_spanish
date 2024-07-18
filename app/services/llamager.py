@@ -1,9 +1,11 @@
+import tiktoken
 import yaml
 from app.services.history import history
 from app.services.AbstractClasses.abstractClasses import QdrantRag, PromptFormatter, textFormat
 from app.services.qdrant_manager import qdrant_manager
 from app.config.config import embeding_config
 import time
+from openai import OpenAI
 from dotenv import load_dotenv
 from groq import (
     Groq,
@@ -21,7 +23,8 @@ class LLamager:
     rag_qdrant = QdrantRag(qdrant)
     
     def __init__(self,) -> None:
-        self.model = 'llama3-70b-8192'
+        #self.model = 'llama3-70b-8192'
+        self.model = 'gpt-4o-mini'
         self.rag_model = embeding_config.MODEL.value
         self.collection_name = embeding_config.COLLECTION.value
         self.validator_model = 'llama3-8b-8192'
@@ -29,7 +32,8 @@ class LLamager:
         self.max_tokens = 1024,
         self.stop = None,
         self.stream = False,
-        self.client = Groq()
+        #self.client = Groq()
+        self.client = OpenAI(api_key=embeding_config.OPENAI_KEY.value)
         #self.messages = self.get_system_prompt("system_prompt")
 
     
@@ -38,7 +42,7 @@ class LLamager:
         
         user_message = messages['content']
         context = self.rag_qdrant.search(user_message, self.rag_model,self.collection_name)
-        
+        #print(context)
         interaction_final = PromptFormatter.format_prompt(interaction, textFormat(), context)
         print(interaction_final)
         return interaction_final
@@ -82,6 +86,18 @@ class LLamager:
     #             raise ValueError("Invalid role")
 
     @staticmethod
+    def __count_tokens(text, model='gpt-3.5-turbo'): 
+        # Cargar el codificador compatible con el modelo
+        enc = tiktoken.encoding_for_model(model)
+    
+        # Codificar el texto para obtener los tokens
+        tokens = enc.encode(text)
+        
+        # Contar y retornar el número de tokens
+        return len(tokens)
+
+
+    @staticmethod
     def __save_new_message_history(history_object: history, chat_id, interaction, history_data):
         history_object.save_new_message({'chat_id': chat_id,'interaction': interaction, 'history': history_data}, chat_id)
     
@@ -101,12 +117,12 @@ class LLamager:
                     history = interaction['history']
                     interaction = interaction['interaction']
                     interaction[0] = self.get_system_prompt()[0]
-                    #print(interaction)
+                    
                     interaction = self.__rag(interaction, messages)
                     interaction.append(messages)
                     
                     history.append(messages)
-                    if len(interaction) > 8:
+                    if len(interaction) > 4:
                         interaction.pop(1)
                         interaction.pop(2)
                     #self.History.save_new_message({'chat_id': chat_id,'interaction': interaction, 'history': history}, chat_id)
@@ -128,12 +144,14 @@ class LLamager:
     def process(self, text: str, role: str, chat_id: str, profile_name: str):
         
         interaction = self.conversation_handler(text, role, chat_id, profile_name)
-
+        
+        tokens = sum([self.__count_tokens(interaction_value['content']) for interaction_value in interaction])
+        print(f'Numero de tokens de la llamada: {tokens}')
         start_time = time.time()
         completion = self.client.chat.completions.create(
             messages=interaction,
             model=self.model,
-            temperature=0.5,
+            temperature=0.2,
             max_tokens=1024,
             top_p=1,
             stop=None,

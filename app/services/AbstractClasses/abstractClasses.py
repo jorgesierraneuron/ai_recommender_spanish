@@ -13,13 +13,13 @@ class QdrantRag(Irag):
         self.qdrant = qdrant_manager
 
     @staticmethod
-    def create_embedding(text, model, openai_key):
-        return create_embbedings(text, model, openai_key)
+    def create_embedding(text, model):
+        return create_embbedings(text, model)
     
     
     def search(self, text, model, collection) -> list:
         
-        vector = self.create_embedding(text,model,embeding_config.OPENAI_KEY.value)
+        vector = self.create_embedding(text,model)
         response = self.qdrant.search(vector, collection)
 
         i = 1

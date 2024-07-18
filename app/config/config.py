@@ -27,6 +27,12 @@ def configure_logging():
     )
 
 
+class WhatsAppCredentials(Enum):
+    access_token = os.environ['ACCESS_TOKEN']
+    version = os.environ['VERSION']
+    phone_number_id = os.environ['PHONE_NUMBER_ID']
+    
+
 class MongoConfig(Enum):
 
     # # for deployment 

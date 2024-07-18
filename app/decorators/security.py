@@ -1,5 +1,6 @@
 from functools import wraps
-from flask import current_app, jsonify, request
+#from flask import current_app, jsonify, request
+from quart import request, current_app, jsonify
 import logging
 import hashlib
 import hmac
@@ -28,13 +29,17 @@ def signature_required(f):
     """
 
     @wraps(f)
-    def decorated_function(*args, **kwargs):
+    async def decorated_function(*args, **kwargs):
         signature = request.headers.get("X-Hub-Signature-256", "")[
             7:
         ]  # Removing 'sha256='
-        if not validate_signature(request.data.decode("utf-8"), signature):
+
+        data = await request.data
+        if not validate_signature(data.decode("utf-8"), signature):
             logging.info("Signature verification failed!")
             return jsonify({"status": "error", "message": "Invalid signature"}), 403
-        return f(*args, **kwargs)
+        return await f(*args, **kwargs)
 
     return decorated_function
+
+

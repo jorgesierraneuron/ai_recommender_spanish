@@ -1,15 +1,17 @@
-import openai
+from openai import OpenAI
 import re
 import os 
 import glob
+from app.config.config import embeding_config
 
-def create_embbedings(text, model, openai_key):
+client = OpenAI(api_key=embeding_config.OPENAI_KEY.value)
+
+def create_embbedings(text, model):
         """
         Create embeddings based on a text
         """
-        openai.api_key = openai_key
         embed_model = model
-        response = openai.Embedding.create(input=text, engine=embed_model)
+        response = client.embeddings.create(input=text,model=embed_model)
         return response.data[0].embedding
 
 
